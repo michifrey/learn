@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 300" font-family="Helvetica, Arial, sans-serif" font-size="17">
+<rect width="360" height="300" fill="#fff"/>
+<path d="M60 250 L300 250 L180 90 Z" fill="none" stroke="#333" stroke-width="3"/>
+<path d="M180 90 V250" stroke="#1f9d55" stroke-width="3" stroke-dasharray="8 5"/>
+<path d="M180 234 h16 v16" fill="none" stroke="#333" stroke-width="1.8"/>
+<text x="112" y="272" fill="#2f6fdf" font-weight="700">3 cm</text><text x="214" y="272" fill="#2f6fdf" font-weight="700">3 cm</text>
+<text x="90" y="160" fill="#d64545" font-weight="700">5 cm</text><text x="238" y="160" fill="#d64545" font-weight="700">5 cm</text>
+<text x="188" y="176" fill="#1f9d55" font-weight="700">h</text>
+<text x="140" y="294" font-size="15" fill="#666">Basis 6 cm</text>
+</svg>

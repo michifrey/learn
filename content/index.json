@@ -1,0 +1,144 @@
+{
+  "repo": "michifrey/learn",
+  "stufenAbKlasse": 7,
+  "stufen": [
+    {
+      "id": "bez",
+      "short": "Bez",
+      "label": "Bezirksschule"
+    },
+    {
+      "id": "sek",
+      "short": "Sek",
+      "label": "Sekundarschule"
+    },
+    {
+      "id": "real",
+      "short": "Real",
+      "label": "Realschule"
+    }
+  ],
+  "faecher": [
+    {
+      "id": "mathe",
+      "label": "Mathematik",
+      "hue": 220,
+      "klassen": [
+        1,
+        9
+      ]
+    },
+    {
+      "id": "deutsch",
+      "label": "Deutsch",
+      "hue": 0,
+      "klassen": [
+        1,
+        9
+      ]
+    },
+    {
+      "id": "nmg",
+      "label": "Natur, Mensch, Gesellschaft",
+      "hue": 160,
+      "klassen": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": "englisch",
+      "label": "Englisch",
+      "hue": 260,
+      "klassen": [
+        3,
+        9
+      ]
+    },
+    {
+      "id": "franz",
+      "label": "Französisch",
+      "hue": 300,
+      "klassen": [
+        5,
+        9
+      ]
+    },
+    {
+      "id": "bio",
+      "label": "Biologie / Natur und Technik",
+      "hue": 140,
+      "klassen": [
+        7,
+        9
+      ]
+    },
+    {
+      "id": "rzg",
+      "label": "Räume, Zeiten, Gesellschaften",
+      "hue": 30,
+      "klassen": [
+        7,
+        9
+      ]
+    },
+    {
+      "id": "wah",
+      "label": "Wirtschaft, Arbeit, Haushalt",
+      "hue": 45,
+      "klassen": [
+        7,
+        9
+      ]
+    },
+    {
+      "id": "erg",
+      "label": "Ethik, Religionen, Gemeinschaft",
+      "hue": 340,
+      "klassen": [
+        7,
+        9
+      ]
+    },
+    {
+      "id": "mi",
+      "label": "Medien und Informatik",
+      "hue": 190,
+      "klassen": [
+        5,
+        9
+      ]
+    }
+  ],
+  "themen": [
+    {
+      "id": "mathe-pythagoras",
+      "fach": "mathe",
+      "klasse": 8,
+      "stufen": [],
+      "titel": "Satz des Pythagoras",
+      "untertitel": "Pythagoras und Thales – verstehen, skizzieren, rechnen",
+      "datei": "themen/mathe-pythagoras.json",
+      "angebot": [
+        "12 Kapitel",
+        "37 Übungen",
+        "2 Prüfungen"
+      ]
+    },
+    {
+      "id": "bio-wachstum-pflanzen",
+      "fach": "bio",
+      "klasse": 8,
+      "stufen": [],
+      "kapitel": "Kapitel 8",
+      "titel": "Wachstum von Pflanzen",
+      "untertitel": "Zellen, Osmose, Fotosynthese, Zellatmung und Wassertransport",
+      "datei": "themen/bio-wachstum-pflanzen.json",
+      "angebot": [
+        "10 Kapitel",
+        "41 Übungen",
+        "1 Prüfung"
+      ]
+    }
+  ]
+}

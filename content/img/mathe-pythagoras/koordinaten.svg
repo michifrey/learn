@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<rect width="400" height="400" fill="#fff"/>
+<g stroke="#e3e6ee"><path d="M76 36 V360"/><path d="M40 324 H364"/>
+<path d="M112 36 V360"/><path d="M40 288 H364"/>
+<path d="M148 36 V360"/><path d="M40 252 H364"/>
+<path d="M184 36 V360"/><path d="M40 216 H364"/>
+<path d="M220 36 V360"/><path d="M40 180 H364"/>
+<path d="M256 36 V360"/><path d="M40 144 H364"/>
+<path d="M292 36 V360"/><path d="M40 108 H364"/>
+<path d="M328 36 V360"/><path d="M40 72 H364"/>
+<path d="M364 36 V360"/><path d="M40 36 H364"/></g>
+<path d="M40 360 H372 M40 360 V28" stroke="#333" stroke-width="2"/>
+<text x="72" y="378" fill="#666">1</text><text x="24" y="329" fill="#666">1</text>
+<text x="108" y="378" fill="#666">2</text><text x="24" y="293" fill="#666">2</text>
+<text x="144" y="378" fill="#666">3</text><text x="24" y="257" fill="#666">3</text>
+<text x="180" y="378" fill="#666">4</text><text x="24" y="221" fill="#666">4</text>
+<text x="216" y="378" fill="#666">5</text><text x="24" y="185" fill="#666">5</text>
+<text x="252" y="378" fill="#666">6</text><text x="24" y="149" fill="#666">6</text>
+<text x="288" y="378" fill="#666">7</text><text x="24" y="113" fill="#666">7</text>
+<text x="324" y="378" fill="#666">8</text><text x="24" y="77" fill="#666">8</text>
+<text x="360" y="378" fill="#666">9</text><text x="24" y="41" fill="#666">9</text>
+<text x="376" y="378">x</text><text x="30" y="24">y</text>
+<path d="M112 144 H292 V72" fill="none" stroke="#2f6fdf" stroke-width="3" stroke-dasharray="8 5"/>
+<path d="M112 144 L292 72" stroke="#d64545" stroke-width="4"/>
+<circle cx="112" cy="144" r="5" fill="#333"/><circle cx="292" cy="72" r="5" fill="#333"/>
+<text x="86" y="138" font-weight="700" font-size="17">A(2/6)</text><text x="270" y="58" font-weight="700" font-size="17">B(7/8)</text>
+<text x="180" y="166" fill="#2f6fdf" font-weight="700" font-size="16">Δx = 5</text>
+<text x="300" y="114" fill="#2f6fdf" font-weight="700" font-size="16">Δy = 2</text>
+</svg>

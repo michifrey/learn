@@ -1,0 +1,288 @@
+{
+  "quellen": [
+    { "titel": "Lernziele Kapitel 8 – Lernspick", "art": "Lernziele mit Kurzantworten (A4)", "seiten": 1, "datei": "material/klasse-8/bio/wachstum-pflanzen/Bio_Lernspick_1zu1_nach_Lernzielen_A4.pdf" },
+    { "titel": "Übungsblätter Pflanzen", "art": "8 Arbeitsblätter mit Lösungen", "seiten": 10, "datei": "material/klasse-8/bio/wachstum-pflanzen/Uebungsblaetter_Pflanzen_Schulbuchstil.pdf" },
+    { "titel": "Testprüfung Kapitel 8", "art": "Testprüfung zu den 14 Lernzielen", "seiten": 3, "datei": "material/klasse-8/bio/wachstum-pflanzen/Bio_Testpruefung_14_Lernziele_3_Seiten.pdf" }
+  ],
+
+  "lernziele": [
+    { "id": "1", "nr": "1", "gruppe": "Pflanzenzellen und Tierzellen", "kurz": "Zellmodelle und Zellorganellen", "frage": "Welche Zellorganellen haben Pflanzen- und Tierzellen – und welche Funktion haben sie?", "text": "Ich kann Modelle von pflanzlichen und tierischen Zellen zeichnen, mit Fachbegriffen beschriften und die Funktionen aller Zellorganellen erklären.", "antwort": "**Beide:** Zellmembran (Abgrenzung, Stoffaustausch), Zellplasma (Reaktionen), Zellkern mit DNA (Erbinformation, Steuerung), Mitochondrien (Zellatmung), ER (Herstellung/Transport), Ribosomen (Proteine).\n**Nur Pflanze:** Zellwand aus Cellulose (Halt/Schutz), Vakuole (Wasser-/Stoffspeicher, Turgor), Chloroplasten (Fotosynthese). Wurzelzellen meist ohne Chloroplasten." },
+    { "id": "2", "nr": "2", "gruppe": "Pflanzenzellen und Tierzellen", "kurz": "Zelle – Gewebe – Organ", "frage": "Erkläre die Organisationsebenen Zelle – Gewebe – Organ mit je einem Beispiel aus Pflanze und Tier.", "text": "Ich kann die verschiedenen Organisationsebenen vielzelliger Lebewesen (Zelle - Gewebe - Organ) an je einem Beispiel zu Pflanzen und Tieren beschreiben und vorgegebene Beispiele passend einordnen.", "antwort": "Zelle → Gewebe → Organ → Organismus. **Gewebe:** Gruppe gleich spezialisierter Zellen. **Organ:** aus mehreren Geweben.\nPflanze: Palisadenzelle → Palisadengewebe → Blatt → Bohnenpflanze.\nTier: Muskelzelle → Muskelgewebe → Herz → Mensch." },
+    { "id": "3", "nr": "3", "gruppe": "Pflanzenzellen und Tierzellen", "kurz": "Diffusion und Osmose", "frage": "Was ist der Unterschied zwischen Diffusion und Osmose? Nenne Beispiele.", "text": "Ich kann Diffusion und Osmose mit Skizzen erklären und passende Beispiele aufzeigen.", "antwort": "**Diffusion:** zufällige Teilchenbewegung; netto von hoher zu niedriger Konzentration (Zucker verteilt sich im Wasser).\n**Osmose:** Wasser wandert durch eine selektiv durchlässige Membran zur Seite mit mehr gelöstem, nicht passierbarem Stoff.\nSalzsalat: Wasser raus, Turgor sinkt → schlaff. Kirsche im Regen: Wasser rein → kann platzen." },
+    { "id": "4", "nr": "4", "gruppe": "Pflanzenzellen und Tierzellen", "kurz": "Laubblattquerschnitt", "frage": "Nenne die Schichten eines Laubblattquerschnitts von oben nach unten und ihre Funktion.", "text": "Ich kann die Zellen in einem Laubblattquerschnitt beschriften sowie die Gewebe und Funktionen erklären.", "antwort": "Kutikula: Verdunstungsschutz. Obere/untere Epidermis: Schutz, oben lichtdurchlässig. **Palisadengewebe:** viele Chloroplasten, Fotosynthese. **Schwammgewebe:** Lufträume, Gasaustausch. Leitbündel: Wasser/Zucker transportieren. Schliesszellen: regeln die Spaltöffnungen (CO₂ rein, O₂ und Wasserdampf raus).", "bild": "content/img/bio-pflanzen/blattquerschnitt.jpg" },
+    { "id": "5", "nr": "5", "gruppe": "Mikroskopieren", "kurz": "Präparate beobachten und einordnen", "frage": "Woran erkennst du im Mikroskop Wasserpest, Zwiebelhaut und Mundschleimhaut?", "text": "Ich kann Zellen von Pflanzen und Tieren in mikroskopischen Präparaten beobachten und einordnen.", "antwort": "**Wasserpest:** Zellwände + grüne Chloroplasten. **Zwiebelhaut:** Zellwände, meist keine Chloroplasten. **Mundschleimhaut:** unregelmässige Form, keine Zellwand; Kern ggf. gefärbt sichtbar." },
+    { "id": "6", "nr": "6", "gruppe": "Mikroskopieren", "kurz": "Wissenschaftlich zeichnen", "frage": "Welche Regeln gelten für eine wissenschaftliche Zeichnung?", "text": "Ich kann aufgrund von Beobachtungen mit dem Mikroskop Zellen von Pflanzen und Tieren mit wissenschaftlichen Zeichnungen dokumentieren.", "antwort": "Gross mit Bleistift; klare Linien, nicht schraffieren, nur Sichtbares zeichnen. Gerade Beschriftungslinien. Titel, Präparat, Datum, Vergrösserung (Okular × Objektiv, z. B. 10 × 40 = 400-fach). ER und Ribosomen sind im Schulmikroskop nicht einzeln sichtbar." },
+    { "id": "7", "nr": "7", "gruppe": "Fotosynthese und Zellatmung", "kurz": "Fotosynthese und Chloroplast", "frage": "Wie stellen Pflanzen Traubenzucker her und wie ist ein Chloroplast aufgebaut?", "text": "Ich kann beschreiben, wie Pflanzen Traubenzucker herstellen und zur Energiegewinnung nutzen, sowie den Ort der Photosynthese und seine Bestandteile beschriften und erklären (Simulation).", "antwort": "Im **Chloroplasten** entsteht mit Licht aus CO₂ und Wasser Glukose + O₂. Glukose liefert durch Zellatmung nutzbare Energie.\nDoppelmembran: Hülle. Stroma: Grundsubstanz, Zuckeraufbau. Thylakoide: Membransäckchen mit lichtaufnehmendem **Chlorophyll**. Granum: Thylakoidstapel.", "bild": "content/img/bio-pflanzen/chloroplast.jpg" },
+    { "id": "8", "nr": "8", "gruppe": "Fotosynthese und Zellatmung", "kurz": "Energieumwandlung", "frage": "Inwiefern sind Fotosynthese und Zellatmung Energieumwandlungen?", "text": "Ich kann beschreiben, inwiefern es sich bei der Fotosynthese und der Zellatmung um eine Energieumwandlung handelt.", "antwort": "**Fotosynthese:** Lichtenergie → chemische Energie in Glukose.\n**Zellatmung:** chemische Energie → nutzbare Energie (ATP) + Wärme.\nEnergie wird nicht erzeugt, sondern umgewandelt." },
+    { "id": "9", "nr": "9", "gruppe": "Fotosynthese und Zellatmung", "kurz": "Energie bei Tieren, Pflanzen autotroph", "frage": "Wie gewinnen Tiere Energie und warum sind Pflanzen autotroph?", "text": "Ich kann beschreiben, wie Tiere Energie für ihre Lebensprozesse gewinnen und warum Pflanzen autotroph sind.", "antwort": "**Tiere:** Nährstoffe aus der Nahrung; Glukose + O₂ werden v. a. in den Mitochondrien abgebaut → Energie.\n**Autotroph:** Pflanzen bauen ihre eigenen organischen Stoffe aus CO₂ und Wasser auf (mit Lichtenergie)." },
+    { "id": "10", "nr": "10", "gruppe": "Fotosynthese und Zellatmung", "kurz": "Stoffkreislauf mit Formeln", "frage": "Schreibe Fotosynthese und Zellatmung mit chemischen Formeln auf.", "text": "Ich kann die Fotosynthese und die Zellatmung als Stoffkreislauf darstellen (mit chemischen Formeln).", "antwort": "**Fotosynthese** (Licht): 6 CO₂ + 6 H₂O → C₆H₁₂O₆ + 6 O₂\n**Zellatmung** (Energie wird nutzbar): C₆H₁₂O₆ + 6 O₂ → 6 CO₂ + 6 H₂O\nDie Produkte des einen Vorgangs sind die Ausgangsstoffe des anderen. Pflanzen betreiben Zellatmung Tag und Nacht.", "bild": "content/img/bio-pflanzen/kreislauf.jpg" },
+    { "id": "11", "nr": "11", "gruppe": "Fotosynthese und Zellatmung", "kurz": "Was wird aus Glukose?", "frage": "Wie wird Glukose in der Pflanze weiterverarbeitet?", "text": "Ich kann erklären, wie Glukose in einer Pflanze weiterverarbeitet wird.", "antwort": "Zellatmung → Energie. Stärke → Vorrat. Cellulose → Zellwände. Saccharose → Transportzucker im Phloem. Stärke kann bei Bedarf wieder zu Zucker abgebaut werden." },
+    { "id": "12", "nr": "12", "gruppe": "Fotosynthese und Zellatmung", "kurz": "Warum Fotosynthese lebenswichtig ist", "frage": "Warum ist Fotosynthese für Mensch und Tier lebensnotwendig?", "text": "Ich kann an Beispielen aufzeigen, warum die Photosynthese für das Überleben notwendig ist und wie Glukose für die Ernährung von Mensch und Tier wichtig ist.", "antwort": "Sie liefert **energiereiche Nahrung** und **Sauerstoff** für die Zellatmung. Pflanzenfresser nehmen Pflanzenstoffe auf; Fleischfresser erhalten die Energie über ihre Beute: Gras → Kaninchen → Fuchs. Auch Brot und Kartoffeln enthalten gespeicherte Energie aus der Fotosynthese." },
+    { "id": "13", "nr": "13", "gruppe": "Fotosynthese und Zellatmung", "kurz": "Stoffkreislauf und Energiefluss", "frage": "Beschreibe den Kohlenstoffkreislauf. Kreist Energie auch?", "text": "Ich kann die Photosynthese und Zellatmung in Bezug zu Stoffkreisläufen setzen.", "antwort": "**Kohlenstoffkreislauf:** Fotosynthese bindet CO₂ in organischen Stoffen; Zellatmung von Pflanzen, Tieren und Zersetzern setzt CO₂ wieder frei. **Stoffe kreisen, Energie fliesst:** Sonnenlicht → chemische Energie → schliesslich Wärme." },
+    { "id": "14", "nr": "14", "gruppe": "Fotosynthese und Zellatmung", "kurz": "Wassertransport", "frage": "Wie gelangt Wasser vom Boden bis in die Luft? Was passiert bei Trockenheit?", "text": "Ich kann den Wassertransport in der Pflanze erläutern.", "antwort": "Boden → Wurzelhaare (Osmose) → Xylem → Blatt → Luft. Xylem: Wasser + Mineralstoffe. Verdunstung erzeugt den **Transpirationszug**. Wasserdampf entweicht durch die Spaltöffnungen. Bei Trockenheit schliessen sie: weniger Wasserverlust, aber auch weniger CO₂-Aufnahme.", "bild": "content/img/bio-pflanzen/wassertransport.jpg" }
+  ],
+
+  "lernen": [
+    {
+      "id": "zellen", "titel": "Pflanzenzelle und Tierzelle", "lernziele": ["1"],
+      "intro": "Alle Lebewesen bestehen aus Zellen. Pflanzen- und Tierzellen haben vieles gemeinsam – aber Pflanzenzellen haben drei typische Extras.",
+      "bloecke": [
+        { "t": "spalten", "spalten": [
+          [{ "t": "bild", "src": "content/img/bio-pflanzen/pflanzenzelle.jpg", "alt": "Pflanzenzelle mit nummerierten Bestandteilen 1 bis 9", "caption": "Pflanzenzelle" }],
+          [{ "t": "bild", "src": "content/img/bio-pflanzen/tierzelle.jpg", "alt": "Tierzelle mit nummerierten Bestandteilen 1 bis 6", "caption": "Tierzelle" }]
+        ] },
+        { "t": "tabelle", "kopf": ["Nr. (Pflanzenzelle)", "Bestandteil", "Funktion", "Tierzelle?"], "zeilen": [
+          ["1", "**Zellwand** (Cellulose)", "Form, Schutz und Halt", "✗"],
+          ["2", "Zellmembran", "Abgrenzung und geregelter Stoffaustausch", "✓"],
+          ["3", "Zellplasma", "Grundsubstanz; viele Stoffwechselreaktionen", "✓"],
+          ["4", "Zellkern mit DNA", "Erbinformation; Steuerung vieler Zellvorgänge", "✓"],
+          ["5", "**Vakuole**", "Speicherung; Wasserhaushalt und Turgor", "✗ (keine grosse Zentralvakuole)"],
+          ["6", "**Chloroplast**", "Fotosynthese", "✗"],
+          ["7", "Mitochondrium", "Zellatmung; Energie nutzbar machen", "✓"],
+          ["8", "ER (Endoplasmatisches Retikulum)", "Herstellung und Transport von Stoffen", "✓"],
+          ["9", "Ribosomen", "Proteine herstellen", "✓"]
+        ] },
+        { "t": "merke", "titel": "Typisch Pflanze", "text": "**Zellwand, Vakuole und Chloroplasten** fehlen der Tierzelle. Achtung: Chloroplasten gibt es nur in grünen Pflanzenteilen – Wurzelzellen haben meist keine." },
+        { "t": "p", "text": "Tierzelle (rechts): 1 Zellmembran, 2 Zellplasma, 3 Zellkern mit DNA, 4 Mitochondrium, 5 ER, 6 Ribosomen." }
+      ]
+    },
+    {
+      "id": "ebenen", "titel": "Zelle – Gewebe – Organ", "lernziele": ["2"],
+      "intro": "Vielzellige Lebewesen sind in Ebenen aufgebaut.",
+      "bloecke": [
+        { "t": "formel", "text": "Zelle → Gewebe → Organ → Organismus" },
+        { "t": "liste", "items": ["**Gewebe:** Gruppe von gleich spezialisierten Zellen mit gemeinsamer Aufgabe.", "**Organ:** besteht aus mehreren verschiedenen Geweben.", "**Organismus:** das ganze Lebewesen."] },
+        { "t": "tabelle", "kopf": ["", "Zelle", "Gewebe", "Organ", "Organismus"], "zeilen": [
+          ["**Pflanze**", "Palisadenzelle", "Palisadengewebe", "Blatt", "Bohnenpflanze"],
+          ["**Tier**", "Muskelzelle", "Muskelgewebe", "Herz", "Mensch"]
+        ] }
+      ]
+    },
+    {
+      "id": "diffusion", "titel": "Diffusion und Osmose", "lernziele": ["3"],
+      "intro": "Teilchen sind ständig in zufälliger Bewegung. Daraus entstehen Diffusion und Osmose.",
+      "bloecke": [
+        { "t": "bild", "src": "content/img/bio-pflanzen/diffusion.jpg", "alt": "Links Teilchen dicht gedrängt, rechts nach einiger Zeit gleichmässig verteilt", "caption": "Diffusion: Die Teilchen verteilen sich gleichmässig." },
+        { "t": "merke", "titel": "Diffusion", "text": "Zufällige Teilchenbewegung; netto wandern Teilchen von **hoher zu niedriger Konzentration**, bis sie gleichmässig verteilt sind. Beispiel: Zucker verteilt sich im Tee." },
+        { "t": "bild", "src": "content/img/bio-pflanzen/osmose.jpg", "alt": "Zwei Kammern getrennt durch eine Membran; rechts mehr gelöster Stoff", "caption": "Osmose: Die Trennwand lässt nur Wasser durch. Punkte = gelöster Stoff." },
+        { "t": "merke", "titel": "Osmose", "text": "Wasser wandert durch eine **selektiv durchlässige Membran** zur Seite mit **mehr gelöstem Stoff** (der die Membran nicht passieren kann). Im Bild: netto von links nach rechts." },
+        { "t": "spalten", "spalten": [
+          [{ "t": "beispiel", "titel": "Gesalzener Salat", "zeilen": ["Aussen viel Salz → Wasser tritt aus den Zellen aus", "Turgor sinkt → Salat wird **schlaff**"] }],
+          [{ "t": "beispiel", "titel": "Kirschen im Regen", "zeilen": ["In der Kirsche viel Zucker → Wasser strömt hinein", "Druck steigt → Kirsche kann **platzen**"] }]
+        ] },
+        { "t": "p", "text": "Auch Wurzelhaare nehmen Wasser durch Osmose aus dem Boden auf." }
+      ]
+    },
+    {
+      "id": "blatt", "titel": "Der Laubblattquerschnitt", "lernziele": ["4"],
+      "intro": "Das Blatt ist das Fotosynthese-Organ der Pflanze. Jede Schicht hat eine Aufgabe.",
+      "bloecke": [
+        { "t": "bild", "src": "content/img/bio-pflanzen/blattquerschnitt.jpg", "alt": "Querschnitt durch ein Laubblatt mit den nummerierten Schichten 1 bis 9" },
+        { "t": "tabelle", "kopf": ["Nr.", "Struktur", "Funktion"], "zeilen": [
+          ["1", "Kutikula", "Wachsschicht, Verdunstungsschutz"],
+          ["2", "Obere Epidermis", "Schutz, lichtdurchlässig"],
+          ["3", "**Palisadengewebe**", "viele Chloroplasten → Hauptort der Fotosynthese"],
+          ["4", "**Schwammgewebe**", "locker mit Lufträumen → Gasaustausch"],
+          ["5", "Leitbündel (Blattader)", "Transport: Wasser hin (Xylem), Zucker weg (Phloem)"],
+          ["6", "Luftraum (Interzellularraum)", "Gase verteilen sich"],
+          ["7", "Untere Epidermis", "Schutz, enthält Spaltöffnungen"],
+          ["8", "Spaltöffnung", "Öffnung für den Gasaustausch"],
+          ["9", "Schliesszellen", "regeln die Weite der Spaltöffnung"]
+        ] },
+        { "t": "merke", "titel": "Weg der Gase an der Spaltöffnung", "text": "**CO₂ hinein** – **O₂ und Wasserdampf hinaus**. Die Schliesszellen öffnen und schliessen den Spalt." }
+      ]
+    },
+    {
+      "id": "mikroskop", "titel": "Mikroskopieren und zeichnen", "lernziele": ["5", "6"],
+      "intro": "Im Mikroskop erkennst du Pflanzen- und Tierzellen an typischen Merkmalen.",
+      "bloecke": [
+        { "t": "tabelle", "kopf": ["Präparat", "Was du siehst", "Einordnung"], "zeilen": [
+          ["Wasserpestblatt", "Zellwände, viele grüne Chloroplasten", "Pflanzenzellen"],
+          ["Zwiebelhaut", "Zellwände, regelmässige Form, meist keine Chloroplasten", "Pflanzenzellen"],
+          ["Mundschleimhaut", "unregelmässige Form, keine Zellwand; Kern ggf. gefärbt", "Tierzellen"]
+        ] },
+        { "t": "achtung", "text": "Eine Zelle **ohne Chloroplasten** ist nicht automatisch eine Tierzelle – z. B. Zwiebel- oder Wurzelzellen haben eine Zellwand, aber keine Chloroplasten." },
+        { "t": "h", "text": "Wissenschaftlich zeichnen" },
+        { "t": "liste", "items": ["Gross und mit **Bleistift** zeichnen.", "Klare, durchgezogene Linien – **nicht schraffieren**, nicht ausmalen.", "Nur zeichnen, was du **wirklich siehst**.", "Gerade Beschriftungslinien mit Lineal, Beschriftung seitlich.", "**Titel**, Präparat, Datum und **Vergrösserung** angeben."] },
+        { "t": "formel", "text": "Gesamtvergrösserung = Okular × Objektiv", "notiz": "z. B. 10× · 40× = 400-fach" },
+        { "t": "p", "text": "ER und Ribosomen sind im Schulmikroskop nicht einzeln sichtbar – also auch nicht zeichnen." }
+      ]
+    },
+    {
+      "id": "fotosynthese", "titel": "Fotosynthese und Chloroplast", "lernziele": ["7", "8", "9"],
+      "intro": "Pflanzen stellen ihre Nahrung selbst her – mit Licht.",
+      "bloecke": [
+        { "t": "bild", "src": "content/img/bio-pflanzen/chloroplast.jpg", "alt": "Chloroplast mit Doppelmembran (1), Stroma (2), Granum (3) und Thylakoid (4)" },
+        { "t": "tabelle", "kopf": ["Nr.", "Bestandteil", "Aufgabe"], "zeilen": [
+          ["1", "Doppelmembran", "Hülle"],
+          ["2", "Stroma", "Grundsubstanz; hier wird Zucker aufgebaut"],
+          ["3", "Granum", "Stapel von Thylakoiden"],
+          ["4", "Thylakoid", "Membransäckchen mit dem grünen Farbstoff **Chlorophyll** (nimmt Licht auf)"]
+        ] },
+        { "t": "formel", "text": "Kohlenstoffdioxid + Wasser → Glukose + Sauerstoff", "notiz": "mit Lichtenergie, im Chloroplasten" },
+        { "t": "h", "text": "Energieumwandlung" },
+        { "t": "spalten", "spalten": [
+          [{ "t": "merke", "titel": "Fotosynthese", "text": "Lichtenergie → chemische Energie (in Glukose)" }],
+          [{ "t": "merke", "titel": "Zellatmung", "text": "chemische Energie → nutzbare Energie (ATP) + Wärme" }]
+        ] },
+        { "t": "h", "text": "Tiere und Pflanzen" },
+        { "t": "liste", "items": ["**Tiere** nehmen Nährstoffe mit der Nahrung auf. Glukose wird mit Sauerstoff vor allem in den **Mitochondrien** abgebaut → Energie.", "**Pflanzen sind autotroph** (selbsternährend): Sie bauen ihre organischen Stoffe selbst aus CO₂ und Wasser auf.", "Auch Pflanzen betreiben Zellatmung – Tag und Nacht."] }
+      ]
+    },
+    {
+      "id": "kreislauf", "titel": "Stoffkreislauf und Energiefluss", "lernziele": ["10", "13"],
+      "intro": "Fotosynthese und Zellatmung sind wie zwei Seiten einer Medaille.",
+      "bloecke": [
+        { "t": "bild", "src": "content/img/bio-pflanzen/kreislauf.jpg", "alt": "Kreislauf zwischen Chloroplast (Vorgang A) und Mitochondrium (Vorgang B) mit Pfeilen 1 bis 4", "caption": "A = Fotosynthese (Chloroplast), B = Zellatmung (Mitochondrium). 1 Glukose + Sauerstoff, 2 Kohlenstoffdioxid + Wasser, 3 Lichtenergie, 4 nutzbare Energie + Wärme." },
+        { "t": "formel", "text": "6 CO₂ + 6 H₂O → C₆H₁₂O₆ + 6 O₂", "notiz": "Fotosynthese (mit Licht)" },
+        { "t": "formel", "text": "C₆H₁₂O₆ + 6 O₂ → 6 CO₂ + 6 H₂O", "notiz": "Zellatmung (Energie wird nutzbar)" },
+        { "t": "merke", "text": "Die **Produkte** des einen Vorgangs sind die **Ausgangsstoffe** des anderen." },
+        { "t": "h", "text": "Kohlenstoffkreislauf" },
+        { "t": "schritte", "items": ["**Luft:** CO₂", "**Pflanze:** Fotosynthese bindet CO₂ in Glukose und anderen organischen Stoffen.", "**Tier / Zersetzer:** fressen bzw. zersetzen die organischen Stoffe.", "**Zurück in die Luft:** Zellatmung von Pflanzen, Tieren und Zersetzern setzt CO₂ frei."] },
+        { "t": "achtung", "titel": "Stoffe kreisen – Energie fliesst", "text": "Kohlenstoff wird immer wieder verwendet. Energie dagegen kreist **nicht**: Sonnenlicht → chemische Energie → am Ende Wärme, die verloren geht. Darum braucht es ständig neues Sonnenlicht." }
+      ]
+    },
+    {
+      "id": "glukose", "titel": "Was wird aus Glukose?", "lernziele": ["11", "12"],
+      "intro": "Glukose ist Energielieferant und Baustoff zugleich.",
+      "bloecke": [
+        { "t": "tabelle", "kopf": ["Glukose wird zu …", "Zweck"], "zeilen": [
+          ["Zellatmung", "Energie für Lebensvorgänge"],
+          ["**Stärke**", "Vorrat (z. B. Kartoffel); kann wieder zu Zucker abgebaut werden"],
+          ["**Cellulose**", "Baustoff für Zellwände"],
+          ["**Saccharose**", "Transportzucker im Phloem"]
+        ] },
+        { "t": "h", "text": "Warum ist Fotosynthese lebenswichtig?" },
+        { "t": "liste", "items": ["Sie liefert **energiereiche Nahrung** für fast alle Lebewesen.", "Sie liefert den **Sauerstoff**, den wir für die Zellatmung brauchen."] },
+        { "t": "beispiel", "titel": "Nahrungskette", "zeilen": ["Gras → Kaninchen → Fuchs"], "notiz": "Auch der Fuchs als Fleischfresser lebt indirekt von der Energie, die das Gras durch Fotosynthese gespeichert hat. Brot und Kartoffeln enthalten ebenfalls gespeicherte Sonnenenergie." }
+      ]
+    },
+    {
+      "id": "wasser", "titel": "Wassertransport in der Pflanze", "lernziele": ["14"],
+      "intro": "Vom Boden bis zur Blattspitze – ohne Pumpe.",
+      "bloecke": [
+        { "t": "bild", "src": "content/img/bio-pflanzen/wassertransport.jpg", "alt": "Bohnenpflanze mit 1 Wurzelhaaren, 2 Xylem, 3 Spaltöffnung, 4 Wasserdampf", "klein": true, "caption": "1 Wurzel/Wurzelhaare · 2 Xylem · 3 Spaltöffnung · 4 Wasserdampf (Transpiration)" },
+        { "t": "formel", "text": "Boden → Wurzelhaare → Xylem → Blatt → Luft" },
+        { "t": "liste", "items": ["**Wurzelhaare** nehmen Wasser durch Osmose auf.", "Im **Xylem** steigen Wasser und Mineralstoffe nach oben.", "Im Blatt **verdunstet** Wasser und entweicht als Wasserdampf durch die Spaltöffnungen.", "Die Verdunstung zieht an der zusammenhängenden Wassersäule: **Transpirationszug (-sog)**."] },
+        { "t": "merke", "titel": "Bei Trockenheit", "text": "Die Spaltöffnungen schliessen sich. **Vorteil:** weniger Wasserverlust. **Nachteil:** weniger CO₂-Aufnahme → weniger Fotosynthese." }
+      ]
+    },
+    {
+      "id": "keimung", "titel": "Zusatz: Ein Bohnensamen keimt", "lernziele": [],
+      "intro": "Aus dem Übungsblatt 8: Aufbau eines Samens und Keimung.",
+      "bloecke": [
+        { "t": "bild", "src": "content/img/bio-pflanzen/bohnensamen.jpg", "alt": "Aufgeschnittener Bohnensamen mit nummerierten Teilen 1 bis 6", "klein": true },
+        { "t": "tabelle", "kopf": ["Nr.", "Teil"], "zeilen": [["1", "Samenschale"], ["2", "Keimblatt (Nährstoffspeicher)"], ["3", "Keimknospe"], ["4", "Keimstängel"], ["5", "Keimwurzel"], ["6", "Nabel"]] },
+        { "t": "schritte", "titel": "Ablauf der Keimung", "items": ["Der Samen nimmt Wasser auf und quillt.", "Die Keimwurzel bricht durch die Samenschale.", "Der Spross wächst nach oben.", "Die ersten grünen Laubblätter entfalten sich."] },
+        { "t": "merke", "titel": "Keimungsbedingungen", "text": "**Wasser, Sauerstoff und eine geeignete Temperatur.** Licht ist für die Keimung der Bohne nicht zwingend nötig." }
+      ]
+    }
+  ],
+
+  "karten": [
+    { "vorne": "Welche drei Bestandteile hat nur die Pflanzenzelle?", "hinten": "Zellwand, (grosse) Vakuole, Chloroplasten" },
+    { "vorne": "Funktion der Mitochondrien?", "hinten": "Zellatmung – Energie nutzbar machen" },
+    { "vorne": "Funktion der Ribosomen?", "hinten": "Proteine herstellen" },
+    { "vorne": "Funktion des ER?", "hinten": "Herstellung und Transport von Stoffen" },
+    { "vorne": "Funktion der Vakuole?", "hinten": "Speicherung von Wasser und Stoffen; Turgor (Zellinnendruck)" },
+    { "vorne": "Was ist Turgor?", "hinten": "Der Innendruck der Pflanzenzelle durch die wassergefüllte Vakuole – hält die Pflanze straff." },
+    { "vorne": "Was ist ein Gewebe?", "hinten": "Eine Gruppe gleich spezialisierter Zellen mit gemeinsamer Aufgabe." },
+    { "vorne": "Wo findet die Fotosynthese hauptsächlich statt?", "hinten": "In den Chloroplasten, v. a. im Palisadengewebe des Blattes." },
+    { "vorne": "Wie heisst der grüne Farbstoff und wo liegt er?", "hinten": "Chlorophyll – in den Thylakoidmembranen." },
+    { "vorne": "Wortgleichung der Fotosynthese", "hinten": "Kohlenstoffdioxid + Wasser → (Licht) → Glukose + Sauerstoff" },
+    { "vorne": "Wortgleichung der Zellatmung", "hinten": "Glukose + Sauerstoff → Kohlenstoffdioxid + Wasser (+ nutzbare Energie)" },
+    { "vorne": "Was bedeutet autotroph?", "hinten": "Selbsternährend: baut organische Stoffe selbst aus CO₂ und Wasser auf." },
+    { "vorne": "Gesamtvergrösserung bei Okular 10× und Objektiv 40×?", "hinten": "400-fach" },
+    { "vorne": "Was ist der Transpirationszug?", "hinten": "Die Verdunstung im Blatt zieht die Wassersäule im Xylem nach oben." },
+    { "vorne": "Was transportieren Xylem und Phloem?", "hinten": "Xylem: Wasser + Mineralstoffe nach oben. Phloem: Zucker (Saccharose)." },
+    { "vorne": "Drei Keimungsbedingungen der Bohne", "hinten": "Wasser, Sauerstoff, geeignete Temperatur" }
+  ],
+
+  "uebungen": [
+    { "id": "b1", "lernziel": "1", "typ": "zuordnen", "frage": "Beschrifte die Pflanzenzelle.", "bild": "content/img/bio-pflanzen/pflanzenzelle.jpg", "paare": [["Nr. 1", "Zellwand"], ["Nr. 2", "Zellmembran"], ["Nr. 3", "Zellplasma"], ["Nr. 4", "Zellkern"], ["Nr. 5", "Vakuole"], ["Nr. 6", "Chloroplast"], ["Nr. 7", "Mitochondrium"], ["Nr. 8", "ER"], ["Nr. 9", "Ribosomen"]] },
+    { "id": "b2", "lernziel": "1", "typ": "zuordnen", "frage": "Beschrifte die Tierzelle.", "bild": "content/img/bio-pflanzen/tierzelle.jpg", "paare": [["Nr. 1", "Zellmembran"], ["Nr. 2", "Zellplasma"], ["Nr. 3", "Zellkern"], ["Nr. 4", "Mitochondrium"], ["Nr. 5", "ER"], ["Nr. 6", "Ribosomen"]], "ablenker": ["Zellwand", "Chloroplast"] },
+    { "id": "b3", "lernziel": "1", "typ": "zuordnen", "frage": "Welche Funktion hat welcher Zellbestandteil?", "paare": [["Zellkern", "Erbinformation, Steuerung"], ["Mitochondrium", "Zellatmung, Energie"], ["Ribosomen", "Proteine herstellen"], ["ER", "Stoffe herstellen und transportieren"], ["Chloroplast", "Fotosynthese"], ["Zellwand", "Form, Schutz, Halt"], ["Zellmembran", "Abgrenzung, Stoffaustausch"], ["Vakuole", "Speicher, Turgor"]] },
+    { "id": "b4", "lernziel": "1", "typ": "mc", "frage": "Welche drei Bestandteile fehlen einer Tierzelle?", "optionen": ["Zellwand", "Vakuole (gross, zentral)", "Chloroplasten", "Mitochondrien", "Zellkern", "Ribosomen"], "richtig": [0, 1, 2] },
+    { "id": "b5", "lernziel": "1", "typ": "mc", "frage": "Eine Wurzelzelle hat …", "optionen": ["eine Zellwand, aber meist keine Chloroplasten.", "Chloroplasten, aber keine Zellwand.", "weder Zellwand noch Zellkern.", "besonders viele Chloroplasten."], "richtig": 0, "erklaerung": "Im Boden gibt es kein Licht – Chloroplasten wären nutzlos." },
+    { "id": "b6", "lernziel": "2", "typ": "zuordnen", "frage": "Ordne die Beispiele der richtigen Ebene zu.", "paare": [["Palisadenzelle", "Zelle"], ["Muskelgewebe", "Gewebe"], ["Herz", "Organ"], ["Bohnenpflanze", "Organismus"], ["Palisadengewebe", "Gewebe"], ["Blatt", "Organ"]] },
+    { "id": "b7", "lernziel": "2", "typ": "reihenfolge", "frage": "Ordne die Ebenen von klein nach gross.", "items": ["Zelle", "Gewebe", "Organ", "Organismus"] },
+    { "id": "b8", "lernziel": "2", "typ": "mc", "frage": "Was unterscheidet ein Organ von einem Gewebe?", "optionen": ["Ein Organ besteht aus mehreren verschiedenen Geweben.", "Ein Organ besteht aus nur einer Zellart.", "Gewebe sind grösser als Organe.", "Es gibt keinen Unterschied."], "richtig": 0 },
+    { "id": "b9", "lernziel": "3", "typ": "mc", "frage": "Ein Zuckerwürfel löst sich im Tee und der Zucker verteilt sich überall. Wie heisst der Vorgang?", "optionen": ["Diffusion", "Osmose", "Fotosynthese", "Transpiration"], "richtig": 0 },
+    { "id": "b10", "lernziel": "3", "typ": "mc", "frage": "Bei der Osmose wandert Wasser durch eine selektiv durchlässige Membran …", "bild": "content/img/bio-pflanzen/osmose.jpg", "optionen": ["zur Seite mit mehr gelöstem Stoff (im Bild nach rechts).", "zur Seite mit weniger gelöstem Stoff (im Bild nach links).", "gar nicht.", "zusammen mit dem gelösten Stoff in beide Richtungen."], "richtig": 0 },
+    { "id": "b11", "lernziel": "3", "typ": "luecke", "frage": "Ergänze: Salat wird gesalzen.", "text": "Aussen ist mehr Salz gelöst als in den Zellen. Durch {{0}} strömt Wasser aus den Zellen heraus. Der Zellinnendruck ({{1}}) sinkt und der Salat wird {{2}}.", "luecken": [["Osmose"], ["Turgor"], ["schlaff", "welk", "weich"]] },
+    { "id": "b12", "lernziel": "3", "typ": "mc", "frage": "Warum platzen reife Kirschen nach starkem Regen?", "optionen": ["In der Kirsche ist viel Zucker gelöst, darum strömt Wasser durch Osmose hinein.", "Der Regen löst die Schale chemisch auf.", "Zucker diffundiert aus der Kirsche hinaus.", "Die Kirsche betreibt zu viel Fotosynthese."], "richtig": 0 },
+    { "id": "b13", "lernziel": "4", "typ": "zuordnen", "frage": "Beschrifte den Blattquerschnitt.", "bild": "content/img/bio-pflanzen/blattquerschnitt.jpg", "paare": [["Nr. 1", "Kutikula"], ["Nr. 2", "obere Epidermis"], ["Nr. 3", "Palisadengewebe"], ["Nr. 4", "Schwammgewebe"], ["Nr. 5", "Leitbündel"], ["Nr. 6", "Luftraum"], ["Nr. 7", "untere Epidermis"], ["Nr. 8", "Spaltöffnung"], ["Nr. 9", "Schliesszellen"]] },
+    { "id": "b14", "lernziel": "4", "typ": "zuordnen", "frage": "Welche Funktion hat das Gewebe?", "paare": [["Palisadengewebe", "Hauptort der Fotosynthese"], ["Schwammgewebe", "Gasaustausch über Lufträume"], ["Kutikula", "Verdunstungsschutz"], ["Schliesszellen", "regeln die Spaltöffnung"], ["Leitbündel", "Transport von Wasser und Zucker"]] },
+    { "id": "b15", "lernziel": "4", "typ": "zuordnen", "frage": "In welche Richtung bewegen sich die Gase an der Spaltöffnung (tagsüber bei Licht)?", "paare": [["CO₂", "ins Blatt hinein"], ["O₂", "aus dem Blatt hinaus"], ["Wasserdampf", "aus dem Blatt hinaus"]] },
+    { "id": "b16", "lernziel": "5", "typ": "zuordnen", "frage": "Ordne die Präparate ein.", "paare": [["Wasserpestblatt", "Pflanzenzellen mit Chloroplasten"], ["Zwiebelhaut", "Pflanzenzellen ohne Chloroplasten"], ["Mundschleimhaut", "Tierzellen ohne Zellwand"]] },
+    { "id": "b17", "lernziel": "5", "typ": "mc", "frage": "Warum ist eine Zelle ohne Chloroplasten nicht automatisch eine Tierzelle?", "optionen": ["Auch Pflanzenzellen aus nicht grünen Teilen (Zwiebel, Wurzel) haben keine Chloroplasten – entscheidend ist z. B. die Zellwand.", "Weil Tierzellen immer Chloroplasten haben.", "Weil Chloroplasten im Mikroskop unsichtbar sind.", "Doch, sie ist immer eine Tierzelle."], "richtig": 0 },
+    { "id": "b18", "lernziel": "6", "typ": "zahl", "frage": "Okular 10×, Objektiv 40×. Wie gross ist die Gesamtvergrösserung?", "antwort": 400, "einheit": "-fach", "toleranz": 0 },
+    { "id": "b19", "lernziel": "6", "typ": "mc", "frage": "Welche Regeln gelten für eine wissenschaftliche Zeichnung?", "optionen": ["Mit Bleistift, gross und mit klaren Linien", "Nur zeichnen, was man wirklich sieht", "Titel und Vergrösserung angeben", "Schön schraffieren und farbig ausmalen", "ER und Ribosomen immer einzeichnen"], "richtig": [0, 1, 2] },
+    { "id": "b20", "lernziel": "7", "typ": "zuordnen", "frage": "Beschrifte den Chloroplasten.", "bild": "content/img/bio-pflanzen/chloroplast.jpg", "paare": [["Nr. 1", "Doppelmembran"], ["Nr. 2", "Stroma"], ["Nr. 3", "Granum"], ["Nr. 4", "Thylakoid"]] },
+    { "id": "b21", "lernziel": "7", "typ": "luecke", "frage": "Wortgleichung der Fotosynthese.", "text": "{{0}} + {{1}} wird mit {{2}} zu {{3}} + {{4}}.", "woerter": ["Kohlenstoffdioxid", "Wasser", "Lichtenergie", "Glukose", "Sauerstoff"], "luecken": [["Kohlenstoffdioxid", "CO2", "CO₂", "Wasser", "H2O"], ["Wasser", "H2O", "H₂O", "Kohlenstoffdioxid", "CO2"], ["Lichtenergie", "Licht", "Sonnenlicht"], ["Glukose", "Traubenzucker", "Glucose", "Sauerstoff"], ["Sauerstoff", "O2", "O₂", "Glukose", "Traubenzucker"]], "erklaerung": "Kohlenstoffdioxid + Wasser → (Lichtenergie) → Glukose + Sauerstoff. Die Reihenfolge der Ausgangsstoffe bzw. Produkte ist egal." },
+    { "id": "b22", "lernziel": "7", "typ": "mc", "frage": "Wie heisst der grüne Farbstoff und wo liegt er?", "optionen": ["Chlorophyll, in den Thylakoidmembranen", "Chlorophyll, in der Vakuole", "Stärke, im Stroma", "Cellulose, in der Zellwand"], "richtig": 0 },
+    { "id": "b23", "lernziel": "8", "typ": "zuordnen", "frage": "Welche Energieumwandlung findet statt?", "paare": [["Fotosynthese", "Lichtenergie → chemische Energie"], ["Zellatmung", "chemische Energie → nutzbare Energie + Wärme"]], "ablenker": ["Wärme → Lichtenergie"] },
+    { "id": "b24", "lernziel": "9", "typ": "mc", "frage": "Was bedeutet: «Pflanzen sind autotroph»?", "optionen": ["Sie bauen ihre organischen Stoffe selbst aus CO₂ und Wasser auf.", "Sie fressen andere Lebewesen.", "Sie brauchen keine Energie.", "Sie betreiben keine Zellatmung."], "richtig": 0 },
+    { "id": "b25", "lernziel": "9", "typ": "mc", "frage": "Wo bauen Tiere Glukose mit Sauerstoff hauptsächlich ab, um Energie zu gewinnen?", "optionen": ["In den Mitochondrien", "In den Chloroplasten", "In der Vakuole", "Im Zellkern"], "richtig": 0 },
+    { "id": "b26", "lernziel": "10", "typ": "luecke", "frage": "Ergänze die Koeffizienten der Fotosynthese.", "text": "{{0}} CO₂ + {{1}} H₂O → C₆H₁₂O₆ + {{2}} O₂", "luecken": [["6"], ["6"], ["6"]] },
+    { "id": "b27", "lernziel": "10", "typ": "luecke", "frage": "Ergänze die Zellatmung.", "text": "C₆H₁₂O₆ + {{0}} O₂ → {{1}} CO₂ + {{2}} H₂O", "luecken": [["6"], ["6"], ["6"]] },
+    { "id": "b28", "lernziel": "10", "typ": "zuordnen", "frage": "Beschrifte das Kreislaufschema.", "bild": "content/img/bio-pflanzen/kreislauf.jpg", "paare": [["Vorgang A", "Fotosynthese"], ["Vorgang B", "Zellatmung"], ["Pfeil 1", "Glukose und Sauerstoff"], ["Pfeil 2", "Kohlenstoffdioxid und Wasser"], ["Pfeil 3", "Lichtenergie"], ["Pfeil 4", "nutzbare Energie und Wärme"]] },
+    { "id": "b29", "lernziel": "10", "typ": "mc", "frage": "Betreibt eine Pflanze tagsüber beide Vorgänge?", "optionen": ["Ja – bei Licht Fotosynthese und gleichzeitig immer Zellatmung.", "Nein, tagsüber nur Fotosynthese.", "Nein, tagsüber nur Zellatmung.", "Pflanzen betreiben keine Zellatmung."], "richtig": 0, "erklaerung": "Pflanzen brauchen ständig nutzbare Energie – deshalb Zellatmung Tag und Nacht." },
+    { "id": "b30", "lernziel": "11", "typ": "zuordnen", "frage": "Was wird aus der Glukose?", "paare": [["Stärke", "Vorrat"], ["Cellulose", "Baustoff der Zellwände"], ["Saccharose", "Transportzucker im Phloem"], ["Zellatmung", "Energie"]] },
+    { "id": "b31", "lernziel": "12", "typ": "mc", "frage": "Warum ist auch ein Fuchs (Fleischfresser) von der Fotosynthese abhängig?", "optionen": ["Er frisst Kaninchen, die Gras fressen: Gras → Kaninchen → Fuchs. Die Energie stammt aus der Fotosynthese.", "Er betreibt selbst Fotosynthese im Fell.", "Er ist nicht davon abhängig.", "Weil er Pflanzen frisst."], "richtig": 0 },
+    { "id": "b32", "lernziel": "12", "typ": "mc", "frage": "Welche zwei Leistungen der Fotosynthese sind für Mensch und Tier lebenswichtig?", "optionen": ["Energiereiche Nahrung", "Sauerstoff für die Zellatmung", "Wärme für die Erde", "Mineralstoffe für die Knochen"], "richtig": [0, 1] },
+    { "id": "b33", "lernziel": "13", "typ": "reihenfolge", "frage": "Bringe den Weg des Kohlenstoffs in die richtige Reihenfolge.", "items": ["CO₂ in der Luft", "Fotosynthese: in Glukose der Pflanze gebunden", "Tier frisst die Pflanze / Zersetzer bauen ab", "Zellatmung: CO₂ zurück in die Luft"] },
+    { "id": "b34", "lernziel": "13", "typ": "mc", "frage": "Kreist Energie genauso wie Kohlenstoff?", "optionen": ["Nein: Stoffe kreisen, Energie fliesst – sie wird schliesslich als Wärme abgegeben.", "Ja, Energie wird immer wieder verwendet.", "Ja, über den Sauerstoff.", "Nein, weil es keine Energie gibt."], "richtig": 0 },
+    { "id": "b35", "lernziel": "14", "typ": "zuordnen", "frage": "Beschrifte die Abbildung zum Wassertransport.", "bild": "content/img/bio-pflanzen/wassertransport.jpg", "paare": [["Nr. 1", "Wurzelhaare"], ["Nr. 2", "Xylem"], ["Nr. 3", "Spaltöffnung"], ["Nr. 4", "Wasserdampf"]] },
+    { "id": "b36", "lernziel": "14", "typ": "reihenfolge", "frage": "Ordne den Weg des Wassers.", "items": ["Boden", "Wurzelhaare", "Xylem im Stängel", "Blatt", "Spaltöffnung → Luft"] },
+    { "id": "b37", "lernziel": "14", "typ": "mc", "frage": "Was treibt das Wasser im Xylem nach oben?", "optionen": ["Die Verdunstung an den Blättern (Transpirationszug).", "Eine Pumpe in der Wurzel wie ein Herz.", "Die Fotosynthese im Stroma.", "Der Wind."], "richtig": 0 },
+    { "id": "b38", "lernziel": "14", "typ": "offen", "frage": "Was geschieht bei Trockenheit mit den Spaltöffnungen? Nenne einen Vorteil und einen Nachteil.", "musterloesung": ["Die Spaltöffnungen schliessen sich.", "Vorteil: weniger Wasserverlust.", "Nachteil: weniger CO₂-Aufnahme → weniger Fotosynthese."], "kriterien": [{ "text": "Spaltöffnungen schliessen sich", "punkte": 1 }, { "text": "Vorteil: weniger Wasserverlust", "punkte": 0.5 }, { "text": "Nachteil: weniger CO₂ / weniger Fotosynthese", "punkte": 0.5 }] },
+    { "id": "b39", "typ": "zuordnen", "frage": "Zusatz: Beschrifte den Bohnensamen.", "bild": "content/img/bio-pflanzen/bohnensamen.jpg", "paare": [["Nr. 1", "Samenschale"], ["Nr. 2", "Keimblatt"], ["Nr. 3", "Keimknospe"], ["Nr. 4", "Keimstängel"], ["Nr. 5", "Keimwurzel"], ["Nr. 6", "Nabel"]] },
+    { "id": "b40", "typ": "reihenfolge", "frage": "Zusatz: Bringe die Keimung in die richtige Reihenfolge.", "items": ["Der Samen nimmt Wasser auf und quillt.", "Die Keimwurzel bricht durch die Samenschale.", "Der Spross wächst nach oben.", "Erste grüne Laubblätter entfalten sich."] },
+    { "id": "b41", "typ": "mc", "frage": "Zusatz: Welche Bedingungen braucht eine Bohne zum Keimen?", "optionen": ["Wasser", "Sauerstoff", "geeignete Temperatur", "Licht", "Dünger"], "richtig": [0, 1, 2], "erklaerung": "Licht ist für die Keimung der Bohne nicht zwingend nötig." }
+  ],
+
+  "pruefungen": [
+    {
+      "id": "kapitel8",
+      "titel": "Testprüfung Kapitel 8: Wachstum von Pflanzen",
+      "richtzeit": 75,
+      "hinweis": "Ohne Lernunterlagen. 14 Aufgaben in der Reihenfolge der 14 Lernziele. Schreibe kurz und mit Fachbegriffen. Skizzen auf Papier.",
+      "aufgaben": [
+        { "id": "t1a", "nr": "1a", "abschnitt": "Pflanzenzellen und Tierzellen (Lernziele 1–4)", "lernziel": "1", "typ": "zuordnen", "punkte": 5, "titel": "Zellmodelle", "frage": "Beschrifte die Pflanzenzelle.", "bild": "content/img/bio-pflanzen/pflanzenzelle.jpg", "paare": [["Nr. 1", "Zellwand"], ["Nr. 2", "Zellmembran"], ["Nr. 3", "Zellplasma"], ["Nr. 4", "Zellkern"], ["Nr. 5", "Vakuole"], ["Nr. 6", "Chloroplast"], ["Nr. 7", "Mitochondrium"], ["Nr. 8", "ER"], ["Nr. 9", "Ribosomen"]] },
+        { "id": "t1b", "nr": "1b", "lernziel": "1", "typ": "zuordnen", "punkte": 3, "frage": "Beschrifte die Tierzelle.", "bild": "content/img/bio-pflanzen/tierzelle.jpg", "paare": [["Nr. 1", "Zellmembran"], ["Nr. 2", "Zellplasma"], ["Nr. 3", "Zellkern"], ["Nr. 4", "Mitochondrium"], ["Nr. 5", "ER"], ["Nr. 6", "Ribosomen"]], "ablenker": ["Zellwand", "Vakuole", "Chloroplast"] },
+        { "id": "t1c", "nr": "1c", "lernziel": "1", "typ": "offen", "frage": "Nenne je eine Funktion: Zellkern, Mitochondrien, ER, Ribosomen.", "zeilen": 4, "musterloesung": ["Zellkern: Erbinformation (DNA), Steuerung der Zelle", "Mitochondrien: Zellatmung, Energie nutzbar machen", "ER: Herstellung und Transport von Stoffen", "Ribosomen: Proteine herstellen"], "kriterien": [{ "text": "Zellkern", "punkte": 1 }, { "text": "Mitochondrien", "punkte": 1 }, { "text": "ER", "punkte": 1 }, { "text": "Ribosomen", "punkte": 1 }] },
+        { "id": "t2a", "nr": "2a", "lernziel": "2", "typ": "zuordnen", "punkte": 3, "titel": "Zelle – Gewebe – Organ", "frage": "Ordne die Beispiele der passenden Ebene zu.", "paare": [["Palisadenzelle", "Zelle"], ["Palisadengewebe", "Gewebe"], ["Blatt", "Organ"], ["Muskelzelle", "Zelle"], ["Muskelgewebe", "Gewebe"], ["Herz", "Organ"]] },
+        { "id": "t2b", "nr": "2b", "lernziel": "2", "typ": "offen", "frage": "Was unterscheidet Gewebe und Organ?", "zeilen": 2, "musterloesung": ["Gewebe: Gruppe gleich spezialisierter Zellen. Organ: besteht aus mehreren verschiedenen Geweben."], "kriterien": [{ "text": "Unterschied korrekt erklärt", "punkte": 1 }] },
+        { "id": "t3a", "nr": "3a", "lernziel": "3", "typ": "offen", "titel": "Diffusion und Osmose", "frage": "Diffusion: Wie sind die Teilchen nach längerer Zeit verteilt? Erkläre den Vorgang.", "bild": "content/img/bio-pflanzen/diffusion.jpg", "zeilen": 3, "musterloesung": ["Die Teilchen sind gleichmässig verteilt.", "Durch zufällige Teilchenbewegung wandern sie netto von hoher zu niedriger Konzentration."], "kriterien": [{ "text": "Gleichmässige Verteilung", "punkte": 1 }, { "text": "Zufällige Bewegung, von hoher zu niedriger Konzentration", "punkte": 1 }] },
+        { "id": "t3b", "nr": "3b", "lernziel": "3", "typ": "mc", "punkte": 1, "frage": "Osmose: Nur Wasser kann die Membran passieren. In welche Richtung geht der Netto-Wasserstrom?", "bild": "content/img/bio-pflanzen/osmose.jpg", "optionen": ["Von links nach rechts (zur Seite mit viel gelöstem Stoff)", "Von rechts nach links (zur Seite mit wenig gelöstem Stoff)", "Es fliesst kein Wasser."], "richtig": 0 },
+        { "id": "t3c", "nr": "3c", "lernziel": "3", "typ": "offen", "frage": "Erkläre mit Osmose, warum gesalzener Salat schlaff wird.", "zeilen": 3, "musterloesung": ["Aussen ist mehr Salz gelöst als in den Zellen.", "Wasser strömt durch Osmose aus den Zellen hinaus.", "Der Turgor sinkt, der Salat wird schlaff."], "kriterien": [{ "text": "Aussen höhere Konzentration an gelöstem Stoff", "punkte": 1 }, { "text": "Wasser strömt aus den Zellen", "punkte": 1 }, { "text": "Turgor sinkt → schlaff", "punkte": 1 }] },
+        { "id": "t4a", "nr": "4a", "lernziel": "4", "typ": "zuordnen", "punkte": 3, "titel": "Laubblattquerschnitt", "frage": "Beschrifte den Blattquerschnitt.", "bild": "content/img/bio-pflanzen/blattquerschnitt.jpg", "paare": [["Nr. 1", "Kutikula"], ["Nr. 2", "obere Epidermis"], ["Nr. 3", "Palisadengewebe"], ["Nr. 4", "Schwammgewebe"], ["Nr. 5", "Leitbündel"], ["Nr. 6", "Luftraum"], ["Nr. 7", "untere Epidermis"], ["Nr. 8", "Spaltöffnung"], ["Nr. 9", "Schliesszellen"]] },
+        { "id": "t4b", "nr": "4b", "lernziel": "4", "typ": "offen", "frage": "Nenne die Funktionen von Palisaden- und Schwammgewebe.", "zeilen": 2, "musterloesung": ["Palisadengewebe: viele Chloroplasten, Hauptort der Fotosynthese.", "Schwammgewebe: Lufträume, Gasaustausch."], "kriterien": [{ "text": "Palisadengewebe: Fotosynthese", "punkte": 1 }, { "text": "Schwammgewebe: Gasaustausch", "punkte": 1 }] },
+        { "id": "t4c", "nr": "4c", "lernziel": "4", "typ": "zuordnen", "punkte": 3, "frage": "Wohin bewegen sich die Gase an der Spaltöffnung?", "paare": [["CO₂", "ins Blatt hinein"], ["O₂", "aus dem Blatt hinaus"], ["Wasserdampf", "aus dem Blatt hinaus"]] },
+        { "id": "t5a", "nr": "5a", "abschnitt": "Mikroskopieren (Lernziele 5–6)", "lernziel": "5", "typ": "zuordnen", "punkte": 3, "titel": "Präparate einordnen", "frage": "Ordne die Präparate zu.", "paare": [["Wasserpestblatt", "Pflanzenzellen mit Chloroplasten"], ["Zwiebelhaut", "Pflanzenzellen ohne Chloroplasten"], ["Mundschleimhaut", "Tierzellen ohne Zellwand"]] },
+        { "id": "t5b", "nr": "5b", "lernziel": "5", "typ": "offen", "frage": "Warum ist eine Zelle ohne Chloroplasten nicht automatisch eine Tierzelle?", "zeilen": 2, "musterloesung": ["Auch Pflanzenzellen aus nicht grünen Teilen (Zwiebel, Wurzel) haben keine Chloroplasten. Entscheidend ist z. B. die Zellwand."], "kriterien": [{ "text": "Beispiel/Begründung (Zellwand, Zwiebel- oder Wurzelzellen)", "punkte": 1 }] },
+        { "id": "t6a", "nr": "6a", "lernziel": "6", "typ": "offen", "skizze": true, "titel": "Wissenschaftlich zeichnen", "frage": "Zeichne eine Zelle der Wasserpest gross, sauber und nur mit sichtbaren Strukturen. Beschrifte mindestens zwei Strukturen und ergänze einen Titel.", "musterloesung": ["Bleistift, gross, klare Linien, nicht schraffiert.", "Sichtbar: Zellwand, Chloroplasten (evtl. Zellkern).", "Gerade Beschriftungslinien; Titel z. B. «Wasserpestblattzelle», Vergrösserung 400×."], "kriterien": [{ "text": "Gross, mit Bleistift, klare Linien, nicht schraffiert", "punkte": 1 }, { "text": "Nur sichtbare Strukturen gezeichnet", "punkte": 1 }, { "text": "Mindestens zwei Strukturen korrekt beschriftet", "punkte": 1 }, { "text": "Titel vorhanden", "punkte": 1 }] },
+        { "id": "t6b", "nr": "6b", "lernziel": "6", "typ": "zahl", "punkte": 1, "frage": "Okular 10×, Objektiv 40×. Gesamtvergrösserung?", "antwort": 400, "einheit": "-fach", "toleranz": 0 },
+        { "id": "t7a", "nr": "7a", "abschnitt": "Fotosynthese und Zellatmung (Lernziele 7–14)", "lernziel": "7", "typ": "zuordnen", "punkte": 4, "titel": "Ort und Ablauf der Fotosynthese", "frage": "Beschrifte die markierten Bestandteile des Chloroplasten.", "bild": "content/img/bio-pflanzen/chloroplast.jpg", "paare": [["Nr. 1", "Doppelmembran"], ["Nr. 2", "Stroma"], ["Nr. 3", "Granum"], ["Nr. 4", "Thylakoid"]] },
+        { "id": "t7b", "nr": "7b", "lernziel": "7", "typ": "luecke", "punkte": 2, "frage": "Wortgleichung der Fotosynthese und Energiequelle.", "text": "{{0}} + Wasser → {{1}} + Sauerstoff. Energiequelle: {{2}}", "luecken": [["Kohlenstoffdioxid", "CO2", "CO₂", "Kohlendioxid"], ["Glukose", "Traubenzucker", "Glucose"], ["Licht", "Lichtenergie", "Sonnenlicht", "Sonne"]] },
+        { "id": "t7c", "nr": "7c", "lernziel": "7", "typ": "mc", "punkte": 1, "frage": "Wie nutzt die Pflanze den Traubenzucker zur Energiegewinnung?", "optionen": ["Durch Zellatmung in den Mitochondrien", "Durch Fotosynthese im Stroma", "Durch Osmose in der Vakuole", "Gar nicht, sie speichert ihn nur"], "richtig": 0 },
+        { "id": "t8", "nr": "8", "lernziel": "8", "typ": "luecke", "punkte": 4, "titel": "Energieumwandlung", "frage": "Gib je eine Energie-Pfeilkette an.", "text": "Fotosynthese: {{0}}energie → {{1}} Energie (in Glukose)\nZellatmung: chemische Energie → {{2}} Energie + {{3}}", "luecken": [["Licht", "Sonnen"], ["chemische", "chemischer"], ["nutzbare", "nutzbarer", "Bewegungs"], ["Wärme", "Wärmeenergie"]] },
+        { "id": "t9a", "nr": "9a", "lernziel": "9", "typ": "offen", "titel": "Tiere und Pflanzen", "frage": "Wie gewinnen Tiere nutzbare Energie?", "zeilen": 2, "musterloesung": ["Sie nehmen Nährstoffe (Glukose) mit der Nahrung auf und bauen sie mit Sauerstoff in den Mitochondrien ab (Zellatmung)."], "kriterien": [{ "text": "Nährstoffe aus der Nahrung", "punkte": 1 }, { "text": "Abbau mit O₂ in Mitochondrien / Zellatmung", "punkte": 1 }] },
+        { "id": "t9b", "nr": "9b", "lernziel": "9", "typ": "offen", "frage": "Was bedeutet: Pflanzen sind autotroph?", "zeilen": 2, "musterloesung": ["Pflanzen ernähren sich selbst: Sie bauen ihre organischen Stoffe mit Lichtenergie aus CO₂ und Wasser auf."], "kriterien": [{ "text": "Selbst organische Stoffe aufbauen", "punkte": 1 }, { "text": "aus CO₂ und Wasser (mit Licht)", "punkte": 1 }] },
+        { "id": "t10a", "nr": "10a", "lernziel": "10", "typ": "luecke", "punkte": 2, "titel": "Stoffkreislauf mit Formeln", "frage": "Fotosynthese mit Koeffizienten.", "text": "{{0}} CO₂ + {{1}} H₂O → C₆H₁₂O₆ + {{2}} O₂", "luecken": [["6"], ["6"], ["6"]] },
+        { "id": "t10b", "nr": "10b", "lernziel": "10", "typ": "luecke", "punkte": 2, "frage": "Zellatmung mit Koeffizienten.", "text": "C₆H₁₂O₆ + {{0}} O₂ → {{1}} CO₂ + {{2}} H₂O", "luecken": [["6"], ["6"], ["6"]] },
+        { "id": "t10c", "nr": "10c", "lernziel": "10", "typ": "zuordnen", "punkte": 2, "frage": "Welche Stoffe werden zwischen Fotosynthese und Zellatmung ausgetauscht?", "bild": "content/img/bio-pflanzen/kreislauf.jpg", "paare": [["Pfeil 1 (A → B)", "Glukose und Sauerstoff"], ["Pfeil 2 (B → A)", "Kohlenstoffdioxid und Wasser"]], "ablenker": ["Stärke und Cellulose"] },
+        { "id": "t11", "nr": "11", "lernziel": "11", "typ": "offen", "titel": "Was wird aus Glukose?", "frage": "Nenne vier Verwendungen der Glukose in der Pflanze, jeweils mit Stoff/Prozess und Zweck.", "zeilen": 4, "musterloesung": ["Zellatmung → Energie", "Stärke → Vorrat", "Cellulose → Zellwände", "Saccharose → Transportzucker im Phloem"], "kriterien": [{ "text": "Zellatmung → Energie", "punkte": 1 }, { "text": "Stärke → Vorrat", "punkte": 1 }, { "text": "Cellulose → Zellwände", "punkte": 1 }, { "text": "Saccharose → Transport", "punkte": 1 }] },
+        { "id": "t12a", "nr": "12a", "lernziel": "12", "typ": "offen", "titel": "Warum ist Fotosynthese lebenswichtig?", "frage": "Warum sind auch Fleischfresser von der Fotosynthese abhängig? Erkläre mit einer Nahrungskette.", "zeilen": 3, "musterloesung": ["Gras → Kaninchen → Fuchs: Der Fuchs erhält die Energie über die Beute, die Energie stammt ursprünglich aus der Fotosynthese des Grases."], "kriterien": [{ "text": "Passende Nahrungskette mit Pflanze am Anfang", "punkte": 1 }, { "text": "Energie stammt ursprünglich aus der Fotosynthese", "punkte": 1 }] },
+        { "id": "t12b", "nr": "12b", "lernziel": "12", "typ": "mc", "punkte": 2, "frage": "Welche zwei Leistungen der Fotosynthese sind für Mensch und Tier lebenswichtig?", "optionen": ["Energiereiche Nahrung", "Sauerstoff für die Zellatmung", "Wärme für die Erde", "Mineralstoffe"], "richtig": [0, 1] },
+        { "id": "t13a", "nr": "13a", "lernziel": "13", "typ": "offen", "titel": "Stoffkreislauf und Energiefluss", "frage": "Erkläre den Weg des Kohlenstoffs: Luft → Pflanze → Tier/Zersetzer → Luft. Nenne die Prozesse.", "zeilen": 4, "musterloesung": ["Fotosynthese: Die Pflanze bindet CO₂ aus der Luft in Glukose.", "Tiere fressen Pflanzen, Zersetzer bauen tote Reste ab.", "Zellatmung von Pflanzen, Tieren und Zersetzern setzt CO₂ wieder frei."], "kriterien": [{ "text": "Fotosynthese bindet CO₂", "punkte": 1 }, { "text": "Weitergabe über Nahrung / Zersetzer", "punkte": 1 }, { "text": "Zellatmung setzt CO₂ frei", "punkte": 1 }] },
+        { "id": "t13b", "nr": "13b", "lernziel": "13", "typ": "mc", "punkte": 1, "frage": "Kreist Energie genauso wie Kohlenstoff?", "optionen": ["Nein – Energie fliesst und geht am Ende als Wärme verloren.", "Ja, genau gleich.", "Ja, über das Wasser."], "richtig": 0 },
+        { "id": "t14a", "nr": "14a", "lernziel": "14", "typ": "reihenfolge", "punkte": 2, "titel": "Wassertransport", "frage": "Ordne den Wasserweg.", "bild": "content/img/bio-pflanzen/wassertransport.jpg", "items": ["Boden", "Wurzelhaar", "Xylem", "Austritt am Blatt (Spaltöffnung)"] },
+        { "id": "t14b", "nr": "14b", "lernziel": "14", "typ": "zuordnen", "punkte": 2, "frage": "Beschrifte die Nummern in der Abbildung.", "bild": "content/img/bio-pflanzen/wassertransport.jpg", "paare": [["Nr. 1", "Wurzelhaare"], ["Nr. 2", "Xylem"], ["Nr. 3", "Spaltöffnung"], ["Nr. 4", "Wasserdampf"]] },
+        { "id": "t14c", "nr": "14c", "lernziel": "14", "typ": "offen", "frage": "Was treibt das Wasser im Xylem nach oben? Erkläre den Zusammenhang mit der Verdunstung.", "zeilen": 3, "musterloesung": ["Im Blatt verdunstet Wasser durch die Spaltöffnungen.", "Dadurch entsteht ein Sog (Transpirationszug), der die zusammenhängende Wassersäule im Xylem nach oben zieht."], "kriterien": [{ "text": "Verdunstung am Blatt", "punkte": 1 }, { "text": "Sog / Transpirationszug an der Wassersäule", "punkte": 1 }] },
+        { "id": "t14d", "nr": "14d", "lernziel": "14", "typ": "offen", "frage": "Was geschieht bei Trockenheit mit den Spaltöffnungen? Nenne einen Vorteil und einen Nachteil.", "zeilen": 3, "musterloesung": ["Sie schliessen sich.", "Vorteil: weniger Wasserverlust.", "Nachteil: weniger CO₂-Aufnahme → weniger Fotosynthese."], "kriterien": [{ "text": "Vorteil: weniger Wasserverlust", "punkte": 1 }, { "text": "Nachteil: weniger CO₂-Aufnahme", "punkte": 1 }] }
+      ]
+    }
+  ]
+}

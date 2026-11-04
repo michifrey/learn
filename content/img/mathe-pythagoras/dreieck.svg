@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300" font-family="Helvetica, Arial, sans-serif" font-size="18">
+<rect width="420" height="300" fill="#fff"/>
+<path d="M80 250 L340 250" stroke="#2f6fdf" stroke-width="5"/>
+<path d="M80 250 L80 60" stroke="#2f6fdf" stroke-width="5"/>
+<path d="M80 60 L340 250" stroke="#d64545" stroke-width="5"/>
+<path d="M80 222 h28 v28" fill="none" stroke="#333" stroke-width="2"/>
+<circle cx="94" cy="236" r="3" fill="#333"/>
+<text x="62" y="272" font-weight="700">C</text><text x="348" y="272" font-weight="700">B</text><text x="64" y="52" font-weight="700">A</text>
+<text x="200" y="278" fill="#2f6fdf" font-weight="700">a (Kathete)</text>
+<text x="20" y="165" fill="#2f6fdf" font-weight="700">b</text>
+<text x="215" y="140" fill="#d64545" font-weight="700" transform="rotate(36 215 140)">c (Hypotenuse)</text>
+<text x="88" y="98" font-size="16">α</text><text x="296" y="242" font-size="16">β</text><text x="116" y="216" font-size="14">90°</text>
+</svg>

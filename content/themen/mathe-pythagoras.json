@@ -1,0 +1,296 @@
+{
+  "quellen": [
+    { "titel": "Prüfungsvorbereitung Pythagoras", "art": "Lernheft mit Training, Probeprüfung und Lösungen", "seiten": 20, "datei": "material/klasse-8/mathe/pythagoras/Pruefungsvorbereitung_Pythagoras_Schulbuchstil.pdf" },
+    { "titel": "Pythagoras auf einen Blick", "art": "Merkblatt", "seiten": 1, "datei": "material/klasse-8/mathe/pythagoras/Pythagoras_Merkblatt_Formeln_Grundlagen.pdf" }
+  ],
+
+  "lernziele": [
+    { "id": "1", "nr": "1", "gruppe": "Grundlagen", "kurz": "Katheten, Hypotenuse, rechter Winkel", "text": "Ich kann im rechtwinkligen Dreieck den rechten Winkel, die Katheten und die Hypotenuse erkennen.", "antwort": "Zuerst den rechten Winkel (90°) suchen. Die zwei Seiten, die den rechten Winkel bilden, sind die **Katheten**. Die Seite gegenüber dem rechten Winkel ist die **Hypotenuse** – sie ist immer die längste Seite. Die Lage auf dem Blatt und die Buchstaben spielen keine Rolle." },
+    { "id": "2", "nr": "2", "gruppe": "Grundlagen", "kurz": "Thaleskreis und Winkel", "text": "Ich kann den Thaleskreis nutzen, Winkel berechnen und ein rechtwinkliges Dreieck konstruieren.", "antwort": "**Satz von Thales:** Liegt C auf dem Halbkreis über AB, ist der Winkel bei C ein rechter Winkel. Winkelsumme 180° → α + β = 90°, also β = 90° − α (z. B. α = 63° → β = 27°). Konstruktion: Strecke AB, Mitte M, Halbkreis mit Radius MA, Punkt C wählen, mit A und B verbinden." },
+    { "id": "3", "nr": "3", "gruppe": "Grundlagen", "kurz": "Pythagoras als Flächensatz", "text": "Ich kann den Satz des Pythagoras als Aussage über Quadratflächen erklären.", "antwort": "**a² + b² = c²**: Die beiden Kathetenquadrate haben zusammen genau die Fläche des Hypotenusenquadrats (9 cm² + 16 cm² = 25 cm²). Addiert werden die Quadrat**flächen**, nicht die Seitenlängen (3 + 4 ≠ 5). Gilt nur im rechtwinkligen Dreieck." },
+    { "id": "4", "nr": "4", "gruppe": "Seiten berechnen", "kurz": "Hypotenuse oder Kathete berechnen", "text": "Ich kann eine Hypotenuse oder eine Kathete berechnen.", "antwort": "Hypotenuse gesucht → Quadrate **addieren**: c = √(a² + b²).\nKathete gesucht → Quadrate **subtrahieren**: a = √(c² − b²), b = √(c² − a²).\nBeispiele: c = √(6² + 8²) = √100 = 10 cm; b = √(15² − 9²) = √144 = 12 cm." },
+    { "id": "5", "nr": "5", "gruppe": "Seiten berechnen", "kurz": "Sauber vorgehen, Einheiten, Runden", "text": "Ich kann sauber vorgehen, Einheiten umrechnen und sinnvoll runden.", "antwort": "Rechenplan: Skizze → rechten Winkel markieren → Seiten zuordnen → Gleichung aufschreiben → quadrieren, addieren/subtrahieren, Wurzel ziehen → Einheit und Grösse prüfen. Vorher alles in **dieselbe Einheit** umrechnen (0.4 m = 40 cm). Erst **am Schluss runden**." },
+    { "id": "6", "nr": "6", "gruppe": "Anwendungen", "kurz": "Diagonalen und Rechteckseiten", "text": "Ich kann Diagonalen und fehlende Rechteckseiten berechnen.", "antwort": "Die Diagonale teilt das Rechteck in zwei rechtwinklige Dreiecke; die Diagonale ist die Hypotenuse: d = √(a² + b²). Fehlende Seite: b = √(d² − a²). Quadrat: d = s · √2 (s = 6 cm → d = 6√2 ≈ 8.5 cm)." },
+    { "id": "7", "nr": "7", "gruppe": "Anwendungen", "kurz": "Höhen und Teildreiecke", "text": "Ich kann Höhen berechnen und Teilfiguren geschickt nutzen.", "antwort": "Höhe einzeichnen → zwei rechtwinklige Teildreiecke. Im gleichschenkligen Dreieck halbiert die Höhe von der Spitze die Basis: h = √(Schenkel² − (Basis/2)²). Danach A = g · h : 2. Gleichseitig (s = 6): h = √27 = 3√3 ≈ 5.2 cm." },
+    { "id": "8", "nr": "8", "gruppe": "Anwendungen", "kurz": "Strecken im Koordinatensystem", "text": "Ich kann Streckenlängen im Koordinatensystem bestimmen.", "antwort": "Δx = x₂ − x₁ und Δy = y₂ − y₁ sind die Katheten eines Hilfsdreiecks. Länge = √(Δx² + Δy²). Beispiel A(2/6), B(7/8): √(5² + 2²) = √29 ≈ 5.4 LE. Nicht Δx + Δy rechnen – das wäre der Umweg über die Gitterlinien." },
+    { "id": "9", "nr": "9", "gruppe": "Vertiefung", "kurz": "Wurzeln, Rhomben, Buchstaben", "text": "Ich kann mit Wurzeln exakt rechnen sowie Rhomben und Aufgaben mit Buchstaben lösen.", "antwort": "√72 = √(36 · 2) = 6√2 (exakt) ≈ 8.5. Rhombus: Diagonalen halbieren sich senkrecht → Seite = √((e/2)² + (f/2)²). Mit Buchstaben: (3k)² + (4k)² = 25k² → c = 5k." },
+    { "id": "10", "nr": "10", "gruppe": "Vertiefung", "kurz": "Fehler erkennen, Ergebnisse prüfen", "text": "Ich kann typische Fehler erkennen und Ergebnisse überprüfen.", "antwort": "Häufige Fehler: c = a + b; bei der Kathete addieren statt subtrahieren; Wurzel vergessen; verschiedene Einheiten; zu früh runden. Kontrolle: Hypotenuse ist die längste Seite. **Umkehrung**: Gilt für die drei Seiten a² + b² = c² (c = längste Seite), ist das Dreieck rechtwinklig (5, 12, 13 ja; 6, 8, 11 nein)." }
+  ],
+
+  "lernen": [
+    {
+      "id": "dreieck", "titel": "Das rechtwinklige Dreieck", "lernziele": ["1"],
+      "intro": "Zuerst den rechten Winkel finden. Erst danach die Seiten zuordnen.",
+      "bloecke": [
+        { "t": "bild", "src": "content/img/mathe-pythagoras/dreieck.svg", "alt": "Rechtwinkliges Dreieck mit Katheten a und b in Blau und Hypotenuse c in Rot", "caption": "Katheten blau, Hypotenuse rot. Der Winkelhaken markiert den rechten Winkel." },
+        { "t": "tabelle", "kopf": ["Begriff", "Wo liegt sie?", "Merkmal"], "zeilen": [
+          ["**Katheten** a und b", "bilden gemeinsam den rechten Winkel", "die zwei kürzeren Seiten"],
+          ["**Hypotenuse** c", "liegt dem rechten Winkel gegenüber", "immer die längste Seite"]
+        ] },
+        { "t": "h", "text": "Die Winkel passen zusammen" },
+        { "t": "formel", "text": "α + β + 90° = 180°  →  α + β = 90°", "notiz": "Winkelsumme im Dreieck" },
+        { "t": "beispiel", "titel": "Beispiel", "zeilen": ["α = 63°", "β = 90° − 63° = 27°"], "notiz": "Bei gleich langen Katheten gilt α = β = 45°." },
+        { "t": "merke", "titel": "Die Lage spielt keine Rolle", "text": "Auch in einem gedrehten Dreieck liegt die Hypotenuse gegenüber dem rechten Winkel. Die Buchstaben können anders heissen – entscheidend ist die Lage zum rechten Winkel." }
+      ]
+    },
+    {
+      "id": "thales", "titel": "Thaleskreis und Winkel", "lernziele": ["2"],
+      "intro": "Der Thaleskreis hilft dir, einen rechten Winkel zu erkennen oder zu konstruieren.",
+      "bloecke": [
+        { "t": "merke", "titel": "Satz von Thales", "text": "Liegt C auf dem Halbkreis über dem Durchmesser AB, dann ist der Winkel ACB ein rechter Winkel. C darf nicht mit A oder B zusammenfallen." },
+        { "t": "bild", "src": "content/img/mathe-pythagoras/thales.svg", "alt": "Halbkreis über AB mit Mittelpunkt M, Punkt C auf dem Halbkreis, rechter Winkel bei C", "klein": true },
+        { "t": "schritte", "titel": "So konstruierst du das Dreieck", "items": [
+          "Zeichne die Strecke AB.",
+          "Bestimme die Mitte M und zeichne den Halbkreis mit Radius MA.",
+          "Wähle einen Punkt C auf dem Halbkreis und verbinde C mit A und B.",
+          "Markiere den rechten Winkel bei C. Für ein gleichschenkliges Dreieck wählst du C senkrecht über M."
+        ] },
+        { "t": "beispiel", "titel": "Winkel berechnen", "zeilen": ["γ = 90° (Thales)", "α = 63°  →  β = 180° − 90° − 63° = 27°", "C am höchsten Punkt: α = β = 45°"] },
+        { "t": "p", "text": "Spiegelst du C am Mittelpunkt M zu C′, bilden A, C, B und C′ ein Rechteck. Beim rechtwinklig-gleichschenkligen Dreieck entsteht ein Quadrat." },
+        { "t": "achtung", "titel": "Nicht verwechseln", "text": "**Thales** erklärt den rechten Winkel. **Pythagoras** verknüpft die Seitenlängen." }
+      ]
+    },
+    {
+      "id": "flaechensatz", "titel": "Pythagoras als Flächensatz", "lernziele": ["3"],
+      "intro": "Die beiden Kathetenquadrate haben zusammen genau die Fläche des Hypotenusenquadrats.",
+      "bloecke": [
+        { "t": "formel", "text": "a² + b² = c²", "notiz": "gilt nur im rechtwinkligen Dreieck" },
+        { "t": "bild", "src": "content/img/mathe-pythagoras/flaechensatz.svg", "alt": "Dreieck mit Seiten 3, 4 und 5 cm und den Quadraten 9, 16 und 25 cm² über den Seiten", "klein": true },
+        { "t": "beispiel", "titel": "Katheten 3 cm und 4 cm", "zeilen": ["3² + 4² = 5²", "9 + 16 = 25"], "notiz": "Die Hypotenuse ist 5 cm lang." },
+        { "t": "achtung", "titel": "Was wird addiert?", "text": "Es werden **Quadratflächen** addiert. Die Seitenlängen selbst darfst du nicht addieren: 3 + 4 = 7, die Hypotenuse ist aber 5 cm lang." },
+        { "t": "p", "text": "**Quadrieren:** a² = a · a.  **Wurzel ziehen** macht das Quadrieren bei positiven Zahlen rückgängig: √25 = 5." },
+        { "t": "p", "text": "Bei anderen Dreiecken brauchst du zuerst ein passendes rechtwinkliges Teildreieck." }
+      ]
+    },
+    {
+      "id": "hypotenuse", "titel": "Die Hypotenuse berechnen", "lernziele": ["4"],
+      "intro": "Gesucht ist die Seite gegenüber dem rechten Winkel: Du addierst die beiden Kathetenquadrate.",
+      "bloecke": [
+        { "t": "formel", "text": "c = √(a² + b²)", "notiz": "Quadrate addieren, dann Wurzel ziehen" },
+        { "t": "beispiel", "titel": "a = 6 cm, b = 8 cm", "zeilen": ["c² = 6² + 8²", "c² = 36 + 64", "c² = 100", "c = √100 = **10 cm**"] },
+        { "t": "liste", "items": [
+          "**Quadrieren:** 6² bedeutet 6 · 6 = 36.",
+          "**Addieren:** Die beiden Quadratflächen ergeben 100.",
+          "**Wurzel ziehen:** Gesucht ist die Seitenlänge – aus 100 wird wieder 10.",
+          "**Einheit ergänzen:** 10 cm, nicht 100 cm und nicht 10 cm²."
+        ] },
+        { "t": "beispiel", "titel": "Nicht jedes Ergebnis ist ganz", "zeilen": ["a = 5 cm, b = 7 cm", "c = √(5² + 7²) = √74 ≈ 8.6 cm"] },
+        { "t": "merke", "titel": "Prüfe dein Ergebnis", "text": "Die Hypotenuse ist die längste Seite: 10 cm ist länger als 6 cm und 8 cm. ✓" }
+      ]
+    },
+    {
+      "id": "kathete", "titel": "Eine Kathete berechnen", "lernziele": ["4"],
+      "intro": "Hypotenuse und eine Kathete sind bekannt: Du subtrahierst die Quadrate.",
+      "bloecke": [
+        { "t": "formel", "text": "a² + b² = c²  →  b² = c² − a²  →  b = √(c² − a²)" },
+        { "t": "beispiel", "titel": "c = 15 cm, a = 9 cm", "zeilen": ["b² = 15² − 9²", "b² = 225 − 81", "b² = 144", "b = √144 = **12 cm**"] },
+        { "t": "p", "text": "**Warum subtrahieren?** Das Hypotenusenquadrat ist so gross wie beide Kathetenquadrate zusammen. Ziehst du das bekannte Kathetenquadrat ab, bleibt das gesuchte übrig." },
+        { "t": "tabelle", "kopf": ["Gesucht", "Formel", "Merke"], "zeilen": [
+          ["Hypotenuse c", "c = √(a² + b²)", "Quadrate addieren"],
+          ["Kathete a", "a = √(c² − b²)", "Quadrate subtrahieren"],
+          ["Kathete b", "b = √(c² − a²)", "Quadrate subtrahieren"]
+        ] },
+        { "t": "merke", "titel": "Schneller Kontrollblick", "text": "Die Kathete muss kürzer als die Hypotenuse sein. Kommt unter der Wurzel eine negative Zahl heraus, stimmt die Seitenzuordnung nicht." }
+      ]
+    },
+    {
+      "id": "rechenplan", "titel": "Rechenplan, Einheiten, Runden", "lernziele": ["5"],
+      "intro": "Mit diesem Ablauf vermeidest du die häufigsten Fehler.",
+      "bloecke": [
+        { "t": "schritte", "items": [
+          "**Skizze:** Figur zeichnen, bekannte Längen eintragen.",
+          "**Rechter Winkel:** markieren, passendes Teildreieck suchen.",
+          "**Seiten zuordnen:** Hypotenuse und Katheten bestimmen. Welche Seite ist gesucht?",
+          "**Gleichung:** zuerst den Satz hinschreiben und passend umstellen.",
+          "**Rechnen und prüfen:** quadrieren, addieren/subtrahieren, Wurzel ziehen, Einheit ergänzen, Grösse prüfen."
+        ] },
+        { "t": "beispiel", "titel": "Vor dem Rechnen: gleiche Längeneinheit", "aufgabe": "a = 30 cm, b = 0.4 m", "zeilen": ["b = 0.4 m = 40 cm", "c² = 30² + 40² = 900 + 1600 = 2500", "c = √2500 = **50 cm = 0.5 m**"] },
+        { "t": "merke", "titel": "Runden", "text": "Wurzel ziehen und **erst am Ende runden** – meist auf eine Dezimalstelle. Mit dem exakten oder gespeicherten Wert weiterrechnen. Längen in cm, Flächen in cm²." }
+      ]
+    },
+    {
+      "id": "rechteck", "titel": "Rechteck und Quadrat", "lernziele": ["6"],
+      "intro": "Die Diagonale teilt Rechteck und Quadrat in zwei rechtwinklige Dreiecke.",
+      "bloecke": [
+        { "t": "bild", "src": "content/img/mathe-pythagoras/rechteck.svg", "alt": "Rechteck mit Seiten a und b und Diagonale d", "klein": true },
+        { "t": "formel", "text": "d = √(a² + b²)", "notiz": "Die Diagonale ist die Hypotenuse." },
+        { "t": "beispiel", "titel": "Rechteck 5 cm × 12 cm", "zeilen": ["d = √(5² + 12²) = √169 = **13 cm**"] },
+        { "t": "beispiel", "titel": "Fehlende Seite: a = 9 cm, d = 15 cm", "zeilen": ["b = √(15² − 9²) = √144 = **12 cm**"] },
+        { "t": "h", "text": "Quadrat" },
+        { "t": "formel", "text": "d² = s² + s² = 2s²  →  d = s · √2" },
+        { "t": "beispiel", "titel": "s = 5 cm", "zeilen": ["d = 5√2 cm ≈ 7.1 cm"] }
+      ]
+    },
+    {
+      "id": "hoehen", "titel": "Höhen und Teildreiecke", "lernziele": ["7"],
+      "intro": "Zeichne die Höhe ein. So entstehen zwei rechtwinklige Teildreiecke.",
+      "bloecke": [
+        { "t": "bild", "src": "content/img/mathe-pythagoras/gleichschenklig.svg", "alt": "Gleichschenkliges Dreieck, Basis 6 cm, Schenkel 5 cm, Höhe h halbiert die Basis", "klein": true },
+        { "t": "beispiel", "titel": "Basis 6 cm, Schenkel 5 cm", "zeilen": ["h² + 3² = 5²", "h = √(25 − 9) = √16 = 4 cm", "A = 6 · 4 : 2 = **12 cm²**"] },
+        { "t": "achtung", "titel": "Die Basis wird nur hier halbiert", "text": "Die Höhe von der Spitze eines **gleichschenkligen** Dreiecks halbiert die Basis. Bei einem beliebigen Dreieck darfst du das nicht annehmen." },
+        { "t": "beispiel", "titel": "Sonderfall gleichseitiges Dreieck, s = 6 cm", "zeilen": ["h² = 6² − 3² = 27", "h = √27 = 3√3 cm ≈ 5.2 cm", "A = 6 · 3√3 : 2 = 9√3 cm² ≈ 15.6 cm²"] },
+        { "t": "h", "text": "Eine Figur in Teildreiecke zerlegen" },
+        { "t": "p", "text": "Die Höhe h steht senkrecht auf der Grundseite und gehört zu **beiden** Teildreiecken. Du kannst sie von links oder rechts berechnen." },
+        { "t": "spalten", "spalten": [
+          [{ "t": "beispiel", "titel": "Linkes Teildreieck (120 cm, 96 cm)", "zeilen": ["h² = 120² − 96²", "h² = 14400 − 9216", "h = √5184 = 72 cm"] }],
+          [{ "t": "beispiel", "titel": "Rechtes Teildreieck (75 cm, 21 cm)", "zeilen": ["h² = 75² − 21²", "h² = 5625 − 441", "h = √5184 = 72 cm"] }]
+        ] },
+        { "t": "beispiel", "titel": "Danach die Fläche", "zeilen": ["g = 96 + 21 = 117 cm", "A = 117 · 72 : 2 = **4212 cm²**"], "notiz": "Kontrolle: Beide Rechnungen ergeben dieselbe Höhe." }
+      ]
+    },
+    {
+      "id": "koordinaten", "titel": "Strecken im Koordinatensystem", "lernziele": ["8"],
+      "intro": "Die waagrechte und die senkrechte Strecke sind die Katheten eines Hilfsdreiecks.",
+      "bloecke": [
+        { "t": "bild", "src": "content/img/mathe-pythagoras/koordinaten.svg", "alt": "Koordinatensystem mit A(2/6) und B(7/8), Hilfsdreieck mit Δx = 5 und Δy = 2", "klein": true },
+        { "t": "beispiel", "titel": "A(2/6), B(7/8)", "zeilen": ["Waagrecht: Δx = 7 − 2 = 5", "Senkrecht: Δy = 8 − 6 = 2", "AB² = 5² + 2² = 29", "AB = √29 ≈ **5.4 LE**"], "notiz": "LE = Längeneinheiten (Abstand zweier Gitterlinien)." },
+        { "t": "formel", "text": "AB = √((x₂ − x₁)² + (y₂ − y₁)²)" },
+        { "t": "beispiel", "titel": "Auch bei absteigenden Strecken: A(1/5), B(4/1)", "zeilen": ["Δx = 3, Δy = −4", "AB = √(3² + (−4)²) = √25 = **5 LE**"] },
+        { "t": "achtung", "text": "Die Strecke ist **nicht** 3 + 4 = 7 LE lang. 3 und 4 beschreiben den Umweg entlang der Gitterlinien – gesucht ist die direkte Verbindung." }
+      ]
+    },
+    {
+      "id": "vertiefung", "titel": "Wurzeln, Rhombus, Buchstaben", "lernziele": ["9"],
+      "intro": "Vertiefung für weiterführende Aufgaben.",
+      "bloecke": [
+        { "t": "beispiel", "titel": "Rhombus mit Diagonalen 24 cm und 10 cm", "zeilen": ["Halbe Diagonalen: 12 cm und 5 cm", "s = √(12² + 5²) = 13 cm", "U = 4 · 13 = 52 cm", "A = 24 · 10 : 2 = 120 cm²"], "notiz": "Die Diagonalen eines Rhombus stehen senkrecht aufeinander und halbieren sich." },
+        { "t": "beispiel", "titel": "Exakt mit Wurzeln", "zeilen": ["√72 = √(36 · 2) = 6√2"], "notiz": "6√2 ist exakt, 8.5 nur gerundet." },
+        { "t": "beispiel", "titel": "Seiten mit Buchstaben: Katheten 3k und 4k (k > 0)", "zeilen": ["c² = (3k)² + (4k)² = 9k² + 16k² = 25k²", "c = 5k"] },
+        { "t": "merke", "titel": "Komplizierte Figuren", "text": "Suche zuerst ein rechtwinkliges Dreieck. Berechne eine Hilfsstrecke und nutze sie im nächsten Dreieck. Nicht jede gezeichnete Strecke gehört zum gesuchten Umfang." }
+      ]
+    },
+    {
+      "id": "fehler", "titel": "Typische Fehler und Kontrollen", "lernziele": ["10"],
+      "intro": "Bevor du abgibst: Formel, Grössenordnung und Einheit prüfen.",
+      "bloecke": [
+        { "t": "tabelle", "kopf": ["Typischer Fehler", "So ist es richtig"], "zeilen": [
+          ["c = a + b", "c = √(a² + b²) – addiert werden die Quadrate."],
+          ["Kathete: b² = c² + a²", "Bei der Kathete wird subtrahiert: b² = c² − a²."],
+          ["c² = 100, also c = 100", "Noch die Wurzel ziehen: c = 10."],
+          ["√(a² + b²) = a + b", "Eine Wurzel darf man nicht auf eine Summe verteilen."],
+          ["Alle Höhen halbieren die Grundseite", "Nur die Höhe von der Spitze eines gleichschenkligen Dreiecks."],
+          ["30 cm und 0.4 m direkt einsetzen", "Zuerst in dieselbe Einheit umrechnen."],
+          ["Zwischenergebnis zu früh runden", "Mit dem exakten Wert weiterrechnen."]
+        ] },
+        { "t": "h", "text": "Mit Seitenlängen einen rechten Winkel nachweisen" },
+        { "t": "p", "text": "Nimm die längste Seite als mögliche Hypotenuse. Stimmen die Quadratflächen, ist das Dreieck rechtwinklig (**Umkehrung** des Satzes von Pythagoras)." },
+        { "t": "spalten", "spalten": [
+          [{ "t": "beispiel", "titel": "Seiten 5, 12, 13", "zeilen": ["5² + 12² = 25 + 144 = 169", "13² = 169 → **rechtwinklig**"] }],
+          [{ "t": "beispiel", "titel": "Seiten 6, 8, 11", "zeilen": ["6² + 8² = 100", "11² = 121 → **nicht** rechtwinklig"] }]
+        ] },
+        { "t": "merke", "titel": "Nicht nach Augenmass entscheiden", "text": "Die Rechnung ist zuverlässiger als der erste Eindruck." }
+      ]
+    },
+    {
+      "id": "merkblatt", "titel": "Merkblatt: alles auf einen Blick", "lernziele": [],
+      "bloecke": [
+        { "t": "formel", "text": "a² + b² = c²", "notiz": "a, b: Katheten am 90°-Winkel · c: Hypotenuse, längste Seite" },
+        { "t": "tabelle", "kopf": ["Gesucht", "Formel", "Merke"], "zeilen": [
+          ["Hypotenuse c", "c = √(a² + b²)", "Quadrate addieren"],
+          ["Kathete a", "a = √(c² − b²)", "Quadrate subtrahieren"],
+          ["Kathete b", "b = √(c² − a²)", "Quadrate subtrahieren"]
+        ] },
+        { "t": "p", "text": "**So rechnest du:** Skizze → rechten Winkel markieren → Seiten zuordnen → Formel wählen → einsetzen → quadrieren → addieren/subtrahieren → Wurzel ziehen." },
+        { "t": "spalten", "spalten": [
+          [{ "t": "liste", "items": ["Gleiche Längeneinheit einsetzen.", "Wurzel ziehen, erst am Ende runden.", "Hypotenuse = längste Seite.", "Längen: cm; Flächen: cm²."] }],
+          [{ "t": "liste", "items": ["Rechteck: d = √(a² + b²)", "Quadrat: d = s · √2", "Dreiecksfläche: A = g · h : 2", "α + β = 90°, wenn γ = 90°"] }]
+        ] }
+      ]
+    }
+  ],
+
+  "karten": [
+    { "vorne": "Wie heissen die Seiten, die den rechten Winkel bilden?", "hinten": "Katheten" },
+    { "vorne": "Welche Seite liegt dem rechten Winkel gegenüber?", "hinten": "Die Hypotenuse – die längste Seite." },
+    { "vorne": "Satz des Pythagoras (Formel)", "hinten": "a² + b² = c²  (nur im rechtwinkligen Dreieck)" },
+    { "vorne": "Formel für die Hypotenuse c", "hinten": "c = √(a² + b²)" },
+    { "vorne": "Formel für die Kathete b", "hinten": "b = √(c² − a²)" },
+    { "vorne": "Satz von Thales", "hinten": "Liegt C auf dem Halbkreis über AB, ist der Winkel bei C 90°." },
+    { "vorne": "Diagonale im Quadrat mit Seite s", "hinten": "d = s · √2" },
+    { "vorne": "Strecke AB im Koordinatensystem", "hinten": "AB = √(Δx² + Δy²)" },
+    { "vorne": "Höhe im gleichschenkligen Dreieck", "hinten": "h = √(Schenkel² − (Basis : 2)²)" },
+    { "vorne": "Wie prüfst du, ob ein Dreieck rechtwinklig ist?", "hinten": "Umkehrung: Längste Seite als c nehmen. Gilt a² + b² = c², ist es rechtwinklig." },
+    { "vorne": "Wann wird gerundet?", "hinten": "Erst ganz am Schluss." },
+    { "vorne": "√72 exakt vereinfachen", "hinten": "√(36 · 2) = 6√2 ≈ 8.5" }
+  ],
+
+  "uebungen": [
+    { "id": "u1", "lernziel": "1", "typ": "mc", "frage": "Im Dreieck DEF liegt der rechte Winkel bei E. Welche Seite ist die Hypotenuse?", "optionen": ["DF", "DE", "EF", "Es gibt keine Hypotenuse."], "richtig": 0, "erklaerung": "Die Hypotenuse liegt dem rechten Winkel gegenüber – also die Seite, die E nicht berührt: DF." },
+    { "id": "u2", "lernziel": "1", "typ": "zuordnen", "frage": "Ordne zu.", "paare": [["Katheten", "bilden den rechten Winkel"], ["Hypotenuse", "liegt dem rechten Winkel gegenüber"], ["rechter Winkel", "genau 90°"]], "ablenker": ["grösser als 90°"] },
+    { "id": "u3", "lernziel": "1", "typ": "mc", "frage": "Welche Aussagen stimmen für jedes rechtwinklige Dreieck?", "optionen": ["Die Hypotenuse ist die längste Seite.", "Die beiden anderen Winkel sind kleiner als 90°.", "Die Hypotenuse liegt immer unten.", "Die Katheten sind immer gleich lang."], "richtig": [0, 1], "erklaerung": "Lage und Buchstaben spielen keine Rolle; Katheten können verschieden lang sein." },
+    { "id": "u4", "lernziel": "2", "typ": "zahl", "frage": "Rechtwinkliges Dreieck: α = 36°, γ = 90°. Wie gross ist β?", "vor": "β =", "antwort": 54, "einheit": "°", "toleranz": 0, "erklaerung": "β = 90° − 36° = 54°" },
+    { "id": "u5", "lernziel": "2", "typ": "zahl", "frage": "Ein Dreieck ist rechtwinklig und gleichschenklig. Wie gross ist α?", "vor": "α =", "antwort": 45, "einheit": "°", "toleranz": 0, "erklaerung": "Die beiden spitzen Winkel sind gleich: (180° − 90°) : 2 = 45°." },
+    { "id": "u6", "lernziel": "2", "typ": "mc", "frage": "C liegt auf dem Halbkreis über dem Durchmesser AB. Was gilt?", "optionen": ["Der Winkel bei C ist 90°.", "Der Winkel bei A ist 90°.", "AC und BC sind immer gleich lang.", "Der Winkel bei C ist 60°."], "richtig": 0, "erklaerung": "Das ist der Satz von Thales." },
+    { "id": "u7", "lernziel": "2", "typ": "reihenfolge", "frage": "Bringe die Konstruktion mit dem Thaleskreis in die richtige Reihenfolge.", "items": ["Strecke AB zeichnen", "Mitte M bestimmen", "Halbkreis mit Radius MA zeichnen", "Punkt C auf dem Halbkreis wählen und mit A und B verbinden"] },
+    { "id": "u8", "lernziel": "2", "typ": "zahl", "frage": "C liegt auf dem Thaleskreis über AB. Der Winkel bei A ist 63°. Wie gross ist der Winkel bei B?", "vor": "β =", "antwort": 27, "einheit": "°", "toleranz": 0, "erklaerung": "γ = 90° (Thales), β = 180° − 90° − 63° = 27°." },
+    { "id": "u9", "lernziel": "3", "typ": "luecke", "frage": "Ergänze den Satz.", "text": "Die Flächen der beiden {{0}}quadrate ergeben zusammen die Fläche des {{1}}quadrats. Das gilt nur im {{2}} Dreieck.", "luecken": [["Katheten", "Kathete"], ["Hypotenusen", "Hypotenuse"], ["rechtwinkligen", "rechtwinkligem"]] },
+    { "id": "u10", "lernziel": "3", "typ": "zahl", "frage": "Die beiden Kathetenquadrate haben 36 cm² und 64 cm². Wie gross ist das Hypotenusenquadrat?", "antwort": 100, "einheit": "cm²", "toleranz": 0, "erklaerung": "36 + 64 = 100 cm². Die Hypotenuse ist also √100 = 10 cm lang." },
+    { "id": "u11", "lernziel": "3", "typ": "mc", "frage": "Katheten 3 cm und 4 cm. Lena sagt: «Die Hypotenuse ist 7 cm.» Was ist falsch?", "optionen": ["Sie hat die Seitenlängen addiert statt der Quadrate.", "Sie hätte subtrahieren müssen.", "Nichts, 7 cm stimmt.", "Sie hat die Einheit vergessen."], "richtig": 0, "erklaerung": "c = √(9 + 16) = √25 = 5 cm." },
+    { "id": "u12", "lernziel": "4", "typ": "zahl", "frage": "Katheten a = 9 cm und b = 12 cm. Berechne c.", "vor": "c =", "antwort": 15, "einheit": "cm", "hilfe": "Hypotenuse gesucht → Quadrate addieren.", "erklaerung": "c² = 81 + 144 = 225 → c = 15 cm" },
+    { "id": "u13", "lernziel": "4", "typ": "zahl", "frage": "Hypotenuse c = 17 cm, Kathete a = 8 cm. Berechne b.", "vor": "b =", "antwort": 15, "einheit": "cm", "hilfe": "Kathete gesucht → Quadrate subtrahieren.", "erklaerung": "b² = 289 − 64 = 225 → b = 15 cm" },
+    { "id": "u14", "lernziel": "4", "typ": "zahl", "frage": "Katheten a = 12 cm und b = 16 cm. Berechne die Hypotenuse.", "vor": "c =", "antwort": 20, "einheit": "cm", "erklaerung": "c² = 144 + 256 = 400 → c = 20 cm" },
+    { "id": "u15", "lernziel": "4", "typ": "zahl", "frage": "Hypotenuse 13 cm, Kathete 5 cm. Berechne die zweite Kathete.", "antwort": 12, "einheit": "cm", "erklaerung": "b² = 169 − 25 = 144 → b = 12 cm" },
+    { "id": "u16", "lernziel": "4", "typ": "zahl", "frage": "Katheten 5 cm und 7 cm. Berechne c auf eine Dezimalstelle.", "vor": "c ≈", "antwort": 8.6, "einheit": "cm", "erklaerung": "c = √(25 + 49) = √74 ≈ 8.6 cm" },
+    { "id": "u17", "lernziel": "4", "typ": "zuordnen", "frage": "Welche Formel passt?", "paare": [["Hypotenuse c gesucht", "c = √(a² + b²)"], ["Kathete a gesucht", "a = √(c² − b²)"], ["Kathete b gesucht", "b = √(c² − a²)"]], "ablenker": ["c = a + b", "b = √(c² + a²)"] },
+    { "id": "u18", "lernziel": "5", "typ": "zahl", "frage": "Katheten a = 0.6 m und b = 80 cm. Berechne c in cm.", "vor": "c =", "antwort": 100, "einheit": "cm", "hilfe": "Zuerst 0.6 m in cm umrechnen.", "erklaerung": "0.6 m = 60 cm; c² = 3600 + 6400 = 10 000 → c = 100 cm = 1 m" },
+    { "id": "u19", "lernziel": "5", "typ": "reihenfolge", "frage": "Bringe den Rechenplan in die richtige Reihenfolge.", "items": ["Skizze zeichnen", "Rechten Winkel markieren", "Hypotenuse und Katheten zuordnen", "Gleichung aufschreiben und umstellen", "Rechnen, Einheit ergänzen und prüfen"] },
+    { "id": "u20", "lernziel": "5", "typ": "mc", "frage": "Wann rundest du bei mehrstufigen Aufgaben?", "optionen": ["Erst ganz am Schluss.", "Nach jedem Schritt.", "Gar nie.", "Nur bei der ersten Wurzel."], "richtig": 0 },
+    { "id": "u21", "lernziel": "6", "typ": "zahl", "frage": "Ein Rechteck ist 5 cm breit und 12 cm lang. Berechne die Diagonale.", "vor": "d =", "antwort": 13, "einheit": "cm", "erklaerung": "d = √(25 + 144) = √169 = 13 cm" },
+    { "id": "u22", "lernziel": "6", "typ": "zahl", "frage": "Eine Rechteckseite ist 9 cm lang, die Diagonale 15 cm. Berechne die andere Seite.", "antwort": 12, "einheit": "cm", "erklaerung": "b = √(225 − 81) = √144 = 12 cm" },
+    { "id": "u23", "lernziel": "6", "typ": "zahl", "frage": "Ein Quadrat hat die Seite 6 cm. Berechne die Diagonale auf eine Dezimalstelle.", "vor": "d ≈", "antwort": 8.5, "einheit": "cm", "erklaerung": "d = √72 = 6√2 ≈ 8.5 cm" },
+    { "id": "u24", "lernziel": "7", "typ": "zahl", "frage": "Gleichschenkliges Dreieck: Basis 8 cm, Schenkel 5 cm. Berechne die Höhe h.", "vor": "h =", "antwort": 3, "einheit": "cm", "hilfe": "Die Höhe halbiert die Basis: 4 cm.", "erklaerung": "h = √(25 − 16) = √9 = 3 cm" },
+    { "id": "u25", "lernziel": "7", "typ": "zahl", "frage": "Gleiches Dreieck (Basis 8 cm, h = 3 cm): Berechne die Fläche.", "vor": "A =", "antwort": 12, "einheit": "cm²", "erklaerung": "A = 8 · 3 : 2 = 12 cm²" },
+    { "id": "u26", "lernziel": "7", "typ": "zahl", "frage": "Gleichseitiges Dreieck mit s = 6 cm. Berechne die Höhe auf eine Dezimalstelle.", "vor": "h ≈", "antwort": 5.2, "einheit": "cm", "erklaerung": "h = √(36 − 9) = √27 ≈ 5.2 cm" },
+    { "id": "u27", "lernziel": "7", "typ": "zahl", "frage": "Eine Höhe teilt die Grundseite in 9 cm und 5 cm. Die schrägen Seiten sind 15 cm und 13 cm. Berechne die gesamte Dreiecksfläche.", "vor": "A =", "antwort": 84, "einheit": "cm²", "hilfe": "h zuerst aus einem Teildreieck: √(15² − 9²).", "erklaerung": "h = √144 = 12 cm (beide Wege); g = 14 cm; A = 14 · 12 : 2 = 84 cm²" },
+    { "id": "u28", "lernziel": "8", "typ": "zahl", "frage": "A(1/5), B(4/1). Wie lang ist AB?", "vor": "AB =", "antwort": 5, "einheit": "LE", "erklaerung": "Δx = 3, Δy = −4 → √(9 + 16) = 5 LE" },
+    { "id": "u29", "lernziel": "8", "typ": "zahl", "frage": "A(2/6), B(7/8). Berechne AB auf eine Dezimalstelle.", "vor": "AB ≈", "antwort": 5.4, "einheit": "LE", "erklaerung": "√(5² + 2²) = √29 ≈ 5.4 LE" },
+    { "id": "u30", "lernziel": "8", "typ": "mc", "frage": "Warum ist die Strecke von A(1/5) nach B(4/1) nicht 3 + 4 = 7 LE lang?", "optionen": ["3 und 4 sind der Umweg entlang der Gitterlinien – gesucht ist die direkte Verbindung.", "Weil man immer subtrahieren muss.", "Weil Koordinaten keine Längen haben.", "Doch, sie ist 7 LE lang."], "richtig": 0 },
+    { "id": "u31", "lernziel": "9", "typ": "zahl", "frage": "Rhombus mit Diagonalen 24 cm und 10 cm. Wie lang ist eine Seite?", "vor": "s =", "antwort": 13, "einheit": "cm", "hilfe": "Halbe Diagonalen: 12 und 5.", "erklaerung": "s = √(144 + 25) = √169 = 13 cm" },
+    { "id": "u32", "lernziel": "9", "typ": "luecke", "frage": "Vereinfache exakt.", "text": "√72 = √(36 · 2) = {{0}}√2", "luecken": [["6"]] },
+    { "id": "u33", "lernziel": "9", "typ": "luecke", "frage": "Katheten 3k und 4k (k > 0).", "text": "c² = 9k² + 16k² = {{0}}k², also c = {{1}}k", "luecken": [["25"], ["5"]] },
+    { "id": "u34", "lernziel": "10", "typ": "mc", "frage": "Ist ein Dreieck mit den Seiten 6 cm, 8 cm und 11 cm rechtwinklig?", "optionen": ["Nein, denn 6² + 8² = 100, aber 11² = 121.", "Ja, denn 6 + 8 > 11.", "Ja, das sieht man.", "Nein, weil 11 eine Primzahl ist."], "richtig": 0 },
+    { "id": "u35", "lernziel": "10", "typ": "mc", "frage": "Ist ein Dreieck mit den Seiten 5, 12 und 13 rechtwinklig?", "optionen": ["Ja, denn 25 + 144 = 169 = 13².", "Nein.", "Man kann das nicht berechnen."], "richtig": 0 },
+    { "id": "u36", "lernziel": "10", "typ": "offen", "frage": "Max rechnet: c² = 100, also c = 100 cm. Erkläre den Fehler und gib das richtige Ergebnis an.", "musterloesung": ["Max hat vergessen, die Wurzel zu ziehen.", "c = √100 = 10 cm"], "kriterien": [{ "text": "Fehler erkannt: Wurzel vergessen", "punkte": 1 }, { "text": "Richtiges Ergebnis c = 10 cm", "punkte": 1 }] },
+    { "id": "u37", "lernziel": "5", "typ": "offen", "frage": "Eine Schülerin rechnet mit den Katheten 30 cm und 0.4 m: c = √(30² + 0.4²) ≈ 30.0 cm. Erkläre den Fehler und rechne richtig (Ergebnis in cm und m).", "musterloesung": ["Fehler: verschiedene Längeneinheiten eingesetzt.", "0.4 m = 40 cm", "c = √(30² + 40²) = √2500 = 50 cm = 0.5 m"], "kriterien": [{ "text": "Fehler (Einheiten) erklärt", "punkte": 2 }, { "text": "0.4 m = 40 cm umgerechnet", "punkte": 1 }, { "text": "c = 50 cm = 0.5 m", "punkte": 1 }] }
+  ],
+
+  "pruefungen": [
+    {
+      "id": "probe",
+      "titel": "Probeprüfung Pythagoras und Thales",
+      "richtzeit": 45,
+      "hinweis": "Ohne Unterlagen. Schreibe bei Rechenaufgaben die Gleichung und den vollständigen Rechenweg auf (Notizfeld oder Papier). Prüfe am Schluss Einheiten und den Unterschied zwischen Länge und Fläche.",
+      "aufgaben": [
+        { "id": "p1", "nr": "1", "abschnitt": "Teil 1", "lernziel": "1", "typ": "offen", "skizze": true, "titel": "Dreieck verstehen", "frage": "Zeichne ein rechtwinkliges Dreieck. Markiere den rechten Winkel und benenne Katheten und Hypotenuse. Schreibe den Satz von Pythagoras auf.", "loesungBild": "content/img/mathe-pythagoras/dreieck.svg", "musterloesung": ["a² + b² = c² (Katheten a, b; Hypotenuse c gegenüber dem rechten Winkel)"], "kriterien": [{ "text": "Skizze mit markiertem rechtem Winkel", "punkte": 2 }, { "text": "Beide Katheten richtig benannt", "punkte": 1 }, { "text": "Hypotenuse richtig benannt, gegenüber dem rechten Winkel", "punkte": 1 }, { "text": "Passende Gleichung a² + b² = c²", "punkte": 2 }] },
+        { "id": "p2a", "nr": "2a", "lernziel": "2", "typ": "zahl", "titel": "Thales und Winkel", "frage": "C liegt auf dem Halbkreis über dem Durchmesser AB. Der Winkel α bei A ist 63°. Wie gross ist der Winkel bei C?", "vor": "γ =", "antwort": 90, "einheit": "°", "toleranz": 0, "punkte": 1 },
+        { "id": "p2b", "nr": "2b", "lernziel": "2", "typ": "zahl", "frage": "Wie gross ist β bei B?", "vor": "β =", "antwort": 27, "einheit": "°", "toleranz": 0, "punkte": 1 },
+        { "id": "p2c", "nr": "2c", "lernziel": "2", "typ": "offen", "frage": "Begründe beide Antworten.", "zeilen": 3, "musterloesung": ["γ = 90° nach dem Satz von Thales.", "β = 180° − 90° − 63° = 27° (Winkelsumme im Dreieck)."], "kriterien": [{ "text": "Begründung mit dem Satz von Thales", "punkte": 1 }, { "text": "Begründung mit der Winkelsumme 180°", "punkte": 1 }] },
+        { "id": "p3a", "nr": "3a", "lernziel": "4", "typ": "offen", "titel": "Fehlende Seiten", "frage": "Katheten 12 cm und 16 cm. Berechne die Hypotenuse mit vollständigem Rechenweg.", "musterloesung": ["c² = 12² + 16²", "c² = 144 + 256 = 400", "c = √400 = 20 cm"], "kriterien": [{ "text": "Passende Gleichung", "punkte": 1 }, { "text": "Quadrate und Summe richtig", "punkte": 1 }, { "text": "Wurzel richtig gezogen", "punkte": 1 }, { "text": "Ergebnis mit Einheit: 20 cm", "punkte": 1 }] },
+        { "id": "p3b", "nr": "3b", "lernziel": "4", "typ": "offen", "frage": "Hypotenuse 13 cm und Kathete 5 cm. Berechne die zweite Kathete mit vollständigem Rechenweg.", "musterloesung": ["b² = 13² − 5²", "b² = 169 − 25 = 144", "b = √144 = 12 cm"], "kriterien": [{ "text": "Passende Gleichung (subtrahieren!)", "punkte": 1 }, { "text": "Quadrate und Differenz richtig", "punkte": 1 }, { "text": "Wurzel richtig gezogen", "punkte": 1 }, { "text": "Ergebnis mit Einheit: 12 cm", "punkte": 1 }] },
+        { "id": "p4a", "nr": "4a", "abschnitt": "Teil 2", "lernziel": "6", "typ": "offen", "titel": "Rechteck und Koordinaten", "frage": "Rechteckseiten 6 cm und 8 cm. Berechne die Diagonale.", "musterloesung": ["d = √(6² + 8²) = √(36 + 64) = √100 = 10 cm"], "kriterien": [{ "text": "Diagonale als Hypotenuse zugeordnet", "punkte": 1 }, { "text": "Gleichung", "punkte": 1 }, { "text": "Rechnung", "punkte": 1 }, { "text": "Ergebnis mit Einheit: 10 cm", "punkte": 1 }] },
+        { "id": "p4b", "nr": "4b", "lernziel": "8", "typ": "offen", "frage": "A(2/1), B(8/9). Berechne die Länge AB in Längeneinheiten.", "musterloesung": ["Δx = 8 − 2 = 6", "Δy = 9 − 1 = 8", "AB = √(6² + 8²) = √100 = 10 LE"], "kriterien": [{ "text": "Δx = 6", "punkte": 1 }, { "text": "Δy = 8", "punkte": 1 }, { "text": "Wurzelrechnung", "punkte": 1 }, { "text": "Ergebnis mit LE: 10 LE", "punkte": 1 }] },
+        { "id": "p5", "nr": "5", "lernziel": "7", "typ": "offen", "skizze": true, "titel": "Gleichschenkliges Dreieck", "frage": "Die Basis ist 10 cm lang, beide Schenkel sind 13 cm lang. Zeichne die Höhe ein. Berechne die Höhe und den Flächeninhalt.", "musterloesung": ["Halbe Basis: 10 : 2 = 5 cm", "h² = 13² − 5² = 169 − 25 = 144", "h = √144 = 12 cm", "A = 10 · 12 : 2 = 60 cm²"], "kriterien": [{ "text": "Höhe eingezeichnet", "punkte": 1 }, { "text": "Halbe Basis 5 cm", "punkte": 1 }, { "text": "Ansatz h² = 13² − 5²", "punkte": 2 }, { "text": "h = 12 cm", "punkte": 2 }, { "text": "A = 60 cm² (Ansatz und Ergebnis)", "punkte": 2 }] },
+        { "id": "p6", "nr": "6", "lernziel": "5", "typ": "offen", "titel": "Eine Rechnung korrigieren", "frage": "Eine Schülerin rechnet bei einem rechtwinkligen Dreieck mit den Katheten 30 cm und 0.4 m: c = √(30² + 0.4²) ≈ 30.0 cm. Erkläre den Fehler. Rechne richtig und gib das Ergebnis in cm und m an.", "musterloesung": ["Fehler: Es wurden unterschiedliche Längeneinheiten eingesetzt.", "0.4 m = 40 cm", "c = √(30² + 40²) = √2500", "c = 50 cm = 0.5 m"], "kriterien": [{ "text": "Fehler erklärt (verschiedene Einheiten)", "punkte": 2 }, { "text": "0.4 m = 40 cm", "punkte": 1 }, { "text": "c = √2500", "punkte": 1 }, { "text": "c = 50 cm", "punkte": 1 }, { "text": "c = 0.5 m", "punkte": 1 }] }
+      ]
+    },
+    {
+      "id": "schnelltest",
+      "titel": "Schnelltest (automatisch korrigiert)",
+      "richtzeit": 30,
+      "hinweis": "Rechne auf einem Notizblatt und trage nur die Ergebnisse ein. Falls nichts anderes steht: auf eine Dezimalstelle runden. Dezimalkomma oder -punkt sind beide erlaubt.",
+      "aufgaben": [
+        { "id": "s1", "lernziel": "1", "typ": "mc", "punkte": 1, "frage": "Im Dreieck PQR liegt der rechte Winkel bei Q. Welche Seite ist die Hypotenuse?", "optionen": ["PR", "PQ", "QR"], "richtig": 0 },
+        { "id": "s2", "lernziel": "2", "typ": "zahl", "punkte": 2, "frage": "Rechtwinkliges Dreieck mit γ = 90° und α = 58°. Berechne β.", "vor": "β =", "antwort": 32, "einheit": "°", "toleranz": 0 },
+        { "id": "s3", "lernziel": "4", "typ": "zahl", "punkte": 3, "frage": "Katheten 7 cm und 24 cm. Berechne die Hypotenuse.", "vor": "c =", "antwort": 25, "einheit": "cm", "erklaerung": "√(49 + 576) = √625 = 25 cm" },
+        { "id": "s4", "lernziel": "4", "typ": "zahl", "punkte": 3, "frage": "Hypotenuse 26 cm, Kathete 10 cm. Berechne die andere Kathete.", "vor": "b =", "antwort": 24, "einheit": "cm", "erklaerung": "√(676 − 100) = √576 = 24 cm" },
+        { "id": "s5", "lernziel": "5", "typ": "zahl", "punkte": 3, "frage": "Katheten 1.2 m und 50 cm. Berechne die Hypotenuse in cm.", "vor": "c =", "antwort": 130, "einheit": "cm", "erklaerung": "1.2 m = 120 cm; √(14 400 + 2500) = √16 900 = 130 cm" },
+        { "id": "s6", "lernziel": "4", "typ": "zahl", "punkte": 3, "frage": "Katheten 4 cm und 6 cm. Berechne die Hypotenuse auf eine Dezimalstelle.", "vor": "c ≈", "antwort": 7.2, "einheit": "cm", "erklaerung": "√(16 + 36) = √52 ≈ 7.2 cm" },
+        { "id": "s7", "lernziel": "6", "typ": "zahl", "punkte": 3, "frage": "Rechteck 9 cm × 12 cm. Berechne die Diagonale.", "vor": "d =", "antwort": 15, "einheit": "cm", "erklaerung": "√(81 + 144) = √225 = 15 cm" },
+        { "id": "s8", "lernziel": "6", "typ": "zahl", "punkte": 3, "frage": "Quadrat mit Seite 10 cm. Berechne die Diagonale auf eine Dezimalstelle.", "vor": "d ≈", "antwort": 14.1, "einheit": "cm", "erklaerung": "d = 10√2 ≈ 14.1 cm" },
+        { "id": "s9", "lernziel": "7", "typ": "zahl", "punkte": 3, "frage": "Gleichschenkliges Dreieck: Basis 16 cm, Schenkel 10 cm. Berechne die Höhe.", "vor": "h =", "antwort": 6, "einheit": "cm", "erklaerung": "h = √(100 − 64) = 6 cm" },
+        { "id": "s10", "lernziel": "8", "typ": "zahl", "punkte": 3, "frage": "A(1/2), B(9/8). Berechne die Länge AB.", "vor": "AB =", "antwort": 10, "einheit": "LE", "erklaerung": "Δx = 8, Δy = 6 → √100 = 10 LE" },
+        { "id": "s11", "lernziel": "10", "typ": "mc", "punkte": 3, "frage": "Ist ein Dreieck mit den Seiten 7 cm, 24 cm und 25 cm rechtwinklig?", "optionen": ["Ja, denn 7² + 24² = 625 = 25².", "Nein, denn 7 + 24 ≠ 25.", "Nein, denn 25² ist grösser als 7² + 24²."], "richtig": 0 }
+      ]
+    }
+  ]
+}

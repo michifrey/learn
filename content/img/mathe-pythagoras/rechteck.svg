@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 230" font-family="Helvetica, Arial, sans-serif" font-size="17">
+<rect width="380" height="230" fill="#fff"/>
+<rect x="60" y="40" width="260" height="140" fill="#f4f7fd" stroke="#2f6fdf" stroke-width="3"/>
+<path d="M60 180 L320 40" stroke="#d64545" stroke-width="3.5"/>
+<path d="M306 180 v-14 h14" fill="none" stroke="#333" stroke-width="1.6"/>
+<text x="176" y="206" fill="#2f6fdf" font-weight="700">a</text><text x="330" y="116" fill="#2f6fdf" font-weight="700">b</text>
+<text x="168" y="104" fill="#d64545" font-weight="700">d</text>
+</svg>
