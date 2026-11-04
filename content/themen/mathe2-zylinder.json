@@ -1,0 +1,1077 @@
+{
+  "lernzielBasis": "selbst-formuliert",
+  "hinweis": "Eigene Grundlagen auf Niveau III zur öffentlichen Themenübersicht von Mathematik 2. Keine vollständige Abbildung des Arbeitshefts; schulische Prüfungsziele noch nicht abgeglichen.",
+  "quellen": [
+    {
+      "titel": "Zylinder - Lerndossier",
+      "art": "Eigene Lerntexte, Skizzen, Übungen, Test und Lösungen",
+      "seiten": 12,
+      "datei": "material/klasse-8/mathe2/zylinder/Mathematik2_zylinder_Lerndossier.pdf"
+    }
+  ],
+  "referenzen": [
+    {
+      "titel": "LMVZ: öffentliche Themenübersicht Mathematik 2",
+      "url": "https://003.lmvz.ch/lehrmittelsites/mathe_sek/de/m2/index.html"
+    },
+    {
+      "titel": "Arbeitsheft III: Produkt und Niveau",
+      "url": "https://shop.lmvz.ch/de/Katalog/Mathematik-Sekundarstufe-I/Mathematik-2-Sekundarstufe-I-Arbeitsheft-III-6722.html"
+    }
+  ],
+  "lernziele": [
+    {
+      "id": "1",
+      "nr": "1",
+      "gruppe": "Grundlagen",
+      "kurz": "Einen Zylinder skizzieren und beschriften",
+      "text": "Ich kann einen Zylinder skizzieren und beschriften.",
+      "frage": "Einen Zylinder skizzieren und beschriften - wie gehst du vor?",
+      "antwort": "Ein gerader Kreiszylinder besitzt zwei parallele, gleich grosse Kreisflächen und eine gekrümmte Mantelfläche."
+    },
+    {
+      "id": "2",
+      "nr": "2",
+      "gruppe": "Grundlagen",
+      "kurz": "Das Zylindernetz zeichnen",
+      "text": "Ich kann das Zylindernetz zeichnen.",
+      "frage": "Das Zylindernetz zeichnen - wie gehst du vor?",
+      "antwort": "Ein geschlossener Zylinder hat als Netz zwei gleich grosse Kreise und ein Rechteck. Das Rechteck ist 2πr breit und h hoch."
+    },
+    {
+      "id": "3",
+      "nr": "3",
+      "gruppe": "Grundlagen",
+      "kurz": "Die Kreisgrundfläche berechnen",
+      "text": "Ich kann die Kreisgrundfläche berechnen.",
+      "frage": "Die Kreisgrundfläche berechnen - wie gehst du vor?",
+      "antwort": "Grundfläche G = πr². Ist d angegeben, zuerst r = d/2 berechnen."
+    },
+    {
+      "id": "4",
+      "nr": "4",
+      "gruppe": "Rechnen und anwenden",
+      "kurz": "Das Zylindervolumen berechnen",
+      "text": "Ich kann das Zylindervolumen berechnen.",
+      "frage": "Das Zylindervolumen berechnen - wie gehst du vor?",
+      "antwort": "V = G·h = πr²h. Das Volumen beschreibt den Rauminhalt."
+    },
+    {
+      "id": "5",
+      "nr": "5",
+      "gruppe": "Rechnen und anwenden",
+      "kurz": "Die Mantelfläche berechnen",
+      "text": "Ich kann die Mantelfläche berechnen.",
+      "frage": "Die Mantelfläche berechnen - wie gehst du vor?",
+      "antwort": "M = Kreisumfang·Höhe = 2πrh. Die Mantelfläche enthält keine Kreisflächen."
+    },
+    {
+      "id": "6",
+      "nr": "6",
+      "gruppe": "Rechnen und anwenden",
+      "kurz": "Geschlossene und offene Oberflächen berechnen",
+      "text": "Ich kann Geschlossene und offene Oberflächen berechnen.",
+      "frage": "Geschlossene und offene Oberflächen berechnen - wie gehst du vor?",
+      "antwort": "Geschlossen: O = 2πr² + 2πrh. Oben offen mit Boden: O = πr² + 2πrh."
+    },
+    {
+      "id": "7",
+      "nr": "7",
+      "gruppe": "Darstellen und prüfen",
+      "kurz": "Füllmengen in Liter umrechnen",
+      "text": "Ich kann Füllmengen in Liter umrechnen.",
+      "frage": "Füllmengen in Liter umrechnen - wie gehst du vor?",
+      "antwort": "1 Liter = 1 dm³ = 1000 cm³. Für Liter aus cm³ durch 1000 teilen."
+    },
+    {
+      "id": "8",
+      "nr": "8",
+      "gruppe": "Darstellen und prüfen",
+      "kurz": "Fehlende Höhe oder Radius berechnen",
+      "text": "Ich kann Fehlende Höhe oder Radius berechnen.",
+      "frage": "Fehlende Höhe oder Radius berechnen - wie gehst du vor?",
+      "antwort": "Aus V = πr²h folgt h = V/(πr²) und r = √(V/(πh))."
+    }
+  ],
+  "lernen": [
+    {
+      "id": "lz-1",
+      "titel": "Einen Zylinder skizzieren und beschriften",
+      "lernziele": [
+        "1"
+      ],
+      "intro": "Ich kann einen Zylinder skizzieren und beschriften.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Ein gerader Kreiszylinder besitzt zwei parallele, gleich grosse Kreisflächen und eine gekrümmte Mantelfläche."
+        },
+        {
+          "t": "bild",
+          "src": "content/img/mathe2/zylinder.svg",
+          "alt": "Lernskizze: Zylinder",
+          "caption": "Eigene vereinfachte Skizze; nicht massstabsgetreu."
+        },
+        {
+          "t": "p",
+          "text": "In der Schrägansicht erscheinen die Kreise als Ellipsen. h steht senkrecht auf der Grundfläche."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "Eine Dose wird als Zylinder modelliert: Radius r, Durchmesser d = 2r, Höhe h."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Die Mantelfläche eines Zylinders ist ein Dreieck."
+        }
+      ]
+    },
+    {
+      "id": "lz-2",
+      "titel": "Das Zylindernetz zeichnen",
+      "lernziele": [
+        "2"
+      ],
+      "intro": "Ich kann das Zylindernetz zeichnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Ein geschlossener Zylinder hat als Netz zwei gleich grosse Kreise und ein Rechteck. Das Rechteck ist 2πr breit und h hoch."
+        },
+        {
+          "t": "p",
+          "text": "Die Breite des Mantelrechtecks muss genau zum Kreisumfang passen."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "r = 2 cm, h = 5 cm: Rechteckbreite 4π ≈ 12.57 cm, Höhe 5 cm; zwei Kreise mit r = 2 cm."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Die Breite des Mantelrechtecks ist der Kreisdurchmesser."
+        }
+      ]
+    },
+    {
+      "id": "lz-3",
+      "titel": "Die Kreisgrundfläche berechnen",
+      "lernziele": [
+        "3"
+      ],
+      "intro": "Ich kann die Kreisgrundfläche berechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Grundfläche G = πr². Ist d angegeben, zuerst r = d/2 berechnen."
+        },
+        {
+          "t": "p",
+          "text": "Die Grundfläche ist eine Fläche und erhält eine Quadrateinheit."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "d = 8 cm → r = 4 cm → G = 16π ≈ 50.27 cm²."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Die Grundfläche eines Zylinders ist G = 2πr."
+        }
+      ]
+    },
+    {
+      "id": "lz-4",
+      "titel": "Das Zylindervolumen berechnen",
+      "lernziele": [
+        "4"
+      ],
+      "intro": "Ich kann das Zylindervolumen berechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "V = G·h = πr²h. Das Volumen beschreibt den Rauminhalt."
+        },
+        {
+          "t": "p",
+          "text": "Alle Längen in dieselbe Einheit umrechnen. Erst am Schluss runden."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "r = 3 cm, h = 10 cm: V = 90π ≈ 282.74 cm³."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Beim Zylindervolumen gilt V = 2πrh ohne Quadrat."
+        }
+      ]
+    },
+    {
+      "id": "lz-5",
+      "titel": "Die Mantelfläche berechnen",
+      "lernziele": [
+        "5"
+      ],
+      "intro": "Ich kann die Mantelfläche berechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "M = Kreisumfang·Höhe = 2πrh. Die Mantelfläche enthält keine Kreisflächen."
+        },
+        {
+          "t": "p",
+          "text": "Denke an das abgewickelte Mantelrechteck. Seine Seiten sind U und h."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "r = 3 cm, h = 5 cm: M = 30π ≈ 94.25 cm²."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Zur Mantelfläche gehören immer auch Grundfläche und Deckel."
+        }
+      ]
+    },
+    {
+      "id": "lz-6",
+      "titel": "Geschlossene und offene Oberflächen berechnen",
+      "lernziele": [
+        "6"
+      ],
+      "intro": "Ich kann Geschlossene und offene Oberflächen berechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Geschlossen: O = 2πr² + 2πrh. Oben offen mit Boden: O = πr² + 2πrh."
+        },
+        {
+          "t": "p",
+          "text": "Zähle zuerst, welche Flächen tatsächlich vorhanden sind. Ein Rohr ohne beide Deckflächen hat nur die Mantelfläche, wenn Wandstärke vernachlässigt wird."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "r = 2 cm, h = 5 cm: geschlossen 28π ≈ 87.96 cm²; oben offen 24π ≈ 75.40 cm²."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Ein oben offener Zylinder hat dieselbe Oberfläche wie ein geschlossener."
+        }
+      ]
+    },
+    {
+      "id": "lz-7",
+      "titel": "Füllmengen in Liter umrechnen",
+      "lernziele": [
+        "7"
+      ],
+      "intro": "Ich kann Füllmengen in Liter umrechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "1 Liter = 1 dm³ = 1000 cm³. Für Liter aus cm³ durch 1000 teilen."
+        },
+        {
+          "t": "p",
+          "text": "Bei teilgefüllten Gefässen die Füllhöhe anstelle der gesamten Gefässhöhe in V = πr²h einsetzen."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "r = 5 cm, Füllhöhe 20 cm: V = 500π cm³ ≈ 1.57 l."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Eine Füllmenge von 2500 cm³ entspricht 25 Litern."
+        }
+      ]
+    },
+    {
+      "id": "lz-8",
+      "titel": "Fehlende Höhe oder Radius berechnen",
+      "lernziele": [
+        "8"
+      ],
+      "intro": "Ich kann Fehlende Höhe oder Radius berechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Aus V = πr²h folgt h = V/(πr²) und r = √(V/(πh))."
+        },
+        {
+          "t": "p",
+          "text": "Vor dem Umstellen klären, welche Grösse gesucht wird. Beim Radius ist das Wurzelziehen notwendig."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "V = 100π cm³, r = 5 cm → h = 100π/(25π) = 4 cm."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Aus V und h erhält man r = V/(πh), ohne Wurzel."
+        }
+      ]
+    },
+    {
+      "id": "lernspick",
+      "titel": "Lernspick: alle Lernziele mit Antwort",
+      "lernziele": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "intro": "Eigene Grundlagenziele auf Niveau III. Schulische Vorgaben ergänzen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "1. Einen Zylinder skizzieren und beschriften",
+          "text": "Ein gerader Kreiszylinder besitzt zwei parallele, gleich grosse Kreisflächen und eine gekrümmte Mantelfläche."
+        },
+        {
+          "t": "merke",
+          "titel": "2. Das Zylindernetz zeichnen",
+          "text": "Ein geschlossener Zylinder hat als Netz zwei gleich grosse Kreise und ein Rechteck. Das Rechteck ist 2πr breit und h hoch."
+        },
+        {
+          "t": "merke",
+          "titel": "3. Die Kreisgrundfläche berechnen",
+          "text": "Grundfläche G = πr². Ist d angegeben, zuerst r = d/2 berechnen."
+        },
+        {
+          "t": "merke",
+          "titel": "4. Das Zylindervolumen berechnen",
+          "text": "V = G·h = πr²h. Das Volumen beschreibt den Rauminhalt."
+        },
+        {
+          "t": "merke",
+          "titel": "5. Die Mantelfläche berechnen",
+          "text": "M = Kreisumfang·Höhe = 2πrh. Die Mantelfläche enthält keine Kreisflächen."
+        },
+        {
+          "t": "merke",
+          "titel": "6. Geschlossene und offene Oberflächen berechnen",
+          "text": "Geschlossen: O = 2πr² + 2πrh. Oben offen mit Boden: O = πr² + 2πrh."
+        },
+        {
+          "t": "merke",
+          "titel": "7. Füllmengen in Liter umrechnen",
+          "text": "1 Liter = 1 dm³ = 1000 cm³. Für Liter aus cm³ durch 1000 teilen."
+        },
+        {
+          "t": "merke",
+          "titel": "8. Fehlende Höhe oder Radius berechnen",
+          "text": "Aus V = πr²h folgt h = V/(πr²) und r = √(V/(πh))."
+        },
+        {
+          "t": "bild",
+          "src": "content/img/mathe2/zylinder-leer.svg",
+          "alt": "Vorlage zum Beschriften",
+          "caption": "Auf Papier beschriften und mit der Lernskizze im ersten Kapitel vergleichen."
+        }
+      ]
+    }
+  ],
+  "karten": [
+    {
+      "vorne": "Einen Zylinder skizzieren und beschriften",
+      "hinten": "Eine Dose wird als Zylinder modelliert: Radius r, Durchmesser d = 2r, Höhe h."
+    },
+    {
+      "vorne": "Das Zylindernetz zeichnen",
+      "hinten": "r = 2 cm, h = 5 cm: Rechteckbreite 4π ≈ 12.57 cm, Höhe 5 cm; zwei Kreise mit r = 2 cm."
+    },
+    {
+      "vorne": "Die Kreisgrundfläche berechnen",
+      "hinten": "d = 8 cm → r = 4 cm → G = 16π ≈ 50.27 cm²."
+    },
+    {
+      "vorne": "Das Zylindervolumen berechnen",
+      "hinten": "r = 3 cm, h = 10 cm: V = 90π ≈ 282.74 cm³."
+    },
+    {
+      "vorne": "Die Mantelfläche berechnen",
+      "hinten": "r = 3 cm, h = 5 cm: M = 30π ≈ 94.25 cm²."
+    },
+    {
+      "vorne": "Geschlossene und offene Oberflächen berechnen",
+      "hinten": "r = 2 cm, h = 5 cm: geschlossen 28π ≈ 87.96 cm²; oben offen 24π ≈ 75.40 cm²."
+    },
+    {
+      "vorne": "Füllmengen in Liter umrechnen",
+      "hinten": "r = 5 cm, Füllhöhe 20 cm: V = 500π cm³ ≈ 1.57 l."
+    },
+    {
+      "vorne": "Fehlende Höhe oder Radius berechnen",
+      "hinten": "V = 100π cm³, r = 5 cm → h = 100π/(25π) = 4 cm."
+    },
+    {
+      "vorne": "Grundfläche",
+      "hinten": "Kreis mit G = πr²."
+    },
+    {
+      "vorne": "Mantelrechteck",
+      "hinten": "Beim Abwickeln: Breite 2πr, Höhe h."
+    },
+    {
+      "vorne": "Füllhöhe",
+      "hinten": "Senkrechte Höhe der Flüssigkeit; kann kleiner als die Gefässhöhe sein."
+    },
+    {
+      "vorne": "Liter",
+      "hinten": "1 l = 1 dm³ = 1000 cm³."
+    }
+  ],
+  "uebungen": [
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Ein gerader Kreiszylinder besitzt zwei parallele, gleich grosse Kreisflächen und eine gekrümmte Mantelfläche.",
+        "Die Mantelfläche eines Zylinders ist ein Dreieck."
+      ],
+      "richtig": 0,
+      "id": "u1-1",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Ein gerader Kreiszylinder besitzt zwei parallele, gleich grosse Kreisflächen und eine gekrümmte Mantelfläche. Beispiel: Eine Dose wird als Zylinder modelliert: Radius r, Durchmesser d = 2r, Höhe h."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Ein Zylinder hat d = 12 cm. Wie gross ist r?",
+      "antwort": 6,
+      "toleranz": 0.015,
+      "einheit": "cm",
+      "id": "u1-2",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 6 cm. Ein gerader Kreiszylinder besitzt zwei parallele, gleich grosse Kreisflächen und eine gekrümmte Mantelfläche."
+    },
+    {
+      "id": "u1-3",
+      "typ": "offen",
+      "lernziel": "1",
+      "frage": "Skizziere einen Zylinder. Trage r, d und h ein.",
+      "musterloesung": "Zwei Ellipsen durch parallele Seiten verbunden; r vom Mittelpunkt zum Rand, d = 2r, h zwischen den Grundflächen.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": true,
+      "zeilen": 5,
+      "hilfe": "Ein gerader Kreiszylinder besitzt zwei parallele, gleich grosse Kreisflächen und eine gekrümmte Mantelfläche."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Ein geschlossener Zylinder hat als Netz zwei gleich grosse Kreise und ein Rechteck. Das Rechteck ist 2πr breit und h hoch.",
+        "Die Breite des Mantelrechtecks ist der Kreisdurchmesser."
+      ],
+      "richtig": 0,
+      "id": "u2-1",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "Ein geschlossener Zylinder hat als Netz zwei gleich grosse Kreise und ein Rechteck. Das Rechteck ist 2πr breit und h hoch. Beispiel: r = 2 cm, h = 5 cm: Rechteckbreite 4π ≈ 12.57 cm, Höhe 5 cm; zwei Kreise mit r = 2 cm."
+    },
+    {
+      "typ": "zahl",
+      "frage": "r = 3 cm: Wie breit ist das Mantelrechteck? Runde auf zwei Dezimalstellen.",
+      "antwort": 18.85,
+      "toleranz": 0.015,
+      "einheit": "cm",
+      "id": "u2-2",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 18.85 cm. Ein geschlossener Zylinder hat als Netz zwei gleich grosse Kreise und ein Rechteck. Das Rechteck ist 2πr breit und h hoch."
+    },
+    {
+      "id": "u2-3",
+      "typ": "offen",
+      "lernziel": "2",
+      "frage": "Zeichne schematisch das Netz eines geschlossenen Zylinders und beschrifte 2πr und h.",
+      "musterloesung": "Zwei Kreise, Rechteck mit Seiten 2πr und h; Kreise an gegenüberliegenden Umfangskanten.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": true,
+      "zeilen": 5,
+      "hilfe": "Ein geschlossener Zylinder hat als Netz zwei gleich grosse Kreise und ein Rechteck. Das Rechteck ist 2πr breit und h hoch."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Grundfläche G = πr². Ist d angegeben, zuerst r = d/2 berechnen.",
+        "Die Grundfläche eines Zylinders ist G = 2πr."
+      ],
+      "richtig": 0,
+      "id": "u3-1",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Grundfläche G = πr². Ist d angegeben, zuerst r = d/2 berechnen. Beispiel: d = 8 cm → r = 4 cm → G = 16π ≈ 50.27 cm²."
+    },
+    {
+      "typ": "zahl",
+      "frage": "r = 5 cm. Berechne G auf zwei Dezimalstellen.",
+      "antwort": 78.54,
+      "toleranz": 0.015,
+      "einheit": "cm²",
+      "id": "u3-2",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 78.54 cm². Grundfläche G = πr². Ist d angegeben, zuerst r = d/2 berechnen."
+    },
+    {
+      "id": "u3-3",
+      "typ": "offen",
+      "lernziel": "3",
+      "frage": "Berechne G bei d = 6 cm.",
+      "musterloesung": "r = 3 cm; G = 9π ≈ 28.27 cm².",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Grundfläche G = πr². Ist d angegeben, zuerst r = d/2 berechnen."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "V = G·h = πr²h. Das Volumen beschreibt den Rauminhalt.",
+        "Beim Zylindervolumen gilt V = 2πrh ohne Quadrat."
+      ],
+      "richtig": 0,
+      "id": "u4-1",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "V = G·h = πr²h. Das Volumen beschreibt den Rauminhalt. Beispiel: r = 3 cm, h = 10 cm: V = 90π ≈ 282.74 cm³."
+    },
+    {
+      "typ": "zahl",
+      "frage": "r = 2 cm, h = 5 cm. Berechne V auf zwei Dezimalstellen.",
+      "antwort": 62.83,
+      "toleranz": 0.015,
+      "einheit": "cm³",
+      "id": "u4-2",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 62.83 cm³. V = G·h = πr²h. Das Volumen beschreibt den Rauminhalt."
+    },
+    {
+      "id": "u4-3",
+      "typ": "offen",
+      "lernziel": "4",
+      "frage": "Berechne V bei d = 8 cm und h = 10 cm.",
+      "musterloesung": "r = 4 cm; V = 160π ≈ 502.65 cm³.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "V = G·h = πr²h. Das Volumen beschreibt den Rauminhalt."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "M = Kreisumfang·Höhe = 2πrh. Die Mantelfläche enthält keine Kreisflächen.",
+        "Zur Mantelfläche gehören immer auch Grundfläche und Deckel."
+      ],
+      "richtig": 0,
+      "id": "u5-1",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "M = Kreisumfang·Höhe = 2πrh. Die Mantelfläche enthält keine Kreisflächen. Beispiel: r = 3 cm, h = 5 cm: M = 30π ≈ 94.25 cm²."
+    },
+    {
+      "typ": "zahl",
+      "frage": "r = 2 cm, h = 10 cm. Berechne M auf zwei Dezimalstellen.",
+      "antwort": 125.66,
+      "toleranz": 0.015,
+      "einheit": "cm²",
+      "id": "u5-2",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 125.66 cm². M = Kreisumfang·Höhe = 2πrh. Die Mantelfläche enthält keine Kreisflächen."
+    },
+    {
+      "id": "u5-3",
+      "typ": "offen",
+      "lernziel": "5",
+      "frage": "Eine Dose hat r = 4 cm und h = 6 cm. Wie gross ist die Etikettenfläche ohne Überlappung?",
+      "musterloesung": "M = 2π·4·6 = 48π ≈ 150.80 cm².",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "M = Kreisumfang·Höhe = 2πrh. Die Mantelfläche enthält keine Kreisflächen."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Geschlossen: O = 2πr² + 2πrh. Oben offen mit Boden: O = πr² + 2πrh.",
+        "Ein oben offener Zylinder hat dieselbe Oberfläche wie ein geschlossener."
+      ],
+      "richtig": 0,
+      "id": "u6-1",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Geschlossen: O = 2πr² + 2πrh. Oben offen mit Boden: O = πr² + 2πrh. Beispiel: r = 2 cm, h = 5 cm: geschlossen 28π ≈ 87.96 cm²; oben offen 24π ≈ 75.40 cm²."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Geschlossen, r = 3 cm und h = 4 cm: Berechne O auf zwei Dezimalstellen.",
+      "antwort": 131.95,
+      "toleranz": 0.015,
+      "einheit": "cm²",
+      "id": "u6-2",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 131.95 cm². Geschlossen: O = 2πr² + 2πrh. Oben offen mit Boden: O = πr² + 2πrh."
+    },
+    {
+      "id": "u6-3",
+      "typ": "offen",
+      "lernziel": "6",
+      "frage": "Berechne die Oberfläche eines oben offenen Gefässes mit r = 3 cm und h = 5 cm; Wandstärke vernachlässigen.",
+      "musterloesung": "G + M = 9π + 30π = 39π ≈ 122.52 cm².",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Geschlossen: O = 2πr² + 2πrh. Oben offen mit Boden: O = πr² + 2πrh."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "1 Liter = 1 dm³ = 1000 cm³. Für Liter aus cm³ durch 1000 teilen.",
+        "Eine Füllmenge von 2500 cm³ entspricht 25 Litern."
+      ],
+      "richtig": 0,
+      "id": "u7-1",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "1 Liter = 1 dm³ = 1000 cm³. Für Liter aus cm³ durch 1000 teilen. Beispiel: r = 5 cm, Füllhöhe 20 cm: V = 500π cm³ ≈ 1.57 l."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Wie viele Liter sind 1750 cm³?",
+      "antwort": 1.75,
+      "toleranz": 0.015,
+      "einheit": "l",
+      "id": "u7-2",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 1.75 l. 1 Liter = 1 dm³ = 1000 cm³. Für Liter aus cm³ durch 1000 teilen."
+    },
+    {
+      "id": "u7-3",
+      "typ": "offen",
+      "lernziel": "7",
+      "frage": "Ein zylindrisches Gefäss hat r = 10 cm und Füllhöhe 15 cm. Berechne die Füllmenge in Litern.",
+      "musterloesung": "V = 1500π cm³ ≈ 4712.39 cm³ = 4.71 l.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "1 Liter = 1 dm³ = 1000 cm³. Für Liter aus cm³ durch 1000 teilen."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Aus V = πr²h folgt h = V/(πr²) und r = √(V/(πh)).",
+        "Aus V und h erhält man r = V/(πh), ohne Wurzel."
+      ],
+      "richtig": 0,
+      "id": "u8-1",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Aus V = πr²h folgt h = V/(πr²) und r = √(V/(πh)). Beispiel: V = 100π cm³, r = 5 cm → h = 100π/(25π) = 4 cm."
+    },
+    {
+      "typ": "zahl",
+      "frage": "V = 80π cm³, r = 4 cm: Wie gross ist h?",
+      "antwort": 5,
+      "toleranz": 0.015,
+      "einheit": "cm",
+      "id": "u8-2",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 5 cm. Aus V = πr²h folgt h = V/(πr²) und r = √(V/(πh))."
+    },
+    {
+      "id": "u8-3",
+      "typ": "offen",
+      "lernziel": "8",
+      "frage": "Berechne h bei V = 72π cm³, r = 3 cm. Berechne r bei V = 100π cm³, h = 4 cm.",
+      "musterloesung": "h = 72π/(9π) = 8 cm; r = √(100π/(4π)) = 5 cm.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Aus V = πr²h folgt h = V/(πr²) und r = √(V/(πh))."
+    }
+  ],
+  "pruefungen": [
+    {
+      "id": "grundlagentest-32",
+      "titel": "Zylinder - Grundlagentest III",
+      "richtzeit": 45,
+      "hinweis": "32 Punkte. Zeichnungen auf Papier, offene Aufgaben mit Kriterien selbst bewerten. Taschenrechner, Lineal und Zirkel erlaubt; ohne Dossier. Bei Kreisen π-Taste nutzen und auf zwei Dezimalstellen runden. Eigene Lernziele; schulische Prüfungsziele noch nicht abgeglichen.",
+      "aufgaben": [
+        {
+          "id": "p1",
+          "nr": "1",
+          "typ": "offen",
+          "lernziel": "1",
+          "titel": "Einen Zylinder skizzieren und beschriften",
+          "frage": "Skizziere einen Zylinder mit r = 3 cm und h = 8 cm. Beschrifte Radius, Durchmesser und Höhe.",
+          "punkte": 4,
+          "musterloesung": "Zwei Kreisflächen als Ellipsen\nParallele Seiten und Höhe 8 cm\nRadius 3 cm korrekt\nDurchmesser 6 cm korrekt",
+          "kriterien": [
+            {
+              "text": "Zwei Kreisflächen als Ellipsen",
+              "punkte": 1
+            },
+            {
+              "text": "Parallele Seiten und Höhe 8 cm",
+              "punkte": 1
+            },
+            {
+              "text": "Radius 3 cm korrekt",
+              "punkte": 1
+            },
+            {
+              "text": "Durchmesser 6 cm korrekt",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        },
+        {
+          "id": "p2",
+          "nr": "2",
+          "typ": "offen",
+          "lernziel": "2",
+          "titel": "Das Zylindernetz zeichnen",
+          "frage": "Zeichne das Netz für r = 2 cm und h = 6 cm schematisch. Beschrifte alle nötigen Masse.",
+          "punkte": 4,
+          "musterloesung": "Zwei gleiche Kreise\nMantelrechteck\nRechteckhöhe 6 cm\nRechteckbreite 4π ≈ 12.57 cm und Kreisradius 2 cm",
+          "kriterien": [
+            {
+              "text": "Zwei gleiche Kreise",
+              "punkte": 1
+            },
+            {
+              "text": "Mantelrechteck",
+              "punkte": 1
+            },
+            {
+              "text": "Rechteckhöhe 6 cm",
+              "punkte": 1
+            },
+            {
+              "text": "Rechteckbreite 4π ≈ 12.57 cm und Kreisradius 2 cm",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        },
+        {
+          "id": "p3",
+          "nr": "3",
+          "typ": "offen",
+          "lernziel": "3",
+          "titel": "Die Kreisgrundfläche berechnen",
+          "frage": "Ein Zylinder hat d = 10 cm. Berechne G auf zwei Dezimalstellen.",
+          "punkte": 4,
+          "musterloesung": "r = 5 cm\nG = πr²\nG = 25π ≈ 78.54\nEinheit cm²",
+          "kriterien": [
+            {
+              "text": "r = 5 cm",
+              "punkte": 1
+            },
+            {
+              "text": "G = πr²",
+              "punkte": 1
+            },
+            {
+              "text": "G = 25π ≈ 78.54",
+              "punkte": 1
+            },
+            {
+              "text": "Einheit cm²",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p4",
+          "nr": "4",
+          "typ": "offen",
+          "lernziel": "4",
+          "titel": "Das Zylindervolumen berechnen",
+          "frage": "Ein Zylinder hat r = 3 cm und h = 7 cm. Berechne V auf zwei Dezimalstellen.",
+          "punkte": 4,
+          "musterloesung": "V = πr²h\nV = π·9·7 = 63π\nV ≈ 197.92\nEinheit cm³",
+          "kriterien": [
+            {
+              "text": "V = πr²h",
+              "punkte": 1
+            },
+            {
+              "text": "V = π·9·7 = 63π",
+              "punkte": 1
+            },
+            {
+              "text": "V ≈ 197.92",
+              "punkte": 1
+            },
+            {
+              "text": "Einheit cm³",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p5",
+          "nr": "5",
+          "typ": "offen",
+          "lernziel": "5",
+          "titel": "Die Mantelfläche berechnen",
+          "frage": "Ein Etikett umschliesst einen Zylinder mit d = 6 cm und h = 8 cm. Berechne die Fläche ohne Überlappung.",
+          "punkte": 4,
+          "musterloesung": "r = 3 cm oder U = πd\nM = 2π·3·8\nM = 48π ≈ 150.80\nEinheit cm²",
+          "kriterien": [
+            {
+              "text": "r = 3 cm oder U = πd",
+              "punkte": 1
+            },
+            {
+              "text": "M = 2π·3·8",
+              "punkte": 1
+            },
+            {
+              "text": "M = 48π ≈ 150.80",
+              "punkte": 1
+            },
+            {
+              "text": "Einheit cm²",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p6",
+          "nr": "6",
+          "typ": "offen",
+          "lernziel": "6",
+          "titel": "Geschlossene und offene Oberflächen berechnen",
+          "frage": "Geschlossener Zylinder: r = 2 cm, h = 8 cm. Berechne O und danach die Fläche ohne Deckel.",
+          "punkte": 4,
+          "musterloesung": "G = 4π und M = 32π\nGeschlossen: 40π ≈ 125.66 cm²\nOhne Deckel: 36π\nOhne Deckel ≈ 113.10 cm²",
+          "kriterien": [
+            {
+              "text": "G = 4π und M = 32π",
+              "punkte": 1
+            },
+            {
+              "text": "Geschlossen: 40π ≈ 125.66 cm²",
+              "punkte": 1
+            },
+            {
+              "text": "Ohne Deckel: 36π",
+              "punkte": 1
+            },
+            {
+              "text": "Ohne Deckel ≈ 113.10 cm²",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p7",
+          "nr": "7",
+          "typ": "offen",
+          "lernziel": "7",
+          "titel": "Füllmengen in Liter umrechnen",
+          "frage": "Gefäss mit r = 5 cm, Füllhöhe 12 cm: Berechne V in cm³ und in Litern, Liter auf zwei Dezimalstellen.",
+          "punkte": 4,
+          "musterloesung": "V = π·25·12\nV = 300π ≈ 942.48 cm³\nDurch 1000 teilen\nV ≈ 0.94 l",
+          "kriterien": [
+            {
+              "text": "V = π·25·12",
+              "punkte": 1
+            },
+            {
+              "text": "V = 300π ≈ 942.48 cm³",
+              "punkte": 1
+            },
+            {
+              "text": "Durch 1000 teilen",
+              "punkte": 1
+            },
+            {
+              "text": "V ≈ 0.94 l",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p8",
+          "nr": "8",
+          "typ": "offen",
+          "lernziel": "8",
+          "titel": "Fehlende Höhe oder Radius berechnen",
+          "frage": "Bestimme h bei V = 108π cm³ und r = 3 cm. Bestimme r bei V = 75π cm³ und h = 3 cm.",
+          "punkte": 4,
+          "musterloesung": "h = V/(πr²)\nh = 12 cm\nr = √(V/(πh))\nr = 5 cm",
+          "kriterien": [
+            {
+              "text": "h = V/(πr²)",
+              "punkte": 1
+            },
+            {
+              "text": "h = 12 cm",
+              "punkte": 1
+            },
+            {
+              "text": "r = √(V/(πh))",
+              "punkte": 1
+            },
+            {
+              "text": "r = 5 cm",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        }
+      ]
+    }
+  ]
+}

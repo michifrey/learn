@@ -1,0 +1,1077 @@
+{
+  "lernzielBasis": "selbst-formuliert",
+  "hinweis": "Eigene Grundlagen auf Niveau III zur öffentlichen Themenübersicht von Mathematik 2. Keine vollständige Abbildung des Arbeitshefts; schulische Prüfungsziele noch nicht abgeglichen.",
+  "quellen": [
+    {
+      "titel": "Zuordnungen und Proportionalität - Lerndossier",
+      "art": "Eigene Lerntexte, Skizzen, Übungen, Test und Lösungen",
+      "seiten": 12,
+      "datei": "material/klasse-8/mathe2/zuordnungen-proportionalitaet/Mathematik2_zuordnungen-proportionalitaet_Lerndossier.pdf"
+    }
+  ],
+  "referenzen": [
+    {
+      "titel": "LMVZ: öffentliche Themenübersicht Mathematik 2",
+      "url": "https://003.lmvz.ch/lehrmittelsites/mathe_sek/de/m2/index.html"
+    },
+    {
+      "titel": "Arbeitsheft III: Produkt und Niveau",
+      "url": "https://shop.lmvz.ch/de/Katalog/Mathematik-Sekundarstufe-I/Mathematik-2-Sekundarstufe-I-Arbeitsheft-III-6722.html"
+    }
+  ],
+  "lernziele": [
+    {
+      "id": "1",
+      "nr": "1",
+      "gruppe": "Grundlagen",
+      "kurz": "Zuordnungen in Tabellen darstellen",
+      "text": "Ich kann Zuordnungen in Tabellen darstellen.",
+      "frage": "Zuordnungen in Tabellen darstellen - wie gehst du vor?",
+      "antwort": "Eine Zuordnung verbindet Eingabewerte x mit Ausgabewerten y. In einer Tabelle stehen zusammengehörende Werte in derselben Zeile oder Spalte."
+    },
+    {
+      "id": "2",
+      "nr": "2",
+      "gruppe": "Grundlagen",
+      "kurz": "Punkte in ein Koordinatensystem eintragen",
+      "text": "Ich kann Punkte in ein Koordinatensystem eintragen.",
+      "frage": "Punkte in ein Koordinatensystem eintragen - wie gehst du vor?",
+      "antwort": "Ein Punkt (x|y) wird zuerst auf der waagrechten x-Achse und dann in Richtung der senkrechten y-Achse abgetragen."
+    },
+    {
+      "id": "3",
+      "nr": "3",
+      "gruppe": "Grundlagen",
+      "kurz": "Direkte Proportionalität erkennen",
+      "text": "Ich kann Direkte Proportionalität erkennen.",
+      "frage": "Direkte Proportionalität erkennen - wie gehst du vor?",
+      "antwort": "Bei direkter Proportionalität ist y/x konstant. Der Graph ist eine Gerade durch den Ursprung."
+    },
+    {
+      "id": "4",
+      "nr": "4",
+      "gruppe": "Rechnen und anwenden",
+      "kurz": "Den Dreisatz bei direkter Proportionalität anwenden",
+      "text": "Ich kann den Dreisatz bei direkter Proportionalität anwenden.",
+      "frage": "Den Dreisatz bei direkter Proportionalität anwenden - wie gehst du vor?",
+      "antwort": "Zuerst den Wert für eine Einheit berechnen. Danach mit der gesuchten Anzahl multiplizieren."
+    },
+    {
+      "id": "5",
+      "nr": "5",
+      "gruppe": "Rechnen und anwenden",
+      "kurz": "Umgekehrte Proportionalität erkennen",
+      "text": "Ich kann Umgekehrte Proportionalität erkennen.",
+      "frage": "Umgekehrte Proportionalität erkennen - wie gehst du vor?",
+      "antwort": "Bei umgekehrter Proportionalität ist x·y konstant. Wird x verdoppelt, halbiert sich y."
+    },
+    {
+      "id": "6",
+      "nr": "6",
+      "gruppe": "Rechnen und anwenden",
+      "kurz": "Mit umgekehrter Proportionalität rechnen",
+      "text": "Ich kann mit umgekehrter Proportionalität rechnen.",
+      "frage": "Mit umgekehrter Proportionalität rechnen - wie gehst du vor?",
+      "antwort": "Zuerst das konstante Produkt k = x·y bilden. Den gesuchten Wert durch Teilen berechnen: y = k/x."
+    },
+    {
+      "id": "7",
+      "nr": "7",
+      "gruppe": "Darstellen und prüfen",
+      "kurz": "Das passende Zuordnungsmodell wählen",
+      "text": "Ich kann das passende Zuordnungsmodell wählen.",
+      "frage": "Das passende Zuordnungsmodell wählen - wie gehst du vor?",
+      "antwort": "Prüfe: konstanter Quotient → direkt proportional; konstantes Produkt → umgekehrt proportional. Sonst ist keines der beiden Modelle passend."
+    },
+    {
+      "id": "8",
+      "nr": "8",
+      "gruppe": "Darstellen und prüfen",
+      "kurz": "Ergebnisse auf Plausibilität prüfen",
+      "text": "Ich kann Ergebnisse auf Plausibilität prüfen.",
+      "frage": "Ergebnisse auf Plausibilität prüfen - wie gehst du vor?",
+      "antwort": "Überlege vor dem Rechnen, ob der gesuchte Wert grösser oder kleiner sein muss. Prüfe danach mit Quotient oder Produkt."
+    }
+  ],
+  "lernen": [
+    {
+      "id": "lz-1",
+      "titel": "Zuordnungen in Tabellen darstellen",
+      "lernziele": [
+        "1"
+      ],
+      "intro": "Ich kann Zuordnungen in Tabellen darstellen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Eine Zuordnung verbindet Eingabewerte x mit Ausgabewerten y. In einer Tabelle stehen zusammengehörende Werte in derselben Zeile oder Spalte."
+        },
+        {
+          "t": "bild",
+          "src": "content/img/mathe2/zuordnungen-proportionalitaet.svg",
+          "alt": "Lernskizze: Zuordnungen und Proportionalität",
+          "caption": "Eigene vereinfachte Skizze; nicht massstabsgetreu."
+        },
+        {
+          "t": "p",
+          "text": "Schreibe zu jeder Grösse die Einheit. Erst die Beziehung aus dem Text klären, dann Werte berechnen."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "Ein Ticket kostet 4 CHF: 1 → 4, 2 → 8, 3 → 12."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "In einer Zuordnungstabelle dürfen Werte und Einheiten beliebig vertauscht werden."
+        }
+      ]
+    },
+    {
+      "id": "lz-2",
+      "titel": "Punkte in ein Koordinatensystem eintragen",
+      "lernziele": [
+        "2"
+      ],
+      "intro": "Ich kann Punkte in ein Koordinatensystem eintragen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Ein Punkt (x|y) wird zuerst auf der waagrechten x-Achse und dann in Richtung der senkrechten y-Achse abgetragen."
+        },
+        {
+          "t": "p",
+          "text": "Beschrifte beide Achsen mit Grösse, Einheit und gleichmässiger Skala."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "(3|12): auf x bis 3, auf y bis 12."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Bei (3|12) ist 12 immer die x-Koordinate."
+        }
+      ]
+    },
+    {
+      "id": "lz-3",
+      "titel": "Direkte Proportionalität erkennen",
+      "lernziele": [
+        "3"
+      ],
+      "intro": "Ich kann Direkte Proportionalität erkennen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Bei direkter Proportionalität ist y/x konstant. Der Graph ist eine Gerade durch den Ursprung."
+        },
+        {
+          "t": "p",
+          "text": "Doppelte Menge bedeutet doppelten Gesamtwert. Gleiche Stückpreise ohne Grundgebühr sind ein typisches Beispiel."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "2 kg kosten 6 CHF, 4 kg kosten 12 CHF: Preis pro kg immer 3 CHF."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Jede steigende Gerade beschreibt eine direkte Proportionalität."
+        }
+      ]
+    },
+    {
+      "id": "lz-4",
+      "titel": "Den Dreisatz bei direkter Proportionalität anwenden",
+      "lernziele": [
+        "4"
+      ],
+      "intro": "Ich kann den Dreisatz bei direkter Proportionalität anwenden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Zuerst den Wert für eine Einheit berechnen. Danach mit der gesuchten Anzahl multiplizieren."
+        },
+        {
+          "t": "p",
+          "text": "Bei gleichem Preis pro Stück ist der Preis proportional zur Anzahl. Notiere den Zwischenschritt für 1 Stück."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "5 Flaschen kosten 15 CHF → 1 kostet 3 CHF → 8 kosten 24 CHF."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Bei einer proportionalen Preisaufgabe reicht es immer, die Differenz der Stückzahlen zum Preis zu addieren."
+        }
+      ]
+    },
+    {
+      "id": "lz-5",
+      "titel": "Umgekehrte Proportionalität erkennen",
+      "lernziele": [
+        "5"
+      ],
+      "intro": "Ich kann Umgekehrte Proportionalität erkennen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Bei umgekehrter Proportionalität ist x·y konstant. Wird x verdoppelt, halbiert sich y."
+        },
+        {
+          "t": "p",
+          "text": "Beispiel: gleiche Arbeit, gleich schnelle Personen, ohne Behinderung oder Wartezeit. Der Graph ist keine Gerade."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "2 Pumpen brauchen 12 h, 4 gleiche Pumpen 6 h: Produkt immer 24 Pumpenstunden."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Bei umgekehrter Proportionalität verdoppeln sich immer beide Werte gemeinsam."
+        }
+      ]
+    },
+    {
+      "id": "lz-6",
+      "titel": "Mit umgekehrter Proportionalität rechnen",
+      "lernziele": [
+        "6"
+      ],
+      "intro": "Ich kann mit umgekehrter Proportionalität rechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Zuerst das konstante Produkt k = x·y bilden. Den gesuchten Wert durch Teilen berechnen: y = k/x."
+        },
+        {
+          "t": "p",
+          "text": "Mehr gleich leistungsfähige Helfer brauchen für dieselbe Arbeit weniger Zeit. Das gilt nur unter den genannten Modellannahmen."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "4 Personen brauchen 6 h: 24 Personenstunden. 3 Personen brauchen 24/3 = 8 h."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Doppelt so viele gleich schnelle Helfer brauchen für dieselbe Arbeit doppelt so lange."
+        }
+      ]
+    },
+    {
+      "id": "lz-7",
+      "titel": "Das passende Zuordnungsmodell wählen",
+      "lernziele": [
+        "7"
+      ],
+      "intro": "Ich kann das passende Zuordnungsmodell wählen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Prüfe: konstanter Quotient → direkt proportional; konstantes Produkt → umgekehrt proportional. Sonst ist keines der beiden Modelle passend."
+        },
+        {
+          "t": "p",
+          "text": "Ein Taxipreis mit Grundgebühr ist nicht direkt proportional zur Strecke. Verdoppeln der Strecke verdoppelt den Gesamtpreis nicht."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "Taxi: 5 CHF Grundgebühr + 2 CHF/km; 1 km → 7 CHF, 2 km → 9 CHF."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Jeder Preis mit einer Grundgebühr ist direkt proportional zur Menge."
+        }
+      ]
+    },
+    {
+      "id": "lz-8",
+      "titel": "Ergebnisse auf Plausibilität prüfen",
+      "lernziele": [
+        "8"
+      ],
+      "intro": "Ich kann Ergebnisse auf Plausibilität prüfen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Überlege vor dem Rechnen, ob der gesuchte Wert grösser oder kleiner sein muss. Prüfe danach mit Quotient oder Produkt."
+        },
+        {
+          "t": "p",
+          "text": "Nutze Einheiten und eine Überschlagsrechnung. Bei direkter Proportionalität führt weniger Menge zu weniger Gesamtpreis."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "3 kg kosten 12 CHF. 1.5 kg sind die Hälfte und kosten deshalb 6 CHF."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Bei drei statt sechs Helfern muss die Arbeitszeit unter gleichen Bedingungen kleiner werden."
+        }
+      ]
+    },
+    {
+      "id": "lernspick",
+      "titel": "Lernspick: alle Lernziele mit Antwort",
+      "lernziele": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "intro": "Eigene Grundlagenziele auf Niveau III. Schulische Vorgaben ergänzen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "1. Zuordnungen in Tabellen darstellen",
+          "text": "Eine Zuordnung verbindet Eingabewerte x mit Ausgabewerten y. In einer Tabelle stehen zusammengehörende Werte in derselben Zeile oder Spalte."
+        },
+        {
+          "t": "merke",
+          "titel": "2. Punkte in ein Koordinatensystem eintragen",
+          "text": "Ein Punkt (x|y) wird zuerst auf der waagrechten x-Achse und dann in Richtung der senkrechten y-Achse abgetragen."
+        },
+        {
+          "t": "merke",
+          "titel": "3. Direkte Proportionalität erkennen",
+          "text": "Bei direkter Proportionalität ist y/x konstant. Der Graph ist eine Gerade durch den Ursprung."
+        },
+        {
+          "t": "merke",
+          "titel": "4. Den Dreisatz bei direkter Proportionalität anwenden",
+          "text": "Zuerst den Wert für eine Einheit berechnen. Danach mit der gesuchten Anzahl multiplizieren."
+        },
+        {
+          "t": "merke",
+          "titel": "5. Umgekehrte Proportionalität erkennen",
+          "text": "Bei umgekehrter Proportionalität ist x·y konstant. Wird x verdoppelt, halbiert sich y."
+        },
+        {
+          "t": "merke",
+          "titel": "6. Mit umgekehrter Proportionalität rechnen",
+          "text": "Zuerst das konstante Produkt k = x·y bilden. Den gesuchten Wert durch Teilen berechnen: y = k/x."
+        },
+        {
+          "t": "merke",
+          "titel": "7. Das passende Zuordnungsmodell wählen",
+          "text": "Prüfe: konstanter Quotient → direkt proportional; konstantes Produkt → umgekehrt proportional. Sonst ist keines der beiden Modelle passend."
+        },
+        {
+          "t": "merke",
+          "titel": "8. Ergebnisse auf Plausibilität prüfen",
+          "text": "Überlege vor dem Rechnen, ob der gesuchte Wert grösser oder kleiner sein muss. Prüfe danach mit Quotient oder Produkt."
+        },
+        {
+          "t": "bild",
+          "src": "content/img/mathe2/zuordnungen-proportionalitaet-leer.svg",
+          "alt": "Vorlage zum Beschriften",
+          "caption": "Auf Papier beschriften und mit der Lernskizze im ersten Kapitel vergleichen."
+        }
+      ]
+    }
+  ],
+  "karten": [
+    {
+      "vorne": "Zuordnungen in Tabellen darstellen",
+      "hinten": "Ein Ticket kostet 4 CHF: 1 → 4, 2 → 8, 3 → 12."
+    },
+    {
+      "vorne": "Punkte in ein Koordinatensystem eintragen",
+      "hinten": "(3|12): auf x bis 3, auf y bis 12."
+    },
+    {
+      "vorne": "Direkte Proportionalität erkennen",
+      "hinten": "2 kg kosten 6 CHF, 4 kg kosten 12 CHF: Preis pro kg immer 3 CHF."
+    },
+    {
+      "vorne": "Den Dreisatz bei direkter Proportionalität anwenden",
+      "hinten": "5 Flaschen kosten 15 CHF → 1 kostet 3 CHF → 8 kosten 24 CHF."
+    },
+    {
+      "vorne": "Umgekehrte Proportionalität erkennen",
+      "hinten": "2 Pumpen brauchen 12 h, 4 gleiche Pumpen 6 h: Produkt immer 24 Pumpenstunden."
+    },
+    {
+      "vorne": "Mit umgekehrter Proportionalität rechnen",
+      "hinten": "4 Personen brauchen 6 h: 24 Personenstunden. 3 Personen brauchen 24/3 = 8 h."
+    },
+    {
+      "vorne": "Das passende Zuordnungsmodell wählen",
+      "hinten": "Taxi: 5 CHF Grundgebühr + 2 CHF/km; 1 km → 7 CHF, 2 km → 9 CHF."
+    },
+    {
+      "vorne": "Ergebnisse auf Plausibilität prüfen",
+      "hinten": "3 kg kosten 12 CHF. 1.5 kg sind die Hälfte und kosten deshalb 6 CHF."
+    },
+    {
+      "vorne": "Direkt proportional",
+      "hinten": "y/x ist konstant; Verdoppeln von x verdoppelt y."
+    },
+    {
+      "vorne": "Umgekehrt proportional",
+      "hinten": "x·y ist konstant; Verdoppeln von x halbiert y."
+    },
+    {
+      "vorne": "Ursprung",
+      "hinten": "Punkt (0|0) im Koordinatensystem."
+    },
+    {
+      "vorne": "Dreisatz",
+      "hinten": "Auf eine Einheit zurückrechnen, dann auf die gesuchte Anzahl."
+    }
+  ],
+  "uebungen": [
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Eine Zuordnung verbindet Eingabewerte x mit Ausgabewerten y. In einer Tabelle stehen zusammengehörende Werte in derselben Zeile oder Spalte.",
+        "In einer Zuordnungstabelle dürfen Werte und Einheiten beliebig vertauscht werden."
+      ],
+      "richtig": 0,
+      "id": "u1-1",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Eine Zuordnung verbindet Eingabewerte x mit Ausgabewerten y. In einer Tabelle stehen zusammengehörende Werte in derselben Zeile oder Spalte. Beispiel: Ein Ticket kostet 4 CHF: 1 → 4, 2 → 8, 3 → 12."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Ein Ticket kostet 4 CHF. Wie viel kosten 7 Tickets?",
+      "antwort": 28,
+      "toleranz": 0.015,
+      "einheit": "CHF",
+      "id": "u1-2",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 28 CHF. Eine Zuordnung verbindet Eingabewerte x mit Ausgabewerten y. In einer Tabelle stehen zusammengehörende Werte in derselben Zeile oder Spalte."
+    },
+    {
+      "id": "u1-3",
+      "typ": "offen",
+      "lernziel": "1",
+      "frage": "Erstelle eine Tabelle für 1, 2, 4 und 6 Hefte zu je 3 CHF.",
+      "musterloesung": "Anzahl: 1, 2, 4, 6; Preis: 3, 6, 12, 18 CHF.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Eine Zuordnung verbindet Eingabewerte x mit Ausgabewerten y. In einer Tabelle stehen zusammengehörende Werte in derselben Zeile oder Spalte."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Ein Punkt (x|y) wird zuerst auf der waagrechten x-Achse und dann in Richtung der senkrechten y-Achse abgetragen.",
+        "Bei (3|12) ist 12 immer die x-Koordinate."
+      ],
+      "richtig": 0,
+      "id": "u2-1",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "Ein Punkt (x|y) wird zuerst auf der waagrechten x-Achse und dann in Richtung der senkrechten y-Achse abgetragen. Beispiel: (3|12): auf x bis 3, auf y bis 12."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Für y = 4x: Welchen y-Wert hat x = 5?",
+      "antwort": 20,
+      "toleranz": 0.015,
+      "einheit": "",
+      "id": "u2-2",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 20 . Ein Punkt (x|y) wird zuerst auf der waagrechten x-Achse und dann in Richtung der senkrechten y-Achse abgetragen."
+    },
+    {
+      "id": "u2-3",
+      "typ": "offen",
+      "lernziel": "2",
+      "frage": "Zeichne Achsen und trage (1|3), (2|6), (3|9) ein.",
+      "musterloesung": "x waagrecht, y senkrecht; Punkte liegen auf einer Geraden durch (0|0).",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": true,
+      "zeilen": 5,
+      "hilfe": "Ein Punkt (x|y) wird zuerst auf der waagrechten x-Achse und dann in Richtung der senkrechten y-Achse abgetragen."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Bei direkter Proportionalität ist y/x konstant. Der Graph ist eine Gerade durch den Ursprung.",
+        "Jede steigende Gerade beschreibt eine direkte Proportionalität."
+      ],
+      "richtig": 0,
+      "id": "u3-1",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Bei direkter Proportionalität ist y/x konstant. Der Graph ist eine Gerade durch den Ursprung. Beispiel: 2 kg kosten 6 CHF, 4 kg kosten 12 CHF: Preis pro kg immer 3 CHF."
+    },
+    {
+      "typ": "zahl",
+      "frage": "3 kg kosten 12 CHF. Wie viel kosten 7 kg bei gleichem Kilopreis?",
+      "antwort": 28,
+      "toleranz": 0.015,
+      "einheit": "CHF",
+      "id": "u3-2",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 28 CHF. Bei direkter Proportionalität ist y/x konstant. Der Graph ist eine Gerade durch den Ursprung."
+    },
+    {
+      "id": "u3-3",
+      "typ": "offen",
+      "lernziel": "3",
+      "frage": "Prüfe x: 1, 2, 4 und y: 5, 10, 20 auf direkte Proportionalität.",
+      "musterloesung": "y/x = 5, 5, 5. Ja, konstantes Verhältnis.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Bei direkter Proportionalität ist y/x konstant. Der Graph ist eine Gerade durch den Ursprung."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Zuerst den Wert für eine Einheit berechnen. Danach mit der gesuchten Anzahl multiplizieren.",
+        "Bei einer proportionalen Preisaufgabe reicht es immer, die Differenz der Stückzahlen zum Preis zu addieren."
+      ],
+      "richtig": 0,
+      "id": "u4-1",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Zuerst den Wert für eine Einheit berechnen. Danach mit der gesuchten Anzahl multiplizieren. Beispiel: 5 Flaschen kosten 15 CHF → 1 kostet 3 CHF → 8 kosten 24 CHF."
+    },
+    {
+      "typ": "zahl",
+      "frage": "6 Stifte kosten 9 CHF. Wie viel kosten 10?",
+      "antwort": 15,
+      "toleranz": 0.015,
+      "einheit": "CHF",
+      "id": "u4-2",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 15 CHF. Zuerst den Wert für eine Einheit berechnen. Danach mit der gesuchten Anzahl multiplizieren."
+    },
+    {
+      "id": "u4-3",
+      "typ": "offen",
+      "lernziel": "4",
+      "frage": "8 Brötchen kosten 12 CHF. Berechne den Preis für 14 Brötchen.",
+      "musterloesung": "1 Brötchen: 12/8 = 1.50 CHF; 14: 21 CHF.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Zuerst den Wert für eine Einheit berechnen. Danach mit der gesuchten Anzahl multiplizieren."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Bei umgekehrter Proportionalität ist x·y konstant. Wird x verdoppelt, halbiert sich y.",
+        "Bei umgekehrter Proportionalität verdoppeln sich immer beide Werte gemeinsam."
+      ],
+      "richtig": 0,
+      "id": "u5-1",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Bei umgekehrter Proportionalität ist x·y konstant. Wird x verdoppelt, halbiert sich y. Beispiel: 2 Pumpen brauchen 12 h, 4 gleiche Pumpen 6 h: Produkt immer 24 Pumpenstunden."
+    },
+    {
+      "typ": "zahl",
+      "frage": "3 gleiche Pumpen brauchen 8 h. Wie lange brauchen 6 Pumpen?",
+      "antwort": 4,
+      "toleranz": 0.015,
+      "einheit": "h",
+      "id": "u5-2",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 4 h. Bei umgekehrter Proportionalität ist x·y konstant. Wird x verdoppelt, halbiert sich y."
+    },
+    {
+      "id": "u5-3",
+      "typ": "offen",
+      "lernziel": "5",
+      "frage": "Prüfe x: 1, 2, 4 und y: 24, 12, 6 auf umgekehrte Proportionalität.",
+      "musterloesung": "Produkte: 24, 24, 24. Ja.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Bei umgekehrter Proportionalität ist x·y konstant. Wird x verdoppelt, halbiert sich y."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Zuerst das konstante Produkt k = x·y bilden. Den gesuchten Wert durch Teilen berechnen: y = k/x.",
+        "Doppelt so viele gleich schnelle Helfer brauchen für dieselbe Arbeit doppelt so lange."
+      ],
+      "richtig": 0,
+      "id": "u6-1",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Zuerst das konstante Produkt k = x·y bilden. Den gesuchten Wert durch Teilen berechnen: y = k/x. Beispiel: 4 Personen brauchen 6 h: 24 Personenstunden. 3 Personen brauchen 24/3 = 8 h."
+    },
+    {
+      "typ": "zahl",
+      "frage": "5 Personen brauchen 12 h. Wie lange brauchen 3 gleich schnelle Personen?",
+      "antwort": 20,
+      "toleranz": 0.015,
+      "einheit": "h",
+      "id": "u6-2",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 20 h. Zuerst das konstante Produkt k = x·y bilden. Den gesuchten Wert durch Teilen berechnen: y = k/x."
+    },
+    {
+      "id": "u6-3",
+      "typ": "offen",
+      "lernziel": "6",
+      "frage": "6 Maschinen brauchen 10 h. Wie lange brauchen 4 gleich schnelle Maschinen?",
+      "musterloesung": "60 Maschinenstunden; 60/4 = 15 h.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Zuerst das konstante Produkt k = x·y bilden. Den gesuchten Wert durch Teilen berechnen: y = k/x."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Prüfe: konstanter Quotient → direkt proportional; konstantes Produkt → umgekehrt proportional. Sonst ist keines der beiden Modelle passend.",
+        "Jeder Preis mit einer Grundgebühr ist direkt proportional zur Menge."
+      ],
+      "richtig": 0,
+      "id": "u7-1",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Prüfe: konstanter Quotient → direkt proportional; konstantes Produkt → umgekehrt proportional. Sonst ist keines der beiden Modelle passend. Beispiel: Taxi: 5 CHF Grundgebühr + 2 CHF/km; 1 km → 7 CHF, 2 km → 9 CHF."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Taxi: 5 CHF Grundgebühr und 2 CHF/km. Was kosten 6 km?",
+      "antwort": 17,
+      "toleranz": 0.015,
+      "einheit": "CHF",
+      "id": "u7-2",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 17 CHF. Prüfe: konstanter Quotient → direkt proportional; konstantes Produkt → umgekehrt proportional. Sonst ist keines der beiden Modelle passend."
+    },
+    {
+      "id": "u7-3",
+      "typ": "offen",
+      "lernziel": "7",
+      "frage": "Ordne zu und begründe: Stückpreis ohne Grundgebühr; Zeit für feste Arbeit bei mehr Helfern; Taxi mit Grundgebühr.",
+      "musterloesung": "Direkt proportional; umgekehrt proportional unter gleichen Bedingungen; keines von beiden.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Prüfe: konstanter Quotient → direkt proportional; konstantes Produkt → umgekehrt proportional. Sonst ist keines der beiden Modelle passend."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Überlege vor dem Rechnen, ob der gesuchte Wert grösser oder kleiner sein muss. Prüfe danach mit Quotient oder Produkt.",
+        "Bei drei statt sechs Helfern muss die Arbeitszeit unter gleichen Bedingungen kleiner werden."
+      ],
+      "richtig": 0,
+      "id": "u8-1",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Überlege vor dem Rechnen, ob der gesuchte Wert grösser oder kleiner sein muss. Prüfe danach mit Quotient oder Produkt. Beispiel: 3 kg kosten 12 CHF. 1.5 kg sind die Hälfte und kosten deshalb 6 CHF."
+    },
+    {
+      "typ": "zahl",
+      "frage": "10 kg kosten 40 CHF. Was kosten 2.5 kg?",
+      "antwort": 10,
+      "toleranz": 0.015,
+      "einheit": "CHF",
+      "id": "u8-2",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 10 CHF. Überlege vor dem Rechnen, ob der gesuchte Wert grösser oder kleiner sein muss. Prüfe danach mit Quotient oder Produkt."
+    },
+    {
+      "id": "u8-3",
+      "typ": "offen",
+      "lernziel": "8",
+      "frage": "4 Helfer brauchen 9 h. Ein Vorschlag lautet: 2 Helfer brauchen 4.5 h. Korrigiere und begründe.",
+      "musterloesung": "Falsch: halb so viele Helfer brauchen doppelt so lange, also 18 h. Produkt 36 bleibt gleich.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Überlege vor dem Rechnen, ob der gesuchte Wert grösser oder kleiner sein muss. Prüfe danach mit Quotient oder Produkt."
+    }
+  ],
+  "pruefungen": [
+    {
+      "id": "grundlagentest-32",
+      "titel": "Zuordnungen und Proportionalität - Grundlagentest III",
+      "richtzeit": 45,
+      "hinweis": "32 Punkte. Zeichnungen auf Papier, offene Aufgaben mit Kriterien selbst bewerten. Taschenrechner, Lineal und Zirkel erlaubt; ohne Dossier. Bei Kreisen π-Taste nutzen und auf zwei Dezimalstellen runden. Eigene Lernziele; schulische Prüfungsziele noch nicht abgeglichen.",
+      "aufgaben": [
+        {
+          "id": "p1",
+          "nr": "1",
+          "typ": "offen",
+          "lernziel": "1",
+          "titel": "Zuordnungen in Tabellen darstellen",
+          "frage": "Ein Heft kostet 2.50 CHF. Erstelle eine Tabelle für 1, 2, 4 und 8 Hefte.",
+          "punkte": 4,
+          "musterloesung": "Tabelle mit Anzahl und Preis sowie CHF\n1 → 2.50 und 2 → 5\n4 → 10\n8 → 20",
+          "kriterien": [
+            {
+              "text": "Tabelle mit Anzahl und Preis sowie CHF",
+              "punkte": 1
+            },
+            {
+              "text": "1 → 2.50 und 2 → 5",
+              "punkte": 1
+            },
+            {
+              "text": "4 → 10",
+              "punkte": 1
+            },
+            {
+              "text": "8 → 20",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p2",
+          "nr": "2",
+          "typ": "offen",
+          "lernziel": "2",
+          "titel": "Punkte in ein Koordinatensystem eintragen",
+          "frage": "Zeichne ein Koordinatensystem und trage (1|2), (2|4), (4|8) ein.",
+          "punkte": 4,
+          "musterloesung": "Achsen x und y bezeichnet\nGleichmässige Skala\nDie drei Punkte richtig\nGerade durch die Punkte und Ursprung",
+          "kriterien": [
+            {
+              "text": "Achsen x und y bezeichnet",
+              "punkte": 1
+            },
+            {
+              "text": "Gleichmässige Skala",
+              "punkte": 1
+            },
+            {
+              "text": "Die drei Punkte richtig",
+              "punkte": 1
+            },
+            {
+              "text": "Gerade durch die Punkte und Ursprung",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        },
+        {
+          "id": "p3",
+          "nr": "3",
+          "typ": "offen",
+          "lernziel": "3",
+          "titel": "Direkte Proportionalität erkennen",
+          "frage": "Prüfe x: 2, 3, 5 und y: 8, 12, 20 auf direkte Proportionalität.",
+          "punkte": 4,
+          "musterloesung": "8/2 = 4\n12/3 = 4\n20/5 = 4\nDirekt proportional, weil der Quotient konstant ist",
+          "kriterien": [
+            {
+              "text": "8/2 = 4",
+              "punkte": 1
+            },
+            {
+              "text": "12/3 = 4",
+              "punkte": 1
+            },
+            {
+              "text": "20/5 = 4",
+              "punkte": 1
+            },
+            {
+              "text": "Direkt proportional, weil der Quotient konstant ist",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p4",
+          "nr": "4",
+          "typ": "offen",
+          "lernziel": "4",
+          "titel": "Den Dreisatz bei direkter Proportionalität anwenden",
+          "frage": "4 m Stoff kosten 30 CHF. Berechne den Preis für 7 m.",
+          "punkte": 4,
+          "musterloesung": "Preis ist direkt proportional zur Länge\n30/4 = 7.50 CHF pro m\n7·7.50 = 52.50\nAntwort: 52.50 CHF",
+          "kriterien": [
+            {
+              "text": "Preis ist direkt proportional zur Länge",
+              "punkte": 1
+            },
+            {
+              "text": "30/4 = 7.50 CHF pro m",
+              "punkte": 1
+            },
+            {
+              "text": "7·7.50 = 52.50",
+              "punkte": 1
+            },
+            {
+              "text": "Antwort: 52.50 CHF",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p5",
+          "nr": "5",
+          "typ": "offen",
+          "lernziel": "5",
+          "titel": "Umgekehrte Proportionalität erkennen",
+          "frage": "Prüfe x: 2, 4, 8 und y: 20, 10, 5. Nenne die konstante Grösse.",
+          "punkte": 4,
+          "musterloesung": "2·20 = 40\n4·10 = 40\n8·5 = 40\nUmgekehrt proportional mit konstantem Produkt 40",
+          "kriterien": [
+            {
+              "text": "2·20 = 40",
+              "punkte": 1
+            },
+            {
+              "text": "4·10 = 40",
+              "punkte": 1
+            },
+            {
+              "text": "8·5 = 40",
+              "punkte": 1
+            },
+            {
+              "text": "Umgekehrt proportional mit konstantem Produkt 40",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p6",
+          "nr": "6",
+          "typ": "offen",
+          "lernziel": "6",
+          "titel": "Mit umgekehrter Proportionalität rechnen",
+          "frage": "8 gleiche Pumpen leeren ein Becken in 3 h. Wie lange brauchen 6 Pumpen?",
+          "punkte": 4,
+          "musterloesung": "Gleiche Arbeit und Leistung vorausgesetzt\n8·3 = 24\n24/6 = 4\nDauer 4 h, also länger als mit 8 Pumpen",
+          "kriterien": [
+            {
+              "text": "Gleiche Arbeit und Leistung vorausgesetzt",
+              "punkte": 1
+            },
+            {
+              "text": "8·3 = 24",
+              "punkte": 1
+            },
+            {
+              "text": "24/6 = 4",
+              "punkte": 1
+            },
+            {
+              "text": "Dauer 4 h, also länger als mit 8 Pumpen",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p7",
+          "nr": "7",
+          "typ": "offen",
+          "lernziel": "7",
+          "titel": "Das passende Zuordnungsmodell wählen",
+          "frage": "Ein Taxi kostet 6 CHF Grundgebühr + 3 CHF/km. Berechne 2 km und 4 km und prüfe direkte Proportionalität.",
+          "punkte": 4,
+          "musterloesung": "2 km kosten 12 CHF\n4 km kosten 18 CHF\n18 ist nicht 2·12\nWegen Grundgebühr nicht direkt proportional",
+          "kriterien": [
+            {
+              "text": "2 km kosten 12 CHF",
+              "punkte": 1
+            },
+            {
+              "text": "4 km kosten 18 CHF",
+              "punkte": 1
+            },
+            {
+              "text": "18 ist nicht 2·12",
+              "punkte": 1
+            },
+            {
+              "text": "Wegen Grundgebühr nicht direkt proportional",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p8",
+          "nr": "8",
+          "typ": "offen",
+          "lernziel": "8",
+          "titel": "Ergebnisse auf Plausibilität prüfen",
+          "frage": "6 Personen brauchen 4 h. Für 3 Personen wird 2 h behauptet. Prüfe und korrigiere.",
+          "punkte": 4,
+          "musterloesung": "Weniger Personen müssen länger arbeiten\n6·4 = 24 Personenstunden\n24/3 = 8 h\n3·8 = 24 als Probe",
+          "kriterien": [
+            {
+              "text": "Weniger Personen müssen länger arbeiten",
+              "punkte": 1
+            },
+            {
+              "text": "6·4 = 24 Personenstunden",
+              "punkte": 1
+            },
+            {
+              "text": "24/3 = 8 h",
+              "punkte": 1
+            },
+            {
+              "text": "3·8 = 24 als Probe",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        }
+      ]
+    }
+  ]
+}

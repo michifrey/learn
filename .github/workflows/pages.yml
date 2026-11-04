@@ -24,6 +24,8 @@ jobs:
         run: python3 tools/validate.py
       - name: Check Prisma routes and exercises
         run: node tools/test_prisma.cjs
+      - name: Check Mathematik 2 content and calculations
+        run: node tools/test_mathematik2.cjs
 
   deploy:
     if: github.ref == 'refs/heads/main'

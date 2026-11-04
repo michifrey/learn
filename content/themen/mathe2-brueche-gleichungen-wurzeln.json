@@ -1,0 +1,1077 @@
+{
+  "lernzielBasis": "selbst-formuliert",
+  "hinweis": "Eigene Grundlagen auf Niveau III zur öffentlichen Themenübersicht von Mathematik 2. Keine vollständige Abbildung des Arbeitshefts; schulische Prüfungsziele noch nicht abgeglichen.",
+  "quellen": [
+    {
+      "titel": "Brüche, Gleichungen und Wurzeln - Lerndossier",
+      "art": "Eigene Lerntexte, Skizzen, Übungen, Test und Lösungen",
+      "seiten": 12,
+      "datei": "material/klasse-8/mathe2/brueche-gleichungen-wurzeln/Mathematik2_brueche-gleichungen-wurzeln_Lerndossier.pdf"
+    }
+  ],
+  "referenzen": [
+    {
+      "titel": "LMVZ: öffentliche Themenübersicht Mathematik 2",
+      "url": "https://003.lmvz.ch/lehrmittelsites/mathe_sek/de/m2/index.html"
+    },
+    {
+      "titel": "Arbeitsheft III: Produkt und Niveau",
+      "url": "https://shop.lmvz.ch/de/Katalog/Mathematik-Sekundarstufe-I/Mathematik-2-Sekundarstufe-I-Arbeitsheft-III-6722.html"
+    }
+  ],
+  "lernziele": [
+    {
+      "id": "1",
+      "nr": "1",
+      "gruppe": "Grundlagen",
+      "kurz": "Bruchteile darstellen und vergleichen",
+      "text": "Ich kann Bruchteile darstellen und vergleichen.",
+      "frage": "Bruchteile darstellen und vergleichen - wie gehst du vor?",
+      "antwort": "Zähler: ausgewählte Teile. Nenner: Anzahl gleich grosser Teile. Zum Vergleichen gleichnamig machen."
+    },
+    {
+      "id": "2",
+      "nr": "2",
+      "gruppe": "Grundlagen",
+      "kurz": "Brüche erweitern und kürzen",
+      "text": "Ich kann Brüche erweitern und kürzen.",
+      "frage": "Brüche erweitern und kürzen - wie gehst du vor?",
+      "antwort": "Zähler und Nenner mit derselben Zahl multiplizieren oder durch denselben gemeinsamen Teiler dividieren. Der Wert bleibt gleich."
+    },
+    {
+      "id": "3",
+      "nr": "3",
+      "gruppe": "Grundlagen",
+      "kurz": "Brüche addieren und subtrahieren",
+      "text": "Ich kann Brüche addieren und subtrahieren.",
+      "frage": "Brüche addieren und subtrahieren - wie gehst du vor?",
+      "antwort": "Zuerst gemeinsamen Nenner bilden, dann nur die Zähler addieren oder subtrahieren. Ergebnis kürzen."
+    },
+    {
+      "id": "4",
+      "nr": "4",
+      "gruppe": "Rechnen und anwenden",
+      "kurz": "Brüche multiplizieren und dividieren",
+      "text": "Ich kann Brüche multiplizieren und dividieren.",
+      "frage": "Brüche multiplizieren und dividieren - wie gehst du vor?",
+      "antwort": "Multiplizieren: Zähler mal Zähler, Nenner mal Nenner. Dividieren: mit dem Kehrwert des zweiten Bruchs multiplizieren."
+    },
+    {
+      "id": "5",
+      "nr": "5",
+      "gruppe": "Rechnen und anwenden",
+      "kurz": "Brüche in Dezimalzahlen und Prozente umwandeln",
+      "text": "Ich kann Brüche in Dezimalzahlen und Prozente umwandeln.",
+      "frage": "Brüche in Dezimalzahlen und Prozente umwandeln - wie gehst du vor?",
+      "antwort": "Zähler durch Nenner teilen ergibt die Dezimalzahl. Mit 100 multiplizieren ergibt den Prozentwert."
+    },
+    {
+      "id": "6",
+      "nr": "6",
+      "gruppe": "Rechnen und anwenden",
+      "kurz": "Einfache Gleichungen lösen und prüfen",
+      "text": "Ich kann Einfache Gleichungen lösen und prüfen.",
+      "frage": "Einfache Gleichungen lösen und prüfen - wie gehst du vor?",
+      "antwort": "Auf beiden Seiten dieselbe Rechenoperation ausführen, bis x allein steht. Danach die Lösung einsetzen."
+    },
+    {
+      "id": "7",
+      "nr": "7",
+      "gruppe": "Darstellen und prüfen",
+      "kurz": "Zahlenfolgen beschreiben und fortsetzen",
+      "text": "Ich kann Zahlenfolgen beschreiben und fortsetzen.",
+      "frage": "Zahlenfolgen beschreiben und fortsetzen - wie gehst du vor?",
+      "antwort": "Suche eine Regel zwischen benachbarten Zahlen: gleich viel addieren oder immer mit derselben Zahl multiplizieren."
+    },
+    {
+      "id": "8",
+      "nr": "8",
+      "gruppe": "Darstellen und prüfen",
+      "kurz": "Quadrate und Quadratwurzeln berechnen",
+      "text": "Ich kann Quadrate und Quadratwurzeln berechnen.",
+      "frage": "Quadrate und Quadratwurzeln berechnen - wie gehst du vor?",
+      "antwort": "a² bedeutet a·a. √a ist die nichtnegative Zahl, die quadriert a ergibt. Für reelle Quadratwurzeln gilt a ≥ 0."
+    }
+  ],
+  "lernen": [
+    {
+      "id": "lz-1",
+      "titel": "Bruchteile darstellen und vergleichen",
+      "lernziele": [
+        "1"
+      ],
+      "intro": "Ich kann Bruchteile darstellen und vergleichen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Zähler: ausgewählte Teile. Nenner: Anzahl gleich grosser Teile. Zum Vergleichen gleichnamig machen."
+        },
+        {
+          "t": "bild",
+          "src": "content/img/mathe2/brueche-gleichungen-wurzeln.svg",
+          "alt": "Lernskizze: Brüche, Gleichungen und Wurzeln",
+          "caption": "Eigene vereinfachte Skizze; nicht massstabsgetreu."
+        },
+        {
+          "t": "p",
+          "text": "Ein Bruch beschreibt einen Anteil oder eine Division. Auf dem Zahlenstrahl liegen grössere Zahlen weiter rechts."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "3/4 = 6/8; deshalb ist 3/4 grösser als 5/8."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Bei jedem Bruch ist der grössere Nenner automatisch der grössere Bruch."
+        }
+      ]
+    },
+    {
+      "id": "lz-2",
+      "titel": "Brüche erweitern und kürzen",
+      "lernziele": [
+        "2"
+      ],
+      "intro": "Ich kann Brüche erweitern und kürzen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Zähler und Nenner mit derselben Zahl multiplizieren oder durch denselben gemeinsamen Teiler dividieren. Der Wert bleibt gleich."
+        },
+        {
+          "t": "p",
+          "text": "Erweitern hilft beim gemeinsamen Nenner. Vollständig gekürzt haben Zähler und Nenner keinen gemeinsamen Teiler grösser als 1."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "12/18 = 2/3; 2/3 = 10/15."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Beim Kürzen wird nur der Nenner verändert."
+        }
+      ]
+    },
+    {
+      "id": "lz-3",
+      "titel": "Brüche addieren und subtrahieren",
+      "lernziele": [
+        "3"
+      ],
+      "intro": "Ich kann Brüche addieren und subtrahieren.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Zuerst gemeinsamen Nenner bilden, dann nur die Zähler addieren oder subtrahieren. Ergebnis kürzen."
+        },
+        {
+          "t": "p",
+          "text": "Der Nenner benennt die Teilgrösse. Nur gleich grosse Teile lassen sich direkt zusammenzählen."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "1/2 + 1/3 = 3/6 + 2/6 = 5/6."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Beim Addieren von Brüchen werden Zähler und Nenner addiert."
+        }
+      ]
+    },
+    {
+      "id": "lz-4",
+      "titel": "Brüche multiplizieren und dividieren",
+      "lernziele": [
+        "4"
+      ],
+      "intro": "Ich kann Brüche multiplizieren und dividieren.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Multiplizieren: Zähler mal Zähler, Nenner mal Nenner. Dividieren: mit dem Kehrwert des zweiten Bruchs multiplizieren."
+        },
+        {
+          "t": "p",
+          "text": "Vor dem Multiplizieren darfst du gemeinsame Faktoren über Kreuz kürzen. Durch null darfst du nie dividieren."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "2/3 · 3/4 = 1/2. 2/3 : 4/5 = 2/3 · 5/4 = 5/6."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Beim Dividieren wird immer der erste Bruch umgedreht."
+        }
+      ]
+    },
+    {
+      "id": "lz-5",
+      "titel": "Brüche in Dezimalzahlen und Prozente umwandeln",
+      "lernziele": [
+        "5"
+      ],
+      "intro": "Ich kann Brüche in Dezimalzahlen und Prozente umwandeln.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Zähler durch Nenner teilen ergibt die Dezimalzahl. Mit 100 multiplizieren ergibt den Prozentwert."
+        },
+        {
+          "t": "p",
+          "text": "Prozent bedeutet Hundertstel. 25 % = 25/100 = 1/4. Bei periodischen Zahlen bei Bedarf sinnvoll runden."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "3/5 = 0.6 = 60 %."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "0.4 entspricht 4 %."
+        }
+      ]
+    },
+    {
+      "id": "lz-6",
+      "titel": "Einfache Gleichungen lösen und prüfen",
+      "lernziele": [
+        "6"
+      ],
+      "intro": "Ich kann Einfache Gleichungen lösen und prüfen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Auf beiden Seiten dieselbe Rechenoperation ausführen, bis x allein steht. Danach die Lösung einsetzen."
+        },
+        {
+          "t": "p",
+          "text": "Mache zuerst Addition oder Subtraktion rückgängig, dann Multiplikation oder Division. Division durch null ist verboten."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "3x + 4 = 19 → 3x = 15 → x = 5; Probe: 3·5 + 4 = 19."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Bei einer Gleichung darf nur die linke Seite verändert werden."
+        }
+      ]
+    },
+    {
+      "id": "lz-7",
+      "titel": "Zahlenfolgen beschreiben und fortsetzen",
+      "lernziele": [
+        "7"
+      ],
+      "intro": "Ich kann Zahlenfolgen beschreiben und fortsetzen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Suche eine Regel zwischen benachbarten Zahlen: gleich viel addieren oder immer mit derselben Zahl multiplizieren."
+        },
+        {
+          "t": "p",
+          "text": "Eine endliche Folge kann mehrere Regeln erlauben. Gib deshalb die benutzte einfache Regel ausdrücklich an."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "4, 7, 10, 13: immer +3. 2, 6, 18, 54: immer ·3."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Jede Zahlenfolge wächst immer um denselben Betrag."
+        }
+      ]
+    },
+    {
+      "id": "lz-8",
+      "titel": "Quadrate und Quadratwurzeln berechnen",
+      "lernziele": [
+        "8"
+      ],
+      "intro": "Ich kann Quadrate und Quadratwurzeln berechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "a² bedeutet a·a. √a ist die nichtnegative Zahl, die quadriert a ergibt. Für reelle Quadratwurzeln gilt a ≥ 0."
+        },
+        {
+          "t": "p",
+          "text": "√49 = 7. Die Gleichung x² = 49 hat dagegen zwei Lösungen: 7 und -7."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "12² = 144; √144 = 12. √30 liegt zwischen 5 und 6."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "√64 = 32, weil beim Wurzelziehen immer halbiert wird."
+        }
+      ]
+    },
+    {
+      "id": "lernspick",
+      "titel": "Lernspick: alle Lernziele mit Antwort",
+      "lernziele": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "intro": "Eigene Grundlagenziele auf Niveau III. Schulische Vorgaben ergänzen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "1. Bruchteile darstellen und vergleichen",
+          "text": "Zähler: ausgewählte Teile. Nenner: Anzahl gleich grosser Teile. Zum Vergleichen gleichnamig machen."
+        },
+        {
+          "t": "merke",
+          "titel": "2. Brüche erweitern und kürzen",
+          "text": "Zähler und Nenner mit derselben Zahl multiplizieren oder durch denselben gemeinsamen Teiler dividieren. Der Wert bleibt gleich."
+        },
+        {
+          "t": "merke",
+          "titel": "3. Brüche addieren und subtrahieren",
+          "text": "Zuerst gemeinsamen Nenner bilden, dann nur die Zähler addieren oder subtrahieren. Ergebnis kürzen."
+        },
+        {
+          "t": "merke",
+          "titel": "4. Brüche multiplizieren und dividieren",
+          "text": "Multiplizieren: Zähler mal Zähler, Nenner mal Nenner. Dividieren: mit dem Kehrwert des zweiten Bruchs multiplizieren."
+        },
+        {
+          "t": "merke",
+          "titel": "5. Brüche in Dezimalzahlen und Prozente umwandeln",
+          "text": "Zähler durch Nenner teilen ergibt die Dezimalzahl. Mit 100 multiplizieren ergibt den Prozentwert."
+        },
+        {
+          "t": "merke",
+          "titel": "6. Einfache Gleichungen lösen und prüfen",
+          "text": "Auf beiden Seiten dieselbe Rechenoperation ausführen, bis x allein steht. Danach die Lösung einsetzen."
+        },
+        {
+          "t": "merke",
+          "titel": "7. Zahlenfolgen beschreiben und fortsetzen",
+          "text": "Suche eine Regel zwischen benachbarten Zahlen: gleich viel addieren oder immer mit derselben Zahl multiplizieren."
+        },
+        {
+          "t": "merke",
+          "titel": "8. Quadrate und Quadratwurzeln berechnen",
+          "text": "a² bedeutet a·a. √a ist die nichtnegative Zahl, die quadriert a ergibt. Für reelle Quadratwurzeln gilt a ≥ 0."
+        },
+        {
+          "t": "bild",
+          "src": "content/img/mathe2/brueche-gleichungen-wurzeln-leer.svg",
+          "alt": "Vorlage zum Beschriften",
+          "caption": "Auf Papier beschriften und mit der Lernskizze im ersten Kapitel vergleichen."
+        }
+      ]
+    }
+  ],
+  "karten": [
+    {
+      "vorne": "Bruchteile darstellen und vergleichen",
+      "hinten": "3/4 = 6/8; deshalb ist 3/4 grösser als 5/8."
+    },
+    {
+      "vorne": "Brüche erweitern und kürzen",
+      "hinten": "12/18 = 2/3; 2/3 = 10/15."
+    },
+    {
+      "vorne": "Brüche addieren und subtrahieren",
+      "hinten": "1/2 + 1/3 = 3/6 + 2/6 = 5/6."
+    },
+    {
+      "vorne": "Brüche multiplizieren und dividieren",
+      "hinten": "2/3 · 3/4 = 1/2. 2/3 : 4/5 = 2/3 · 5/4 = 5/6."
+    },
+    {
+      "vorne": "Brüche in Dezimalzahlen und Prozente umwandeln",
+      "hinten": "3/5 = 0.6 = 60 %."
+    },
+    {
+      "vorne": "Einfache Gleichungen lösen und prüfen",
+      "hinten": "3x + 4 = 19 → 3x = 15 → x = 5; Probe: 3·5 + 4 = 19."
+    },
+    {
+      "vorne": "Zahlenfolgen beschreiben und fortsetzen",
+      "hinten": "4, 7, 10, 13: immer +3. 2, 6, 18, 54: immer ·3."
+    },
+    {
+      "vorne": "Quadrate und Quadratwurzeln berechnen",
+      "hinten": "12² = 144; √144 = 12. √30 liegt zwischen 5 und 6."
+    },
+    {
+      "vorne": "Kehrwert",
+      "hinten": "Zähler und Nenner tauschen; der Bruch darf nicht null sein."
+    },
+    {
+      "vorne": "Gleichung",
+      "hinten": "Zwei Terme mit gleichem Wert; beide Seiten gleich verändern."
+    },
+    {
+      "vorne": "Quadratzahl",
+      "hinten": "Eine Zahl mit sich selbst multipliziert."
+    },
+    {
+      "vorne": "Wurzel",
+      "hinten": "√a ist für a ≥ 0 die nichtnegative Zahl, deren Quadrat a ist."
+    }
+  ],
+  "uebungen": [
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Zähler: ausgewählte Teile. Nenner: Anzahl gleich grosser Teile. Zum Vergleichen gleichnamig machen.",
+        "Bei jedem Bruch ist der grössere Nenner automatisch der grössere Bruch."
+      ],
+      "richtig": 0,
+      "id": "u1-1",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Zähler: ausgewählte Teile. Nenner: Anzahl gleich grosser Teile. Zum Vergleichen gleichnamig machen. Beispiel: 3/4 = 6/8; deshalb ist 3/4 grösser als 5/8."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Wie viele Achtel sind 3/4?",
+      "antwort": 6,
+      "toleranz": 0.015,
+      "einheit": "Achtel",
+      "id": "u1-2",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 6 Achtel. Zähler: ausgewählte Teile. Nenner: Anzahl gleich grosser Teile. Zum Vergleichen gleichnamig machen."
+    },
+    {
+      "id": "u1-3",
+      "typ": "offen",
+      "lernziel": "1",
+      "frage": "Zeichne zwei gleich grosse Rechtecke. Färbe 3/4 und 5/8 ein. Welcher Anteil ist grösser?",
+      "musterloesung": "In 4 bzw. 8 gleiche Teile teilen; 3 bzw. 5 färben. 3/4 = 6/8 > 5/8.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": true,
+      "zeilen": 5,
+      "hilfe": "Zähler: ausgewählte Teile. Nenner: Anzahl gleich grosser Teile. Zum Vergleichen gleichnamig machen."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Zähler und Nenner mit derselben Zahl multiplizieren oder durch denselben gemeinsamen Teiler dividieren. Der Wert bleibt gleich.",
+        "Beim Kürzen wird nur der Nenner verändert."
+      ],
+      "richtig": 0,
+      "id": "u2-1",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "Zähler und Nenner mit derselben Zahl multiplizieren oder durch denselben gemeinsamen Teiler dividieren. Der Wert bleibt gleich. Beispiel: 12/18 = 2/3; 2/3 = 10/15."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Kürze 15/20 vollständig. Wie lautet der Zähler?",
+      "antwort": 3,
+      "toleranz": 0.015,
+      "einheit": "",
+      "id": "u2-2",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 3 . Zähler und Nenner mit derselben Zahl multiplizieren oder durch denselben gemeinsamen Teiler dividieren. Der Wert bleibt gleich."
+    },
+    {
+      "id": "u2-3",
+      "typ": "offen",
+      "lernziel": "2",
+      "frage": "Kürze 18/24 vollständig und erweitere das Ergebnis auf den Nenner 20.",
+      "musterloesung": "18/24 = 3/4 = 15/20.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Zähler und Nenner mit derselben Zahl multiplizieren oder durch denselben gemeinsamen Teiler dividieren. Der Wert bleibt gleich."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Zuerst gemeinsamen Nenner bilden, dann nur die Zähler addieren oder subtrahieren. Ergebnis kürzen.",
+        "Beim Addieren von Brüchen werden Zähler und Nenner addiert."
+      ],
+      "richtig": 0,
+      "id": "u3-1",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Zuerst gemeinsamen Nenner bilden, dann nur die Zähler addieren oder subtrahieren. Ergebnis kürzen. Beispiel: 1/2 + 1/3 = 3/6 + 2/6 = 5/6."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Berechne 1/4 + 3/8. Welcher Zähler steht über Nenner 8?",
+      "antwort": 5,
+      "toleranz": 0.015,
+      "einheit": "",
+      "id": "u3-2",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 5 . Zuerst gemeinsamen Nenner bilden, dann nur die Zähler addieren oder subtrahieren. Ergebnis kürzen."
+    },
+    {
+      "id": "u3-3",
+      "typ": "offen",
+      "lernziel": "3",
+      "frage": "Berechne 2/3 - 1/4 und zeige den gemeinsamen Nenner.",
+      "musterloesung": "8/12 - 3/12 = 5/12.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Zuerst gemeinsamen Nenner bilden, dann nur die Zähler addieren oder subtrahieren. Ergebnis kürzen."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Multiplizieren: Zähler mal Zähler, Nenner mal Nenner. Dividieren: mit dem Kehrwert des zweiten Bruchs multiplizieren.",
+        "Beim Dividieren wird immer der erste Bruch umgedreht."
+      ],
+      "richtig": 0,
+      "id": "u4-1",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Multiplizieren: Zähler mal Zähler, Nenner mal Nenner. Dividieren: mit dem Kehrwert des zweiten Bruchs multiplizieren. Beispiel: 2/3 · 3/4 = 1/2. 2/3 : 4/5 = 2/3 · 5/4 = 5/6."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Berechne 3/4 : 3/8 als ganze Zahl.",
+      "antwort": 2,
+      "toleranz": 0.015,
+      "einheit": "",
+      "id": "u4-2",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 2 . Multiplizieren: Zähler mal Zähler, Nenner mal Nenner. Dividieren: mit dem Kehrwert des zweiten Bruchs multiplizieren."
+    },
+    {
+      "id": "u4-3",
+      "typ": "offen",
+      "lernziel": "4",
+      "frage": "Berechne 2/5 · 15/4 und 3/7 : 6/7.",
+      "musterloesung": "30/20 = 3/2; 3/7 · 7/6 = 1/2.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Multiplizieren: Zähler mal Zähler, Nenner mal Nenner. Dividieren: mit dem Kehrwert des zweiten Bruchs multiplizieren."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Zähler durch Nenner teilen ergibt die Dezimalzahl. Mit 100 multiplizieren ergibt den Prozentwert.",
+        "0.4 entspricht 4 %."
+      ],
+      "richtig": 0,
+      "id": "u5-1",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Zähler durch Nenner teilen ergibt die Dezimalzahl. Mit 100 multiplizieren ergibt den Prozentwert. Beispiel: 3/5 = 0.6 = 60 %."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Wie viel Prozent sind 7/20?",
+      "antwort": 35,
+      "toleranz": 0.015,
+      "einheit": "%",
+      "id": "u5-2",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 35 %. Zähler durch Nenner teilen ergibt die Dezimalzahl. Mit 100 multiplizieren ergibt den Prozentwert."
+    },
+    {
+      "id": "u5-3",
+      "typ": "offen",
+      "lernziel": "5",
+      "frage": "Wandle 3/8 in eine Dezimalzahl und in Prozent um.",
+      "musterloesung": "3 : 8 = 0.375; 0.375 · 100 = 37.5 %.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Zähler durch Nenner teilen ergibt die Dezimalzahl. Mit 100 multiplizieren ergibt den Prozentwert."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Auf beiden Seiten dieselbe Rechenoperation ausführen, bis x allein steht. Danach die Lösung einsetzen.",
+        "Bei einer Gleichung darf nur die linke Seite verändert werden."
+      ],
+      "richtig": 0,
+      "id": "u6-1",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Auf beiden Seiten dieselbe Rechenoperation ausführen, bis x allein steht. Danach die Lösung einsetzen. Beispiel: 3x + 4 = 19 → 3x = 15 → x = 5; Probe: 3·5 + 4 = 19."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Löse 4x - 3 = 21. Wie gross ist x?",
+      "antwort": 6,
+      "toleranz": 0.015,
+      "einheit": "",
+      "id": "u6-2",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 6 . Auf beiden Seiten dieselbe Rechenoperation ausführen, bis x allein steht. Danach die Lösung einsetzen."
+    },
+    {
+      "id": "u6-3",
+      "typ": "offen",
+      "lernziel": "6",
+      "frage": "Löse 5x + 2 = 37 und mache die Probe.",
+      "musterloesung": "5x = 35, x = 7; Probe: 5·7 + 2 = 37.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Auf beiden Seiten dieselbe Rechenoperation ausführen, bis x allein steht. Danach die Lösung einsetzen."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Suche eine Regel zwischen benachbarten Zahlen: gleich viel addieren oder immer mit derselben Zahl multiplizieren.",
+        "Jede Zahlenfolge wächst immer um denselben Betrag."
+      ],
+      "richtig": 0,
+      "id": "u7-1",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Suche eine Regel zwischen benachbarten Zahlen: gleich viel addieren oder immer mit derselben Zahl multiplizieren. Beispiel: 4, 7, 10, 13: immer +3. 2, 6, 18, 54: immer ·3."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Setze mit der Regel +4 fort: 3, 7, 11, ...",
+      "antwort": 15,
+      "toleranz": 0.015,
+      "einheit": "",
+      "id": "u7-2",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 15 . Suche eine Regel zwischen benachbarten Zahlen: gleich viel addieren oder immer mit derselben Zahl multiplizieren."
+    },
+    {
+      "id": "u7-3",
+      "typ": "offen",
+      "lernziel": "7",
+      "frage": "Setze je zwei Zahlen fort und nenne die Regel: 5, 10, 20 und 20, 17, 14.",
+      "musterloesung": "40, 80 bei ·2; 11, 8 bei -3.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Suche eine Regel zwischen benachbarten Zahlen: gleich viel addieren oder immer mit derselben Zahl multiplizieren."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "a² bedeutet a·a. √a ist die nichtnegative Zahl, die quadriert a ergibt. Für reelle Quadratwurzeln gilt a ≥ 0.",
+        "√64 = 32, weil beim Wurzelziehen immer halbiert wird."
+      ],
+      "richtig": 0,
+      "id": "u8-1",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "a² bedeutet a·a. √a ist die nichtnegative Zahl, die quadriert a ergibt. Für reelle Quadratwurzeln gilt a ≥ 0. Beispiel: 12² = 144; √144 = 12. √30 liegt zwischen 5 und 6."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Berechne √169.",
+      "antwort": 13,
+      "toleranz": 0.015,
+      "einheit": "",
+      "id": "u8-2",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 13 . a² bedeutet a·a. √a ist die nichtnegative Zahl, die quadriert a ergibt. Für reelle Quadratwurzeln gilt a ≥ 0."
+    },
+    {
+      "id": "u8-3",
+      "typ": "offen",
+      "lernziel": "8",
+      "frage": "Berechne 9² und √121. Zwischen welchen ganzen Zahlen liegt √50?",
+      "musterloesung": "81; 11; zwischen 7 und 8, weil 49 < 50 < 64.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "a² bedeutet a·a. √a ist die nichtnegative Zahl, die quadriert a ergibt. Für reelle Quadratwurzeln gilt a ≥ 0."
+    }
+  ],
+  "pruefungen": [
+    {
+      "id": "grundlagentest-32",
+      "titel": "Brüche, Gleichungen und Wurzeln - Grundlagentest III",
+      "richtzeit": 45,
+      "hinweis": "32 Punkte. Zeichnungen auf Papier, offene Aufgaben mit Kriterien selbst bewerten. Taschenrechner, Lineal und Zirkel erlaubt; ohne Dossier. Bei Kreisen π-Taste nutzen und auf zwei Dezimalstellen runden. Eigene Lernziele; schulische Prüfungsziele noch nicht abgeglichen.",
+      "aufgaben": [
+        {
+          "id": "p1",
+          "nr": "1",
+          "typ": "offen",
+          "lernziel": "1",
+          "titel": "Bruchteile darstellen und vergleichen",
+          "frage": "Zeichne 2/3 und 3/6 in gleich grossen Rechtecken. Vergleiche mit gemeinsamem Nenner.",
+          "punkte": 4,
+          "musterloesung": "Rechtecke gleich gross\nGleich grosse Teilstücke und richtige Färbung\n2/3 = 4/6\n4/6 > 3/6",
+          "kriterien": [
+            {
+              "text": "Rechtecke gleich gross",
+              "punkte": 1
+            },
+            {
+              "text": "Gleich grosse Teilstücke und richtige Färbung",
+              "punkte": 1
+            },
+            {
+              "text": "2/3 = 4/6",
+              "punkte": 1
+            },
+            {
+              "text": "4/6 > 3/6",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        },
+        {
+          "id": "p2",
+          "nr": "2",
+          "typ": "offen",
+          "lernziel": "2",
+          "titel": "Brüche erweitern und kürzen",
+          "frage": "Kürze 21/28 vollständig. Erweitere das Ergebnis auf Nenner 16.",
+          "punkte": 4,
+          "musterloesung": "Gemeinsamer Teiler 7 erkannt\n21/28 = 3/4\nMit 4 erweitern\n3/4 = 12/16",
+          "kriterien": [
+            {
+              "text": "Gemeinsamer Teiler 7 erkannt",
+              "punkte": 1
+            },
+            {
+              "text": "21/28 = 3/4",
+              "punkte": 1
+            },
+            {
+              "text": "Mit 4 erweitern",
+              "punkte": 1
+            },
+            {
+              "text": "3/4 = 12/16",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p3",
+          "nr": "3",
+          "typ": "offen",
+          "lernziel": "3",
+          "titel": "Brüche addieren und subtrahieren",
+          "frage": "Berechne 3/4 + 1/6 und danach 5/6 - 1/3. Zeige die Rechenwege.",
+          "punkte": 4,
+          "musterloesung": "Erste Rechnung auf Nenner 12 gebracht\n9/12 + 2/12 = 11/12\nZweite Rechnung auf Nenner 6 gebracht\n5/6 - 2/6 = 3/6 = 1/2",
+          "kriterien": [
+            {
+              "text": "Erste Rechnung auf Nenner 12 gebracht",
+              "punkte": 1
+            },
+            {
+              "text": "9/12 + 2/12 = 11/12",
+              "punkte": 1
+            },
+            {
+              "text": "Zweite Rechnung auf Nenner 6 gebracht",
+              "punkte": 1
+            },
+            {
+              "text": "5/6 - 2/6 = 3/6 = 1/2",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p4",
+          "nr": "4",
+          "typ": "offen",
+          "lernziel": "4",
+          "titel": "Brüche multiplizieren und dividieren",
+          "frage": "Berechne 3/5 · 10/9 und 4/7 : 2/3. Kürze vollständig.",
+          "punkte": 4,
+          "musterloesung": "Erstes Produkt richtig angesetzt\n30/45 = 2/3\nZweite Rechnung: 4/7 · 3/2\n12/14 = 6/7",
+          "kriterien": [
+            {
+              "text": "Erstes Produkt richtig angesetzt",
+              "punkte": 1
+            },
+            {
+              "text": "30/45 = 2/3",
+              "punkte": 1
+            },
+            {
+              "text": "Zweite Rechnung: 4/7 · 3/2",
+              "punkte": 1
+            },
+            {
+              "text": "12/14 = 6/7",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p5",
+          "nr": "5",
+          "typ": "offen",
+          "lernziel": "5",
+          "titel": "Brüche in Dezimalzahlen und Prozente umwandeln",
+          "frage": "Wandle 4/5 in eine Dezimalzahl und Prozent um. Schreibe 35 % als gekürzten Bruch.",
+          "punkte": 4,
+          "musterloesung": "4 : 5 angesetzt\n0.8\n80 %\n35/100 = 7/20",
+          "kriterien": [
+            {
+              "text": "4 : 5 angesetzt",
+              "punkte": 1
+            },
+            {
+              "text": "0.8",
+              "punkte": 1
+            },
+            {
+              "text": "80 %",
+              "punkte": 1
+            },
+            {
+              "text": "35/100 = 7/20",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p6",
+          "nr": "6",
+          "typ": "offen",
+          "lernziel": "6",
+          "titel": "Einfache Gleichungen lösen und prüfen",
+          "frage": "Löse 3x - 5 = 16 mit Rechenweg und Probe.",
+          "punkte": 4,
+          "musterloesung": "Auf beiden Seiten +5\n3x = 21\nx = 7\nProbe: 3·7 - 5 = 16",
+          "kriterien": [
+            {
+              "text": "Auf beiden Seiten +5",
+              "punkte": 1
+            },
+            {
+              "text": "3x = 21",
+              "punkte": 1
+            },
+            {
+              "text": "x = 7",
+              "punkte": 1
+            },
+            {
+              "text": "Probe: 3·7 - 5 = 16",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p7",
+          "nr": "7",
+          "typ": "offen",
+          "lernziel": "7",
+          "titel": "Zahlenfolgen beschreiben und fortsetzen",
+          "frage": "Setze je zwei Zahlen fort: 6, 11, 16 (immer +5) und 3, 9, 27 (immer ·3).",
+          "punkte": 4,
+          "musterloesung": "Erste Fortsetzung 21\nErste Fortsetzung 26\nZweite Fortsetzung 81\nZweite Fortsetzung 243",
+          "kriterien": [
+            {
+              "text": "Erste Fortsetzung 21",
+              "punkte": 1
+            },
+            {
+              "text": "Erste Fortsetzung 26",
+              "punkte": 1
+            },
+            {
+              "text": "Zweite Fortsetzung 81",
+              "punkte": 1
+            },
+            {
+              "text": "Zweite Fortsetzung 243",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p8",
+          "nr": "8",
+          "typ": "offen",
+          "lernziel": "8",
+          "titel": "Quadrate und Quadratwurzeln berechnen",
+          "frage": "Berechne 8² und √225. Begründe, zwischen welchen ganzen Zahlen √70 liegt.",
+          "punkte": 4,
+          "musterloesung": "8² = 64\n√225 = 15\n8² = 64 und 9² = 81\n8 < √70 < 9",
+          "kriterien": [
+            {
+              "text": "8² = 64",
+              "punkte": 1
+            },
+            {
+              "text": "√225 = 15",
+              "punkte": 1
+            },
+            {
+              "text": "8² = 64 und 9² = 81",
+              "punkte": 1
+            },
+            {
+              "text": "8 < √70 < 9",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        }
+      ]
+    }
+  ]
+}

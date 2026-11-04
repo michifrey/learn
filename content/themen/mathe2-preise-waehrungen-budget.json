@@ -1,0 +1,1077 @@
+{
+  "lernzielBasis": "selbst-formuliert",
+  "hinweis": "Eigene Grundlagen auf Niveau III zur öffentlichen Themenübersicht von Mathematik 2. Keine vollständige Abbildung des Arbeitshefts; schulische Prüfungsziele noch nicht abgeglichen.",
+  "quellen": [
+    {
+      "titel": "Preise, Währungen und Budget - Lerndossier",
+      "art": "Eigene Lerntexte, Skizzen, Übungen, Test und Lösungen",
+      "seiten": 12,
+      "datei": "material/klasse-8/mathe2/preise-waehrungen-budget/Mathematik2_preise-waehrungen-budget_Lerndossier.pdf"
+    }
+  ],
+  "referenzen": [
+    {
+      "titel": "LMVZ: öffentliche Themenübersicht Mathematik 2",
+      "url": "https://003.lmvz.ch/lehrmittelsites/mathe_sek/de/m2/index.html"
+    },
+    {
+      "titel": "Arbeitsheft III: Produkt und Niveau",
+      "url": "https://shop.lmvz.ch/de/Katalog/Mathematik-Sekundarstufe-I/Mathematik-2-Sekundarstufe-I-Arbeitsheft-III-6722.html"
+    }
+  ],
+  "lernziele": [
+    {
+      "id": "1",
+      "nr": "1",
+      "gruppe": "Grundlagen",
+      "kurz": "Grundwert und Prozentwert unterscheiden",
+      "text": "Ich kann Grundwert und Prozentwert unterscheiden.",
+      "frage": "Grundwert und Prozentwert unterscheiden - wie gehst du vor?",
+      "antwort": "Grundwert G = 100 %. Prozentwert W = G·p/100. Der Prozentsatz p gibt den Anteil in Hundertsteln an."
+    },
+    {
+      "id": "2",
+      "nr": "2",
+      "gruppe": "Grundlagen",
+      "kurz": "Rabatt und reduzierten Preis berechnen",
+      "text": "Ich kann Rabatt und reduzierten Preis berechnen.",
+      "frage": "Rabatt und reduzierten Preis berechnen - wie gehst du vor?",
+      "antwort": "Rabattbetrag = Originalpreis·p/100. Neuer Preis = Originalpreis - Rabattbetrag."
+    },
+    {
+      "id": "3",
+      "nr": "3",
+      "gruppe": "Grundlagen",
+      "kurz": "Prozentsätze und ursprüngliche Preise bestimmen",
+      "text": "Ich kann Prozentsätze und ursprüngliche Preise bestimmen.",
+      "frage": "Prozentsätze und ursprüngliche Preise bestimmen - wie gehst du vor?",
+      "antwort": "Prozentsatz: p = 100·W/G. Ursprünglicher Preis nach Rabatt: Zahlpreis durch den verbleibenden Anteil teilen."
+    },
+    {
+      "id": "4",
+      "nr": "4",
+      "gruppe": "Rechnen und anwenden",
+      "kurz": "Mehrwertsteuer auf einen Nettopreis aufschlagen",
+      "text": "Ich kann Mehrwertsteuer auf einen Nettopreis aufschlagen.",
+      "frage": "Mehrwertsteuer auf einen Nettopreis aufschlagen - wie gehst du vor?",
+      "antwort": "Bei vorgegebenem Steuersatz p gilt Steuer = Nettopreis·p/100 und Brutto = Netto·(1 + p/100)."
+    },
+    {
+      "id": "5",
+      "nr": "5",
+      "gruppe": "Rechnen und anwenden",
+      "kurz": "Aus einem Bruttopreis den Nettopreis berechnen",
+      "text": "Ich kann aus einem Bruttopreis den Nettopreis berechnen.",
+      "frage": "Aus einem Bruttopreis den Nettopreis berechnen - wie gehst du vor?",
+      "antwort": "Netto = Brutto/(1 + p/100). Steuer = Brutto - Netto."
+    },
+    {
+      "id": "6",
+      "nr": "6",
+      "gruppe": "Rechnen und anwenden",
+      "kurz": "Preise und Aktionen vergleichen",
+      "text": "Ich kann Preise und Aktionen vergleichen.",
+      "frage": "Preise und Aktionen vergleichen - wie gehst du vor?",
+      "antwort": "Vergleiche Preise für dieselbe Menge oder Einheit: Preis pro Stück, pro kg oder pro Liter."
+    },
+    {
+      "id": "7",
+      "nr": "7",
+      "gruppe": "Darstellen und prüfen",
+      "kurz": "Währungen mit einem angegebenen Kurs umrechnen",
+      "text": "Ich kann Währungen mit einem angegebenen Kurs umrechnen.",
+      "frage": "Währungen mit einem angegebenen Kurs umrechnen - wie gehst du vor?",
+      "antwort": "Schreibe zuerst den Kurs als Gleichung. Bei 1 EUR = k CHF gilt EUR→CHF: mal k; CHF→EUR: durch k."
+    },
+    {
+      "id": "8",
+      "nr": "8",
+      "gruppe": "Darstellen und prüfen",
+      "kurz": "Ein einfaches Budget aufstellen",
+      "text": "Ich kann ein einfaches Budget aufstellen.",
+      "frage": "Ein einfaches Budget aufstellen - wie gehst du vor?",
+      "antwort": "Einnahmen - Ausgaben = Saldo. Positiver Saldo: Überschuss; negativer Saldo: Fehlbetrag."
+    }
+  ],
+  "lernen": [
+    {
+      "id": "lz-1",
+      "titel": "Grundwert und Prozentwert unterscheiden",
+      "lernziele": [
+        "1"
+      ],
+      "intro": "Ich kann Grundwert und Prozentwert unterscheiden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Grundwert G = 100 %. Prozentwert W = G·p/100. Der Prozentsatz p gibt den Anteil in Hundertsteln an."
+        },
+        {
+          "t": "bild",
+          "src": "content/img/mathe2/preise-waehrungen-budget.svg",
+          "alt": "Lernskizze: Preise, Währungen und Budget",
+          "caption": "Eigene vereinfachte Skizze; nicht massstabsgetreu."
+        },
+        {
+          "t": "p",
+          "text": "Frage zuerst: Worauf beziehen sich die Prozent? Der Grundwert kann sich zwischen zwei Rechenschritten ändern."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "20 % von 80 CHF = 80·20/100 = 16 CHF."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Der Prozentwert ist bei jeder Aufgabe der Wert für 100 %."
+        }
+      ]
+    },
+    {
+      "id": "lz-2",
+      "titel": "Rabatt und reduzierten Preis berechnen",
+      "lernziele": [
+        "2"
+      ],
+      "intro": "Ich kann Rabatt und reduzierten Preis berechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Rabattbetrag = Originalpreis·p/100. Neuer Preis = Originalpreis - Rabattbetrag."
+        },
+        {
+          "t": "p",
+          "text": "Direkt geht es mit dem Faktor 1 - p/100. 30 % Rabatt bedeutet, dass du noch 70 % bezahlst."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "80 CHF mit 25 % Rabatt: Rabatt 20 CHF, neuer Preis 60 CHF."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "25 % Rabatt bedeutet, dass man nur 25 % des ursprünglichen Preises bezahlt."
+        }
+      ]
+    },
+    {
+      "id": "lz-3",
+      "titel": "Prozentsätze und ursprüngliche Preise bestimmen",
+      "lernziele": [
+        "3"
+      ],
+      "intro": "Ich kann Prozentsätze und ursprüngliche Preise bestimmen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Prozentsatz: p = 100·W/G. Ursprünglicher Preis nach Rabatt: Zahlpreis durch den verbleibenden Anteil teilen."
+        },
+        {
+          "t": "p",
+          "text": "Bei 20 % Rabatt entsprechen die bezahlten 80 % dem Faktor 0.8. Nicht einfach 20 % des Zahlpreises dazuzählen."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "64 CHF nach 20 % Rabatt → vorher 64/0.8 = 80 CHF."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Nach 20 % Rabatt erhält man den Originalpreis immer durch Zahlpreis·1.2."
+        }
+      ]
+    },
+    {
+      "id": "lz-4",
+      "titel": "Mehrwertsteuer auf einen Nettopreis aufschlagen",
+      "lernziele": [
+        "4"
+      ],
+      "intro": "Ich kann Mehrwertsteuer auf einen Nettopreis aufschlagen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Bei vorgegebenem Steuersatz p gilt Steuer = Nettopreis·p/100 und Brutto = Netto·(1 + p/100)."
+        },
+        {
+          "t": "p",
+          "text": "In den Übungen wird der Steuersatz immer angegeben. Er ist eine Rechengrösse; daraus lässt sich kein allgemein gültiger aktueller Steuersatz ableiten."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "Rechenbeispiel mit 8 %: Netto 50 CHF → Steuer 4 CHF → Brutto 54 CHF."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Mehrwertsteuer wird beim Aufschlagen vom Nettopreis abgezogen."
+        }
+      ]
+    },
+    {
+      "id": "lz-5",
+      "titel": "Aus einem Bruttopreis den Nettopreis berechnen",
+      "lernziele": [
+        "5"
+      ],
+      "intro": "Ich kann aus einem Bruttopreis den Nettopreis berechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Netto = Brutto/(1 + p/100). Steuer = Brutto - Netto."
+        },
+        {
+          "t": "p",
+          "text": "Der Steuersatz bezieht sich auf netto. Deshalb ist p % des Bruttopreises nicht der enthaltene Steuerbetrag."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "Bei vorgegebenen 8 %: Brutto 108 CHF → Netto 108/1.08 = 100 CHF → Steuer 8 CHF."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Die enthaltene Mehrwertsteuer ist immer p % des Bruttopreises."
+        }
+      ]
+    },
+    {
+      "id": "lz-6",
+      "titel": "Preise und Aktionen vergleichen",
+      "lernziele": [
+        "6"
+      ],
+      "intro": "Ich kann Preise und Aktionen vergleichen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Vergleiche Preise für dieselbe Menge oder Einheit: Preis pro Stück, pro kg oder pro Liter."
+        },
+        {
+          "t": "p",
+          "text": "Eine grössere Packung ist nicht automatisch günstiger. Bei Aktionen nur die tatsächlich bezahlte Menge und den Gesamtpreis verwenden."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "750 g für 6 CHF → 8 CHF/kg. 1 kg für 8.50 CHF ist teurer pro kg."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Die Packung mit dem kleineren Gesamtpreis ist immer günstiger pro Kilogramm."
+        }
+      ]
+    },
+    {
+      "id": "lz-7",
+      "titel": "Währungen mit einem angegebenen Kurs umrechnen",
+      "lernziele": [
+        "7"
+      ],
+      "intro": "Ich kann Währungen mit einem angegebenen Kurs umrechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Schreibe zuerst den Kurs als Gleichung. Bei 1 EUR = k CHF gilt EUR→CHF: mal k; CHF→EUR: durch k."
+        },
+        {
+          "t": "p",
+          "text": "Kurs und Gebühren sind in der Aufgabe vorgegeben. Runde Geldbeträge erst am Schluss auf die verlangte Genauigkeit."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "Vorgegebener Kurs 1 EUR = 0.95 CHF: 100 EUR = 95 CHF; 190 CHF = 200 EUR."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Bei 1 EUR = 0.95 CHF muss man Eurobeträge durch 0.95 teilen, um CHF zu erhalten."
+        }
+      ]
+    },
+    {
+      "id": "lz-8",
+      "titel": "Ein einfaches Budget aufstellen",
+      "lernziele": [
+        "8"
+      ],
+      "intro": "Ich kann ein einfaches Budget aufstellen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Einnahmen - Ausgaben = Saldo. Positiver Saldo: Überschuss; negativer Saldo: Fehlbetrag."
+        },
+        {
+          "t": "p",
+          "text": "Fixkosten fallen regelmässig an. Variable Ausgaben können schwanken. Plane auch Reserven ein."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "Einnahmen 100 CHF, Ausgaben 35 + 20 + 15 CHF → Saldo 30 CHF."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Ein negativer Budgetsaldo bedeutet, dass Geld zum Sparen übrig bleibt."
+        }
+      ]
+    },
+    {
+      "id": "lernspick",
+      "titel": "Lernspick: alle Lernziele mit Antwort",
+      "lernziele": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "intro": "Eigene Grundlagenziele auf Niveau III. Schulische Vorgaben ergänzen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "1. Grundwert und Prozentwert unterscheiden",
+          "text": "Grundwert G = 100 %. Prozentwert W = G·p/100. Der Prozentsatz p gibt den Anteil in Hundertsteln an."
+        },
+        {
+          "t": "merke",
+          "titel": "2. Rabatt und reduzierten Preis berechnen",
+          "text": "Rabattbetrag = Originalpreis·p/100. Neuer Preis = Originalpreis - Rabattbetrag."
+        },
+        {
+          "t": "merke",
+          "titel": "3. Prozentsätze und ursprüngliche Preise bestimmen",
+          "text": "Prozentsatz: p = 100·W/G. Ursprünglicher Preis nach Rabatt: Zahlpreis durch den verbleibenden Anteil teilen."
+        },
+        {
+          "t": "merke",
+          "titel": "4. Mehrwertsteuer auf einen Nettopreis aufschlagen",
+          "text": "Bei vorgegebenem Steuersatz p gilt Steuer = Nettopreis·p/100 und Brutto = Netto·(1 + p/100)."
+        },
+        {
+          "t": "merke",
+          "titel": "5. Aus einem Bruttopreis den Nettopreis berechnen",
+          "text": "Netto = Brutto/(1 + p/100). Steuer = Brutto - Netto."
+        },
+        {
+          "t": "merke",
+          "titel": "6. Preise und Aktionen vergleichen",
+          "text": "Vergleiche Preise für dieselbe Menge oder Einheit: Preis pro Stück, pro kg oder pro Liter."
+        },
+        {
+          "t": "merke",
+          "titel": "7. Währungen mit einem angegebenen Kurs umrechnen",
+          "text": "Schreibe zuerst den Kurs als Gleichung. Bei 1 EUR = k CHF gilt EUR→CHF: mal k; CHF→EUR: durch k."
+        },
+        {
+          "t": "merke",
+          "titel": "8. Ein einfaches Budget aufstellen",
+          "text": "Einnahmen - Ausgaben = Saldo. Positiver Saldo: Überschuss; negativer Saldo: Fehlbetrag."
+        },
+        {
+          "t": "bild",
+          "src": "content/img/mathe2/preise-waehrungen-budget-leer.svg",
+          "alt": "Vorlage zum Beschriften",
+          "caption": "Auf Papier beschriften und mit der Lernskizze im ersten Kapitel vergleichen."
+        }
+      ]
+    }
+  ],
+  "karten": [
+    {
+      "vorne": "Grundwert und Prozentwert unterscheiden",
+      "hinten": "20 % von 80 CHF = 80·20/100 = 16 CHF."
+    },
+    {
+      "vorne": "Rabatt und reduzierten Preis berechnen",
+      "hinten": "80 CHF mit 25 % Rabatt: Rabatt 20 CHF, neuer Preis 60 CHF."
+    },
+    {
+      "vorne": "Prozentsätze und ursprüngliche Preise bestimmen",
+      "hinten": "64 CHF nach 20 % Rabatt → vorher 64/0.8 = 80 CHF."
+    },
+    {
+      "vorne": "Mehrwertsteuer auf einen Nettopreis aufschlagen",
+      "hinten": "Rechenbeispiel mit 8 %: Netto 50 CHF → Steuer 4 CHF → Brutto 54 CHF."
+    },
+    {
+      "vorne": "Aus einem Bruttopreis den Nettopreis berechnen",
+      "hinten": "Bei vorgegebenen 8 %: Brutto 108 CHF → Netto 108/1.08 = 100 CHF → Steuer 8 CHF."
+    },
+    {
+      "vorne": "Preise und Aktionen vergleichen",
+      "hinten": "750 g für 6 CHF → 8 CHF/kg. 1 kg für 8.50 CHF ist teurer pro kg."
+    },
+    {
+      "vorne": "Währungen mit einem angegebenen Kurs umrechnen",
+      "hinten": "Vorgegebener Kurs 1 EUR = 0.95 CHF: 100 EUR = 95 CHF; 190 CHF = 200 EUR."
+    },
+    {
+      "vorne": "Ein einfaches Budget aufstellen",
+      "hinten": "Einnahmen 100 CHF, Ausgaben 35 + 20 + 15 CHF → Saldo 30 CHF."
+    },
+    {
+      "vorne": "Grundwert G",
+      "hinten": "Das Ganze, also 100 %."
+    },
+    {
+      "vorne": "Prozentwert W",
+      "hinten": "Der Anteil in CHF, kg usw.; W = G·p/100."
+    },
+    {
+      "vorne": "Bruttopreis",
+      "hinten": "Preis einschliesslich Mehrwertsteuer."
+    },
+    {
+      "vorne": "Budgetsaldo",
+      "hinten": "Einnahmen minus Ausgaben; positiver Saldo = Überschuss."
+    }
+  ],
+  "uebungen": [
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Grundwert G = 100 %. Prozentwert W = G·p/100. Der Prozentsatz p gibt den Anteil in Hundertsteln an.",
+        "Der Prozentwert ist bei jeder Aufgabe der Wert für 100 %."
+      ],
+      "richtig": 0,
+      "id": "u1-1",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Grundwert G = 100 %. Prozentwert W = G·p/100. Der Prozentsatz p gibt den Anteil in Hundertsteln an. Beispiel: 20 % von 80 CHF = 80·20/100 = 16 CHF."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Wie viel sind 15 % von 200 CHF?",
+      "antwort": 30,
+      "toleranz": 0.015,
+      "einheit": "CHF",
+      "id": "u1-2",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 30 CHF. Grundwert G = 100 %. Prozentwert W = G·p/100. Der Prozentsatz p gibt den Anteil in Hundertsteln an."
+    },
+    {
+      "id": "u1-3",
+      "typ": "offen",
+      "lernziel": "1",
+      "frage": "Bestimme G, p und W: 25 % eines Preises von 120 CHF.",
+      "musterloesung": "G = 120 CHF, p = 25 %, W = 30 CHF.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Grundwert G = 100 %. Prozentwert W = G·p/100. Der Prozentsatz p gibt den Anteil in Hundertsteln an."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Rabattbetrag = Originalpreis·p/100. Neuer Preis = Originalpreis - Rabattbetrag.",
+        "25 % Rabatt bedeutet, dass man nur 25 % des ursprünglichen Preises bezahlt."
+      ],
+      "richtig": 0,
+      "id": "u2-1",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "Rabattbetrag = Originalpreis·p/100. Neuer Preis = Originalpreis - Rabattbetrag. Beispiel: 80 CHF mit 25 % Rabatt: Rabatt 20 CHF, neuer Preis 60 CHF."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Eine Jacke kostet 150 CHF, Rabatt 20 %. Was bezahlst du?",
+      "antwort": 120,
+      "toleranz": 0.015,
+      "einheit": "CHF",
+      "id": "u2-2",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 120 CHF. Rabattbetrag = Originalpreis·p/100. Neuer Preis = Originalpreis - Rabattbetrag."
+    },
+    {
+      "id": "u2-3",
+      "typ": "offen",
+      "lernziel": "2",
+      "frage": "Ein Rucksack kostet 90 CHF. Es gibt 30 % Rabatt. Berechne Rabatt und Zahlpreis.",
+      "musterloesung": "Rabatt 27 CHF; Zahlpreis 63 CHF.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Rabattbetrag = Originalpreis·p/100. Neuer Preis = Originalpreis - Rabattbetrag."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Prozentsatz: p = 100·W/G. Ursprünglicher Preis nach Rabatt: Zahlpreis durch den verbleibenden Anteil teilen.",
+        "Nach 20 % Rabatt erhält man den Originalpreis immer durch Zahlpreis·1.2."
+      ],
+      "richtig": 0,
+      "id": "u3-1",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Prozentsatz: p = 100·W/G. Ursprünglicher Preis nach Rabatt: Zahlpreis durch den verbleibenden Anteil teilen. Beispiel: 64 CHF nach 20 % Rabatt → vorher 64/0.8 = 80 CHF."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Ein Preis sinkt von 120 auf 90 CHF. Wie viel Prozent beträgt der Rabatt?",
+      "antwort": 25,
+      "toleranz": 0.015,
+      "einheit": "%",
+      "id": "u3-2",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 25 %. Prozentsatz: p = 100·W/G. Ursprünglicher Preis nach Rabatt: Zahlpreis durch den verbleibenden Anteil teilen."
+    },
+    {
+      "id": "u3-3",
+      "typ": "offen",
+      "lernziel": "3",
+      "frage": "Nach 25 % Rabatt kostet etwas 60 CHF. Wie hoch war der ursprüngliche Preis?",
+      "musterloesung": "60 CHF sind 75 %; 60/0.75 = 80 CHF.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Prozentsatz: p = 100·W/G. Ursprünglicher Preis nach Rabatt: Zahlpreis durch den verbleibenden Anteil teilen."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Bei vorgegebenem Steuersatz p gilt Steuer = Nettopreis·p/100 und Brutto = Netto·(1 + p/100).",
+        "Mehrwertsteuer wird beim Aufschlagen vom Nettopreis abgezogen."
+      ],
+      "richtig": 0,
+      "id": "u4-1",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Bei vorgegebenem Steuersatz p gilt Steuer = Nettopreis·p/100 und Brutto = Netto·(1 + p/100). Beispiel: Rechenbeispiel mit 8 %: Netto 50 CHF → Steuer 4 CHF → Brutto 54 CHF."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Rechne mit vorgegebenen 8 %: Netto 200 CHF. Wie gross ist der Bruttopreis?",
+      "antwort": 216,
+      "toleranz": 0.015,
+      "einheit": "CHF",
+      "id": "u4-2",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 216 CHF. Bei vorgegebenem Steuersatz p gilt Steuer = Nettopreis·p/100 und Brutto = Netto·(1 + p/100)."
+    },
+    {
+      "id": "u4-3",
+      "typ": "offen",
+      "lernziel": "4",
+      "frage": "Rechne mit 5 % Mehrwertsteuer auf 160 CHF netto. Bestimme Steuer und brutto.",
+      "musterloesung": "Steuer = 8 CHF, brutto = 168 CHF.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Bei vorgegebenem Steuersatz p gilt Steuer = Nettopreis·p/100 und Brutto = Netto·(1 + p/100)."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Netto = Brutto/(1 + p/100). Steuer = Brutto - Netto.",
+        "Die enthaltene Mehrwertsteuer ist immer p % des Bruttopreises."
+      ],
+      "richtig": 0,
+      "id": "u5-1",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Netto = Brutto/(1 + p/100). Steuer = Brutto - Netto. Beispiel: Bei vorgegebenen 8 %: Brutto 108 CHF → Netto 108/1.08 = 100 CHF → Steuer 8 CHF."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Bei vorgegebenen 8 % kostet etwas brutto 54 CHF. Wie hoch ist netto?",
+      "antwort": 50,
+      "toleranz": 0.015,
+      "einheit": "CHF",
+      "id": "u5-2",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 50 CHF. Netto = Brutto/(1 + p/100). Steuer = Brutto - Netto."
+    },
+    {
+      "id": "u5-3",
+      "typ": "offen",
+      "lernziel": "5",
+      "frage": "Bei vorgegebenen 5 % beträgt brutto 210 CHF. Berechne netto und Steuer.",
+      "musterloesung": "Netto = 210/1.05 = 200 CHF; Steuer 10 CHF.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Netto = Brutto/(1 + p/100). Steuer = Brutto - Netto."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Vergleiche Preise für dieselbe Menge oder Einheit: Preis pro Stück, pro kg oder pro Liter.",
+        "Die Packung mit dem kleineren Gesamtpreis ist immer günstiger pro Kilogramm."
+      ],
+      "richtig": 0,
+      "id": "u6-1",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Vergleiche Preise für dieselbe Menge oder Einheit: Preis pro Stück, pro kg oder pro Liter. Beispiel: 750 g für 6 CHF → 8 CHF/kg. 1 kg für 8.50 CHF ist teurer pro kg."
+    },
+    {
+      "typ": "zahl",
+      "frage": "500 g kosten 4 CHF. Wie hoch ist der Kilopreis?",
+      "antwort": 8,
+      "toleranz": 0.015,
+      "einheit": "CHF/kg",
+      "id": "u6-2",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 8 CHF/kg. Vergleiche Preise für dieselbe Menge oder Einheit: Preis pro Stück, pro kg oder pro Liter."
+    },
+    {
+      "id": "u6-3",
+      "typ": "offen",
+      "lernziel": "6",
+      "frage": "Vergleiche 400 g für 3.20 CHF mit 750 g für 6.75 CHF.",
+      "musterloesung": "8 CHF/kg gegenüber 9 CHF/kg; die 400-g-Packung ist günstiger pro kg.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Vergleiche Preise für dieselbe Menge oder Einheit: Preis pro Stück, pro kg oder pro Liter."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Schreibe zuerst den Kurs als Gleichung. Bei 1 EUR = k CHF gilt EUR→CHF: mal k; CHF→EUR: durch k.",
+        "Bei 1 EUR = 0.95 CHF muss man Eurobeträge durch 0.95 teilen, um CHF zu erhalten."
+      ],
+      "richtig": 0,
+      "id": "u7-1",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Schreibe zuerst den Kurs als Gleichung. Bei 1 EUR = k CHF gilt EUR→CHF: mal k; CHF→EUR: durch k. Beispiel: Vorgegebener Kurs 1 EUR = 0.95 CHF: 100 EUR = 95 CHF; 190 CHF = 200 EUR."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Kurs 1 EUR = 0.90 CHF. Wie viel CHF sind 80 EUR?",
+      "antwort": 72,
+      "toleranz": 0.015,
+      "einheit": "CHF",
+      "id": "u7-2",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 72 CHF. Schreibe zuerst den Kurs als Gleichung. Bei 1 EUR = k CHF gilt EUR→CHF: mal k; CHF→EUR: durch k."
+    },
+    {
+      "id": "u7-3",
+      "typ": "offen",
+      "lernziel": "7",
+      "frage": "Kurs 1 EUR = 0.96 CHF, keine Gebühren: Rechne 50 EUR in CHF und 192 CHF in EUR.",
+      "musterloesung": "50·0.96 = 48 CHF; 192/0.96 = 200 EUR.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Schreibe zuerst den Kurs als Gleichung. Bei 1 EUR = k CHF gilt EUR→CHF: mal k; CHF→EUR: durch k."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Einnahmen - Ausgaben = Saldo. Positiver Saldo: Überschuss; negativer Saldo: Fehlbetrag.",
+        "Ein negativer Budgetsaldo bedeutet, dass Geld zum Sparen übrig bleibt."
+      ],
+      "richtig": 0,
+      "id": "u8-1",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Einnahmen - Ausgaben = Saldo. Positiver Saldo: Überschuss; negativer Saldo: Fehlbetrag. Beispiel: Einnahmen 100 CHF, Ausgaben 35 + 20 + 15 CHF → Saldo 30 CHF."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Einnahmen 150 CHF; Ausgaben 40, 25 und 35 CHF. Wie gross ist der Saldo?",
+      "antwort": 50,
+      "toleranz": 0.015,
+      "einheit": "CHF",
+      "id": "u8-2",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 50 CHF. Einnahmen - Ausgaben = Saldo. Positiver Saldo: Überschuss; negativer Saldo: Fehlbetrag."
+    },
+    {
+      "id": "u8-3",
+      "typ": "offen",
+      "lernziel": "8",
+      "frage": "Erstelle eine Budgettabelle: Einnahmen 120 CHF; Handy 20, Freizeit 45, Essen 30 CHF. Wie viel kannst du maximal zurücklegen?",
+      "musterloesung": "Ausgaben 95 CHF; Saldo 25 CHF. Höchstens 25 CHF zurücklegen, wenn keine weiteren Ausgaben anfallen.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Einnahmen - Ausgaben = Saldo. Positiver Saldo: Überschuss; negativer Saldo: Fehlbetrag."
+    }
+  ],
+  "pruefungen": [
+    {
+      "id": "grundlagentest-32",
+      "titel": "Preise, Währungen und Budget - Grundlagentest III",
+      "richtzeit": 45,
+      "hinweis": "32 Punkte. Zeichnungen auf Papier, offene Aufgaben mit Kriterien selbst bewerten. Taschenrechner, Lineal und Zirkel erlaubt; ohne Dossier. Bei Kreisen π-Taste nutzen und auf zwei Dezimalstellen runden. Eigene Lernziele; schulische Prüfungsziele noch nicht abgeglichen.",
+      "aufgaben": [
+        {
+          "id": "p1",
+          "nr": "1",
+          "typ": "offen",
+          "lernziel": "1",
+          "titel": "Grundwert und Prozentwert unterscheiden",
+          "frage": "Ein Artikel kostet 240 CHF. Berechne 15 % dieses Preises und benenne Grundwert und Prozentwert.",
+          "punkte": 4,
+          "musterloesung": "G = 240 CHF\np = 15 %\nW = 240·15/100\nW = 36 CHF",
+          "kriterien": [
+            {
+              "text": "G = 240 CHF",
+              "punkte": 1
+            },
+            {
+              "text": "p = 15 %",
+              "punkte": 1
+            },
+            {
+              "text": "W = 240·15/100",
+              "punkte": 1
+            },
+            {
+              "text": "W = 36 CHF",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p2",
+          "nr": "2",
+          "typ": "offen",
+          "lernziel": "2",
+          "titel": "Rabatt und reduzierten Preis berechnen",
+          "frage": "Ein Velohelm kostet 80 CHF. Berechne 15 % Rabatt und den reduzierten Preis.",
+          "punkte": 4,
+          "musterloesung": "Rabatt = 80·0.15\nRabatt 12 CHF\n80 - 12\nZahlpreis 68 CHF",
+          "kriterien": [
+            {
+              "text": "Rabatt = 80·0.15",
+              "punkte": 1
+            },
+            {
+              "text": "Rabatt 12 CHF",
+              "punkte": 1
+            },
+            {
+              "text": "80 - 12",
+              "punkte": 1
+            },
+            {
+              "text": "Zahlpreis 68 CHF",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p3",
+          "nr": "3",
+          "typ": "offen",
+          "lernziel": "3",
+          "titel": "Prozentsätze und ursprüngliche Preise bestimmen",
+          "frage": "Ein Artikel kostet nach 20 % Rabatt 72 CHF. Bestimme den Originalpreis und den Rabattbetrag.",
+          "punkte": 4,
+          "musterloesung": "Restanteil 80 % = 0.8\n72/0.8\nOriginalpreis 90 CHF\nRabatt 18 CHF",
+          "kriterien": [
+            {
+              "text": "Restanteil 80 % = 0.8",
+              "punkte": 1
+            },
+            {
+              "text": "72/0.8",
+              "punkte": 1
+            },
+            {
+              "text": "Originalpreis 90 CHF",
+              "punkte": 1
+            },
+            {
+              "text": "Rabatt 18 CHF",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p4",
+          "nr": "4",
+          "typ": "offen",
+          "lernziel": "4",
+          "titel": "Mehrwertsteuer auf einen Nettopreis aufschlagen",
+          "frage": "Rechne mit dem vorgegebenen Steuersatz 8 %: Netto 250 CHF. Bestimme Steuer und brutto.",
+          "punkte": 4,
+          "musterloesung": "Steuer = 250·0.08\nSteuer 20 CHF\nBrutto = 250+20\nBruttopreis 270 CHF",
+          "kriterien": [
+            {
+              "text": "Steuer = 250·0.08",
+              "punkte": 1
+            },
+            {
+              "text": "Steuer 20 CHF",
+              "punkte": 1
+            },
+            {
+              "text": "Brutto = 250+20",
+              "punkte": 1
+            },
+            {
+              "text": "Bruttopreis 270 CHF",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p5",
+          "nr": "5",
+          "typ": "offen",
+          "lernziel": "5",
+          "titel": "Aus einem Bruttopreis den Nettopreis berechnen",
+          "frage": "Brutto 324 CHF bei vorgegebenen 8 %: Berechne netto und enthaltene Steuer.",
+          "punkte": 4,
+          "musterloesung": "Faktor 1.08\nNetto = 324/1.08\nNetto 300 CHF\nSteuer 24 CHF",
+          "kriterien": [
+            {
+              "text": "Faktor 1.08",
+              "punkte": 1
+            },
+            {
+              "text": "Netto = 324/1.08",
+              "punkte": 1
+            },
+            {
+              "text": "Netto 300 CHF",
+              "punkte": 1
+            },
+            {
+              "text": "Steuer 24 CHF",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p6",
+          "nr": "6",
+          "typ": "offen",
+          "lernziel": "6",
+          "titel": "Preise und Aktionen vergleichen",
+          "frage": "Aktion: 3 Flaschen für insgesamt 4.50 CHF. Normalpreis: 1.80 CHF pro Flasche. Vergleiche Stückpreis und Ersparnis für 3 Flaschen.",
+          "punkte": 4,
+          "musterloesung": "Aktionsstückpreis 1.50 CHF\nNormalpreis für 3: 5.40 CHF\nErsparnis 0.90 CHF\nAktion pro Flasche 0.30 CHF günstiger",
+          "kriterien": [
+            {
+              "text": "Aktionsstückpreis 1.50 CHF",
+              "punkte": 1
+            },
+            {
+              "text": "Normalpreis für 3: 5.40 CHF",
+              "punkte": 1
+            },
+            {
+              "text": "Ersparnis 0.90 CHF",
+              "punkte": 1
+            },
+            {
+              "text": "Aktion pro Flasche 0.30 CHF günstiger",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p7",
+          "nr": "7",
+          "typ": "offen",
+          "lernziel": "7",
+          "titel": "Währungen mit einem angegebenen Kurs umrechnen",
+          "frage": "Kurs 1 EUR = 0.95 CHF, keine Gebühren. Rechne 120 EUR in CHF und 190 CHF in EUR um.",
+          "punkte": 4,
+          "musterloesung": "120·0.95\n114 CHF\n190/0.95\n200 EUR",
+          "kriterien": [
+            {
+              "text": "120·0.95",
+              "punkte": 1
+            },
+            {
+              "text": "114 CHF",
+              "punkte": 1
+            },
+            {
+              "text": "190/0.95",
+              "punkte": 1
+            },
+            {
+              "text": "200 EUR",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p8",
+          "nr": "8",
+          "typ": "offen",
+          "lernziel": "8",
+          "titel": "Ein einfaches Budget aufstellen",
+          "frage": "Einnahmen 180 CHF. Ausgaben: 30, 65 und 55 CHF. Erstelle eine Tabelle, berechne den Saldo und nenne eine sinnvolle Verwendung.",
+          "punkte": 4,
+          "musterloesung": "Einnahmen und alle Ausgaben geordnet\nAusgabensumme 150 CHF\nSaldo +30 CHF\nZum Beispiel 30 CHF als Reserve sparen",
+          "kriterien": [
+            {
+              "text": "Einnahmen und alle Ausgaben geordnet",
+              "punkte": 1
+            },
+            {
+              "text": "Ausgabensumme 150 CHF",
+              "punkte": 1
+            },
+            {
+              "text": "Saldo +30 CHF",
+              "punkte": 1
+            },
+            {
+              "text": "Zum Beispiel 30 CHF als Reserve sparen",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1077 @@
+{
+  "lernzielBasis": "selbst-formuliert",
+  "hinweis": "Eigene Grundlagen auf Niveau III zur öffentlichen Themenübersicht von Mathematik 2. Keine vollständige Abbildung des Arbeitshefts; schulische Prüfungsziele noch nicht abgeglichen.",
+  "quellen": [
+    {
+      "titel": "Wahrscheinlichkeit und Statistik - Lerndossier",
+      "art": "Eigene Lerntexte, Skizzen, Übungen, Test und Lösungen",
+      "seiten": 12,
+      "datei": "material/klasse-8/mathe2/wahrscheinlichkeit-statistik/Mathematik2_wahrscheinlichkeit-statistik_Lerndossier.pdf"
+    }
+  ],
+  "referenzen": [
+    {
+      "titel": "LMVZ: öffentliche Themenübersicht Mathematik 2",
+      "url": "https://003.lmvz.ch/lehrmittelsites/mathe_sek/de/m2/index.html"
+    },
+    {
+      "titel": "Arbeitsheft III: Produkt und Niveau",
+      "url": "https://shop.lmvz.ch/de/Katalog/Mathematik-Sekundarstufe-I/Mathematik-2-Sekundarstufe-I-Arbeitsheft-III-6722.html"
+    }
+  ],
+  "lernziele": [
+    {
+      "id": "1",
+      "nr": "1",
+      "gruppe": "Grundlagen",
+      "kurz": "Ergebnisse und Ereignisse unterscheiden",
+      "text": "Ich kann Ergebnisse und Ereignisse unterscheiden.",
+      "frage": "Ergebnisse und Ereignisse unterscheiden - wie gehst du vor?",
+      "antwort": "Ein Ergebnis ist ein einzelner möglicher Ausgang. Ein Ereignis ist eine Menge passender Ergebnisse."
+    },
+    {
+      "id": "2",
+      "nr": "2",
+      "gruppe": "Grundlagen",
+      "kurz": "Wahrscheinlichkeiten bei gleich möglichen Ergebnissen berechnen",
+      "text": "Ich kann Wahrscheinlichkeiten bei gleich möglichen Ergebnissen berechnen.",
+      "frage": "Wahrscheinlichkeiten bei gleich möglichen Ergebnissen berechnen - wie gehst du vor?",
+      "antwort": "Bei gleich wahrscheinlichen Ergebnissen gilt P(E) = günstige Ergebnisse / alle Ergebnisse."
+    },
+    {
+      "id": "3",
+      "nr": "3",
+      "gruppe": "Grundlagen",
+      "kurz": "Baumdiagramme zeichnen",
+      "text": "Ich kann Baumdiagramme zeichnen.",
+      "frage": "Baumdiagramme zeichnen - wie gehst du vor?",
+      "antwort": "Jede Stufe zeigt einen weiteren Zufallsschritt. Die Wahrscheinlichkeiten an den Ästen einer Verzweigung ergeben zusammen 1."
+    },
+    {
+      "id": "4",
+      "nr": "4",
+      "gruppe": "Rechnen und anwenden",
+      "kurz": "Pfadregel und Summenregel anwenden",
+      "text": "Ich kann Pfadregel und Summenregel anwenden.",
+      "frage": "Pfadregel und Summenregel anwenden - wie gehst du vor?",
+      "antwort": "Entlang eines Pfads Wahrscheinlichkeiten multiplizieren. Für ein Ereignis die Wahrscheinlichkeiten seiner passenden, verschiedenen Pfade addieren."
+    },
+    {
+      "id": "5",
+      "nr": "5",
+      "gruppe": "Rechnen und anwenden",
+      "kurz": "Relative Häufigkeiten berechnen und deuten",
+      "text": "Ich kann Relative Häufigkeiten berechnen und deuten.",
+      "frage": "Relative Häufigkeiten berechnen und deuten - wie gehst du vor?",
+      "antwort": "Relative Häufigkeit = absolute Häufigkeit / Anzahl Versuche. Sie beschreibt beobachtete Daten, nicht automatisch die theoretische Wahrscheinlichkeit."
+    },
+    {
+      "id": "6",
+      "nr": "6",
+      "gruppe": "Rechnen und anwenden",
+      "kurz": "Mittelwert und Median bestimmen",
+      "text": "Ich kann Mittelwert und Median bestimmen.",
+      "frage": "Mittelwert und Median bestimmen - wie gehst du vor?",
+      "antwort": "Mittelwert = Summe / Anzahl. Median = Mitte der sortierten Daten; bei gerader Anzahl Mittelwert der beiden mittleren Werte."
+    },
+    {
+      "id": "7",
+      "nr": "7",
+      "gruppe": "Darstellen und prüfen",
+      "kurz": "Spannweite und Modalwert angeben",
+      "text": "Ich kann Spannweite und Modalwert angeben.",
+      "frage": "Spannweite und Modalwert angeben - wie gehst du vor?",
+      "antwort": "Spannweite = Maximum - Minimum. Modalwert = am häufigsten auftretender Wert; es kann mehrere geben."
+    },
+    {
+      "id": "8",
+      "nr": "8",
+      "gruppe": "Darstellen und prüfen",
+      "kurz": "Daten grafisch darstellen und Simulationen beurteilen",
+      "text": "Ich kann Daten grafisch darstellen und Simulationen beurteilen.",
+      "frage": "Daten grafisch darstellen und Simulationen beurteilen - wie gehst du vor?",
+      "antwort": "Ein Säulendiagramm zeigt Häufigkeiten mit gleich breiten Säulen und einer klaren Skala. Eine Simulation ahmt Zufallsversuche nach."
+    }
+  ],
+  "lernen": [
+    {
+      "id": "lz-1",
+      "titel": "Ergebnisse und Ereignisse unterscheiden",
+      "lernziele": [
+        "1"
+      ],
+      "intro": "Ich kann Ergebnisse und Ereignisse unterscheiden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Ein Ergebnis ist ein einzelner möglicher Ausgang. Ein Ereignis ist eine Menge passender Ergebnisse."
+        },
+        {
+          "t": "bild",
+          "src": "content/img/mathe2/wahrscheinlichkeit-statistik.svg",
+          "alt": "Lernskizze: Wahrscheinlichkeit und Statistik",
+          "caption": "Eigene vereinfachte Skizze; nicht massstabsgetreu."
+        },
+        {
+          "t": "p",
+          "text": "Notiere zuerst alle möglichen Ergebnisse. Für einen normalen Würfel sind es 1, 2, 3, 4, 5 und 6."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "Ereignis gerade Zahl beim Würfeln = {2, 4, 6}."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Ein Ereignis besteht immer aus genau einem einzelnen Ergebnis."
+        }
+      ]
+    },
+    {
+      "id": "lz-2",
+      "titel": "Wahrscheinlichkeiten bei gleich möglichen Ergebnissen berechnen",
+      "lernziele": [
+        "2"
+      ],
+      "intro": "Ich kann Wahrscheinlichkeiten bei gleich möglichen Ergebnissen berechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Bei gleich wahrscheinlichen Ergebnissen gilt P(E) = günstige Ergebnisse / alle Ergebnisse."
+        },
+        {
+          "t": "p",
+          "text": "Wahrscheinlichkeiten liegen zwischen 0 und 1 beziehungsweise 0 % und 100 %. Zählen ist nur bei gleich wahrscheinlichen Einzelergebnissen so erlaubt."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "Fairer Würfel, gerade Zahl: 3/6 = 1/2 = 50 %."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Bei einem fairen Würfel ist die Wahrscheinlichkeit einer geraden Zahl 3/3."
+        }
+      ]
+    },
+    {
+      "id": "lz-3",
+      "titel": "Baumdiagramme zeichnen",
+      "lernziele": [
+        "3"
+      ],
+      "intro": "Ich kann Baumdiagramme zeichnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Jede Stufe zeigt einen weiteren Zufallsschritt. Die Wahrscheinlichkeiten an den Ästen einer Verzweigung ergeben zusammen 1."
+        },
+        {
+          "t": "p",
+          "text": "Schreibe Ergebnisse an die Äste. Bei Ziehen ohne Zurücklegen ändern sich Kugelzahlen und Wahrscheinlichkeiten in Stufe 2."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "Zweimal faire Münze: erste Stufe K/Z je 1/2; an jedem Ast zweite Stufe K/Z je 1/2."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "In einem Baumdiagramm müssen alle Äste beider Stufen zusammen genau 1 ergeben."
+        }
+      ]
+    },
+    {
+      "id": "lz-4",
+      "titel": "Pfadregel und Summenregel anwenden",
+      "lernziele": [
+        "4"
+      ],
+      "intro": "Ich kann Pfadregel und Summenregel anwenden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Entlang eines Pfads Wahrscheinlichkeiten multiplizieren. Für ein Ereignis die Wahrscheinlichkeiten seiner passenden, verschiedenen Pfade addieren."
+        },
+        {
+          "t": "p",
+          "text": "Bei zwei Münzwürfen meint genau einmal Kopf die Pfade KZ und ZK. Zweimal Kopf ist ein anderer Pfad."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "P(KK) = 1/2·1/2 = 1/4. P(genau ein K) = 1/4+1/4 = 1/2."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Entlang eines Pfads müssen die Astwahrscheinlichkeiten addiert werden."
+        }
+      ]
+    },
+    {
+      "id": "lz-5",
+      "titel": "Relative Häufigkeiten berechnen und deuten",
+      "lernziele": [
+        "5"
+      ],
+      "intro": "Ich kann Relative Häufigkeiten berechnen und deuten.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Relative Häufigkeit = absolute Häufigkeit / Anzahl Versuche. Sie beschreibt beobachtete Daten, nicht automatisch die theoretische Wahrscheinlichkeit."
+        },
+        {
+          "t": "p",
+          "text": "Mit vielen unabhängigen Wiederholungen stabilisiert sich die relative Häufigkeit meist in der Nähe der Wahrscheinlichkeit. Es gibt keine Garantie für jeden Versuch."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "18 Treffer bei 60 Versuchen: 18/60 = 0.3 = 30 %."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Wenn eine Münze dreimal Kopf zeigt, muss als Nächstes Zahl kommen."
+        }
+      ]
+    },
+    {
+      "id": "lz-6",
+      "titel": "Mittelwert und Median bestimmen",
+      "lernziele": [
+        "6"
+      ],
+      "intro": "Ich kann Mittelwert und Median bestimmen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Mittelwert = Summe / Anzahl. Median = Mitte der sortierten Daten; bei gerader Anzahl Mittelwert der beiden mittleren Werte."
+        },
+        {
+          "t": "p",
+          "text": "Für den Median immer zuerst sortieren. Extreme Werte verändern den Mittelwert oft stärker als den Median."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "2, 3, 4, 5, 16: Mittelwert 30/5 = 6; Median 4."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Der Median ist immer die Hälfte der Summe aller Datenwerte."
+        }
+      ]
+    },
+    {
+      "id": "lz-7",
+      "titel": "Spannweite und Modalwert angeben",
+      "lernziele": [
+        "7"
+      ],
+      "intro": "Ich kann Spannweite und Modalwert angeben.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Spannweite = Maximum - Minimum. Modalwert = am häufigsten auftretender Wert; es kann mehrere geben."
+        },
+        {
+          "t": "p",
+          "text": "Die Spannweite beschreibt die gesamte Breite der Daten, berücksichtigt aber die Verteilung dazwischen nicht."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "2, 2, 4, 7, 9: Spannweite 9-2 = 7; Modalwert 2."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Die Spannweite ist der grösste Datenwert allein."
+        }
+      ]
+    },
+    {
+      "id": "lz-8",
+      "titel": "Daten grafisch darstellen und Simulationen beurteilen",
+      "lernziele": [
+        "8"
+      ],
+      "intro": "Ich kann Daten grafisch darstellen und Simulationen beurteilen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Ein Säulendiagramm zeigt Häufigkeiten mit gleich breiten Säulen und einer klaren Skala. Eine Simulation ahmt Zufallsversuche nach."
+        },
+        {
+          "t": "p",
+          "text": "Achsen und Einheiten beschriften; bei Säulendiagrammen die Häufigkeitsachse bei 0 beginnen. Ergebnisse einer Simulation bleiben Stichproben."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "Rot 4, blau 6: zwei Säulen mit Höhen 4 und 6; insgesamt 10 Beobachtungen."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Ein einzelner Simulationslauf beweist die exakte Wahrscheinlichkeit für alle künftigen Versuche."
+        }
+      ]
+    },
+    {
+      "id": "lernspick",
+      "titel": "Lernspick: alle Lernziele mit Antwort",
+      "lernziele": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "intro": "Eigene Grundlagenziele auf Niveau III. Schulische Vorgaben ergänzen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "1. Ergebnisse und Ereignisse unterscheiden",
+          "text": "Ein Ergebnis ist ein einzelner möglicher Ausgang. Ein Ereignis ist eine Menge passender Ergebnisse."
+        },
+        {
+          "t": "merke",
+          "titel": "2. Wahrscheinlichkeiten bei gleich möglichen Ergebnissen berechnen",
+          "text": "Bei gleich wahrscheinlichen Ergebnissen gilt P(E) = günstige Ergebnisse / alle Ergebnisse."
+        },
+        {
+          "t": "merke",
+          "titel": "3. Baumdiagramme zeichnen",
+          "text": "Jede Stufe zeigt einen weiteren Zufallsschritt. Die Wahrscheinlichkeiten an den Ästen einer Verzweigung ergeben zusammen 1."
+        },
+        {
+          "t": "merke",
+          "titel": "4. Pfadregel und Summenregel anwenden",
+          "text": "Entlang eines Pfads Wahrscheinlichkeiten multiplizieren. Für ein Ereignis die Wahrscheinlichkeiten seiner passenden, verschiedenen Pfade addieren."
+        },
+        {
+          "t": "merke",
+          "titel": "5. Relative Häufigkeiten berechnen und deuten",
+          "text": "Relative Häufigkeit = absolute Häufigkeit / Anzahl Versuche. Sie beschreibt beobachtete Daten, nicht automatisch die theoretische Wahrscheinlichkeit."
+        },
+        {
+          "t": "merke",
+          "titel": "6. Mittelwert und Median bestimmen",
+          "text": "Mittelwert = Summe / Anzahl. Median = Mitte der sortierten Daten; bei gerader Anzahl Mittelwert der beiden mittleren Werte."
+        },
+        {
+          "t": "merke",
+          "titel": "7. Spannweite und Modalwert angeben",
+          "text": "Spannweite = Maximum - Minimum. Modalwert = am häufigsten auftretender Wert; es kann mehrere geben."
+        },
+        {
+          "t": "merke",
+          "titel": "8. Daten grafisch darstellen und Simulationen beurteilen",
+          "text": "Ein Säulendiagramm zeigt Häufigkeiten mit gleich breiten Säulen und einer klaren Skala. Eine Simulation ahmt Zufallsversuche nach."
+        },
+        {
+          "t": "bild",
+          "src": "content/img/mathe2/wahrscheinlichkeit-statistik-leer.svg",
+          "alt": "Vorlage zum Beschriften",
+          "caption": "Auf Papier beschriften und mit der Lernskizze im ersten Kapitel vergleichen."
+        }
+      ]
+    }
+  ],
+  "karten": [
+    {
+      "vorne": "Ergebnisse und Ereignisse unterscheiden",
+      "hinten": "Ereignis gerade Zahl beim Würfeln = {2, 4, 6}."
+    },
+    {
+      "vorne": "Wahrscheinlichkeiten bei gleich möglichen Ergebnissen berechnen",
+      "hinten": "Fairer Würfel, gerade Zahl: 3/6 = 1/2 = 50 %."
+    },
+    {
+      "vorne": "Baumdiagramme zeichnen",
+      "hinten": "Zweimal faire Münze: erste Stufe K/Z je 1/2; an jedem Ast zweite Stufe K/Z je 1/2."
+    },
+    {
+      "vorne": "Pfadregel und Summenregel anwenden",
+      "hinten": "P(KK) = 1/2·1/2 = 1/4. P(genau ein K) = 1/4+1/4 = 1/2."
+    },
+    {
+      "vorne": "Relative Häufigkeiten berechnen und deuten",
+      "hinten": "18 Treffer bei 60 Versuchen: 18/60 = 0.3 = 30 %."
+    },
+    {
+      "vorne": "Mittelwert und Median bestimmen",
+      "hinten": "2, 3, 4, 5, 16: Mittelwert 30/5 = 6; Median 4."
+    },
+    {
+      "vorne": "Spannweite und Modalwert angeben",
+      "hinten": "2, 2, 4, 7, 9: Spannweite 9-2 = 7; Modalwert 2."
+    },
+    {
+      "vorne": "Daten grafisch darstellen und Simulationen beurteilen",
+      "hinten": "Rot 4, blau 6: zwei Säulen mit Höhen 4 und 6; insgesamt 10 Beobachtungen."
+    },
+    {
+      "vorne": "Absolute Häufigkeit",
+      "hinten": "Anzahl der beobachteten Treffer."
+    },
+    {
+      "vorne": "Relative Häufigkeit",
+      "hinten": "Trefferzahl geteilt durch Anzahl Versuche."
+    },
+    {
+      "vorne": "Median",
+      "hinten": "Mittlerer Wert der sortierten Daten; bei gerader Anzahl Mittel der zwei mittleren Werte."
+    },
+    {
+      "vorne": "Spannweite",
+      "hinten": "Grösster minus kleinster Datenwert."
+    }
+  ],
+  "uebungen": [
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Ein Ergebnis ist ein einzelner möglicher Ausgang. Ein Ereignis ist eine Menge passender Ergebnisse.",
+        "Ein Ereignis besteht immer aus genau einem einzelnen Ergebnis."
+      ],
+      "richtig": 0,
+      "id": "u1-1",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Ein Ergebnis ist ein einzelner möglicher Ausgang. Ein Ereignis ist eine Menge passender Ergebnisse. Beispiel: Ereignis gerade Zahl beim Würfeln = {2, 4, 6}."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Wie viele Ergebnisse gehören beim normalen Würfel zum Ereignis Zahl grösser als 4?",
+      "antwort": 2,
+      "toleranz": 0.015,
+      "einheit": "",
+      "id": "u1-2",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 2 . Ein Ergebnis ist ein einzelner möglicher Ausgang. Ein Ereignis ist eine Menge passender Ergebnisse."
+    },
+    {
+      "id": "u1-3",
+      "typ": "offen",
+      "lernziel": "1",
+      "frage": "Liste die Ergebnisse eines Würfels auf und markiere das Ereignis ungerade Zahl.",
+      "musterloesung": "Ergebnisse 1 bis 6; Ereignis {1, 3, 5}.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Ein Ergebnis ist ein einzelner möglicher Ausgang. Ein Ereignis ist eine Menge passender Ergebnisse."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Bei gleich wahrscheinlichen Ergebnissen gilt P(E) = günstige Ergebnisse / alle Ergebnisse.",
+        "Bei einem fairen Würfel ist die Wahrscheinlichkeit einer geraden Zahl 3/3."
+      ],
+      "richtig": 0,
+      "id": "u2-1",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "Bei gleich wahrscheinlichen Ergebnissen gilt P(E) = günstige Ergebnisse / alle Ergebnisse. Beispiel: Fairer Würfel, gerade Zahl: 3/6 = 1/2 = 50 %."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Fairer Würfel: Wie viel Prozent beträgt P(Zahl grösser als 4)? Runde auf zwei Dezimalstellen.",
+      "antwort": 33.33,
+      "toleranz": 0.015,
+      "einheit": "%",
+      "id": "u2-2",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 33.33 %. Bei gleich wahrscheinlichen Ergebnissen gilt P(E) = günstige Ergebnisse / alle Ergebnisse."
+    },
+    {
+      "id": "u2-3",
+      "typ": "offen",
+      "lernziel": "2",
+      "frage": "Ein Beutel enthält 3 rote und 7 blaue gleichartige Kugeln. Berechne P(rot).",
+      "musterloesung": "3/10 = 0.3 = 30 %.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Bei gleich wahrscheinlichen Ergebnissen gilt P(E) = günstige Ergebnisse / alle Ergebnisse."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Jede Stufe zeigt einen weiteren Zufallsschritt. Die Wahrscheinlichkeiten an den Ästen einer Verzweigung ergeben zusammen 1.",
+        "In einem Baumdiagramm müssen alle Äste beider Stufen zusammen genau 1 ergeben."
+      ],
+      "richtig": 0,
+      "id": "u3-1",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Jede Stufe zeigt einen weiteren Zufallsschritt. Die Wahrscheinlichkeiten an den Ästen einer Verzweigung ergeben zusammen 1. Beispiel: Zweimal faire Münze: erste Stufe K/Z je 1/2; an jedem Ast zweite Stufe K/Z je 1/2."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Wie viele vollständige Ergebnispfade gibt es beim zweimaligen Werfen einer Münze?",
+      "antwort": 4,
+      "toleranz": 0.015,
+      "einheit": "",
+      "id": "u3-2",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 4 . Jede Stufe zeigt einen weiteren Zufallsschritt. Die Wahrscheinlichkeiten an den Ästen einer Verzweigung ergeben zusammen 1."
+    },
+    {
+      "id": "u3-3",
+      "typ": "offen",
+      "lernziel": "3",
+      "frage": "Zeichne den Baum für zweimaliges Werfen einer fairen Münze und beschrifte alle Äste.",
+      "musterloesung": "Vier Pfade KK, KZ, ZK, ZZ; jede Astwahrscheinlichkeit 1/2.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": true,
+      "zeilen": 5,
+      "hilfe": "Jede Stufe zeigt einen weiteren Zufallsschritt. Die Wahrscheinlichkeiten an den Ästen einer Verzweigung ergeben zusammen 1."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Entlang eines Pfads Wahrscheinlichkeiten multiplizieren. Für ein Ereignis die Wahrscheinlichkeiten seiner passenden, verschiedenen Pfade addieren.",
+        "Entlang eines Pfads müssen die Astwahrscheinlichkeiten addiert werden."
+      ],
+      "richtig": 0,
+      "id": "u4-1",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Entlang eines Pfads Wahrscheinlichkeiten multiplizieren. Für ein Ereignis die Wahrscheinlichkeiten seiner passenden, verschiedenen Pfade addieren. Beispiel: P(KK) = 1/2·1/2 = 1/4. P(genau ein K) = 1/4+1/4 = 1/2."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Zweimal faire Münze: Wie viel Prozent beträgt P(zweimal Kopf)?",
+      "antwort": 25,
+      "toleranz": 0.015,
+      "einheit": "%",
+      "id": "u4-2",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 25 %. Entlang eines Pfads Wahrscheinlichkeiten multiplizieren. Für ein Ereignis die Wahrscheinlichkeiten seiner passenden, verschiedenen Pfade addieren."
+    },
+    {
+      "id": "u4-3",
+      "typ": "offen",
+      "lernziel": "4",
+      "frage": "Berechne bei zwei fairen Münzwürfen P(genau einmal Zahl).",
+      "musterloesung": "KZ oder ZK: 1/4 + 1/4 = 1/2 = 50 %.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Entlang eines Pfads Wahrscheinlichkeiten multiplizieren. Für ein Ereignis die Wahrscheinlichkeiten seiner passenden, verschiedenen Pfade addieren."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Relative Häufigkeit = absolute Häufigkeit / Anzahl Versuche. Sie beschreibt beobachtete Daten, nicht automatisch die theoretische Wahrscheinlichkeit.",
+        "Wenn eine Münze dreimal Kopf zeigt, muss als Nächstes Zahl kommen."
+      ],
+      "richtig": 0,
+      "id": "u5-1",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Relative Häufigkeit = absolute Häufigkeit / Anzahl Versuche. Sie beschreibt beobachtete Daten, nicht automatisch die theoretische Wahrscheinlichkeit. Beispiel: 18 Treffer bei 60 Versuchen: 18/60 = 0.3 = 30 %."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Bei 80 Versuchen gibt es 28 Treffer. Wie viel Prozent sind das?",
+      "antwort": 35,
+      "toleranz": 0.015,
+      "einheit": "%",
+      "id": "u5-2",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 35 %. Relative Häufigkeit = absolute Häufigkeit / Anzahl Versuche. Sie beschreibt beobachtete Daten, nicht automatisch die theoretische Wahrscheinlichkeit."
+    },
+    {
+      "id": "u5-3",
+      "typ": "offen",
+      "lernziel": "5",
+      "frage": "Eine faire Münze zeigt bei 50 Würfen 22-mal Kopf. Berechne die relative Häufigkeit und vergleiche mit 50 %.",
+      "musterloesung": "22/50 = 44 %. Beobachtet 44 %, theoretisch 50 %; eine Abweichung ist bei Zufall normal.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Relative Häufigkeit = absolute Häufigkeit / Anzahl Versuche. Sie beschreibt beobachtete Daten, nicht automatisch die theoretische Wahrscheinlichkeit."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Mittelwert = Summe / Anzahl. Median = Mitte der sortierten Daten; bei gerader Anzahl Mittelwert der beiden mittleren Werte.",
+        "Der Median ist immer die Hälfte der Summe aller Datenwerte."
+      ],
+      "richtig": 0,
+      "id": "u6-1",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Mittelwert = Summe / Anzahl. Median = Mitte der sortierten Daten; bei gerader Anzahl Mittelwert der beiden mittleren Werte. Beispiel: 2, 3, 4, 5, 16: Mittelwert 30/5 = 6; Median 4."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Bestimme den Median von 8, 2, 6, 4.",
+      "antwort": 5,
+      "toleranz": 0.015,
+      "einheit": "",
+      "id": "u6-2",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 5 . Mittelwert = Summe / Anzahl. Median = Mitte der sortierten Daten; bei gerader Anzahl Mittelwert der beiden mittleren Werte."
+    },
+    {
+      "id": "u6-3",
+      "typ": "offen",
+      "lernziel": "6",
+      "frage": "Bestimme Mittelwert und Median von 2, 4, 4, 6, 9.",
+      "musterloesung": "Summe 25, Anzahl 5 → Mittelwert 5; Median 4.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Mittelwert = Summe / Anzahl. Median = Mitte der sortierten Daten; bei gerader Anzahl Mittelwert der beiden mittleren Werte."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Spannweite = Maximum - Minimum. Modalwert = am häufigsten auftretender Wert; es kann mehrere geben.",
+        "Die Spannweite ist der grösste Datenwert allein."
+      ],
+      "richtig": 0,
+      "id": "u7-1",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Spannweite = Maximum - Minimum. Modalwert = am häufigsten auftretender Wert; es kann mehrere geben. Beispiel: 2, 2, 4, 7, 9: Spannweite 9-2 = 7; Modalwert 2."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Daten 3, 3, 5, 8, 11: Wie gross ist die Spannweite?",
+      "antwort": 8,
+      "toleranz": 0.015,
+      "einheit": "",
+      "id": "u7-2",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 8 . Spannweite = Maximum - Minimum. Modalwert = am häufigsten auftretender Wert; es kann mehrere geben."
+    },
+    {
+      "id": "u7-3",
+      "typ": "offen",
+      "lernziel": "7",
+      "frage": "Bestimme Modalwert und Spannweite von 1, 4, 4, 6, 10.",
+      "musterloesung": "Modalwert 4; Spannweite 10-1 = 9.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Spannweite = Maximum - Minimum. Modalwert = am häufigsten auftretender Wert; es kann mehrere geben."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Ein Säulendiagramm zeigt Häufigkeiten mit gleich breiten Säulen und einer klaren Skala. Eine Simulation ahmt Zufallsversuche nach.",
+        "Ein einzelner Simulationslauf beweist die exakte Wahrscheinlichkeit für alle künftigen Versuche."
+      ],
+      "richtig": 0,
+      "id": "u8-1",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Ein Säulendiagramm zeigt Häufigkeiten mit gleich breiten Säulen und einer klaren Skala. Eine Simulation ahmt Zufallsversuche nach. Beispiel: Rot 4, blau 6: zwei Säulen mit Höhen 4 und 6; insgesamt 10 Beobachtungen."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Simulation: 120 Treffer in 300 Versuchen. Wie gross ist die relative Häufigkeit in Prozent?",
+      "antwort": 40,
+      "toleranz": 0.015,
+      "einheit": "%",
+      "id": "u8-2",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 40 %. Ein Säulendiagramm zeigt Häufigkeiten mit gleich breiten Säulen und einer klaren Skala. Eine Simulation ahmt Zufallsversuche nach."
+    },
+    {
+      "id": "u8-3",
+      "typ": "offen",
+      "lernziel": "8",
+      "frage": "Zeichne ein Säulendiagramm zu rot: 3, blau: 5, grün: 2. Beschrifte beide Achsen.",
+      "musterloesung": "Drei Säulen mit Höhen 3, 5, 2; x: Farbe, y: absolute Häufigkeit ab 0.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": true,
+      "zeilen": 5,
+      "hilfe": "Ein Säulendiagramm zeigt Häufigkeiten mit gleich breiten Säulen und einer klaren Skala. Eine Simulation ahmt Zufallsversuche nach."
+    }
+  ],
+  "pruefungen": [
+    {
+      "id": "grundlagentest-32",
+      "titel": "Wahrscheinlichkeit und Statistik - Grundlagentest III",
+      "richtzeit": 45,
+      "hinweis": "32 Punkte. Zeichnungen auf Papier, offene Aufgaben mit Kriterien selbst bewerten. Taschenrechner, Lineal und Zirkel erlaubt; ohne Dossier. Bei Kreisen π-Taste nutzen und auf zwei Dezimalstellen runden. Eigene Lernziele; schulische Prüfungsziele noch nicht abgeglichen.",
+      "aufgaben": [
+        {
+          "id": "p1",
+          "nr": "1",
+          "typ": "offen",
+          "lernziel": "1",
+          "titel": "Ergebnisse und Ereignisse unterscheiden",
+          "frage": "Nenne alle möglichen Würfelergebnisse und die Ergebnisse zum Ereignis mindestens 4.",
+          "punkte": 4,
+          "musterloesung": "Ergebnismenge 1 bis 6\nMindestens bedeutet einschliesslich 4\nEreignis {4, 5, 6}\nUnterscheidung Einzelresultat und Ereignismenge",
+          "kriterien": [
+            {
+              "text": "Ergebnismenge 1 bis 6",
+              "punkte": 1
+            },
+            {
+              "text": "Mindestens bedeutet einschliesslich 4",
+              "punkte": 1
+            },
+            {
+              "text": "Ereignis {4, 5, 6}",
+              "punkte": 1
+            },
+            {
+              "text": "Unterscheidung Einzelresultat und Ereignismenge",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p2",
+          "nr": "2",
+          "typ": "offen",
+          "lernziel": "2",
+          "titel": "Wahrscheinlichkeiten bei gleich möglichen Ergebnissen berechnen",
+          "frage": "Ein Beutel enthält 4 rote, 3 blaue und 3 grüne gleichartige Kugeln. Berechne P(blau).",
+          "punkte": 4,
+          "musterloesung": "Insgesamt 10 Kugeln\n3 günstige Kugeln\nP = 3/10\nP = 30 %",
+          "kriterien": [
+            {
+              "text": "Insgesamt 10 Kugeln",
+              "punkte": 1
+            },
+            {
+              "text": "3 günstige Kugeln",
+              "punkte": 1
+            },
+            {
+              "text": "P = 3/10",
+              "punkte": 1
+            },
+            {
+              "text": "P = 30 %",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p3",
+          "nr": "3",
+          "typ": "offen",
+          "lernziel": "3",
+          "titel": "Baumdiagramme zeichnen",
+          "frage": "Zeichne einen Baum für zwei Würfe einer fairen Münze. Beschrifte Äste und Endergebnisse.",
+          "punkte": 4,
+          "musterloesung": "Erste Stufe K und Z\nZweite Stufe je K und Z\nJeder Ast mit 1/2\nEndergebnisse KK, KZ, ZK, ZZ",
+          "kriterien": [
+            {
+              "text": "Erste Stufe K und Z",
+              "punkte": 1
+            },
+            {
+              "text": "Zweite Stufe je K und Z",
+              "punkte": 1
+            },
+            {
+              "text": "Jeder Ast mit 1/2",
+              "punkte": 1
+            },
+            {
+              "text": "Endergebnisse KK, KZ, ZK, ZZ",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        },
+        {
+          "id": "p4",
+          "nr": "4",
+          "typ": "offen",
+          "lernziel": "4",
+          "titel": "Pfadregel und Summenregel anwenden",
+          "frage": "Berechne bei zwei fairen Münzwürfen P(mindestens einmal Kopf). Nenne die passenden Pfade.",
+          "punkte": 4,
+          "musterloesung": "Pfade KK, KZ, ZK\nJeder Pfad 1/4 durch Multiplikation\nDrei Pfade addieren\n3/4 = 75 %",
+          "kriterien": [
+            {
+              "text": "Pfade KK, KZ, ZK",
+              "punkte": 1
+            },
+            {
+              "text": "Jeder Pfad 1/4 durch Multiplikation",
+              "punkte": 1
+            },
+            {
+              "text": "Drei Pfade addieren",
+              "punkte": 1
+            },
+            {
+              "text": "3/4 = 75 %",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p5",
+          "nr": "5",
+          "typ": "offen",
+          "lernziel": "5",
+          "titel": "Relative Häufigkeiten berechnen und deuten",
+          "frage": "Bei 40 Würfen fällt 18-mal Kopf. Berechne die relative Häufigkeit und erkläre den Unterschied zu 50 %.",
+          "punkte": 4,
+          "musterloesung": "18/40\n0.45 = 45 %\nTheoretisch bei fairer Münze 50 %\nZufällige Schwankungen, keine sichere Gleichheit in 40 Versuchen",
+          "kriterien": [
+            {
+              "text": "18/40",
+              "punkte": 1
+            },
+            {
+              "text": "0.45 = 45 %",
+              "punkte": 1
+            },
+            {
+              "text": "Theoretisch bei fairer Münze 50 %",
+              "punkte": 1
+            },
+            {
+              "text": "Zufällige Schwankungen, keine sichere Gleichheit in 40 Versuchen",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p6",
+          "nr": "6",
+          "typ": "offen",
+          "lernziel": "6",
+          "titel": "Mittelwert und Median bestimmen",
+          "frage": "Bestimme Mittelwert und Median der Daten 3, 5, 5, 7, 10.",
+          "punkte": 4,
+          "musterloesung": "Summe 30\nMittelwert 30/5 = 6\nSortierte Reihenfolge korrekt\nMedian 5",
+          "kriterien": [
+            {
+              "text": "Summe 30",
+              "punkte": 1
+            },
+            {
+              "text": "Mittelwert 30/5 = 6",
+              "punkte": 1
+            },
+            {
+              "text": "Sortierte Reihenfolge korrekt",
+              "punkte": 1
+            },
+            {
+              "text": "Median 5",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p7",
+          "nr": "7",
+          "typ": "offen",
+          "lernziel": "7",
+          "titel": "Spannweite und Modalwert angeben",
+          "frage": "Daten 2, 5, 5, 8, 12: Bestimme Minimum, Maximum, Spannweite und Modalwert.",
+          "punkte": 4,
+          "musterloesung": "Minimum 2\nMaximum 12\nSpannweite 10\nModalwert 5",
+          "kriterien": [
+            {
+              "text": "Minimum 2",
+              "punkte": 1
+            },
+            {
+              "text": "Maximum 12",
+              "punkte": 1
+            },
+            {
+              "text": "Spannweite 10",
+              "punkte": 1
+            },
+            {
+              "text": "Modalwert 5",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p8",
+          "nr": "8",
+          "typ": "offen",
+          "lernziel": "8",
+          "titel": "Daten grafisch darstellen und Simulationen beurteilen",
+          "frage": "Zeichne ein Säulendiagramm für A: 4, B: 7, C: 3. Berechne den Anteil von B.",
+          "punkte": 4,
+          "musterloesung": "Achsen und Skala ab 0\nSäulenhöhen 4, 7, 3\nGesamt 14\nAnteil B = 7/14 = 50 %",
+          "kriterien": [
+            {
+              "text": "Achsen und Skala ab 0",
+              "punkte": 1
+            },
+            {
+              "text": "Säulenhöhen 4, 7, 3",
+              "punkte": 1
+            },
+            {
+              "text": "Gesamt 14",
+              "punkte": 1
+            },
+            {
+              "text": "Anteil B = 7/14 = 50 %",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1077 @@
+{
+  "lernzielBasis": "selbst-formuliert",
+  "hinweis": "Eigene Grundlagen auf Niveau III zur öffentlichen Themenübersicht von Mathematik 2. Keine vollständige Abbildung des Arbeitshefts; schulische Prüfungsziele noch nicht abgeglichen.",
+  "quellen": [
+    {
+      "titel": "Kreis und Kreissektor - Lerndossier",
+      "art": "Eigene Lerntexte, Skizzen, Übungen, Test und Lösungen",
+      "seiten": 12,
+      "datei": "material/klasse-8/mathe2/kreis-kreissektor/Mathematik2_kreis-kreissektor_Lerndossier.pdf"
+    }
+  ],
+  "referenzen": [
+    {
+      "titel": "LMVZ: öffentliche Themenübersicht Mathematik 2",
+      "url": "https://003.lmvz.ch/lehrmittelsites/mathe_sek/de/m2/index.html"
+    },
+    {
+      "titel": "Arbeitsheft III: Produkt und Niveau",
+      "url": "https://shop.lmvz.ch/de/Katalog/Mathematik-Sekundarstufe-I/Mathematik-2-Sekundarstufe-I-Arbeitsheft-III-6722.html"
+    }
+  ],
+  "lernziele": [
+    {
+      "id": "1",
+      "nr": "1",
+      "gruppe": "Grundlagen",
+      "kurz": "Radius und Durchmesser einzeichnen",
+      "text": "Ich kann Radius und Durchmesser einzeichnen.",
+      "frage": "Radius und Durchmesser einzeichnen - wie gehst du vor?",
+      "antwort": "Radius r: Mittelpunkt zur Kreislinie. Durchmesser d: von Rand zu Rand durch den Mittelpunkt. d = 2r."
+    },
+    {
+      "id": "2",
+      "nr": "2",
+      "gruppe": "Grundlagen",
+      "kurz": "Den Kreisumfang berechnen",
+      "text": "Ich kann den Kreisumfang berechnen.",
+      "frage": "Den Kreisumfang berechnen - wie gehst du vor?",
+      "antwort": "U = 2·π·r = π·d. Der Umfang ist die Länge der Kreislinie."
+    },
+    {
+      "id": "3",
+      "nr": "3",
+      "gruppe": "Grundlagen",
+      "kurz": "Die Kreisfläche berechnen",
+      "text": "Ich kann die Kreisfläche berechnen.",
+      "frage": "Die Kreisfläche berechnen - wie gehst du vor?",
+      "antwort": "A = π·r². Die Kreisfläche ist der Inhalt innerhalb der Kreislinie."
+    },
+    {
+      "id": "4",
+      "nr": "4",
+      "gruppe": "Rechnen und anwenden",
+      "kurz": "Radius aus Umfang oder Fläche bestimmen",
+      "text": "Ich kann Radius aus Umfang oder Fläche bestimmen.",
+      "frage": "Radius aus Umfang oder Fläche bestimmen - wie gehst du vor?",
+      "antwort": "Aus U: r = U/(2π). Aus A: r = √(A/π)."
+    },
+    {
+      "id": "5",
+      "nr": "5",
+      "gruppe": "Rechnen und anwenden",
+      "kurz": "Die Länge eines Kreisbogens bestimmen",
+      "text": "Ich kann die Länge eines Kreisbogens bestimmen.",
+      "frage": "Die Länge eines Kreisbogens bestimmen - wie gehst du vor?",
+      "antwort": "Kreisbogen b = (α/360°)·2πr. α ist der zugehörige Mittelpunktswinkel."
+    },
+    {
+      "id": "6",
+      "nr": "6",
+      "gruppe": "Rechnen und anwenden",
+      "kurz": "Die Fläche eines Kreissektors berechnen",
+      "text": "Ich kann die Fläche eines Kreissektors berechnen.",
+      "frage": "Die Fläche eines Kreissektors berechnen - wie gehst du vor?",
+      "antwort": "A_S = (α/360°)·πr². Der Sektor ist der entsprechende Anteil an der Kreisfläche."
+    },
+    {
+      "id": "7",
+      "nr": "7",
+      "gruppe": "Darstellen und prüfen",
+      "kurz": "Tangente und Sekante unterscheiden",
+      "text": "Ich kann Tangente und Sekante unterscheiden.",
+      "frage": "Tangente und Sekante unterscheiden - wie gehst du vor?",
+      "antwort": "Tangente: ein Berührpunkt. Sekante: zwei Schnittpunkte. Eine Gerade ohne Schnittpunkt heisst Passante."
+    },
+    {
+      "id": "8",
+      "nr": "8",
+      "gruppe": "Darstellen und prüfen",
+      "kurz": "Zusammengesetzte Kreisfiguren berechnen",
+      "text": "Ich kann Zusammengesetzte Kreisfiguren berechnen.",
+      "frage": "Zusammengesetzte Kreisfiguren berechnen - wie gehst du vor?",
+      "antwort": "Zerlege die Figur in bekannte Flächen. Addiere Teilflächen oder ziehe Aussparungen ab. Beim Umfang zählt nur der Aussenrand."
+    }
+  ],
+  "lernen": [
+    {
+      "id": "lz-1",
+      "titel": "Radius und Durchmesser einzeichnen",
+      "lernziele": [
+        "1"
+      ],
+      "intro": "Ich kann Radius und Durchmesser einzeichnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Radius r: Mittelpunkt zur Kreislinie. Durchmesser d: von Rand zu Rand durch den Mittelpunkt. d = 2r."
+        },
+        {
+          "t": "bild",
+          "src": "content/img/mathe2/kreis-kreissektor.svg",
+          "alt": "Lernskizze: Kreis und Kreissektor",
+          "caption": "Eigene vereinfachte Skizze; nicht massstabsgetreu."
+        },
+        {
+          "t": "p",
+          "text": "Jeder Radius desselben Kreises ist gleich lang. Der Durchmesser besteht aus zwei Radien."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "r = 3 cm → d = 6 cm."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Radius und Durchmesser sind gleich lang."
+        }
+      ]
+    },
+    {
+      "id": "lz-2",
+      "titel": "Den Kreisumfang berechnen",
+      "lernziele": [
+        "2"
+      ],
+      "intro": "Ich kann den Kreisumfang berechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "U = 2·π·r = π·d. Der Umfang ist die Länge der Kreislinie."
+        },
+        {
+          "t": "p",
+          "text": "Setze entweder r oder d in die passende Formel ein. In diesem Dossier gilt: π-Taste verwenden, auf zwei Dezimalstellen runden."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "r = 4 cm → U = 8π cm ≈ 25.13 cm."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Für den Kreisumfang gilt U = π·r²."
+        }
+      ]
+    },
+    {
+      "id": "lz-3",
+      "titel": "Die Kreisfläche berechnen",
+      "lernziele": [
+        "3"
+      ],
+      "intro": "Ich kann die Kreisfläche berechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "A = π·r². Die Kreisfläche ist der Inhalt innerhalb der Kreislinie."
+        },
+        {
+          "t": "p",
+          "text": "Bei gegebenem Durchmesser zuerst r = d/2 rechnen. Der Radius wird quadriert, π nicht."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "d = 10 cm → r = 5 cm → A = 25π ≈ 78.54 cm²."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Bei gegebenem Durchmesser gilt A = π·d²."
+        }
+      ]
+    },
+    {
+      "id": "lz-4",
+      "titel": "Radius aus Umfang oder Fläche bestimmen",
+      "lernziele": [
+        "4"
+      ],
+      "intro": "Ich kann Radius aus Umfang oder Fläche bestimmen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Aus U: r = U/(2π). Aus A: r = √(A/π)."
+        },
+        {
+          "t": "p",
+          "text": "Achte auf die Art der Angabe. Umfang ist in Längeneinheiten, Fläche in Quadrateinheiten angegeben."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "U = 10π cm → r = 5 cm. A = 49π cm² → r = 7 cm."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Aus der Kreisfläche erhält man den Radius durch A/π, ohne Wurzel."
+        }
+      ]
+    },
+    {
+      "id": "lz-5",
+      "titel": "Die Länge eines Kreisbogens bestimmen",
+      "lernziele": [
+        "5"
+      ],
+      "intro": "Ich kann die Länge eines Kreisbogens bestimmen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Kreisbogen b = (α/360°)·2πr. α ist der zugehörige Mittelpunktswinkel."
+        },
+        {
+          "t": "p",
+          "text": "Der Anteil α/360° ist derselbe wie der Anteil am ganzen Umfang. Ein Halbkreis hat α = 180°."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "r = 6 cm, α = 60°: b = (1/6)·12π = 2π ≈ 6.28 cm."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Ein Kreisbogen von 90° ist die Hälfte des ganzen Umfangs."
+        }
+      ]
+    },
+    {
+      "id": "lz-6",
+      "titel": "Die Fläche eines Kreissektors berechnen",
+      "lernziele": [
+        "6"
+      ],
+      "intro": "Ich kann die Fläche eines Kreissektors berechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "A_S = (α/360°)·πr². Der Sektor ist der entsprechende Anteil an der Kreisfläche."
+        },
+        {
+          "t": "p",
+          "text": "Bogenlänge und Sektorfläche nutzen denselben Winkelanteil, aber unterschiedliche Ausgangsformeln."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "r = 6 cm, α = 90°: A_S = 36π/4 = 9π ≈ 28.27 cm²."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Die Sektorfläche wird mit (α/360°)·2πr berechnet."
+        }
+      ]
+    },
+    {
+      "id": "lz-7",
+      "titel": "Tangente und Sekante unterscheiden",
+      "lernziele": [
+        "7"
+      ],
+      "intro": "Ich kann Tangente und Sekante unterscheiden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Tangente: ein Berührpunkt. Sekante: zwei Schnittpunkte. Eine Gerade ohne Schnittpunkt heisst Passante."
+        },
+        {
+          "t": "p",
+          "text": "Der Radius zum Berührpunkt steht senkrecht auf der Tangente. Eine Sehne ist nur die Strecke zwischen zwei Kreispunkten."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "Durch den Berührpunkt T zeichnest du die Tangente im Winkel 90° zum Radius MT."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Eine Tangente schneidet einen Kreis in zwei verschiedenen Punkten."
+        }
+      ]
+    },
+    {
+      "id": "lz-8",
+      "titel": "Zusammengesetzte Kreisfiguren berechnen",
+      "lernziele": [
+        "8"
+      ],
+      "intro": "Ich kann Zusammengesetzte Kreisfiguren berechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Zerlege die Figur in bekannte Flächen. Addiere Teilflächen oder ziehe Aussparungen ab. Beim Umfang zählt nur der Aussenrand."
+        },
+        {
+          "t": "p",
+          "text": "Beim Halbkreis gehört zum gesamten Rand der halbe Kreisumfang plus der Durchmesser."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "Halbkreis r = 4 cm: A = 8π cm²; Randlänge = 4π + 8 ≈ 20.57 cm."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Der gesamte Rand eines Halbkreises besteht nur aus dem Kreisbogen."
+        }
+      ]
+    },
+    {
+      "id": "lernspick",
+      "titel": "Lernspick: alle Lernziele mit Antwort",
+      "lernziele": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "intro": "Eigene Grundlagenziele auf Niveau III. Schulische Vorgaben ergänzen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "1. Radius und Durchmesser einzeichnen",
+          "text": "Radius r: Mittelpunkt zur Kreislinie. Durchmesser d: von Rand zu Rand durch den Mittelpunkt. d = 2r."
+        },
+        {
+          "t": "merke",
+          "titel": "2. Den Kreisumfang berechnen",
+          "text": "U = 2·π·r = π·d. Der Umfang ist die Länge der Kreislinie."
+        },
+        {
+          "t": "merke",
+          "titel": "3. Die Kreisfläche berechnen",
+          "text": "A = π·r². Die Kreisfläche ist der Inhalt innerhalb der Kreislinie."
+        },
+        {
+          "t": "merke",
+          "titel": "4. Radius aus Umfang oder Fläche bestimmen",
+          "text": "Aus U: r = U/(2π). Aus A: r = √(A/π)."
+        },
+        {
+          "t": "merke",
+          "titel": "5. Die Länge eines Kreisbogens bestimmen",
+          "text": "Kreisbogen b = (α/360°)·2πr. α ist der zugehörige Mittelpunktswinkel."
+        },
+        {
+          "t": "merke",
+          "titel": "6. Die Fläche eines Kreissektors berechnen",
+          "text": "A_S = (α/360°)·πr². Der Sektor ist der entsprechende Anteil an der Kreisfläche."
+        },
+        {
+          "t": "merke",
+          "titel": "7. Tangente und Sekante unterscheiden",
+          "text": "Tangente: ein Berührpunkt. Sekante: zwei Schnittpunkte. Eine Gerade ohne Schnittpunkt heisst Passante."
+        },
+        {
+          "t": "merke",
+          "titel": "8. Zusammengesetzte Kreisfiguren berechnen",
+          "text": "Zerlege die Figur in bekannte Flächen. Addiere Teilflächen oder ziehe Aussparungen ab. Beim Umfang zählt nur der Aussenrand."
+        },
+        {
+          "t": "bild",
+          "src": "content/img/mathe2/kreis-kreissektor-leer.svg",
+          "alt": "Vorlage zum Beschriften",
+          "caption": "Auf Papier beschriften und mit der Lernskizze im ersten Kapitel vergleichen."
+        }
+      ]
+    }
+  ],
+  "karten": [
+    {
+      "vorne": "Radius und Durchmesser einzeichnen",
+      "hinten": "r = 3 cm → d = 6 cm."
+    },
+    {
+      "vorne": "Den Kreisumfang berechnen",
+      "hinten": "r = 4 cm → U = 8π cm ≈ 25.13 cm."
+    },
+    {
+      "vorne": "Die Kreisfläche berechnen",
+      "hinten": "d = 10 cm → r = 5 cm → A = 25π ≈ 78.54 cm²."
+    },
+    {
+      "vorne": "Radius aus Umfang oder Fläche bestimmen",
+      "hinten": "U = 10π cm → r = 5 cm. A = 49π cm² → r = 7 cm."
+    },
+    {
+      "vorne": "Die Länge eines Kreisbogens bestimmen",
+      "hinten": "r = 6 cm, α = 60°: b = (1/6)·12π = 2π ≈ 6.28 cm."
+    },
+    {
+      "vorne": "Die Fläche eines Kreissektors berechnen",
+      "hinten": "r = 6 cm, α = 90°: A_S = 36π/4 = 9π ≈ 28.27 cm²."
+    },
+    {
+      "vorne": "Tangente und Sekante unterscheiden",
+      "hinten": "Durch den Berührpunkt T zeichnest du die Tangente im Winkel 90° zum Radius MT."
+    },
+    {
+      "vorne": "Zusammengesetzte Kreisfiguren berechnen",
+      "hinten": "Halbkreis r = 4 cm: A = 8π cm²; Randlänge = 4π + 8 ≈ 20.57 cm."
+    },
+    {
+      "vorne": "Radius r",
+      "hinten": "Abstand vom Mittelpunkt zur Kreislinie."
+    },
+    {
+      "vorne": "Durchmesser d",
+      "hinten": "Verläuft durch den Mittelpunkt; d = 2r."
+    },
+    {
+      "vorne": "Pi π",
+      "hinten": "Verhältnis Kreisumfang zu Durchmesser, ungefähr 3.14159."
+    },
+    {
+      "vorne": "Tangente",
+      "hinten": "Berührt den Kreis in einem Punkt und steht dort senkrecht zum Radius."
+    }
+  ],
+  "uebungen": [
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Radius r: Mittelpunkt zur Kreislinie. Durchmesser d: von Rand zu Rand durch den Mittelpunkt. d = 2r.",
+        "Radius und Durchmesser sind gleich lang."
+      ],
+      "richtig": 0,
+      "id": "u1-1",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Radius r: Mittelpunkt zur Kreislinie. Durchmesser d: von Rand zu Rand durch den Mittelpunkt. d = 2r. Beispiel: r = 3 cm → d = 6 cm."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Ein Kreis hat d = 14 cm. Wie gross ist r?",
+      "antwort": 7,
+      "toleranz": 0.015,
+      "einheit": "cm",
+      "id": "u1-2",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 7 cm. Radius r: Mittelpunkt zur Kreislinie. Durchmesser d: von Rand zu Rand durch den Mittelpunkt. d = 2r."
+    },
+    {
+      "id": "u1-3",
+      "typ": "offen",
+      "lernziel": "1",
+      "frage": "Zeichne einen Kreis mit r = 2 cm. Beschrifte M, r und d.",
+      "musterloesung": "Zirkelöffnung 2 cm; M im Zentrum; Radius 2 cm, Durchmesser durch M 4 cm.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": true,
+      "zeilen": 5,
+      "hilfe": "Radius r: Mittelpunkt zur Kreislinie. Durchmesser d: von Rand zu Rand durch den Mittelpunkt. d = 2r."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "U = 2·π·r = π·d. Der Umfang ist die Länge der Kreislinie.",
+        "Für den Kreisumfang gilt U = π·r²."
+      ],
+      "richtig": 0,
+      "id": "u2-1",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "U = 2·π·r = π·d. Der Umfang ist die Länge der Kreislinie. Beispiel: r = 4 cm → U = 8π cm ≈ 25.13 cm."
+    },
+    {
+      "typ": "zahl",
+      "frage": "d = 10 cm. Berechne U auf zwei Dezimalstellen.",
+      "antwort": 31.42,
+      "toleranz": 0.015,
+      "einheit": "cm",
+      "id": "u2-2",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 31.42 cm. U = 2·π·r = π·d. Der Umfang ist die Länge der Kreislinie."
+    },
+    {
+      "id": "u2-3",
+      "typ": "offen",
+      "lernziel": "2",
+      "frage": "Berechne den Umfang eines Kreises mit r = 3 cm.",
+      "musterloesung": "U = 2π·3 = 6π ≈ 18.85 cm.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "U = 2·π·r = π·d. Der Umfang ist die Länge der Kreislinie."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "A = π·r². Die Kreisfläche ist der Inhalt innerhalb der Kreislinie.",
+        "Bei gegebenem Durchmesser gilt A = π·d²."
+      ],
+      "richtig": 0,
+      "id": "u3-1",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "A = π·r². Die Kreisfläche ist der Inhalt innerhalb der Kreislinie. Beispiel: d = 10 cm → r = 5 cm → A = 25π ≈ 78.54 cm²."
+    },
+    {
+      "typ": "zahl",
+      "frage": "r = 3 cm. Berechne A auf zwei Dezimalstellen.",
+      "antwort": 28.27,
+      "toleranz": 0.015,
+      "einheit": "cm²",
+      "id": "u3-2",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 28.27 cm². A = π·r². Die Kreisfläche ist der Inhalt innerhalb der Kreislinie."
+    },
+    {
+      "id": "u3-3",
+      "typ": "offen",
+      "lernziel": "3",
+      "frage": "Berechne A für einen Kreis mit d = 12 cm.",
+      "musterloesung": "r = 6 cm; A = 36π ≈ 113.10 cm².",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "A = π·r². Die Kreisfläche ist der Inhalt innerhalb der Kreislinie."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Aus U: r = U/(2π). Aus A: r = √(A/π).",
+        "Aus der Kreisfläche erhält man den Radius durch A/π, ohne Wurzel."
+      ],
+      "richtig": 0,
+      "id": "u4-1",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Aus U: r = U/(2π). Aus A: r = √(A/π). Beispiel: U = 10π cm → r = 5 cm. A = 49π cm² → r = 7 cm."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Die Fläche ist 64π cm². Wie gross ist r?",
+      "antwort": 8,
+      "toleranz": 0.015,
+      "einheit": "cm",
+      "id": "u4-2",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 8 cm. Aus U: r = U/(2π). Aus A: r = √(A/π)."
+    },
+    {
+      "id": "u4-3",
+      "typ": "offen",
+      "lernziel": "4",
+      "frage": "Bestimme r aus U = 12π cm und aus A = 25π cm².",
+      "musterloesung": "Aus Umfang: r = 6 cm. Aus Fläche: r = 5 cm.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Aus U: r = U/(2π). Aus A: r = √(A/π)."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Kreisbogen b = (α/360°)·2πr. α ist der zugehörige Mittelpunktswinkel.",
+        "Ein Kreisbogen von 90° ist die Hälfte des ganzen Umfangs."
+      ],
+      "richtig": 0,
+      "id": "u5-1",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Kreisbogen b = (α/360°)·2πr. α ist der zugehörige Mittelpunktswinkel. Beispiel: r = 6 cm, α = 60°: b = (1/6)·12π = 2π ≈ 6.28 cm."
+    },
+    {
+      "typ": "zahl",
+      "frage": "r = 4 cm, α = 90°. Berechne b auf zwei Dezimalstellen.",
+      "antwort": 6.28,
+      "toleranz": 0.015,
+      "einheit": "cm",
+      "id": "u5-2",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 6.28 cm. Kreisbogen b = (α/360°)·2πr. α ist der zugehörige Mittelpunktswinkel."
+    },
+    {
+      "id": "u5-3",
+      "typ": "offen",
+      "lernziel": "5",
+      "frage": "Skizziere einen Kreissektor mit r = 3 cm und α = 120°. Berechne die Bogenlänge.",
+      "musterloesung": "Ein Drittelkreis; b = (120/360)·6π = 2π ≈ 6.28 cm.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": true,
+      "zeilen": 5,
+      "hilfe": "Kreisbogen b = (α/360°)·2πr. α ist der zugehörige Mittelpunktswinkel."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "A_S = (α/360°)·πr². Der Sektor ist der entsprechende Anteil an der Kreisfläche.",
+        "Die Sektorfläche wird mit (α/360°)·2πr berechnet."
+      ],
+      "richtig": 0,
+      "id": "u6-1",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "A_S = (α/360°)·πr². Der Sektor ist der entsprechende Anteil an der Kreisfläche. Beispiel: r = 6 cm, α = 90°: A_S = 36π/4 = 9π ≈ 28.27 cm²."
+    },
+    {
+      "typ": "zahl",
+      "frage": "r = 4 cm, α = 180°. Berechne A_S auf zwei Dezimalstellen.",
+      "antwort": 25.13,
+      "toleranz": 0.015,
+      "einheit": "cm²",
+      "id": "u6-2",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 25.13 cm². A_S = (α/360°)·πr². Der Sektor ist der entsprechende Anteil an der Kreisfläche."
+    },
+    {
+      "id": "u6-3",
+      "typ": "offen",
+      "lernziel": "6",
+      "frage": "Berechne A_S für r = 3 cm und α = 120°.",
+      "musterloesung": "A_S = (1/3)·9π = 3π ≈ 9.42 cm².",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "A_S = (α/360°)·πr². Der Sektor ist der entsprechende Anteil an der Kreisfläche."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Tangente: ein Berührpunkt. Sekante: zwei Schnittpunkte. Eine Gerade ohne Schnittpunkt heisst Passante.",
+        "Eine Tangente schneidet einen Kreis in zwei verschiedenen Punkten."
+      ],
+      "richtig": 0,
+      "id": "u7-1",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Tangente: ein Berührpunkt. Sekante: zwei Schnittpunkte. Eine Gerade ohne Schnittpunkt heisst Passante. Beispiel: Durch den Berührpunkt T zeichnest du die Tangente im Winkel 90° zum Radius MT."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Wie gross ist der Winkel zwischen Radius und Tangente im Berührpunkt?",
+      "antwort": 90,
+      "toleranz": 0.015,
+      "einheit": "°",
+      "id": "u7-2",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 90 °. Tangente: ein Berührpunkt. Sekante: zwei Schnittpunkte. Eine Gerade ohne Schnittpunkt heisst Passante."
+    },
+    {
+      "id": "u7-3",
+      "typ": "offen",
+      "lernziel": "7",
+      "frage": "Zeichne Kreis und Radius MT. Zeichne die Tangente in T sowie eine Sekante.",
+      "musterloesung": "Tangente senkrecht zu MT in T; Sekante mit zwei Schnittpunkten.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": true,
+      "zeilen": 5,
+      "hilfe": "Tangente: ein Berührpunkt. Sekante: zwei Schnittpunkte. Eine Gerade ohne Schnittpunkt heisst Passante."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Zerlege die Figur in bekannte Flächen. Addiere Teilflächen oder ziehe Aussparungen ab. Beim Umfang zählt nur der Aussenrand.",
+        "Der gesamte Rand eines Halbkreises besteht nur aus dem Kreisbogen."
+      ],
+      "richtig": 0,
+      "id": "u8-1",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Zerlege die Figur in bekannte Flächen. Addiere Teilflächen oder ziehe Aussparungen ab. Beim Umfang zählt nur der Aussenrand. Beispiel: Halbkreis r = 4 cm: A = 8π cm²; Randlänge = 4π + 8 ≈ 20.57 cm."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Halbkreis r = 3 cm: Berechne die gesamte Randlänge auf zwei Dezimalstellen.",
+      "antwort": 15.42,
+      "toleranz": 0.015,
+      "einheit": "cm",
+      "id": "u8-2",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 15.42 cm. Zerlege die Figur in bekannte Flächen. Addiere Teilflächen oder ziehe Aussparungen ab. Beim Umfang zählt nur der Aussenrand."
+    },
+    {
+      "id": "u8-3",
+      "typ": "offen",
+      "lernziel": "8",
+      "frage": "Zeichne einen Halbkreis mit r = 5 cm. Berechne Fläche und gesamte Randlänge.",
+      "musterloesung": "A = 25π/2 ≈ 39.27 cm²; Rand = 5π + 10 ≈ 25.71 cm.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": true,
+      "zeilen": 5,
+      "hilfe": "Zerlege die Figur in bekannte Flächen. Addiere Teilflächen oder ziehe Aussparungen ab. Beim Umfang zählt nur der Aussenrand."
+    }
+  ],
+  "pruefungen": [
+    {
+      "id": "grundlagentest-32",
+      "titel": "Kreis und Kreissektor - Grundlagentest III",
+      "richtzeit": 45,
+      "hinweis": "32 Punkte. Zeichnungen auf Papier, offene Aufgaben mit Kriterien selbst bewerten. Taschenrechner, Lineal und Zirkel erlaubt; ohne Dossier. Bei Kreisen π-Taste nutzen und auf zwei Dezimalstellen runden. Eigene Lernziele; schulische Prüfungsziele noch nicht abgeglichen.",
+      "aufgaben": [
+        {
+          "id": "p1",
+          "nr": "1",
+          "typ": "offen",
+          "lernziel": "1",
+          "titel": "Radius und Durchmesser einzeichnen",
+          "frage": "Zeichne einen Kreis mit r = 3 cm. Zeichne M und einen vollständigen Durchmesser mit Mass ein.",
+          "punkte": 4,
+          "musterloesung": "Kreis mit Radius 3 cm\nMittelpunkt M\nDurchmesser durch M\nd = 6 cm",
+          "kriterien": [
+            {
+              "text": "Kreis mit Radius 3 cm",
+              "punkte": 1
+            },
+            {
+              "text": "Mittelpunkt M",
+              "punkte": 1
+            },
+            {
+              "text": "Durchmesser durch M",
+              "punkte": 1
+            },
+            {
+              "text": "d = 6 cm",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        },
+        {
+          "id": "p2",
+          "nr": "2",
+          "typ": "offen",
+          "lernziel": "2",
+          "titel": "Den Kreisumfang berechnen",
+          "frage": "Ein Rad hat d = 70 cm. Berechne seinen Umfang auf zwei Dezimalstellen.",
+          "punkte": 4,
+          "musterloesung": "Formel U = πd\nU = 70π\nU ≈ 219.91\nEinheit cm",
+          "kriterien": [
+            {
+              "text": "Formel U = πd",
+              "punkte": 1
+            },
+            {
+              "text": "U = 70π",
+              "punkte": 1
+            },
+            {
+              "text": "U ≈ 219.91",
+              "punkte": 1
+            },
+            {
+              "text": "Einheit cm",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p3",
+          "nr": "3",
+          "typ": "offen",
+          "lernziel": "3",
+          "titel": "Die Kreisfläche berechnen",
+          "frage": "Eine runde Platte hat d = 8 cm. Berechne A auf zwei Dezimalstellen.",
+          "punkte": 4,
+          "musterloesung": "r = 4 cm\nA = π·4²\nA ≈ 50.27\nEinheit cm²",
+          "kriterien": [
+            {
+              "text": "r = 4 cm",
+              "punkte": 1
+            },
+            {
+              "text": "A = π·4²",
+              "punkte": 1
+            },
+            {
+              "text": "A ≈ 50.27",
+              "punkte": 1
+            },
+            {
+              "text": "Einheit cm²",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p4",
+          "nr": "4",
+          "typ": "offen",
+          "lernziel": "4",
+          "titel": "Radius aus Umfang oder Fläche bestimmen",
+          "frage": "Bestimme r bei U = 16π cm und bei A = 81π cm². Zeige beide Formeln.",
+          "punkte": 4,
+          "musterloesung": "r = U/(2π)\nr = 8 cm\nr = √(A/π)\nr = 9 cm",
+          "kriterien": [
+            {
+              "text": "r = U/(2π)",
+              "punkte": 1
+            },
+            {
+              "text": "r = 8 cm",
+              "punkte": 1
+            },
+            {
+              "text": "r = √(A/π)",
+              "punkte": 1
+            },
+            {
+              "text": "r = 9 cm",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p5",
+          "nr": "5",
+          "typ": "offen",
+          "lernziel": "5",
+          "titel": "Die Länge eines Kreisbogens bestimmen",
+          "frage": "Skizziere einen Viertelkreis mit r = 6 cm und berechne die Bogenlänge auf zwei Dezimalstellen.",
+          "punkte": 4,
+          "musterloesung": "Sektor mit Winkel 90° und Radius\nAnteil 90/360 = 1/4\nb = (1/4)·12π\nb ≈ 9.42 cm",
+          "kriterien": [
+            {
+              "text": "Sektor mit Winkel 90° und Radius",
+              "punkte": 1
+            },
+            {
+              "text": "Anteil 90/360 = 1/4",
+              "punkte": 1
+            },
+            {
+              "text": "b = (1/4)·12π",
+              "punkte": 1
+            },
+            {
+              "text": "b ≈ 9.42 cm",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        },
+        {
+          "id": "p6",
+          "nr": "6",
+          "typ": "offen",
+          "lernziel": "6",
+          "titel": "Die Fläche eines Kreissektors berechnen",
+          "frage": "Ein Sektor hat r = 6 cm und α = 120°. Berechne seine Fläche.",
+          "punkte": 4,
+          "musterloesung": "Anteil 120/360 = 1/3\nA_S = (1/3)·π·6²\nA_S = 12π ≈ 37.70\nEinheit cm²",
+          "kriterien": [
+            {
+              "text": "Anteil 120/360 = 1/3",
+              "punkte": 1
+            },
+            {
+              "text": "A_S = (1/3)·π·6²",
+              "punkte": 1
+            },
+            {
+              "text": "A_S = 12π ≈ 37.70",
+              "punkte": 1
+            },
+            {
+              "text": "Einheit cm²",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p7",
+          "nr": "7",
+          "typ": "offen",
+          "lernziel": "7",
+          "titel": "Tangente und Sekante unterscheiden",
+          "frage": "Zeichne einen Kreis, eine Tangente und eine Sekante. Markiere den Winkel zwischen Tangente und Radius.",
+          "punkte": 4,
+          "musterloesung": "Kreis mit Mittelpunkt\nTangente mit genau einem Berührpunkt\nSekante mit zwei Schnittpunkten\n90° zwischen Radius und Tangente",
+          "kriterien": [
+            {
+              "text": "Kreis mit Mittelpunkt",
+              "punkte": 1
+            },
+            {
+              "text": "Tangente mit genau einem Berührpunkt",
+              "punkte": 1
+            },
+            {
+              "text": "Sekante mit zwei Schnittpunkten",
+              "punkte": 1
+            },
+            {
+              "text": "90° zwischen Radius und Tangente",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        },
+        {
+          "id": "p8",
+          "nr": "8",
+          "typ": "offen",
+          "lernziel": "8",
+          "titel": "Zusammengesetzte Kreisfiguren berechnen",
+          "frage": "Halbkreis r = 2 cm: Skizziere und berechne Fläche sowie gesamte Randlänge auf zwei Dezimalstellen.",
+          "punkte": 4,
+          "musterloesung": "Skizze mit Durchmesser 4 cm\nA = 2π ≈ 6.28 cm²\nRand = 2π + 4\nRand ≈ 10.28 cm",
+          "kriterien": [
+            {
+              "text": "Skizze mit Durchmesser 4 cm",
+              "punkte": 1
+            },
+            {
+              "text": "A = 2π ≈ 6.28 cm²",
+              "punkte": 1
+            },
+            {
+              "text": "Rand = 2π + 4",
+              "punkte": 1
+            },
+            {
+              "text": "Rand ≈ 10.28 cm",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        }
+      ]
+    }
+  ]
+}

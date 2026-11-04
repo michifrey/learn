@@ -383,6 +383,159 @@
       ]
     },
     {
+      "id": "mathe2-brueche-gleichungen-wurzeln",
+      "fach": "mathe",
+      "klasse": 8,
+      "stufen": [],
+      "mathematik2Kapitel": 1,
+      "kapitel": "Mathematik 2 · Kapitel 1 · Niveau III",
+      "titel": "Brüche, Gleichungen und Wurzeln",
+      "untertitel": "Bruchteile verstehen, sicher rechnen und Muster erkennen · Grundlagen III",
+      "datei": "themen/mathe2-brueche-gleichungen-wurzeln.json",
+      "lernzielBasis": "selbst-formuliert",
+      "angebot": [
+        "9 Kapitel",
+        "24 Übungen",
+        "1 Prüfung"
+      ]
+    },
+    {
+      "id": "mathe2-thales-pythagoras",
+      "fach": "mathe",
+      "klasse": 8,
+      "stufen": [],
+      "mathematik2Kapitel": 2,
+      "kapitel": "Mathematik 2 · Kapitel 2 · Niveau III",
+      "titel": "Thales und Pythagoras",
+      "untertitel": "Rechtwinklige Dreiecke erkennen, zeichnen und berechnen · Grundlagen III",
+      "datei": "themen/mathe2-thales-pythagoras.json",
+      "lernzielBasis": "selbst-formuliert",
+      "angebot": [
+        "9 Kapitel",
+        "24 Übungen",
+        "1 Prüfung"
+      ]
+    },
+    {
+      "id": "mathe2-zuordnungen-proportionalitaet",
+      "fach": "mathe",
+      "klasse": 8,
+      "stufen": [],
+      "mathematik2Kapitel": 3,
+      "kapitel": "Mathematik 2 · Kapitel 3 · Niveau III",
+      "titel": "Zuordnungen und Proportionalität",
+      "untertitel": "Tabellen, Diagramme und Dreisatz einfach verstehen · Grundlagen III",
+      "datei": "themen/mathe2-zuordnungen-proportionalitaet.json",
+      "lernzielBasis": "selbst-formuliert",
+      "angebot": [
+        "9 Kapitel",
+        "24 Übungen",
+        "1 Prüfung"
+      ]
+    },
+    {
+      "id": "mathe2-prisma-pyramide",
+      "fach": "mathe",
+      "klasse": 8,
+      "stufen": [],
+      "mathematik2Kapitel": 4,
+      "kapitel": "Mathematik 2 · Kapitel 4 · Niveau III",
+      "titel": "Prisma und Pyramide",
+      "untertitel": "Körper skizzieren, Netze lesen und Flächen sowie Volumen berechnen · Grundlagen III",
+      "datei": "themen/mathe2-prisma-pyramide.json",
+      "lernzielBasis": "selbst-formuliert",
+      "angebot": [
+        "9 Kapitel",
+        "24 Übungen",
+        "1 Prüfung"
+      ]
+    },
+    {
+      "id": "mathe2-preise-waehrungen-budget",
+      "fach": "mathe",
+      "klasse": 8,
+      "stufen": [],
+      "mathematik2Kapitel": 5,
+      "kapitel": "Mathematik 2 · Kapitel 5 · Niveau III",
+      "titel": "Preise, Währungen und Budget",
+      "untertitel": "Rabatt, Mehrwertsteuer und Geld im Alltag berechnen · Grundlagen III",
+      "datei": "themen/mathe2-preise-waehrungen-budget.json",
+      "lernzielBasis": "selbst-formuliert",
+      "angebot": [
+        "9 Kapitel",
+        "24 Übungen",
+        "1 Prüfung"
+      ]
+    },
+    {
+      "id": "mathe2-kreis-kreissektor",
+      "fach": "mathe",
+      "klasse": 8,
+      "stufen": [],
+      "mathematik2Kapitel": 6,
+      "kapitel": "Mathematik 2 · Kapitel 6 · Niveau III",
+      "titel": "Kreis und Kreissektor",
+      "untertitel": "Umfang, Fläche, Kreisbogen und einfache Konstruktionen · Grundlagen III",
+      "datei": "themen/mathe2-kreis-kreissektor.json",
+      "lernzielBasis": "selbst-formuliert",
+      "angebot": [
+        "9 Kapitel",
+        "24 Übungen",
+        "1 Prüfung"
+      ]
+    },
+    {
+      "id": "mathe2-wahrscheinlichkeit-statistik",
+      "fach": "mathe",
+      "klasse": 8,
+      "stufen": [],
+      "mathematik2Kapitel": 7,
+      "kapitel": "Mathematik 2 · Kapitel 7 · Niveau III",
+      "titel": "Wahrscheinlichkeit und Statistik",
+      "untertitel": "Zufall beschreiben, Daten ordnen und Kennwerte berechnen · Grundlagen III",
+      "datei": "themen/mathe2-wahrscheinlichkeit-statistik.json",
+      "lernzielBasis": "selbst-formuliert",
+      "angebot": [
+        "9 Kapitel",
+        "24 Übungen",
+        "1 Prüfung"
+      ]
+    },
+    {
+      "id": "mathe2-zylinder",
+      "fach": "mathe",
+      "klasse": 8,
+      "stufen": [],
+      "mathematik2Kapitel": 8,
+      "kapitel": "Mathematik 2 · Kapitel 8 · Niveau III",
+      "titel": "Zylinder",
+      "untertitel": "Netz, Mantel, Oberfläche und Füllvolumen · Grundlagen III",
+      "datei": "themen/mathe2-zylinder.json",
+      "lernzielBasis": "selbst-formuliert",
+      "angebot": [
+        "9 Kapitel",
+        "24 Übungen",
+        "1 Prüfung"
+      ]
+    },
+    {
+      "id": "mathe2-geschwindigkeit-steigung",
+      "fach": "mathe",
+      "klasse": 8,
+      "stufen": [],
+      "mathematik2Kapitel": 9,
+      "kapitel": "Mathematik 2 · Kapitel 9 · Niveau III",
+      "titel": "Geschwindigkeit, Steigung und Gefälle",
+      "untertitel": "Weg-Zeit-Aufgaben und Höhenunterschiede sicher lösen · Grundlagen III",
+      "datei": "themen/mathe2-geschwindigkeit-steigung.json",
+      "lernzielBasis": "selbst-formuliert",
+      "angebot": [
+        "9 Kapitel",
+        "24 Übungen",
+        "1 Prüfung"
+      ]
+    },
+    {
       "id": "mathe-pythagoras",
       "fach": "mathe",
       "klasse": 8,

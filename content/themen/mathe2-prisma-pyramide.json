@@ -1,0 +1,1077 @@
+{
+  "lernzielBasis": "selbst-formuliert",
+  "hinweis": "Eigene Grundlagen auf Niveau III zur öffentlichen Themenübersicht von Mathematik 2. Keine vollständige Abbildung des Arbeitshefts; schulische Prüfungsziele noch nicht abgeglichen.",
+  "quellen": [
+    {
+      "titel": "Prisma und Pyramide - Lerndossier",
+      "art": "Eigene Lerntexte, Skizzen, Übungen, Test und Lösungen",
+      "seiten": 12,
+      "datei": "material/klasse-8/mathe2/prisma-pyramide/Mathematik2_prisma-pyramide_Lerndossier.pdf"
+    }
+  ],
+  "referenzen": [
+    {
+      "titel": "LMVZ: öffentliche Themenübersicht Mathematik 2",
+      "url": "https://003.lmvz.ch/lehrmittelsites/mathe_sek/de/m2/index.html"
+    },
+    {
+      "titel": "Arbeitsheft III: Produkt und Niveau",
+      "url": "https://shop.lmvz.ch/de/Katalog/Mathematik-Sekundarstufe-I/Mathematik-2-Sekundarstufe-I-Arbeitsheft-III-6722.html"
+    }
+  ],
+  "lernziele": [
+    {
+      "id": "1",
+      "nr": "1",
+      "gruppe": "Grundlagen",
+      "kurz": "Prismen und Pyramiden unterscheiden",
+      "text": "Ich kann Prismen und Pyramiden unterscheiden.",
+      "frage": "Prismen und Pyramiden unterscheiden - wie gehst du vor?",
+      "antwort": "Ein gerades Prisma hat zwei parallele, deckungsgleiche Grund- und Deckflächen. Eine Pyramide hat eine Grundfläche und eine Spitze."
+    },
+    {
+      "id": "2",
+      "nr": "2",
+      "gruppe": "Grundlagen",
+      "kurz": "Körpernetze zuordnen und zeichnen",
+      "text": "Ich kann Körpernetze zuordnen und zeichnen.",
+      "frage": "Körpernetze zuordnen und zeichnen - wie gehst du vor?",
+      "antwort": "Ein Netz enthält alle Flächen eines Körpers, so verbunden, dass sie sich ohne Überlappung zum Körper falten lassen."
+    },
+    {
+      "id": "3",
+      "nr": "3",
+      "gruppe": "Grundlagen",
+      "kurz": "Volumen und Oberfläche eines Quaders berechnen",
+      "text": "Ich kann Volumen und Oberfläche eines Quaders berechnen.",
+      "frage": "Volumen und Oberfläche eines Quaders berechnen - wie gehst du vor?",
+      "antwort": "Quader: V = l·b·h und O = 2·(l·b + l·h + b·h). Volumen in cm³, Oberfläche in cm²."
+    },
+    {
+      "id": "4",
+      "nr": "4",
+      "gruppe": "Rechnen und anwenden",
+      "kurz": "Das Volumen eines geraden Prismas berechnen",
+      "text": "Ich kann das Volumen eines geraden Prismas berechnen.",
+      "frage": "Das Volumen eines geraden Prismas berechnen - wie gehst du vor?",
+      "antwort": "Für jedes Prisma gilt V = G·h. G ist der Flächeninhalt der Grundfläche, h die Körperhöhe."
+    },
+    {
+      "id": "5",
+      "nr": "5",
+      "gruppe": "Rechnen und anwenden",
+      "kurz": "Die Oberfläche eines geraden Prismas berechnen",
+      "text": "Ich kann die Oberfläche eines geraden Prismas berechnen.",
+      "frage": "Die Oberfläche eines geraden Prismas berechnen - wie gehst du vor?",
+      "antwort": "Mantel: M = U_G·h. Oberfläche: O = 2G + M. U_G ist der Umfang der Grundfläche."
+    },
+    {
+      "id": "6",
+      "nr": "6",
+      "gruppe": "Rechnen und anwenden",
+      "kurz": "Das Volumen einer Pyramide berechnen",
+      "text": "Ich kann das Volumen einer Pyramide berechnen.",
+      "frage": "Das Volumen einer Pyramide berechnen - wie gehst du vor?",
+      "antwort": "Pyramide: V = G·h/3. Die Höhe h steht senkrecht auf der Grundfläche."
+    },
+    {
+      "id": "7",
+      "nr": "7",
+      "gruppe": "Darstellen und prüfen",
+      "kurz": "Die Oberfläche einer quadratischen Pyramide bestimmen",
+      "text": "Ich kann die Oberfläche einer quadratischen Pyramide bestimmen.",
+      "frage": "Die Oberfläche einer quadratischen Pyramide bestimmen - wie gehst du vor?",
+      "antwort": "Bei vier gleichen Seitenflächen gilt O = a² + 4·(a·h_s/2). h_s ist die Höhe eines Seitendreiecks."
+    },
+    {
+      "id": "8",
+      "nr": "8",
+      "gruppe": "Darstellen und prüfen",
+      "kurz": "Flächen- und Volumeneinheiten umrechnen",
+      "text": "Ich kann Flächen- und Volumeneinheiten umrechnen.",
+      "frage": "Flächen- und Volumeneinheiten umrechnen - wie gehst du vor?",
+      "antwort": "1 dm² = 100 cm²; 1 dm³ = 1000 cm³ = 1 Liter. Bei Flächen wird der Längenfaktor quadriert, bei Volumen kubiert."
+    }
+  ],
+  "lernen": [
+    {
+      "id": "lz-1",
+      "titel": "Prismen und Pyramiden unterscheiden",
+      "lernziele": [
+        "1"
+      ],
+      "intro": "Ich kann Prismen und Pyramiden unterscheiden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Ein gerades Prisma hat zwei parallele, deckungsgleiche Grund- und Deckflächen. Eine Pyramide hat eine Grundfläche und eine Spitze."
+        },
+        {
+          "t": "bild",
+          "src": "content/img/mathe2/prisma-pyramide.svg",
+          "alt": "Lernskizze: Prisma und Pyramide",
+          "caption": "Eigene vereinfachte Skizze; nicht massstabsgetreu."
+        },
+        {
+          "t": "p",
+          "text": "Die Seitenflächen des geraden Prismas sind Rechtecke, die der Pyramide Dreiecke. Die Grundfläche muss kein Quadrat sein."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "Dreiecksprisma: zwei Dreiecke und drei Rechtecke. Quadratische Pyramide: ein Quadrat und vier Dreiecke."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Eine Pyramide besitzt immer zwei deckungsgleiche Grundflächen."
+        }
+      ]
+    },
+    {
+      "id": "lz-2",
+      "titel": "Körpernetze zuordnen und zeichnen",
+      "lernziele": [
+        "2"
+      ],
+      "intro": "Ich kann Körpernetze zuordnen und zeichnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Ein Netz enthält alle Flächen eines Körpers, so verbunden, dass sie sich ohne Überlappung zum Körper falten lassen."
+        },
+        {
+          "t": "p",
+          "text": "Prüfe Anzahl, Form und passende Kantenlängen. Ein Würfelnetz besteht aus sechs kongruenten Quadraten."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "Ein mögliches Würfelnetz: vier Quadrate in einer Reihe, am zweiten eines oben und eines unten."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Sechs beliebig aneinandergelegte Quadrate bilden immer ein gültiges Würfelnetz."
+        }
+      ]
+    },
+    {
+      "id": "lz-3",
+      "titel": "Volumen und Oberfläche eines Quaders berechnen",
+      "lernziele": [
+        "3"
+      ],
+      "intro": "Ich kann Volumen und Oberfläche eines Quaders berechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Quader: V = l·b·h und O = 2·(l·b + l·h + b·h). Volumen in cm³, Oberfläche in cm²."
+        },
+        {
+          "t": "p",
+          "text": "Gegenüberliegende Flächen sind gleich gross. Verwechsle den Platz im Körper nicht mit seiner Aussenfläche."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "l = 4, b = 3, h = 2 cm: V = 24 cm³; O = 2·(12+8+6) = 52 cm²."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Volumen und Oberfläche eines Quaders werden mit derselben Formel berechnet."
+        }
+      ]
+    },
+    {
+      "id": "lz-4",
+      "titel": "Das Volumen eines geraden Prismas berechnen",
+      "lernziele": [
+        "4"
+      ],
+      "intro": "Ich kann das Volumen eines geraden Prismas berechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Für jedes Prisma gilt V = G·h. G ist der Flächeninhalt der Grundfläche, h die Körperhöhe."
+        },
+        {
+          "t": "p",
+          "text": "Bei einer dreieckigen Grundfläche zuerst G = g·h_Dreieck/2 berechnen. Die Dreieckshöhe ist etwas anderes als die Körperhöhe."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "Dreiecksgrundfläche: g = 6 cm, h_Dreieck = 4 cm → G = 12 cm². Körperhöhe 10 cm → V = 120 cm³."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Bei einem Dreiecksprisma darf die Dreiecksgrundfläche ohne Halbieren berechnet werden."
+        }
+      ]
+    },
+    {
+      "id": "lz-5",
+      "titel": "Die Oberfläche eines geraden Prismas berechnen",
+      "lernziele": [
+        "5"
+      ],
+      "intro": "Ich kann die Oberfläche eines geraden Prismas berechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Mantel: M = U_G·h. Oberfläche: O = 2G + M. U_G ist der Umfang der Grundfläche."
+        },
+        {
+          "t": "p",
+          "text": "Das abgewickelte Mantelrechteck hat die Seitenlängen Grundflächenumfang und Körperhöhe."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "Grunddreieck 3-4-5 cm, G = 6 cm², Körperhöhe 10 cm: M = 12·10 = 120; O = 132 cm²."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Beim Prisma gilt O = G + M, weil es nur eine Grundfläche besitzt."
+        }
+      ]
+    },
+    {
+      "id": "lz-6",
+      "titel": "Das Volumen einer Pyramide berechnen",
+      "lernziele": [
+        "6"
+      ],
+      "intro": "Ich kann das Volumen einer Pyramide berechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Pyramide: V = G·h/3. Die Höhe h steht senkrecht auf der Grundfläche."
+        },
+        {
+          "t": "p",
+          "text": "Bei gleicher Grundfläche und gleicher Höhe hat eine Pyramide ein Drittel des Prismenvolumens."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "Quadratische Grundseite a = 6 cm, h = 5 cm: G = 36 cm²; V = 36·5/3 = 60 cm³."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Eine Pyramide hat bei gleichem G und h dasselbe Volumen wie ein Prisma."
+        }
+      ]
+    },
+    {
+      "id": "lz-7",
+      "titel": "Die Oberfläche einer quadratischen Pyramide bestimmen",
+      "lernziele": [
+        "7"
+      ],
+      "intro": "Ich kann die Oberfläche einer quadratischen Pyramide bestimmen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Bei vier gleichen Seitenflächen gilt O = a² + 4·(a·h_s/2). h_s ist die Höhe eines Seitendreiecks."
+        },
+        {
+          "t": "p",
+          "text": "Die Seitenhöhe h_s verläuft auf der Dreiecksfläche. Sie ist länger als die senkrechte Körperhöhe h."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "a = 6 cm, h_s = 5 cm: Grundfläche 36; vier Dreiecke je 15 → O = 96 cm²."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Bei einer Pyramide darf die Körperhöhe immer als Höhe jedes Seitendreiecks eingesetzt werden."
+        }
+      ]
+    },
+    {
+      "id": "lz-8",
+      "titel": "Flächen- und Volumeneinheiten umrechnen",
+      "lernziele": [
+        "8"
+      ],
+      "intro": "Ich kann Flächen- und Volumeneinheiten umrechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "1 dm² = 100 cm²; 1 dm³ = 1000 cm³ = 1 Liter. Bei Flächen wird der Längenfaktor quadriert, bei Volumen kubiert."
+        },
+        {
+          "t": "p",
+          "text": "Rechne alle Längen vor der Formel in dieselbe Einheit um. 1 m³ = 1000 Liter."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "2500 cm³ = 2.5 dm³ = 2.5 Liter."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "1 dm³ entspricht 10 cm³."
+        }
+      ]
+    },
+    {
+      "id": "lernspick",
+      "titel": "Lernspick: alle Lernziele mit Antwort",
+      "lernziele": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "intro": "Eigene Grundlagenziele auf Niveau III. Schulische Vorgaben ergänzen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "1. Prismen und Pyramiden unterscheiden",
+          "text": "Ein gerades Prisma hat zwei parallele, deckungsgleiche Grund- und Deckflächen. Eine Pyramide hat eine Grundfläche und eine Spitze."
+        },
+        {
+          "t": "merke",
+          "titel": "2. Körpernetze zuordnen und zeichnen",
+          "text": "Ein Netz enthält alle Flächen eines Körpers, so verbunden, dass sie sich ohne Überlappung zum Körper falten lassen."
+        },
+        {
+          "t": "merke",
+          "titel": "3. Volumen und Oberfläche eines Quaders berechnen",
+          "text": "Quader: V = l·b·h und O = 2·(l·b + l·h + b·h). Volumen in cm³, Oberfläche in cm²."
+        },
+        {
+          "t": "merke",
+          "titel": "4. Das Volumen eines geraden Prismas berechnen",
+          "text": "Für jedes Prisma gilt V = G·h. G ist der Flächeninhalt der Grundfläche, h die Körperhöhe."
+        },
+        {
+          "t": "merke",
+          "titel": "5. Die Oberfläche eines geraden Prismas berechnen",
+          "text": "Mantel: M = U_G·h. Oberfläche: O = 2G + M. U_G ist der Umfang der Grundfläche."
+        },
+        {
+          "t": "merke",
+          "titel": "6. Das Volumen einer Pyramide berechnen",
+          "text": "Pyramide: V = G·h/3. Die Höhe h steht senkrecht auf der Grundfläche."
+        },
+        {
+          "t": "merke",
+          "titel": "7. Die Oberfläche einer quadratischen Pyramide bestimmen",
+          "text": "Bei vier gleichen Seitenflächen gilt O = a² + 4·(a·h_s/2). h_s ist die Höhe eines Seitendreiecks."
+        },
+        {
+          "t": "merke",
+          "titel": "8. Flächen- und Volumeneinheiten umrechnen",
+          "text": "1 dm² = 100 cm²; 1 dm³ = 1000 cm³ = 1 Liter. Bei Flächen wird der Längenfaktor quadriert, bei Volumen kubiert."
+        },
+        {
+          "t": "bild",
+          "src": "content/img/mathe2/prisma-pyramide-leer.svg",
+          "alt": "Vorlage zum Beschriften",
+          "caption": "Auf Papier beschriften und mit der Lernskizze im ersten Kapitel vergleichen."
+        }
+      ]
+    }
+  ],
+  "karten": [
+    {
+      "vorne": "Prismen und Pyramiden unterscheiden",
+      "hinten": "Dreiecksprisma: zwei Dreiecke und drei Rechtecke. Quadratische Pyramide: ein Quadrat und vier Dreiecke."
+    },
+    {
+      "vorne": "Körpernetze zuordnen und zeichnen",
+      "hinten": "Ein mögliches Würfelnetz: vier Quadrate in einer Reihe, am zweiten eines oben und eines unten."
+    },
+    {
+      "vorne": "Volumen und Oberfläche eines Quaders berechnen",
+      "hinten": "l = 4, b = 3, h = 2 cm: V = 24 cm³; O = 2·(12+8+6) = 52 cm²."
+    },
+    {
+      "vorne": "Das Volumen eines geraden Prismas berechnen",
+      "hinten": "Dreiecksgrundfläche: g = 6 cm, h_Dreieck = 4 cm → G = 12 cm². Körperhöhe 10 cm → V = 120 cm³."
+    },
+    {
+      "vorne": "Die Oberfläche eines geraden Prismas berechnen",
+      "hinten": "Grunddreieck 3-4-5 cm, G = 6 cm², Körperhöhe 10 cm: M = 12·10 = 120; O = 132 cm²."
+    },
+    {
+      "vorne": "Das Volumen einer Pyramide berechnen",
+      "hinten": "Quadratische Grundseite a = 6 cm, h = 5 cm: G = 36 cm²; V = 36·5/3 = 60 cm³."
+    },
+    {
+      "vorne": "Die Oberfläche einer quadratischen Pyramide bestimmen",
+      "hinten": "a = 6 cm, h_s = 5 cm: Grundfläche 36; vier Dreiecke je 15 → O = 96 cm²."
+    },
+    {
+      "vorne": "Flächen- und Volumeneinheiten umrechnen",
+      "hinten": "2500 cm³ = 2.5 dm³ = 2.5 Liter."
+    },
+    {
+      "vorne": "Grundfläche G",
+      "hinten": "Fläche einer Grundseite; Einheit cm² oder m²."
+    },
+    {
+      "vorne": "Körperhöhe h",
+      "hinten": "Senkrechter Abstand von Grund- und Deckfläche bzw. Spitze."
+    },
+    {
+      "vorne": "Mantelfläche M",
+      "hinten": "Summe der Seitenflächen ohne Grund- und Deckfläche."
+    },
+    {
+      "vorne": "Oberfläche O",
+      "hinten": "Gesamte Aussenfläche; beim Prisma O = 2G + M."
+    }
+  ],
+  "uebungen": [
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Ein gerades Prisma hat zwei parallele, deckungsgleiche Grund- und Deckflächen. Eine Pyramide hat eine Grundfläche und eine Spitze.",
+        "Eine Pyramide besitzt immer zwei deckungsgleiche Grundflächen."
+      ],
+      "richtig": 0,
+      "id": "u1-1",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Ein gerades Prisma hat zwei parallele, deckungsgleiche Grund- und Deckflächen. Eine Pyramide hat eine Grundfläche und eine Spitze. Beispiel: Dreiecksprisma: zwei Dreiecke und drei Rechtecke. Quadratische Pyramide: ein Quadrat und vier Dreiecke."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Wie viele Flächen hat ein Dreiecksprisma insgesamt?",
+      "antwort": 5,
+      "toleranz": 0.015,
+      "einheit": "",
+      "id": "u1-2",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 5 . Ein gerades Prisma hat zwei parallele, deckungsgleiche Grund- und Deckflächen. Eine Pyramide hat eine Grundfläche und eine Spitze."
+    },
+    {
+      "id": "u1-3",
+      "typ": "offen",
+      "lernziel": "1",
+      "frage": "Skizziere ein Dreiecksprisma und eine quadratische Pyramide. Markiere ihre Grundflächen.",
+      "musterloesung": "Prisma: zwei parallele Dreiecke; Pyramide: Quadrat mit Spitze. Grundflächen deutlich markiert.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": true,
+      "zeilen": 5,
+      "hilfe": "Ein gerades Prisma hat zwei parallele, deckungsgleiche Grund- und Deckflächen. Eine Pyramide hat eine Grundfläche und eine Spitze."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Ein Netz enthält alle Flächen eines Körpers, so verbunden, dass sie sich ohne Überlappung zum Körper falten lassen.",
+        "Sechs beliebig aneinandergelegte Quadrate bilden immer ein gültiges Würfelnetz."
+      ],
+      "richtig": 0,
+      "id": "u2-1",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "Ein Netz enthält alle Flächen eines Körpers, so verbunden, dass sie sich ohne Überlappung zum Körper falten lassen. Beispiel: Ein mögliches Würfelnetz: vier Quadrate in einer Reihe, am zweiten eines oben und eines unten."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Wie viele quadratische Flächen hat ein Würfelnetz?",
+      "antwort": 6,
+      "toleranz": 0.015,
+      "einheit": "",
+      "id": "u2-2",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 6 . Ein Netz enthält alle Flächen eines Körpers, so verbunden, dass sie sich ohne Überlappung zum Körper falten lassen."
+    },
+    {
+      "id": "u2-3",
+      "typ": "offen",
+      "lernziel": "2",
+      "frage": "Zeichne ein gültiges Würfelnetz und kennzeichne zwei Kanten, die beim Falten zusammenkommen.",
+      "musterloesung": "Vier Quadrate als Reihe; am zweiten je eines oben und unten. Zum Beispiel treffen die äusseren senkrechten Kanten der Reihe zusammen.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": true,
+      "zeilen": 5,
+      "hilfe": "Ein Netz enthält alle Flächen eines Körpers, so verbunden, dass sie sich ohne Überlappung zum Körper falten lassen."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Quader: V = l·b·h und O = 2·(l·b + l·h + b·h). Volumen in cm³, Oberfläche in cm².",
+        "Volumen und Oberfläche eines Quaders werden mit derselben Formel berechnet."
+      ],
+      "richtig": 0,
+      "id": "u3-1",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Quader: V = l·b·h und O = 2·(l·b + l·h + b·h). Volumen in cm³, Oberfläche in cm². Beispiel: l = 4, b = 3, h = 2 cm: V = 24 cm³; O = 2·(12+8+6) = 52 cm²."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Quader 5 cm mal 4 cm mal 3 cm: Wie gross ist V?",
+      "antwort": 60,
+      "toleranz": 0.015,
+      "einheit": "cm³",
+      "id": "u3-2",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 60 cm³. Quader: V = l·b·h und O = 2·(l·b + l·h + b·h). Volumen in cm³, Oberfläche in cm²."
+    },
+    {
+      "id": "u3-3",
+      "typ": "offen",
+      "lernziel": "3",
+      "frage": "Berechne V und O eines Quaders mit 6 cm, 4 cm und 2 cm.",
+      "musterloesung": "V = 48 cm³; O = 2·(24+12+8) = 88 cm².",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Quader: V = l·b·h und O = 2·(l·b + l·h + b·h). Volumen in cm³, Oberfläche in cm²."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Für jedes Prisma gilt V = G·h. G ist der Flächeninhalt der Grundfläche, h die Körperhöhe.",
+        "Bei einem Dreiecksprisma darf die Dreiecksgrundfläche ohne Halbieren berechnet werden."
+      ],
+      "richtig": 0,
+      "id": "u4-1",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Für jedes Prisma gilt V = G·h. G ist der Flächeninhalt der Grundfläche, h die Körperhöhe. Beispiel: Dreiecksgrundfläche: g = 6 cm, h_Dreieck = 4 cm → G = 12 cm². Körperhöhe 10 cm → V = 120 cm³."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Prisma mit G = 18 cm² und h = 7 cm: Wie gross ist V?",
+      "antwort": 126,
+      "toleranz": 0.015,
+      "einheit": "cm³",
+      "id": "u4-2",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 126 cm³. Für jedes Prisma gilt V = G·h. G ist der Flächeninhalt der Grundfläche, h die Körperhöhe."
+    },
+    {
+      "id": "u4-3",
+      "typ": "offen",
+      "lernziel": "4",
+      "frage": "Ein Prisma hat eine dreieckige Grundfläche mit g = 8 cm und Dreieckshöhe 3 cm. Körperhöhe 5 cm: Berechne V.",
+      "musterloesung": "G = 8·3/2 = 12 cm²; V = 12·5 = 60 cm³.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Für jedes Prisma gilt V = G·h. G ist der Flächeninhalt der Grundfläche, h die Körperhöhe."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Mantel: M = U_G·h. Oberfläche: O = 2G + M. U_G ist der Umfang der Grundfläche.",
+        "Beim Prisma gilt O = G + M, weil es nur eine Grundfläche besitzt."
+      ],
+      "richtig": 0,
+      "id": "u5-1",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Mantel: M = U_G·h. Oberfläche: O = 2G + M. U_G ist der Umfang der Grundfläche. Beispiel: Grunddreieck 3-4-5 cm, G = 6 cm², Körperhöhe 10 cm: M = 12·10 = 120; O = 132 cm²."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Gerades Prisma: G = 12 cm², U_G = 16 cm, h = 5 cm. Wie gross ist O?",
+      "antwort": 104,
+      "toleranz": 0.015,
+      "einheit": "cm²",
+      "id": "u5-2",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 104 cm². Mantel: M = U_G·h. Oberfläche: O = 2G + M. U_G ist der Umfang der Grundfläche."
+    },
+    {
+      "id": "u5-3",
+      "typ": "offen",
+      "lernziel": "5",
+      "frage": "Dreiecksprisma: Grunddreieck 3-4-5 cm, G = 6 cm², Körperhöhe 8 cm. Berechne M und O.",
+      "musterloesung": "M = (3+4+5)·8 = 96 cm²; O = 12+96 = 108 cm².",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Mantel: M = U_G·h. Oberfläche: O = 2G + M. U_G ist der Umfang der Grundfläche."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Pyramide: V = G·h/3. Die Höhe h steht senkrecht auf der Grundfläche.",
+        "Eine Pyramide hat bei gleichem G und h dasselbe Volumen wie ein Prisma."
+      ],
+      "richtig": 0,
+      "id": "u6-1",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Pyramide: V = G·h/3. Die Höhe h steht senkrecht auf der Grundfläche. Beispiel: Quadratische Grundseite a = 6 cm, h = 5 cm: G = 36 cm²; V = 36·5/3 = 60 cm³."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Pyramide mit G = 48 cm² und h = 6 cm: Wie gross ist V?",
+      "antwort": 96,
+      "toleranz": 0.015,
+      "einheit": "cm³",
+      "id": "u6-2",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 96 cm³. Pyramide: V = G·h/3. Die Höhe h steht senkrecht auf der Grundfläche."
+    },
+    {
+      "id": "u6-3",
+      "typ": "offen",
+      "lernziel": "6",
+      "frage": "Eine quadratische Pyramide hat a = 4 cm und h = 9 cm. Berechne ihr Volumen.",
+      "musterloesung": "G = 16 cm²; V = 16·9/3 = 48 cm³.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Pyramide: V = G·h/3. Die Höhe h steht senkrecht auf der Grundfläche."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Bei vier gleichen Seitenflächen gilt O = a² + 4·(a·h_s/2). h_s ist die Höhe eines Seitendreiecks.",
+        "Bei einer Pyramide darf die Körperhöhe immer als Höhe jedes Seitendreiecks eingesetzt werden."
+      ],
+      "richtig": 0,
+      "id": "u7-1",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Bei vier gleichen Seitenflächen gilt O = a² + 4·(a·h_s/2). h_s ist die Höhe eines Seitendreiecks. Beispiel: a = 6 cm, h_s = 5 cm: Grundfläche 36; vier Dreiecke je 15 → O = 96 cm²."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Quadratische Pyramide: a = 4 cm, h_s = 6 cm. Wie gross ist O?",
+      "antwort": 64,
+      "toleranz": 0.015,
+      "einheit": "cm²",
+      "id": "u7-2",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 64 cm². Bei vier gleichen Seitenflächen gilt O = a² + 4·(a·h_s/2). h_s ist die Höhe eines Seitendreiecks."
+    },
+    {
+      "id": "u7-3",
+      "typ": "offen",
+      "lernziel": "7",
+      "frage": "Skizziere eine quadratische Pyramide und unterscheide Körperhöhe h und Seitenhöhe h_s. Berechne O bei a = 6 cm und h_s = 5 cm.",
+      "musterloesung": "h: Spitze senkrecht zur Grundfläche; h_s: Spitze zum Mittelpunkt einer Grundkante. O = 96 cm².",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": true,
+      "zeilen": 5,
+      "hilfe": "Bei vier gleichen Seitenflächen gilt O = a² + 4·(a·h_s/2). h_s ist die Höhe eines Seitendreiecks."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "1 dm² = 100 cm²; 1 dm³ = 1000 cm³ = 1 Liter. Bei Flächen wird der Längenfaktor quadriert, bei Volumen kubiert.",
+        "1 dm³ entspricht 10 cm³."
+      ],
+      "richtig": 0,
+      "id": "u8-1",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "1 dm² = 100 cm²; 1 dm³ = 1000 cm³ = 1 Liter. Bei Flächen wird der Längenfaktor quadriert, bei Volumen kubiert. Beispiel: 2500 cm³ = 2.5 dm³ = 2.5 Liter."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Wie viele Liter sind 3500 cm³?",
+      "antwort": 3.5,
+      "toleranz": 0.015,
+      "einheit": "l",
+      "id": "u8-2",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 3.5 l. 1 dm² = 100 cm²; 1 dm³ = 1000 cm³ = 1 Liter. Bei Flächen wird der Längenfaktor quadriert, bei Volumen kubiert."
+    },
+    {
+      "id": "u8-3",
+      "typ": "offen",
+      "lernziel": "8",
+      "frage": "Rechne 2 dm² in cm² und 4.2 Liter in cm³ um.",
+      "musterloesung": "2 dm² = 200 cm²; 4.2 l = 4200 cm³.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "1 dm² = 100 cm²; 1 dm³ = 1000 cm³ = 1 Liter. Bei Flächen wird der Längenfaktor quadriert, bei Volumen kubiert."
+    }
+  ],
+  "pruefungen": [
+    {
+      "id": "grundlagentest-32",
+      "titel": "Prisma und Pyramide - Grundlagentest III",
+      "richtzeit": 45,
+      "hinweis": "32 Punkte. Zeichnungen auf Papier, offene Aufgaben mit Kriterien selbst bewerten. Taschenrechner, Lineal und Zirkel erlaubt; ohne Dossier. Bei Kreisen π-Taste nutzen und auf zwei Dezimalstellen runden. Eigene Lernziele; schulische Prüfungsziele noch nicht abgeglichen.",
+      "aufgaben": [
+        {
+          "id": "p1",
+          "nr": "1",
+          "typ": "offen",
+          "lernziel": "1",
+          "titel": "Prismen und Pyramiden unterscheiden",
+          "frage": "Skizziere ein gerades Dreiecksprisma und eine quadratische Pyramide. Nenne je ein Erkennungsmerkmal.",
+          "punkte": 4,
+          "musterloesung": "Prisma mit zwei parallelen Dreiecken\nPrisma mit Rechteck-Seitenflächen\nPyramide mit quadratischer Grundfläche und Spitze\nPyramide mit Dreieck-Seitenflächen",
+          "kriterien": [
+            {
+              "text": "Prisma mit zwei parallelen Dreiecken",
+              "punkte": 1
+            },
+            {
+              "text": "Prisma mit Rechteck-Seitenflächen",
+              "punkte": 1
+            },
+            {
+              "text": "Pyramide mit quadratischer Grundfläche und Spitze",
+              "punkte": 1
+            },
+            {
+              "text": "Pyramide mit Dreieck-Seitenflächen",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        },
+        {
+          "id": "p2",
+          "nr": "2",
+          "typ": "offen",
+          "lernziel": "2",
+          "titel": "Körpernetze zuordnen und zeichnen",
+          "frage": "Zeichne ein Würfelnetz aus sechs gleich grossen Quadraten und markiere eine spätere Klebekante als Kantenpaar.",
+          "punkte": 4,
+          "musterloesung": "Sechs gleich grosse Quadrate\nGültige Anordnung ohne Überlappung\nNetz sauber gezeichnet\nPassendes Kantenpaar markiert",
+          "kriterien": [
+            {
+              "text": "Sechs gleich grosse Quadrate",
+              "punkte": 1
+            },
+            {
+              "text": "Gültige Anordnung ohne Überlappung",
+              "punkte": 1
+            },
+            {
+              "text": "Netz sauber gezeichnet",
+              "punkte": 1
+            },
+            {
+              "text": "Passendes Kantenpaar markiert",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        },
+        {
+          "id": "p3",
+          "nr": "3",
+          "typ": "offen",
+          "lernziel": "3",
+          "titel": "Volumen und Oberfläche eines Quaders berechnen",
+          "frage": "Berechne V und O eines Quaders 5 cm mal 3 cm mal 2 cm.",
+          "punkte": 4,
+          "musterloesung": "V = 5·3·2\nV = 30 cm³\nO = 2·(15+10+6)\nO = 62 cm²",
+          "kriterien": [
+            {
+              "text": "V = 5·3·2",
+              "punkte": 1
+            },
+            {
+              "text": "V = 30 cm³",
+              "punkte": 1
+            },
+            {
+              "text": "O = 2·(15+10+6)",
+              "punkte": 1
+            },
+            {
+              "text": "O = 62 cm²",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p4",
+          "nr": "4",
+          "typ": "offen",
+          "lernziel": "4",
+          "titel": "Das Volumen eines geraden Prismas berechnen",
+          "frage": "Berechne V eines Dreiecksprismas: Grunddreieck g = 10 cm, Höhe 4 cm; Körperhöhe 6 cm.",
+          "punkte": 4,
+          "musterloesung": "G = 10·4/2\nG = 20 cm²\nV = 20·6\nV = 120 cm³",
+          "kriterien": [
+            {
+              "text": "G = 10·4/2",
+              "punkte": 1
+            },
+            {
+              "text": "G = 20 cm²",
+              "punkte": 1
+            },
+            {
+              "text": "V = 20·6",
+              "punkte": 1
+            },
+            {
+              "text": "V = 120 cm³",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p5",
+          "nr": "5",
+          "typ": "offen",
+          "lernziel": "5",
+          "titel": "Die Oberfläche eines geraden Prismas berechnen",
+          "frage": "Prisma: G = 20 cm², U_G = 24 cm, h = 10 cm. Berechne Mantel und Oberfläche.",
+          "punkte": 4,
+          "musterloesung": "M = U_G·h\nM = 240 cm²\nO = 2G + M\nO = 280 cm²",
+          "kriterien": [
+            {
+              "text": "M = U_G·h",
+              "punkte": 1
+            },
+            {
+              "text": "M = 240 cm²",
+              "punkte": 1
+            },
+            {
+              "text": "O = 2G + M",
+              "punkte": 1
+            },
+            {
+              "text": "O = 280 cm²",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p6",
+          "nr": "6",
+          "typ": "offen",
+          "lernziel": "6",
+          "titel": "Das Volumen einer Pyramide berechnen",
+          "frage": "Pyramide: quadratische Grundseite a = 8 cm, senkrechte Höhe h = 9 cm. Berechne V.",
+          "punkte": 4,
+          "musterloesung": "G = a²\nG = 64 cm²\nV = 64·9/3\nV = 192 cm³",
+          "kriterien": [
+            {
+              "text": "G = a²",
+              "punkte": 1
+            },
+            {
+              "text": "G = 64 cm²",
+              "punkte": 1
+            },
+            {
+              "text": "V = 64·9/3",
+              "punkte": 1
+            },
+            {
+              "text": "V = 192 cm³",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p7",
+          "nr": "7",
+          "typ": "offen",
+          "lernziel": "7",
+          "titel": "Die Oberfläche einer quadratischen Pyramide bestimmen",
+          "frage": "Pyramide mit a = 10 cm und Seitenhöhe h_s = 13 cm: Skizziere h_s und berechne O.",
+          "punkte": 4,
+          "musterloesung": "Seitenhöhe in einer Dreiecksfläche markiert\nG = 100 cm²\nEin Seitendreieck 10·13/2 = 65 cm²\nO = 100 + 4·65 = 360 cm²",
+          "kriterien": [
+            {
+              "text": "Seitenhöhe in einer Dreiecksfläche markiert",
+              "punkte": 1
+            },
+            {
+              "text": "G = 100 cm²",
+              "punkte": 1
+            },
+            {
+              "text": "Ein Seitendreieck 10·13/2 = 65 cm²",
+              "punkte": 1
+            },
+            {
+              "text": "O = 100 + 4·65 = 360 cm²",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        },
+        {
+          "id": "p8",
+          "nr": "8",
+          "typ": "offen",
+          "lernziel": "8",
+          "titel": "Flächen- und Volumeneinheiten umrechnen",
+          "frage": "Wandle 0.6 dm² in cm² und 750 cm³ in Liter um. Begründe die Faktoren.",
+          "punkte": 4,
+          "musterloesung": "Flächenfaktor 10² = 100\n0.6 dm² = 60 cm²\nVolumenfaktor 10³ = 1000\n750 cm³ = 0.75 l",
+          "kriterien": [
+            {
+              "text": "Flächenfaktor 10² = 100",
+              "punkte": 1
+            },
+            {
+              "text": "0.6 dm² = 60 cm²",
+              "punkte": 1
+            },
+            {
+              "text": "Volumenfaktor 10³ = 1000",
+              "punkte": 1
+            },
+            {
+              "text": "750 cm³ = 0.75 l",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        }
+      ]
+    }
+  ]
+}

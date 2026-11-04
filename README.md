@@ -82,3 +82,23 @@ node tools/test_prisma.cjs
 - [ ] Hörtexte/Vokabeltrainer für Sprachen
 
 
+
+## Mathematik 2: Grundlagen auf Niveau III
+
+Neun eigene Grundlagen-Dossiers für Klasse 8 orientieren sich an der [öffentlichen LMVZ-Themenübersicht](https://003.lmvz.ch/lehrmittelsites/mathe_sek/de/m2/index.html). Das genannte Arbeitsheft III hat ISBN 978-3-03713-508-2. Die Kapitelbündel und Lernziele sind selbst formuliert und noch nicht mit dem Arbeitsheft oder den Prüfungszielen der Schule vollständig abgeglichen. Niveau III wird nicht automatisch einer Aargauer Schulstufe gleichgesetzt; die Inhalte sind in allen Profilen der Klasse 8 sichtbar.
+
+1. Brüche, Gleichungen und Wurzeln (einschliesslich Zahlenfolgen)
+2. Thales und Pythagoras
+3. Zuordnungen und Proportionalität
+4. Prisma und Pyramide
+5. Preise, Währungen und Budget (einschliesslich Rabatt und Mehrwertsteuer)
+6. Kreis und Kreissektor
+7. Wahrscheinlichkeit und Statistik
+8. Zylinder
+9. Geschwindigkeit, Steigung und Gefälle
+
+Je Thema: **8 Lernziele, 9 Lernkapitel mit Lernspick, 12 Zusatzkarten, 24 Übungen, ein Test mit 32 Punkten und ein 12-seitiges PDF**. Die PDFs enthalten drei Lernseiten, einen A4-Lernspick, zwei Übungsblätter, eine dreiseitige Testprüfung und zwei Lösungsseiten. 18 eigene SVGs bieten Lernskizzen und Vorlagen zum Beschriften.
+
+Das bisherige Pythagoras-Thema mit 37 Übungen und zwei Prüfungen bleibt als zusätzliches Thema erhalten. Steuersätze und Wechselkurse sind ausdrücklich vorgegebene Rechenbeispiele. Für Kreise wird mit der π-Taste gerechnet; Ergebnisse werden erst am Schluss gerundet.
+
+Zusätzliche Prüfung: `node tools/test_mathematik2.cjs` (Rechnungen unabhängig nachgerechnet, Korrektur positiver/falscher Eingaben, Dezimalkomma und offene Punkteraster).
