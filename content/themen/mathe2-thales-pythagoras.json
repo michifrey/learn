@@ -1,0 +1,1077 @@
+{
+  "lernzielBasis": "selbst-formuliert",
+  "hinweis": "Eigene Grundlagen auf Niveau III zur öffentlichen Themenübersicht von Mathematik 2. Keine vollständige Abbildung des Arbeitshefts; schulische Prüfungsziele noch nicht abgeglichen.",
+  "quellen": [
+    {
+      "titel": "Thales und Pythagoras - Lerndossier",
+      "art": "Eigene Lerntexte, Skizzen, Übungen, Test und Lösungen",
+      "seiten": 12,
+      "datei": "material/klasse-8/mathe2/thales-pythagoras/Mathematik2_thales-pythagoras_Lerndossier.pdf"
+    }
+  ],
+  "referenzen": [
+    {
+      "titel": "LMVZ: öffentliche Themenübersicht Mathematik 2",
+      "url": "https://003.lmvz.ch/lehrmittelsites/mathe_sek/de/m2/index.html"
+    },
+    {
+      "titel": "Arbeitsheft III: Produkt und Niveau",
+      "url": "https://shop.lmvz.ch/de/Katalog/Mathematik-Sekundarstufe-I/Mathematik-2-Sekundarstufe-I-Arbeitsheft-III-6722.html"
+    }
+  ],
+  "lernziele": [
+    {
+      "id": "1",
+      "nr": "1",
+      "gruppe": "Grundlagen",
+      "kurz": "Katheten und Hypotenuse erkennen",
+      "text": "Ich kann Katheten und Hypotenuse erkennen.",
+      "frage": "Katheten und Hypotenuse erkennen - wie gehst du vor?",
+      "antwort": "Die Hypotenuse liegt gegenüber dem rechten Winkel. Die Katheten bilden den rechten Winkel."
+    },
+    {
+      "id": "2",
+      "nr": "2",
+      "gruppe": "Grundlagen",
+      "kurz": "Den Satz des Pythagoras mit Flächen erklären",
+      "text": "Ich kann den Satz des Pythagoras mit Flächen erklären.",
+      "frage": "Den Satz des Pythagoras mit Flächen erklären - wie gehst du vor?",
+      "antwort": "Im rechtwinkligen Dreieck gilt a² + b² = c². Die Flächen der Kathetenquadrate ergeben zusammen die Fläche des Hypotenusenquadrats."
+    },
+    {
+      "id": "3",
+      "nr": "3",
+      "gruppe": "Grundlagen",
+      "kurz": "Die Hypotenuse berechnen",
+      "text": "Ich kann die Hypotenuse berechnen.",
+      "frage": "Die Hypotenuse berechnen - wie gehst du vor?",
+      "antwort": "Sind beide Katheten bekannt, gilt c = √(a² + b²)."
+    },
+    {
+      "id": "4",
+      "nr": "4",
+      "gruppe": "Rechnen und anwenden",
+      "kurz": "Eine fehlende Kathete berechnen",
+      "text": "Ich kann eine fehlende Kathete berechnen.",
+      "frage": "Eine fehlende Kathete berechnen - wie gehst du vor?",
+      "antwort": "Bei bekannter Hypotenuse gilt a = √(c² - b²) oder b = √(c² - a²)."
+    },
+    {
+      "id": "5",
+      "nr": "5",
+      "gruppe": "Rechnen und anwenden",
+      "kurz": "Rechtwinkligkeit durch Rechnen prüfen",
+      "text": "Ich kann Rechtwinkligkeit durch Rechnen prüfen.",
+      "frage": "Rechtwinkligkeit durch Rechnen prüfen - wie gehst du vor?",
+      "antwort": "Die längste Seite als c einsetzen. Wenn a² + b² = c² gilt, ist das Dreieck rechtwinklig."
+    },
+    {
+      "id": "6",
+      "nr": "6",
+      "gruppe": "Rechnen und anwenden",
+      "kurz": "Den Satz des Thales anwenden",
+      "text": "Ich kann den Satz des Thales anwenden.",
+      "frage": "Den Satz des Thales anwenden - wie gehst du vor?",
+      "antwort": "Liegt C auf dem Kreis mit Durchmesser AB, dann ist der Winkel ACB ein rechter Winkel; C ist verschieden von A und B."
+    },
+    {
+      "id": "7",
+      "nr": "7",
+      "gruppe": "Darstellen und prüfen",
+      "kurz": "Pythagoras in Rechtecken und Körpern einsetzen",
+      "text": "Ich kann Pythagoras in Rechtecken und Körpern einsetzen.",
+      "frage": "Pythagoras in Rechtecken und Körpern einsetzen - wie gehst du vor?",
+      "antwort": "Die Rechteckdiagonale bildet mit zwei benachbarten Seiten ein rechtwinkliges Dreieck. Bei Körpern rechnest du bei Bedarf in zwei Schritten."
+    },
+    {
+      "id": "8",
+      "nr": "8",
+      "gruppe": "Darstellen und prüfen",
+      "kurz": "Textaufgaben mit einer Skizze lösen",
+      "text": "Ich kann Textaufgaben mit einer Skizze lösen.",
+      "frage": "Textaufgaben mit einer Skizze lösen - wie gehst du vor?",
+      "antwort": "Skizze zeichnen, rechten Winkel markieren, bekannte und gesuchte Seite eintragen, passende Formel wählen und Ergebnis prüfen."
+    }
+  ],
+  "lernen": [
+    {
+      "id": "lz-1",
+      "titel": "Katheten und Hypotenuse erkennen",
+      "lernziele": [
+        "1"
+      ],
+      "intro": "Ich kann Katheten und Hypotenuse erkennen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Die Hypotenuse liegt gegenüber dem rechten Winkel. Die Katheten bilden den rechten Winkel."
+        },
+        {
+          "t": "bild",
+          "src": "content/img/mathe2/thales-pythagoras.svg",
+          "alt": "Lernskizze: Thales und Pythagoras",
+          "caption": "Eigene vereinfachte Skizze; nicht massstabsgetreu."
+        },
+        {
+          "t": "p",
+          "text": "Die Bezeichnung hängt vom rechten Winkel ab, nicht davon, wie die Zeichnung gedreht ist. In diesem Dossier heisst die Hypotenuse c."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "Bei einem 3-4-5-Dreieck sind 3 und 4 die Katheten; 5 ist die Hypotenuse."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Die untere Seite eines Dreiecks ist immer die Hypotenuse."
+        }
+      ]
+    },
+    {
+      "id": "lz-2",
+      "titel": "Den Satz des Pythagoras mit Flächen erklären",
+      "lernziele": [
+        "2"
+      ],
+      "intro": "Ich kann den Satz des Pythagoras mit Flächen erklären.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Im rechtwinkligen Dreieck gilt a² + b² = c². Die Flächen der Kathetenquadrate ergeben zusammen die Fläche des Hypotenusenquadrats."
+        },
+        {
+          "t": "p",
+          "text": "Die Formel gilt nur bei einem rechten Winkel. Sie verknüpft Quadratflächen; die Seitenlängen werden erst durch Wurzelziehen bestimmt."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "3² + 4² = 9 + 16 = 25 = 5²."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Für jedes beliebige Dreieck gilt a² + b² = c²."
+        }
+      ]
+    },
+    {
+      "id": "lz-3",
+      "titel": "Die Hypotenuse berechnen",
+      "lernziele": [
+        "3"
+      ],
+      "intro": "Ich kann die Hypotenuse berechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Sind beide Katheten bekannt, gilt c = √(a² + b²)."
+        },
+        {
+          "t": "p",
+          "text": "Erst quadrieren, dann addieren, zuletzt die Wurzel ziehen. Die Hypotenuse muss länger sein als jede Kathete."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "a = 5, b = 12: c = √(25 + 144) = √169 = 13."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "c = a + b ist die Formel für die Hypotenuse."
+        }
+      ]
+    },
+    {
+      "id": "lz-4",
+      "titel": "Eine fehlende Kathete berechnen",
+      "lernziele": [
+        "4"
+      ],
+      "intro": "Ich kann eine fehlende Kathete berechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Bei bekannter Hypotenuse gilt a = √(c² - b²) oder b = √(c² - a²)."
+        },
+        {
+          "t": "p",
+          "text": "Zuerst das Hypotenusenquadrat bestimmen. Davon das bekannte Kathetenquadrat abziehen."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "c = 10, b = 6: a = √(100 - 36) = √64 = 8."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Eine fehlende Kathete berechnet man mit √(c² + b²)."
+        }
+      ]
+    },
+    {
+      "id": "lz-5",
+      "titel": "Rechtwinkligkeit durch Rechnen prüfen",
+      "lernziele": [
+        "5"
+      ],
+      "intro": "Ich kann Rechtwinkligkeit durch Rechnen prüfen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Die längste Seite als c einsetzen. Wenn a² + b² = c² gilt, ist das Dreieck rechtwinklig."
+        },
+        {
+          "t": "p",
+          "text": "Vergleiche die beiden Zahlen genau. Bei gerundeten Messwerten kann eine kleine Abweichung durch die Messung entstehen."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "6² + 8² = 100 = 10²: rechtwinklig. 6² + 7² = 85 ≠ 100: nicht rechtwinklig."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Es reicht, wenn die längste Seite grösser als jede andere Seite ist."
+        }
+      ]
+    },
+    {
+      "id": "lz-6",
+      "titel": "Den Satz des Thales anwenden",
+      "lernziele": [
+        "6"
+      ],
+      "intro": "Ich kann den Satz des Thales anwenden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Liegt C auf dem Kreis mit Durchmesser AB, dann ist der Winkel ACB ein rechter Winkel; C ist verschieden von A und B."
+        },
+        {
+          "t": "p",
+          "text": "AB ist dabei die Hypotenuse. Für die Konstruktion zeichnest du den Mittelpunkt von AB und den Kreis mit Radius AB/2."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "AB = 10 cm: Kreisradius 5 cm. Ein weiterer Punkt C auf dem Kreis liefert bei C 90°."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Beim Thaleskreis liegt der rechte Winkel immer im Kreismittelpunkt."
+        }
+      ]
+    },
+    {
+      "id": "lz-7",
+      "titel": "Pythagoras in Rechtecken und Körpern einsetzen",
+      "lernziele": [
+        "7"
+      ],
+      "intro": "Ich kann Pythagoras in Rechtecken und Körpern einsetzen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Die Rechteckdiagonale bildet mit zwei benachbarten Seiten ein rechtwinkliges Dreieck. Bei Körpern rechnest du bei Bedarf in zwei Schritten."
+        },
+        {
+          "t": "p",
+          "text": "Im Quader zuerst die Bodendiagonale d = √(l² + b²), dann die Raumdiagonale e = √(d² + h²)."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "Rechteck 6 mal 8 cm: d = 10 cm. Quader 3, 4, 12 cm: d = 5 cm, e = 13 cm."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Die Diagonale eines Rechtecks ist immer die Summe seiner Seitenlängen."
+        }
+      ]
+    },
+    {
+      "id": "lz-8",
+      "titel": "Textaufgaben mit einer Skizze lösen",
+      "lernziele": [
+        "8"
+      ],
+      "intro": "Ich kann Textaufgaben mit einer Skizze lösen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Skizze zeichnen, rechten Winkel markieren, bekannte und gesuchte Seite eintragen, passende Formel wählen und Ergebnis prüfen."
+        },
+        {
+          "t": "p",
+          "text": "Alle Längen zuerst in dieselbe Einheit umrechnen. Runde erst am Schluss und gib einen Antwortsatz an."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "Leiter 5 m, Abstand zur Wand 3 m: Höhe h = √(25 - 9) = 4 m."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Bei einer Leiteraufgabe ist die Wandhöhe immer die Hypotenuse."
+        }
+      ]
+    },
+    {
+      "id": "lernspick",
+      "titel": "Lernspick: alle Lernziele mit Antwort",
+      "lernziele": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "intro": "Eigene Grundlagenziele auf Niveau III. Schulische Vorgaben ergänzen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "1. Katheten und Hypotenuse erkennen",
+          "text": "Die Hypotenuse liegt gegenüber dem rechten Winkel. Die Katheten bilden den rechten Winkel."
+        },
+        {
+          "t": "merke",
+          "titel": "2. Den Satz des Pythagoras mit Flächen erklären",
+          "text": "Im rechtwinkligen Dreieck gilt a² + b² = c². Die Flächen der Kathetenquadrate ergeben zusammen die Fläche des Hypotenusenquadrats."
+        },
+        {
+          "t": "merke",
+          "titel": "3. Die Hypotenuse berechnen",
+          "text": "Sind beide Katheten bekannt, gilt c = √(a² + b²)."
+        },
+        {
+          "t": "merke",
+          "titel": "4. Eine fehlende Kathete berechnen",
+          "text": "Bei bekannter Hypotenuse gilt a = √(c² - b²) oder b = √(c² - a²)."
+        },
+        {
+          "t": "merke",
+          "titel": "5. Rechtwinkligkeit durch Rechnen prüfen",
+          "text": "Die längste Seite als c einsetzen. Wenn a² + b² = c² gilt, ist das Dreieck rechtwinklig."
+        },
+        {
+          "t": "merke",
+          "titel": "6. Den Satz des Thales anwenden",
+          "text": "Liegt C auf dem Kreis mit Durchmesser AB, dann ist der Winkel ACB ein rechter Winkel; C ist verschieden von A und B."
+        },
+        {
+          "t": "merke",
+          "titel": "7. Pythagoras in Rechtecken und Körpern einsetzen",
+          "text": "Die Rechteckdiagonale bildet mit zwei benachbarten Seiten ein rechtwinkliges Dreieck. Bei Körpern rechnest du bei Bedarf in zwei Schritten."
+        },
+        {
+          "t": "merke",
+          "titel": "8. Textaufgaben mit einer Skizze lösen",
+          "text": "Skizze zeichnen, rechten Winkel markieren, bekannte und gesuchte Seite eintragen, passende Formel wählen und Ergebnis prüfen."
+        },
+        {
+          "t": "bild",
+          "src": "content/img/mathe2/thales-pythagoras-leer.svg",
+          "alt": "Vorlage zum Beschriften",
+          "caption": "Auf Papier beschriften und mit der Lernskizze im ersten Kapitel vergleichen."
+        }
+      ]
+    }
+  ],
+  "karten": [
+    {
+      "vorne": "Katheten und Hypotenuse erkennen",
+      "hinten": "Bei einem 3-4-5-Dreieck sind 3 und 4 die Katheten; 5 ist die Hypotenuse."
+    },
+    {
+      "vorne": "Den Satz des Pythagoras mit Flächen erklären",
+      "hinten": "3² + 4² = 9 + 16 = 25 = 5²."
+    },
+    {
+      "vorne": "Die Hypotenuse berechnen",
+      "hinten": "a = 5, b = 12: c = √(25 + 144) = √169 = 13."
+    },
+    {
+      "vorne": "Eine fehlende Kathete berechnen",
+      "hinten": "c = 10, b = 6: a = √(100 - 36) = √64 = 8."
+    },
+    {
+      "vorne": "Rechtwinkligkeit durch Rechnen prüfen",
+      "hinten": "6² + 8² = 100 = 10²: rechtwinklig. 6² + 7² = 85 ≠ 100: nicht rechtwinklig."
+    },
+    {
+      "vorne": "Den Satz des Thales anwenden",
+      "hinten": "AB = 10 cm: Kreisradius 5 cm. Ein weiterer Punkt C auf dem Kreis liefert bei C 90°."
+    },
+    {
+      "vorne": "Pythagoras in Rechtecken und Körpern einsetzen",
+      "hinten": "Rechteck 6 mal 8 cm: d = 10 cm. Quader 3, 4, 12 cm: d = 5 cm, e = 13 cm."
+    },
+    {
+      "vorne": "Textaufgaben mit einer Skizze lösen",
+      "hinten": "Leiter 5 m, Abstand zur Wand 3 m: Höhe h = √(25 - 9) = 4 m."
+    },
+    {
+      "vorne": "Hypotenuse",
+      "hinten": "Seite gegenüber dem rechten Winkel; längste Dreiecksseite."
+    },
+    {
+      "vorne": "Katheten",
+      "hinten": "Die beiden Seiten, die den rechten Winkel einschliessen."
+    },
+    {
+      "vorne": "Quadratfläche",
+      "hinten": "A = Seitenlänge²; Flächeneinheit z.B. cm²."
+    },
+    {
+      "vorne": "Umkehrung",
+      "hinten": "Gilt a² + b² = c² für die längste Seite c, ist das Dreieck rechtwinklig."
+    }
+  ],
+  "uebungen": [
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Die Hypotenuse liegt gegenüber dem rechten Winkel. Die Katheten bilden den rechten Winkel.",
+        "Die untere Seite eines Dreiecks ist immer die Hypotenuse."
+      ],
+      "richtig": 0,
+      "id": "u1-1",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Die Hypotenuse liegt gegenüber dem rechten Winkel. Die Katheten bilden den rechten Winkel. Beispiel: Bei einem 3-4-5-Dreieck sind 3 und 4 die Katheten; 5 ist die Hypotenuse."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Ein rechtwinkliges Dreieck hat Seiten 5, 12 und 13 cm. Wie lang ist die Hypotenuse?",
+      "antwort": 13,
+      "toleranz": 0.015,
+      "einheit": "cm",
+      "id": "u1-2",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 13 cm. Die Hypotenuse liegt gegenüber dem rechten Winkel. Die Katheten bilden den rechten Winkel."
+    },
+    {
+      "id": "u1-3",
+      "typ": "offen",
+      "lernziel": "1",
+      "frage": "Zeichne ein rechtwinkliges Dreieck. Markiere den rechten Winkel und beschrifte a, b und c.",
+      "musterloesung": "a und b treffen sich am rechten Winkel; c liegt gegenüber.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": true,
+      "zeilen": 5,
+      "hilfe": "Die Hypotenuse liegt gegenüber dem rechten Winkel. Die Katheten bilden den rechten Winkel."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Im rechtwinkligen Dreieck gilt a² + b² = c². Die Flächen der Kathetenquadrate ergeben zusammen die Fläche des Hypotenusenquadrats.",
+        "Für jedes beliebige Dreieck gilt a² + b² = c²."
+      ],
+      "richtig": 0,
+      "id": "u2-1",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "Im rechtwinkligen Dreieck gilt a² + b² = c². Die Flächen der Kathetenquadrate ergeben zusammen die Fläche des Hypotenusenquadrats. Beispiel: 3² + 4² = 9 + 16 = 25 = 5²."
+    },
+    {
+      "typ": "zahl",
+      "frage": "a = 6 cm, b = 8 cm. Wie gross ist a² + b²?",
+      "antwort": 100,
+      "toleranz": 0.015,
+      "einheit": "cm²",
+      "id": "u2-2",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 100 cm². Im rechtwinkligen Dreieck gilt a² + b² = c². Die Flächen der Kathetenquadrate ergeben zusammen die Fläche des Hypotenusenquadrats."
+    },
+    {
+      "id": "u2-3",
+      "typ": "offen",
+      "lernziel": "2",
+      "frage": "Zeichne zu einem rechtwinkligen Dreieck ein Quadrat über jeder Seite und schreibe die Flächenformel dazu.",
+      "musterloesung": "Quadrate nach aussen über den drei Seiten; a² + b² = c².",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": true,
+      "zeilen": 5,
+      "hilfe": "Im rechtwinkligen Dreieck gilt a² + b² = c². Die Flächen der Kathetenquadrate ergeben zusammen die Fläche des Hypotenusenquadrats."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Sind beide Katheten bekannt, gilt c = √(a² + b²).",
+        "c = a + b ist die Formel für die Hypotenuse."
+      ],
+      "richtig": 0,
+      "id": "u3-1",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Sind beide Katheten bekannt, gilt c = √(a² + b²). Beispiel: a = 5, b = 12: c = √(25 + 144) = √169 = 13."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Katheten 9 und 12 cm: Wie lang ist c?",
+      "antwort": 15,
+      "toleranz": 0.015,
+      "einheit": "cm",
+      "id": "u3-2",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 15 cm. Sind beide Katheten bekannt, gilt c = √(a² + b²)."
+    },
+    {
+      "id": "u3-3",
+      "typ": "offen",
+      "lernziel": "3",
+      "frage": "Berechne c für a = 8 cm und b = 15 cm mit vollständigem Rechenweg.",
+      "musterloesung": "c = √(64 + 225) = √289 = 17 cm.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Sind beide Katheten bekannt, gilt c = √(a² + b²)."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Bei bekannter Hypotenuse gilt a = √(c² - b²) oder b = √(c² - a²).",
+        "Eine fehlende Kathete berechnet man mit √(c² + b²)."
+      ],
+      "richtig": 0,
+      "id": "u4-1",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Bei bekannter Hypotenuse gilt a = √(c² - b²) oder b = √(c² - a²). Beispiel: c = 10, b = 6: a = √(100 - 36) = √64 = 8."
+    },
+    {
+      "typ": "zahl",
+      "frage": "c = 13 cm und b = 5 cm. Wie lang ist a?",
+      "antwort": 12,
+      "toleranz": 0.015,
+      "einheit": "cm",
+      "id": "u4-2",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 12 cm. Bei bekannter Hypotenuse gilt a = √(c² - b²) oder b = √(c² - a²)."
+    },
+    {
+      "id": "u4-3",
+      "typ": "offen",
+      "lernziel": "4",
+      "frage": "Berechne b für c = 17 cm und a = 8 cm.",
+      "musterloesung": "b = √(289 - 64) = √225 = 15 cm.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Bei bekannter Hypotenuse gilt a = √(c² - b²) oder b = √(c² - a²)."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Die längste Seite als c einsetzen. Wenn a² + b² = c² gilt, ist das Dreieck rechtwinklig.",
+        "Es reicht, wenn die längste Seite grösser als jede andere Seite ist."
+      ],
+      "richtig": 0,
+      "id": "u5-1",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Die längste Seite als c einsetzen. Wenn a² + b² = c² gilt, ist das Dreieck rechtwinklig. Beispiel: 6² + 8² = 100 = 10²: rechtwinklig. 6² + 7² = 85 ≠ 100: nicht rechtwinklig."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Seiten 8, 15, 17: Berechne 8² + 15² - 17².",
+      "antwort": 0,
+      "toleranz": 0.015,
+      "einheit": "",
+      "id": "u5-2",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 0 . Die längste Seite als c einsetzen. Wenn a² + b² = c² gilt, ist das Dreieck rechtwinklig."
+    },
+    {
+      "id": "u5-3",
+      "typ": "offen",
+      "lernziel": "5",
+      "frage": "Prüfe ein Dreieck mit Seiten 7, 8 und 10 cm auf Rechtwinkligkeit.",
+      "musterloesung": "49 + 64 = 113; 10² = 100. Nicht rechtwinklig.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Die längste Seite als c einsetzen. Wenn a² + b² = c² gilt, ist das Dreieck rechtwinklig."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Liegt C auf dem Kreis mit Durchmesser AB, dann ist der Winkel ACB ein rechter Winkel; C ist verschieden von A und B.",
+        "Beim Thaleskreis liegt der rechte Winkel immer im Kreismittelpunkt."
+      ],
+      "richtig": 0,
+      "id": "u6-1",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Liegt C auf dem Kreis mit Durchmesser AB, dann ist der Winkel ACB ein rechter Winkel; C ist verschieden von A und B. Beispiel: AB = 10 cm: Kreisradius 5 cm. Ein weiterer Punkt C auf dem Kreis liefert bei C 90°."
+    },
+    {
+      "typ": "zahl",
+      "frage": "AB ist Durchmesser und C ein weiterer Punkt auf dem Kreis. Wie gross ist Winkel ACB?",
+      "antwort": 90,
+      "toleranz": 0.015,
+      "einheit": "°",
+      "id": "u6-2",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 90 °. Liegt C auf dem Kreis mit Durchmesser AB, dann ist der Winkel ACB ein rechter Winkel; C ist verschieden von A und B."
+    },
+    {
+      "id": "u6-3",
+      "typ": "offen",
+      "lernziel": "6",
+      "frage": "Zeichne AB = 6 cm und einen Thales-Halbkreis. Wähle C auf dem Bogen und verbinde A-C-B.",
+      "musterloesung": "M liegt in der Mitte bei 3 cm; Halbkreisradius 3 cm. Winkel ACB = 90°.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": true,
+      "zeilen": 5,
+      "hilfe": "Liegt C auf dem Kreis mit Durchmesser AB, dann ist der Winkel ACB ein rechter Winkel; C ist verschieden von A und B."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Die Rechteckdiagonale bildet mit zwei benachbarten Seiten ein rechtwinkliges Dreieck. Bei Körpern rechnest du bei Bedarf in zwei Schritten.",
+        "Die Diagonale eines Rechtecks ist immer die Summe seiner Seitenlängen."
+      ],
+      "richtig": 0,
+      "id": "u7-1",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Die Rechteckdiagonale bildet mit zwei benachbarten Seiten ein rechtwinkliges Dreieck. Bei Körpern rechnest du bei Bedarf in zwei Schritten. Beispiel: Rechteck 6 mal 8 cm: d = 10 cm. Quader 3, 4, 12 cm: d = 5 cm, e = 13 cm."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Rechteck 12 cm mal 16 cm: Wie lang ist die Diagonale?",
+      "antwort": 20,
+      "toleranz": 0.015,
+      "einheit": "cm",
+      "id": "u7-2",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 20 cm. Die Rechteckdiagonale bildet mit zwei benachbarten Seiten ein rechtwinkliges Dreieck. Bei Körpern rechnest du bei Bedarf in zwei Schritten."
+    },
+    {
+      "id": "u7-3",
+      "typ": "offen",
+      "lernziel": "7",
+      "frage": "Skizziere einen Quader mit l = 3, b = 4 und h = 12 cm. Berechne Boden- und Raumdiagonale.",
+      "musterloesung": "Bodendiagonale √(9 + 16) = 5 cm; Raumdiagonale √(25 + 144) = 13 cm.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": true,
+      "zeilen": 5,
+      "hilfe": "Die Rechteckdiagonale bildet mit zwei benachbarten Seiten ein rechtwinkliges Dreieck. Bei Körpern rechnest du bei Bedarf in zwei Schritten."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Skizze zeichnen, rechten Winkel markieren, bekannte und gesuchte Seite eintragen, passende Formel wählen und Ergebnis prüfen.",
+        "Bei einer Leiteraufgabe ist die Wandhöhe immer die Hypotenuse."
+      ],
+      "richtig": 0,
+      "id": "u8-1",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Skizze zeichnen, rechten Winkel markieren, bekannte und gesuchte Seite eintragen, passende Formel wählen und Ergebnis prüfen. Beispiel: Leiter 5 m, Abstand zur Wand 3 m: Höhe h = √(25 - 9) = 4 m."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Eine 10-m-Leiter steht 6 m von der Wand. Welche Höhe erreicht sie?",
+      "antwort": 8,
+      "toleranz": 0.015,
+      "einheit": "m",
+      "id": "u8-2",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 8 m. Skizze zeichnen, rechten Winkel markieren, bekannte und gesuchte Seite eintragen, passende Formel wählen und Ergebnis prüfen."
+    },
+    {
+      "id": "u8-3",
+      "typ": "offen",
+      "lernziel": "8",
+      "frage": "Eine Rampe ist 13 m lang und überwindet 5 m Höhe. Skizziere und berechne den waagrechten Abstand.",
+      "musterloesung": "Die Rampe ist Hypotenuse: Abstand = √(169 - 25) = 12 m.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": true,
+      "zeilen": 5,
+      "hilfe": "Skizze zeichnen, rechten Winkel markieren, bekannte und gesuchte Seite eintragen, passende Formel wählen und Ergebnis prüfen."
+    }
+  ],
+  "pruefungen": [
+    {
+      "id": "grundlagentest-32",
+      "titel": "Thales und Pythagoras - Grundlagentest III",
+      "richtzeit": 45,
+      "hinweis": "32 Punkte. Zeichnungen auf Papier, offene Aufgaben mit Kriterien selbst bewerten. Taschenrechner, Lineal und Zirkel erlaubt; ohne Dossier. Bei Kreisen π-Taste nutzen und auf zwei Dezimalstellen runden. Eigene Lernziele; schulische Prüfungsziele noch nicht abgeglichen.",
+      "aufgaben": [
+        {
+          "id": "p1",
+          "nr": "1",
+          "typ": "offen",
+          "lernziel": "1",
+          "titel": "Katheten und Hypotenuse erkennen",
+          "frage": "Zeichne ein rechtwinkliges Dreieck und beschrifte beide Katheten sowie die Hypotenuse c.",
+          "punkte": 4,
+          "musterloesung": "Geschlossenes Dreieck\nRechter Winkel korrekt markiert\nKatheten korrekt bezeichnet\nHypotenuse gegenüber dem rechten Winkel",
+          "kriterien": [
+            {
+              "text": "Geschlossenes Dreieck",
+              "punkte": 1
+            },
+            {
+              "text": "Rechter Winkel korrekt markiert",
+              "punkte": 1
+            },
+            {
+              "text": "Katheten korrekt bezeichnet",
+              "punkte": 1
+            },
+            {
+              "text": "Hypotenuse gegenüber dem rechten Winkel",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        },
+        {
+          "id": "p2",
+          "nr": "2",
+          "typ": "offen",
+          "lernziel": "2",
+          "titel": "Den Satz des Pythagoras mit Flächen erklären",
+          "frage": "Skizziere ein 3-4-5-Dreieck mit drei Seitenquadraten und beschrifte deren Flächen.",
+          "punkte": 4,
+          "musterloesung": "Rechtwinkliges Dreieck\nKathetenquadrate 9 und 16 cm²\nHypotenusenquadrat 25 cm²\n9 + 16 = 25",
+          "kriterien": [
+            {
+              "text": "Rechtwinkliges Dreieck",
+              "punkte": 1
+            },
+            {
+              "text": "Kathetenquadrate 9 und 16 cm²",
+              "punkte": 1
+            },
+            {
+              "text": "Hypotenusenquadrat 25 cm²",
+              "punkte": 1
+            },
+            {
+              "text": "9 + 16 = 25",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        },
+        {
+          "id": "p3",
+          "nr": "3",
+          "typ": "offen",
+          "lernziel": "3",
+          "titel": "Die Hypotenuse berechnen",
+          "frage": "Berechne c bei a = 7 cm und b = 24 cm. Prüfe, ob das Ergebnis plausibel ist.",
+          "punkte": 4,
+          "musterloesung": "c² = 7² + 24²\nc² = 625\nc = 25 cm\n25 ist grösser als 7 und 24",
+          "kriterien": [
+            {
+              "text": "c² = 7² + 24²",
+              "punkte": 1
+            },
+            {
+              "text": "c² = 625",
+              "punkte": 1
+            },
+            {
+              "text": "c = 25 cm",
+              "punkte": 1
+            },
+            {
+              "text": "25 ist grösser als 7 und 24",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p4",
+          "nr": "4",
+          "typ": "offen",
+          "lernziel": "4",
+          "titel": "Eine fehlende Kathete berechnen",
+          "frage": "Berechne a bei c = 15 cm und b = 9 cm. Schreibe Formel und Rechenweg.",
+          "punkte": 4,
+          "musterloesung": "a² = c² - b²\na² = 225 - 81\na = √144\na = 12 cm",
+          "kriterien": [
+            {
+              "text": "a² = c² - b²",
+              "punkte": 1
+            },
+            {
+              "text": "a² = 225 - 81",
+              "punkte": 1
+            },
+            {
+              "text": "a = √144",
+              "punkte": 1
+            },
+            {
+              "text": "a = 12 cm",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p5",
+          "nr": "5",
+          "typ": "offen",
+          "lernziel": "5",
+          "titel": "Rechtwinkligkeit durch Rechnen prüfen",
+          "frage": "Prüfe die Seiten 9, 12 und 15 cm auf Rechtwinkligkeit.",
+          "punkte": 4,
+          "musterloesung": "15 als längste Seite gewählt\n9² + 12² = 225\n15² = 225\nGleichheit, also rechtwinklig",
+          "kriterien": [
+            {
+              "text": "15 als längste Seite gewählt",
+              "punkte": 1
+            },
+            {
+              "text": "9² + 12² = 225",
+              "punkte": 1
+            },
+            {
+              "text": "15² = 225",
+              "punkte": 1
+            },
+            {
+              "text": "Gleichheit, also rechtwinklig",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p6",
+          "nr": "6",
+          "typ": "offen",
+          "lernziel": "6",
+          "titel": "Den Satz des Thales anwenden",
+          "frage": "Konstruiere über AB = 8 cm einen Thales-Halbkreis. Wähle C und markiere den rechten Winkel.",
+          "punkte": 4,
+          "musterloesung": "AB = 8 cm\nMittelpunkt und Radius 4 cm\nC auf dem Bogen und Verbindungen\nRechter Winkel bei C",
+          "kriterien": [
+            {
+              "text": "AB = 8 cm",
+              "punkte": 1
+            },
+            {
+              "text": "Mittelpunkt und Radius 4 cm",
+              "punkte": 1
+            },
+            {
+              "text": "C auf dem Bogen und Verbindungen",
+              "punkte": 1
+            },
+            {
+              "text": "Rechter Winkel bei C",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        },
+        {
+          "id": "p7",
+          "nr": "7",
+          "typ": "offen",
+          "lernziel": "7",
+          "titel": "Pythagoras in Rechtecken und Körpern einsetzen",
+          "frage": "Zeichne ein Rechteck 5 cm mal 12 cm mit Diagonale und berechne deren Länge.",
+          "punkte": 4,
+          "musterloesung": "Rechteck mit Massen\nDiagonale eingezeichnet\nd² = 25 + 144\nd = 13 cm",
+          "kriterien": [
+            {
+              "text": "Rechteck mit Massen",
+              "punkte": 1
+            },
+            {
+              "text": "Diagonale eingezeichnet",
+              "punkte": 1
+            },
+            {
+              "text": "d² = 25 + 144",
+              "punkte": 1
+            },
+            {
+              "text": "d = 13 cm",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        },
+        {
+          "id": "p8",
+          "nr": "8",
+          "typ": "offen",
+          "lernziel": "8",
+          "titel": "Textaufgaben mit einer Skizze lösen",
+          "frage": "Ein 15 m langes Seil reicht vom Boden zu einem Mast. Der Bodenabstand beträgt 9 m. Skizziere und berechne die Höhe.",
+          "punkte": 4,
+          "musterloesung": "Rechtwinklige Skizze mit Seil als Hypotenuse\nh² = 15² - 9²\nh = √144 = 12\nHöhe 12 m mit Antwortsatz",
+          "kriterien": [
+            {
+              "text": "Rechtwinklige Skizze mit Seil als Hypotenuse",
+              "punkte": 1
+            },
+            {
+              "text": "h² = 15² - 9²",
+              "punkte": 1
+            },
+            {
+              "text": "h = √144 = 12",
+              "punkte": 1
+            },
+            {
+              "text": "Höhe 12 m mit Antwortsatz",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        }
+      ]
+    }
+  ]
+}

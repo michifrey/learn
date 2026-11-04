@@ -1,0 +1,1077 @@
+{
+  "lernzielBasis": "selbst-formuliert",
+  "hinweis": "Eigene Grundlagen auf Niveau III zur öffentlichen Themenübersicht von Mathematik 2. Keine vollständige Abbildung des Arbeitshefts; schulische Prüfungsziele noch nicht abgeglichen.",
+  "quellen": [
+    {
+      "titel": "Geschwindigkeit, Steigung und Gefälle - Lerndossier",
+      "art": "Eigene Lerntexte, Skizzen, Übungen, Test und Lösungen",
+      "seiten": 12,
+      "datei": "material/klasse-8/mathe2/geschwindigkeit-steigung/Mathematik2_geschwindigkeit-steigung_Lerndossier.pdf"
+    }
+  ],
+  "referenzen": [
+    {
+      "titel": "LMVZ: öffentliche Themenübersicht Mathematik 2",
+      "url": "https://003.lmvz.ch/lehrmittelsites/mathe_sek/de/m2/index.html"
+    },
+    {
+      "titel": "Arbeitsheft III: Produkt und Niveau",
+      "url": "https://shop.lmvz.ch/de/Katalog/Mathematik-Sekundarstufe-I/Mathematik-2-Sekundarstufe-I-Arbeitsheft-III-6722.html"
+    }
+  ],
+  "lernziele": [
+    {
+      "id": "1",
+      "nr": "1",
+      "gruppe": "Grundlagen",
+      "kurz": "Weg, Zeit und Geschwindigkeit unterscheiden",
+      "text": "Ich kann Weg, Zeit und Geschwindigkeit unterscheiden.",
+      "frage": "Weg, Zeit und Geschwindigkeit unterscheiden - wie gehst du vor?",
+      "antwort": "s ist der Weg, t die Zeit, v die Geschwindigkeit. v = s/t. Einheit etwa km/h oder m/s."
+    },
+    {
+      "id": "2",
+      "nr": "2",
+      "gruppe": "Grundlagen",
+      "kurz": "Zeit- und Geschwindigkeitseinheiten umrechnen",
+      "text": "Ich kann Zeit- und Geschwindigkeitseinheiten umrechnen.",
+      "frage": "Zeit- und Geschwindigkeitseinheiten umrechnen - wie gehst du vor?",
+      "antwort": "1 h = 60 min = 3600 s. m/s→km/h: mal 3.6. km/h→m/s: durch 3.6."
+    },
+    {
+      "id": "3",
+      "nr": "3",
+      "gruppe": "Grundlagen",
+      "kurz": "Strecke bei konstanter Geschwindigkeit berechnen",
+      "text": "Ich kann Strecke bei konstanter Geschwindigkeit berechnen.",
+      "frage": "Strecke bei konstanter Geschwindigkeit berechnen - wie gehst du vor?",
+      "antwort": "s = v·t. Verwende passende Einheiten, zum Beispiel km/h und h."
+    },
+    {
+      "id": "4",
+      "nr": "4",
+      "gruppe": "Rechnen und anwenden",
+      "kurz": "Die benötigte Fahrzeit berechnen",
+      "text": "Ich kann die benötigte Fahrzeit berechnen.",
+      "frage": "Die benötigte Fahrzeit berechnen - wie gehst du vor?",
+      "antwort": "t = s/v. Das Ergebnis ist in Stunden, wenn s in km und v in km/h stehen."
+    },
+    {
+      "id": "5",
+      "nr": "5",
+      "gruppe": "Rechnen und anwenden",
+      "kurz": "Ein Weg-Zeit-Diagramm lesen und zeichnen",
+      "text": "Ich kann ein Weg-Zeit-Diagramm lesen und zeichnen.",
+      "frage": "Ein Weg-Zeit-Diagramm lesen und zeichnen - wie gehst du vor?",
+      "antwort": "Im s-t-Diagramm liegt t auf der waagrechten und s auf der senkrechten Achse. Steigung = Δs/Δt; waagrechter Abschnitt = Stillstand."
+    },
+    {
+      "id": "6",
+      "nr": "6",
+      "gruppe": "Rechnen und anwenden",
+      "kurz": "Durchschnittsgeschwindigkeit bestimmen",
+      "text": "Ich kann Durchschnittsgeschwindigkeit bestimmen.",
+      "frage": "Durchschnittsgeschwindigkeit bestimmen - wie gehst du vor?",
+      "antwort": "Durchschnittsgeschwindigkeit = gesamte Strecke / gesamte Zeit. Pausen zählen mit, wenn die ganze Reise betrachtet wird."
+    },
+    {
+      "id": "7",
+      "nr": "7",
+      "gruppe": "Darstellen und prüfen",
+      "kurz": "Steigung und Gefälle in Prozent berechnen",
+      "text": "Ich kann Steigung und Gefälle in Prozent berechnen.",
+      "frage": "Steigung und Gefälle in Prozent berechnen - wie gehst du vor?",
+      "antwort": "Steigung in % = Δh / waagrechte Strecke ·100. Gefälle wird entsprechend mit dem Höhenverlust berechnet."
+    },
+    {
+      "id": "8",
+      "nr": "8",
+      "gruppe": "Darstellen und prüfen",
+      "kurz": "Höhenunterschied und schräge Länge berechnen",
+      "text": "Ich kann Höhenunterschied und schräge Länge berechnen.",
+      "frage": "Höhenunterschied und schräge Länge berechnen - wie gehst du vor?",
+      "antwort": "Höhenunterschied = waagrechte Strecke·p/100. Schräge Länge = √(waagrechte Strecke² + Höhenunterschied²)."
+    }
+  ],
+  "lernen": [
+    {
+      "id": "lz-1",
+      "titel": "Weg, Zeit und Geschwindigkeit unterscheiden",
+      "lernziele": [
+        "1"
+      ],
+      "intro": "Ich kann Weg, Zeit und Geschwindigkeit unterscheiden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "s ist der Weg, t die Zeit, v die Geschwindigkeit. v = s/t. Einheit etwa km/h oder m/s."
+        },
+        {
+          "t": "bild",
+          "src": "content/img/mathe2/geschwindigkeit-steigung.svg",
+          "alt": "Lernskizze: Geschwindigkeit, Steigung und Gefälle",
+          "caption": "Eigene vereinfachte Skizze; nicht massstabsgetreu."
+        },
+        {
+          "t": "p",
+          "text": "Die Zeit steht im Nenner der Geschwindigkeit. Der gleiche Weg in kürzerer Zeit bedeutet grössere Geschwindigkeit."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "120 km in 2 h → v = 60 km/h."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Geschwindigkeit ist Zeit geteilt durch Weg."
+        }
+      ]
+    },
+    {
+      "id": "lz-2",
+      "titel": "Zeit- und Geschwindigkeitseinheiten umrechnen",
+      "lernziele": [
+        "2"
+      ],
+      "intro": "Ich kann Zeit- und Geschwindigkeitseinheiten umrechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "1 h = 60 min = 3600 s. m/s→km/h: mal 3.6. km/h→m/s: durch 3.6."
+        },
+        {
+          "t": "p",
+          "text": "Minuten sind keine Hundertstelstunden. 30 min = 0.5 h und 15 min = 0.25 h."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "72 km/h = 20 m/s; 10 m/s = 36 km/h."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "30 Minuten entsprechen 0.30 Stunden."
+        }
+      ]
+    },
+    {
+      "id": "lz-3",
+      "titel": "Strecke bei konstanter Geschwindigkeit berechnen",
+      "lernziele": [
+        "3"
+      ],
+      "intro": "Ich kann Strecke bei konstanter Geschwindigkeit berechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "s = v·t. Verwende passende Einheiten, zum Beispiel km/h und h."
+        },
+        {
+          "t": "p",
+          "text": "Bei einer Pause wird keine Strecke zurückgelegt. Bei mehreren Abschnitten die Teilstrecken einzeln berechnen und addieren."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "v = 80 km/h, t = 1.5 h → s = 120 km."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Bei s = v·t kann man Minuten ohne Umrechnung mit km/h multiplizieren."
+        }
+      ]
+    },
+    {
+      "id": "lz-4",
+      "titel": "Die benötigte Fahrzeit berechnen",
+      "lernziele": [
+        "4"
+      ],
+      "intro": "Ich kann die benötigte Fahrzeit berechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "t = s/v. Das Ergebnis ist in Stunden, wenn s in km und v in km/h stehen."
+        },
+        {
+          "t": "p",
+          "text": "Für Minuten das Ergebnis in Stunden mit 60 multiplizieren. Für eine Ankunftszeit zusätzlich zur Abfahrtszeit addieren."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "s = 90 km, v = 60 km/h → t = 1.5 h = 90 min."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "0.5 Stunden entsprechen 50 Minuten."
+        }
+      ]
+    },
+    {
+      "id": "lz-5",
+      "titel": "Ein Weg-Zeit-Diagramm lesen und zeichnen",
+      "lernziele": [
+        "5"
+      ],
+      "intro": "Ich kann ein Weg-Zeit-Diagramm lesen und zeichnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Im s-t-Diagramm liegt t auf der waagrechten und s auf der senkrechten Achse. Steigung = Δs/Δt; waagrechter Abschnitt = Stillstand."
+        },
+        {
+          "t": "p",
+          "text": "Bei gleichmässiger Bewegung ist der Abschnitt gerade. Eine steilere Strecke im Diagramm bedeutet höhere Geschwindigkeit."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "0 h/0 km bis 2 h/10 km: v = 5 km/h. Danach waagrecht bis 3 h: eine Stunde Pause."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Eine waagrechte Linie im Weg-Zeit-Diagramm bedeutet besonders hohe Geschwindigkeit."
+        }
+      ]
+    },
+    {
+      "id": "lz-6",
+      "titel": "Durchschnittsgeschwindigkeit bestimmen",
+      "lernziele": [
+        "6"
+      ],
+      "intro": "Ich kann Durchschnittsgeschwindigkeit bestimmen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Durchschnittsgeschwindigkeit = gesamte Strecke / gesamte Zeit. Pausen zählen mit, wenn die ganze Reise betrachtet wird."
+        },
+        {
+          "t": "p",
+          "text": "Einfaches Mitteln zweier Geschwindigkeiten ist nur bei gleich langen Zeitabschnitten passend, nicht allgemein."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "20 km in 1 h plus 10 km in 1 h: Durchschnitt 30/2 = 15 km/h."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Der Durchschnitt ist immer die Summe aller Geschwindigkeiten geteilt durch deren Anzahl."
+        }
+      ]
+    },
+    {
+      "id": "lz-7",
+      "titel": "Steigung und Gefälle in Prozent berechnen",
+      "lernziele": [
+        "7"
+      ],
+      "intro": "Ich kann Steigung und Gefälle in Prozent berechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Steigung in % = Δh / waagrechte Strecke ·100. Gefälle wird entsprechend mit dem Höhenverlust berechnet."
+        },
+        {
+          "t": "p",
+          "text": "10 % Steigung bedeutet 10 m Höhengewinn je 100 m waagrechter Strecke. Es bedeutet weder 10° noch 10 m je 100 m schräger Strasse."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "15 m höher auf 300 m waagrecht → 15/300·100 = 5 %."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Für Prozentsteigung teilt man den Höhenunterschied immer durch die schräge Strassenlänge."
+        }
+      ]
+    },
+    {
+      "id": "lz-8",
+      "titel": "Höhenunterschied und schräge Länge berechnen",
+      "lernziele": [
+        "8"
+      ],
+      "intro": "Ich kann Höhenunterschied und schräge Länge berechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Grundlage / Formel",
+          "text": "Höhenunterschied = waagrechte Strecke·p/100. Schräge Länge = √(waagrechte Strecke² + Höhenunterschied²)."
+        },
+        {
+          "t": "p",
+          "text": "Bei Prozentsteigung ist die waagrechte Strecke die Bezugsgrösse. Nutze Pythagoras erst, wenn die schräge Länge gefragt ist."
+        },
+        {
+          "t": "beispiel",
+          "titel": "So rechnest du",
+          "zeilen": [
+            "100 m waagrecht, 10 %: Höhe 10 m; schräge Strecke √10100 ≈ 100.50 m."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler - diese Aussage ist falsch",
+          "text": "Eine Strasse mit 10 % Steigung ist auf 100 m waagrechter Strecke genau 110 m lang."
+        }
+      ]
+    },
+    {
+      "id": "lernspick",
+      "titel": "Lernspick: alle Lernziele mit Antwort",
+      "lernziele": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "intro": "Eigene Grundlagenziele auf Niveau III. Schulische Vorgaben ergänzen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "1. Weg, Zeit und Geschwindigkeit unterscheiden",
+          "text": "s ist der Weg, t die Zeit, v die Geschwindigkeit. v = s/t. Einheit etwa km/h oder m/s."
+        },
+        {
+          "t": "merke",
+          "titel": "2. Zeit- und Geschwindigkeitseinheiten umrechnen",
+          "text": "1 h = 60 min = 3600 s. m/s→km/h: mal 3.6. km/h→m/s: durch 3.6."
+        },
+        {
+          "t": "merke",
+          "titel": "3. Strecke bei konstanter Geschwindigkeit berechnen",
+          "text": "s = v·t. Verwende passende Einheiten, zum Beispiel km/h und h."
+        },
+        {
+          "t": "merke",
+          "titel": "4. Die benötigte Fahrzeit berechnen",
+          "text": "t = s/v. Das Ergebnis ist in Stunden, wenn s in km und v in km/h stehen."
+        },
+        {
+          "t": "merke",
+          "titel": "5. Ein Weg-Zeit-Diagramm lesen und zeichnen",
+          "text": "Im s-t-Diagramm liegt t auf der waagrechten und s auf der senkrechten Achse. Steigung = Δs/Δt; waagrechter Abschnitt = Stillstand."
+        },
+        {
+          "t": "merke",
+          "titel": "6. Durchschnittsgeschwindigkeit bestimmen",
+          "text": "Durchschnittsgeschwindigkeit = gesamte Strecke / gesamte Zeit. Pausen zählen mit, wenn die ganze Reise betrachtet wird."
+        },
+        {
+          "t": "merke",
+          "titel": "7. Steigung und Gefälle in Prozent berechnen",
+          "text": "Steigung in % = Δh / waagrechte Strecke ·100. Gefälle wird entsprechend mit dem Höhenverlust berechnet."
+        },
+        {
+          "t": "merke",
+          "titel": "8. Höhenunterschied und schräge Länge berechnen",
+          "text": "Höhenunterschied = waagrechte Strecke·p/100. Schräge Länge = √(waagrechte Strecke² + Höhenunterschied²)."
+        },
+        {
+          "t": "bild",
+          "src": "content/img/mathe2/geschwindigkeit-steigung-leer.svg",
+          "alt": "Vorlage zum Beschriften",
+          "caption": "Auf Papier beschriften und mit der Lernskizze im ersten Kapitel vergleichen."
+        }
+      ]
+    }
+  ],
+  "karten": [
+    {
+      "vorne": "Weg, Zeit und Geschwindigkeit unterscheiden",
+      "hinten": "120 km in 2 h → v = 60 km/h."
+    },
+    {
+      "vorne": "Zeit- und Geschwindigkeitseinheiten umrechnen",
+      "hinten": "72 km/h = 20 m/s; 10 m/s = 36 km/h."
+    },
+    {
+      "vorne": "Strecke bei konstanter Geschwindigkeit berechnen",
+      "hinten": "v = 80 km/h, t = 1.5 h → s = 120 km."
+    },
+    {
+      "vorne": "Die benötigte Fahrzeit berechnen",
+      "hinten": "s = 90 km, v = 60 km/h → t = 1.5 h = 90 min."
+    },
+    {
+      "vorne": "Ein Weg-Zeit-Diagramm lesen und zeichnen",
+      "hinten": "0 h/0 km bis 2 h/10 km: v = 5 km/h. Danach waagrecht bis 3 h: eine Stunde Pause."
+    },
+    {
+      "vorne": "Durchschnittsgeschwindigkeit bestimmen",
+      "hinten": "20 km in 1 h plus 10 km in 1 h: Durchschnitt 30/2 = 15 km/h."
+    },
+    {
+      "vorne": "Steigung und Gefälle in Prozent berechnen",
+      "hinten": "15 m höher auf 300 m waagrecht → 15/300·100 = 5 %."
+    },
+    {
+      "vorne": "Höhenunterschied und schräge Länge berechnen",
+      "hinten": "100 m waagrecht, 10 %: Höhe 10 m; schräge Strecke √10100 ≈ 100.50 m."
+    },
+    {
+      "vorne": "Geschwindigkeit",
+      "hinten": "v = s/t; bei gleichmässiger Bewegung konstant."
+    },
+    {
+      "vorne": "Strecke",
+      "hinten": "s = v·t bei konstanter Geschwindigkeit."
+    },
+    {
+      "vorne": "Steigung in Prozent",
+      "hinten": "Höhenunterschied / waagrechte Strecke ·100."
+    },
+    {
+      "vorne": "Gefälle",
+      "hinten": "Abnahme der Höhe in Fahrtrichtung; Prozentbetrag analog zur Steigung."
+    }
+  ],
+  "uebungen": [
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "s ist der Weg, t die Zeit, v die Geschwindigkeit. v = s/t. Einheit etwa km/h oder m/s.",
+        "Geschwindigkeit ist Zeit geteilt durch Weg."
+      ],
+      "richtig": 0,
+      "id": "u1-1",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "s ist der Weg, t die Zeit, v die Geschwindigkeit. v = s/t. Einheit etwa km/h oder m/s. Beispiel: 120 km in 2 h → v = 60 km/h."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Ein Velo fährt 36 km in 3 h. Wie gross ist v?",
+      "antwort": 12,
+      "toleranz": 0.015,
+      "einheit": "km/h",
+      "id": "u1-2",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 12 km/h. s ist der Weg, t die Zeit, v die Geschwindigkeit. v = s/t. Einheit etwa km/h oder m/s."
+    },
+    {
+      "id": "u1-3",
+      "typ": "offen",
+      "lernziel": "1",
+      "frage": "Ordne s, t und v mit Einheiten zu: Ein Zug fährt 150 km in 2 h. Berechne v.",
+      "musterloesung": "s = 150 km; t = 2 h; v = 75 km/h.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "s ist der Weg, t die Zeit, v die Geschwindigkeit. v = s/t. Einheit etwa km/h oder m/s."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "1 h = 60 min = 3600 s. m/s→km/h: mal 3.6. km/h→m/s: durch 3.6.",
+        "30 Minuten entsprechen 0.30 Stunden."
+      ],
+      "richtig": 0,
+      "id": "u2-1",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "1 h = 60 min = 3600 s. m/s→km/h: mal 3.6. km/h→m/s: durch 3.6. Beispiel: 72 km/h = 20 m/s; 10 m/s = 36 km/h."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Rechne 54 km/h in m/s um.",
+      "antwort": 15,
+      "toleranz": 0.015,
+      "einheit": "m/s",
+      "id": "u2-2",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 15 m/s. 1 h = 60 min = 3600 s. m/s→km/h: mal 3.6. km/h→m/s: durch 3.6."
+    },
+    {
+      "id": "u2-3",
+      "typ": "offen",
+      "lernziel": "2",
+      "frage": "Wandle 90 min in Stunden und 8 m/s in km/h um.",
+      "musterloesung": "90/60 = 1.5 h; 8·3.6 = 28.8 km/h.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "1 h = 60 min = 3600 s. m/s→km/h: mal 3.6. km/h→m/s: durch 3.6."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "s = v·t. Verwende passende Einheiten, zum Beispiel km/h und h.",
+        "Bei s = v·t kann man Minuten ohne Umrechnung mit km/h multiplizieren."
+      ],
+      "richtig": 0,
+      "id": "u3-1",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "s = v·t. Verwende passende Einheiten, zum Beispiel km/h und h. Beispiel: v = 80 km/h, t = 1.5 h → s = 120 km."
+    },
+    {
+      "typ": "zahl",
+      "frage": "v = 12 km/h, t = 45 min. Wie gross ist s?",
+      "antwort": 9,
+      "toleranz": 0.015,
+      "einheit": "km",
+      "id": "u3-2",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 9 km. s = v·t. Verwende passende Einheiten, zum Beispiel km/h und h."
+    },
+    {
+      "id": "u3-3",
+      "typ": "offen",
+      "lernziel": "3",
+      "frage": "Ein Bus fährt konstant 60 km/h während 25 min. Berechne die Strecke.",
+      "musterloesung": "25 min = 25/60 h; s = 60·25/60 = 25 km.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "s = v·t. Verwende passende Einheiten, zum Beispiel km/h und h."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "t = s/v. Das Ergebnis ist in Stunden, wenn s in km und v in km/h stehen.",
+        "0.5 Stunden entsprechen 50 Minuten."
+      ],
+      "richtig": 0,
+      "id": "u4-1",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "t = s/v. Das Ergebnis ist in Stunden, wenn s in km und v in km/h stehen. Beispiel: s = 90 km, v = 60 km/h → t = 1.5 h = 90 min."
+    },
+    {
+      "typ": "zahl",
+      "frage": "s = 24 km, v = 16 km/h. Wie lange dauert die Fahrt in Minuten?",
+      "antwort": 90,
+      "toleranz": 0.015,
+      "einheit": "min",
+      "id": "u4-2",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 90 min. t = s/v. Das Ergebnis ist in Stunden, wenn s in km und v in km/h stehen."
+    },
+    {
+      "id": "u4-3",
+      "typ": "offen",
+      "lernziel": "4",
+      "frage": "Du gehst 6 km mit 4 km/h. Start um 14:20 Uhr. Wann kommst du ohne Pause an?",
+      "musterloesung": "t = 1.5 h = 90 min; Ankunft 15:50 Uhr.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "t = s/v. Das Ergebnis ist in Stunden, wenn s in km und v in km/h stehen."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Im s-t-Diagramm liegt t auf der waagrechten und s auf der senkrechten Achse. Steigung = Δs/Δt; waagrechter Abschnitt = Stillstand.",
+        "Eine waagrechte Linie im Weg-Zeit-Diagramm bedeutet besonders hohe Geschwindigkeit."
+      ],
+      "richtig": 0,
+      "id": "u5-1",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Im s-t-Diagramm liegt t auf der waagrechten und s auf der senkrechten Achse. Steigung = Δs/Δt; waagrechter Abschnitt = Stillstand. Beispiel: 0 h/0 km bis 2 h/10 km: v = 5 km/h. Danach waagrecht bis 3 h: eine Stunde Pause."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Von (1 h|4 km) zu (3 h|12 km): Wie gross ist v?",
+      "antwort": 4,
+      "toleranz": 0.015,
+      "einheit": "km/h",
+      "id": "u5-2",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 4 km/h. Im s-t-Diagramm liegt t auf der waagrechten und s auf der senkrechten Achse. Steigung = Δs/Δt; waagrechter Abschnitt = Stillstand."
+    },
+    {
+      "id": "u5-3",
+      "typ": "offen",
+      "lernziel": "5",
+      "frage": "Zeichne: Nach 1 h sind 4 km erreicht; von Stunde 1 bis 2 Pause; nach 3 h sind 8 km erreicht.",
+      "musterloesung": "Punkte (0|0), (1|4), (2|4), (3|8) geradlinig verbinden; Pause als waagrechter Abschnitt.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": true,
+      "zeilen": 5,
+      "hilfe": "Im s-t-Diagramm liegt t auf der waagrechten und s auf der senkrechten Achse. Steigung = Δs/Δt; waagrechter Abschnitt = Stillstand."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Durchschnittsgeschwindigkeit = gesamte Strecke / gesamte Zeit. Pausen zählen mit, wenn die ganze Reise betrachtet wird.",
+        "Der Durchschnitt ist immer die Summe aller Geschwindigkeiten geteilt durch deren Anzahl."
+      ],
+      "richtig": 0,
+      "id": "u6-1",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Durchschnittsgeschwindigkeit = gesamte Strecke / gesamte Zeit. Pausen zählen mit, wenn die ganze Reise betrachtet wird. Beispiel: 20 km in 1 h plus 10 km in 1 h: Durchschnitt 30/2 = 15 km/h."
+    },
+    {
+      "typ": "zahl",
+      "frage": "30 km in 1.5 h Fahrt plus 0.5 h Pause: Wie gross ist der Reisedurchschnitt?",
+      "antwort": 15,
+      "toleranz": 0.015,
+      "einheit": "km/h",
+      "id": "u6-2",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 15 km/h. Durchschnittsgeschwindigkeit = gesamte Strecke / gesamte Zeit. Pausen zählen mit, wenn die ganze Reise betrachtet wird."
+    },
+    {
+      "id": "u6-3",
+      "typ": "offen",
+      "lernziel": "6",
+      "frage": "Du fährst 12 km in 1 h, pausierst 30 min und fährst 6 km in 30 min. Berechne den Reisedurchschnitt.",
+      "musterloesung": "Gesamtstrecke 18 km, Gesamtzeit 2 h → 9 km/h.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": false,
+      "zeilen": 5,
+      "hilfe": "Durchschnittsgeschwindigkeit = gesamte Strecke / gesamte Zeit. Pausen zählen mit, wenn die ganze Reise betrachtet wird."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Steigung in % = Δh / waagrechte Strecke ·100. Gefälle wird entsprechend mit dem Höhenverlust berechnet.",
+        "Für Prozentsteigung teilt man den Höhenunterschied immer durch die schräge Strassenlänge."
+      ],
+      "richtig": 0,
+      "id": "u7-1",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Steigung in % = Δh / waagrechte Strecke ·100. Gefälle wird entsprechend mit dem Höhenverlust berechnet. Beispiel: 15 m höher auf 300 m waagrecht → 15/300·100 = 5 %."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Höhengewinn 18 m, waagrechte Strecke 300 m. Wie gross ist die Steigung?",
+      "antwort": 6,
+      "toleranz": 0.015,
+      "einheit": "%",
+      "id": "u7-2",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 6 %. Steigung in % = Δh / waagrechte Strecke ·100. Gefälle wird entsprechend mit dem Höhenverlust berechnet."
+    },
+    {
+      "id": "u7-3",
+      "typ": "offen",
+      "lernziel": "7",
+      "frage": "Skizziere ein Steigungsdreieck: 12 m Höhe, 200 m waagrecht. Berechne die Steigung.",
+      "musterloesung": "Rechtwinkliges Dreieck mit Höhe 12, waagrecht 200; 12/200·100 = 6 %.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": true,
+      "zeilen": 5,
+      "hilfe": "Steigung in % = Δh / waagrechte Strecke ·100. Gefälle wird entsprechend mit dem Höhenverlust berechnet."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+        "Höhenunterschied = waagrechte Strecke·p/100. Schräge Länge = √(waagrechte Strecke² + Höhenunterschied²).",
+        "Eine Strasse mit 10 % Steigung ist auf 100 m waagrechter Strecke genau 110 m lang."
+      ],
+      "richtig": 0,
+      "id": "u8-1",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Höhenunterschied = waagrechte Strecke·p/100. Schräge Länge = √(waagrechte Strecke² + Höhenunterschied²). Beispiel: 100 m waagrecht, 10 %: Höhe 10 m; schräge Strecke √10100 ≈ 100.50 m."
+    },
+    {
+      "typ": "zahl",
+      "frage": "200 m waagrecht, 7 % Steigung. Wie gross ist der Höhengewinn?",
+      "antwort": 14,
+      "toleranz": 0.015,
+      "einheit": "m",
+      "id": "u8-2",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Ergebnis: 14 m. Höhenunterschied = waagrechte Strecke·p/100. Schräge Länge = √(waagrechte Strecke² + Höhenunterschied²)."
+    },
+    {
+      "id": "u8-3",
+      "typ": "offen",
+      "lernziel": "8",
+      "frage": "Eine Rampe hat 12 m waagrechte Länge und 5 % Steigung. Berechne Höhe und schräge Länge.",
+      "musterloesung": "Höhe 12·0.05 = 0.6 m; Länge √(144+0.36) ≈ 12.01 m.",
+      "punkte": 2,
+      "kriterien": [
+        {
+          "text": "Ansatz, Modell oder Skizze passend zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Ergebnis und nötige Einheiten beziehungsweise Beschriftungen korrekt.",
+          "punkte": 1
+        }
+      ],
+      "skizze": true,
+      "zeilen": 5,
+      "hilfe": "Höhenunterschied = waagrechte Strecke·p/100. Schräge Länge = √(waagrechte Strecke² + Höhenunterschied²)."
+    }
+  ],
+  "pruefungen": [
+    {
+      "id": "grundlagentest-32",
+      "titel": "Geschwindigkeit, Steigung und Gefälle - Grundlagentest III",
+      "richtzeit": 45,
+      "hinweis": "32 Punkte. Zeichnungen auf Papier, offene Aufgaben mit Kriterien selbst bewerten. Taschenrechner, Lineal und Zirkel erlaubt; ohne Dossier. Bei Kreisen π-Taste nutzen und auf zwei Dezimalstellen runden. Eigene Lernziele; schulische Prüfungsziele noch nicht abgeglichen.",
+      "aufgaben": [
+        {
+          "id": "p1",
+          "nr": "1",
+          "typ": "offen",
+          "lernziel": "1",
+          "titel": "Weg, Zeit und Geschwindigkeit unterscheiden",
+          "frage": "Ein Velo fährt 45 km in 3 h. Benenne s und t und berechne v mit Einheit.",
+          "punkte": 4,
+          "musterloesung": "s = 45 km\nt = 3 h\nv = 45/3\nv = 15 km/h",
+          "kriterien": [
+            {
+              "text": "s = 45 km",
+              "punkte": 1
+            },
+            {
+              "text": "t = 3 h",
+              "punkte": 1
+            },
+            {
+              "text": "v = 45/3",
+              "punkte": 1
+            },
+            {
+              "text": "v = 15 km/h",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p2",
+          "nr": "2",
+          "typ": "offen",
+          "lernziel": "2",
+          "titel": "Zeit- und Geschwindigkeitseinheiten umrechnen",
+          "frage": "Rechne 45 min in Stunden und 72 km/h in m/s um. Zeige die Faktoren.",
+          "punkte": 4,
+          "musterloesung": "45/60\n0.75 h\n72/3.6\n20 m/s",
+          "kriterien": [
+            {
+              "text": "45/60",
+              "punkte": 1
+            },
+            {
+              "text": "0.75 h",
+              "punkte": 1
+            },
+            {
+              "text": "72/3.6",
+              "punkte": 1
+            },
+            {
+              "text": "20 m/s",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p3",
+          "nr": "3",
+          "typ": "offen",
+          "lernziel": "3",
+          "titel": "Strecke bei konstanter Geschwindigkeit berechnen",
+          "frage": "Ein Velo fährt 18 km/h während 40 min. Berechne s mit Rechenweg.",
+          "punkte": 4,
+          "musterloesung": "t = 40/60 = 2/3 h\ns = v·t\n18·2/3\ns = 12 km",
+          "kriterien": [
+            {
+              "text": "t = 40/60 = 2/3 h",
+              "punkte": 1
+            },
+            {
+              "text": "s = v·t",
+              "punkte": 1
+            },
+            {
+              "text": "18·2/3",
+              "punkte": 1
+            },
+            {
+              "text": "s = 12 km",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p4",
+          "nr": "4",
+          "typ": "offen",
+          "lernziel": "4",
+          "titel": "Die benötigte Fahrzeit berechnen",
+          "frage": "Ein Bus fährt 72 km mit konstant 48 km/h. Berechne Dauer in Stunden und Minuten sowie Ankunft bei Start 09:15 Uhr.",
+          "punkte": 4,
+          "musterloesung": "t = 72/48 = 1.5 h\n90 min\nStartzeit plus 1 h 30 min\nAnkunft 10:45 Uhr",
+          "kriterien": [
+            {
+              "text": "t = 72/48 = 1.5 h",
+              "punkte": 1
+            },
+            {
+              "text": "90 min",
+              "punkte": 1
+            },
+            {
+              "text": "Startzeit plus 1 h 30 min",
+              "punkte": 1
+            },
+            {
+              "text": "Ankunft 10:45 Uhr",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p5",
+          "nr": "5",
+          "typ": "offen",
+          "lernziel": "5",
+          "titel": "Ein Weg-Zeit-Diagramm lesen und zeichnen",
+          "frage": "Zeichne ein s-t-Diagramm: 0 bis 2 h mit 3 km/h, danach 1 h Pause. Beschrifte die Achsen.",
+          "punkte": 4,
+          "musterloesung": "Achsen t in h und s in km\nPunkt (0|0)\nGerade bis (2|6)\nWaagrecht weiter bis (3|6)",
+          "kriterien": [
+            {
+              "text": "Achsen t in h und s in km",
+              "punkte": 1
+            },
+            {
+              "text": "Punkt (0|0)",
+              "punkte": 1
+            },
+            {
+              "text": "Gerade bis (2|6)",
+              "punkte": 1
+            },
+            {
+              "text": "Waagrecht weiter bis (3|6)",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        },
+        {
+          "id": "p6",
+          "nr": "6",
+          "typ": "offen",
+          "lernziel": "6",
+          "titel": "Durchschnittsgeschwindigkeit bestimmen",
+          "frage": "Eine Tour: 18 km in 1 h, 30 min Pause, 12 km in 1 h. Berechne den Durchschnitt einschliesslich Pause.",
+          "punkte": 4,
+          "musterloesung": "Gesamtstrecke 30 km\nGesamtzeit 2.5 h\nv = 30/2.5\nDurchschnitt 12 km/h",
+          "kriterien": [
+            {
+              "text": "Gesamtstrecke 30 km",
+              "punkte": 1
+            },
+            {
+              "text": "Gesamtzeit 2.5 h",
+              "punkte": 1
+            },
+            {
+              "text": "v = 30/2.5",
+              "punkte": 1
+            },
+            {
+              "text": "Durchschnitt 12 km/h",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 6
+        },
+        {
+          "id": "p7",
+          "nr": "7",
+          "typ": "offen",
+          "lernziel": "7",
+          "titel": "Steigung und Gefälle in Prozent berechnen",
+          "frage": "Eine Rampe überwindet 1.2 m Höhe auf 15 m waagrechter Strecke. Skizziere und berechne die Steigung.",
+          "punkte": 4,
+          "musterloesung": "Rechtwinklige Skizze, waagrecht und Höhe markiert\nGleiche Einheit m\n1.2/15·100\nSteigung 8 %",
+          "kriterien": [
+            {
+              "text": "Rechtwinklige Skizze, waagrecht und Höhe markiert",
+              "punkte": 1
+            },
+            {
+              "text": "Gleiche Einheit m",
+              "punkte": 1
+            },
+            {
+              "text": "1.2/15·100",
+              "punkte": 1
+            },
+            {
+              "text": "Steigung 8 %",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        },
+        {
+          "id": "p8",
+          "nr": "8",
+          "typ": "offen",
+          "lernziel": "8",
+          "titel": "Höhenunterschied und schräge Länge berechnen",
+          "frage": "Eine Rampe hat 24 m waagrechte Länge und 25 % Steigung. Skizziere und berechne Höhe sowie schräge Länge auf zwei Dezimalstellen.",
+          "punkte": 4,
+          "musterloesung": "Höhe 24·0.25 = 6 m\nRechtwinklige Skizze\nLänge = √(24²+6²)\nLänge ≈ 24.74 m",
+          "kriterien": [
+            {
+              "text": "Höhe 24·0.25 = 6 m",
+              "punkte": 1
+            },
+            {
+              "text": "Rechtwinklige Skizze",
+              "punkte": 1
+            },
+            {
+              "text": "Länge = √(24²+6²)",
+              "punkte": 1
+            },
+            {
+              "text": "Länge ≈ 24.74 m",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        }
+      ]
+    }
+  ]
+}

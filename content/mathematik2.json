@@ -1,0 +1,80 @@
+{
+  "titel": "Mathematik 2: Grundlagen auf Niveau III",
+  "isbn": "978-3-03713-508-2",
+  "url": "https://003.lmvz.ch/lehrmittelsites/mathe_sek/de/m2/index.html",
+  "hinweis": "Die öffentliche Themenliste der Lehrmittelreihe dient der Struktur. Kapitel wurden zu neun eigenen Dossiers gebündelt. Kein vollständiger Abgleich mit dem Arbeitsheft III oder mit schulischen Prüfungszielen. Niveau III wird nicht automatisch einer Aargauer Schulstufe gleichgesetzt.",
+  "themen": [
+    {
+      "nr": 1,
+      "id": "mathe2-brueche-gleichungen-wurzeln",
+      "titel": "Brüche, Gleichungen und Wurzeln",
+      "klasse": 8,
+      "niveau": "III",
+      "status": "bereit"
+    },
+    {
+      "nr": 2,
+      "id": "mathe2-thales-pythagoras",
+      "titel": "Thales und Pythagoras",
+      "klasse": 8,
+      "niveau": "III",
+      "status": "bereit"
+    },
+    {
+      "nr": 3,
+      "id": "mathe2-zuordnungen-proportionalitaet",
+      "titel": "Zuordnungen und Proportionalität",
+      "klasse": 8,
+      "niveau": "III",
+      "status": "bereit"
+    },
+    {
+      "nr": 4,
+      "id": "mathe2-prisma-pyramide",
+      "titel": "Prisma und Pyramide",
+      "klasse": 8,
+      "niveau": "III",
+      "status": "bereit"
+    },
+    {
+      "nr": 5,
+      "id": "mathe2-preise-waehrungen-budget",
+      "titel": "Preise, Währungen und Budget",
+      "klasse": 8,
+      "niveau": "III",
+      "status": "bereit"
+    },
+    {
+      "nr": 6,
+      "id": "mathe2-kreis-kreissektor",
+      "titel": "Kreis und Kreissektor",
+      "klasse": 8,
+      "niveau": "III",
+      "status": "bereit"
+    },
+    {
+      "nr": 7,
+      "id": "mathe2-wahrscheinlichkeit-statistik",
+      "titel": "Wahrscheinlichkeit und Statistik",
+      "klasse": 8,
+      "niveau": "III",
+      "status": "bereit"
+    },
+    {
+      "nr": 8,
+      "id": "mathe2-zylinder",
+      "titel": "Zylinder",
+      "klasse": 8,
+      "niveau": "III",
+      "status": "bereit"
+    },
+    {
+      "nr": 9,
+      "id": "mathe2-geschwindigkeit-steigung",
+      "titel": "Geschwindigkeit, Steigung und Gefälle",
+      "klasse": 8,
+      "niveau": "III",
+      "status": "bereit"
+    }
+  ]
+}
