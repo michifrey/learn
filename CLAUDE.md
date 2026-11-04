@@ -51,3 +51,15 @@ Schweizer Hochdeutsch: **ss statt ß**, Dezimalpunkt in Lösungen erlaubt (Einga
 | `offen` | `musterloesung` (Text oder Zeilen), `kriterien` [{text, punkte}], `skizze: true`, `loesungBild`, `zeilen` | Selbstbewertung nach Kriterien |
 
 Note in der App: `1 + 5 · Punkte / Maximum`.
+
+## Prisma-Themen und Bearbeitungsstand
+
+`content/prisma.json` hält die 21 Thementitel und die Zuordnung zu Band und Klasse fest. Im Index stehen zusätzlich `prismaThema` und `prismaBand`. Die Kapitelnummern laufen von 1 bis 21.
+
+- `status: "geplant"`: Nur Themenvorschau, keine `datei` und keine leeren Übungen oder Prüfungen anlegen. Der Validator und die App unterstützen diese Einträge ausdrücklich.
+- Fertige Themen haben wie bisher eine `datei`. Beim Ausarbeiten eines geplanten Themas `status` entfernen und die Inhaltsdatei eintragen.
+- Ohne schulische Lernziel-Liste: `lernzielBasis: "selbst-formuliert"` im Index und in der Inhaltsdatei setzen. Diese Einträge werden sichtbar als eigene Lernziele gekennzeichnet. Bei später geliefertem Unterrichtsmaterial die Originalziele übernehmen und die Kennzeichnung erst nach tatsächlichem Abgleich ändern.
+- Bestehende schulische Lernziele im Pflanzenthema nicht durch allgemein abgeleitete Ziele ersetzen.
+- Neue Texte, Aufgaben und Skizzen eigenständig erstellen; die öffentliche Prisma-Themenübersicht als Strukturreferenz und zusätzliche fachliche Quellen getrennt dokumentieren.
+- Nach Änderungen `python3 tools/validate.py --fix` und `node tools/test_prisma.cjs` ausführen.
+

@@ -1,0 +1,1101 @@
+{
+  "lernzielBasis": "selbst-formuliert",
+  "hinweis": "Eigenständig formulierte Lernziele und Inhalte zur Themenübersicht von Prisma 2. Die Lernziele der Schule sind noch nicht abgeglichen.",
+  "quellen": [
+    {
+      "titel": "Nervensystem, Akustik und Optik - Lerndossier",
+      "art": "Eigene Erklärungen, Übungsblätter, Testprüfung und Lösungen",
+      "seiten": 12,
+      "datei": "material/klasse-8/prisma/nervensystem-akustik-optik/Prisma2_nervensystem-akustik-optik_Lerndossier.pdf"
+    }
+  ],
+  "referenzen": [
+    {
+      "titel": "Prisma: öffentliche Themenübersicht",
+      "url": "https://downloads.klett.ch/uploads/images/textbooks/Dateien/Klett_Prisma-Prospekt_201119_3_final.pdf?v=1616765520"
+    },
+    {
+      "titel": "Fachliche Referenz",
+      "url": "https://www.leifiphysik.de/optik/lichtausbreitung/grundwissen/sehvorgang"
+    },
+    {
+      "titel": "Fachliche Referenz",
+      "url": "https://www.leifiphysik.de/optik"
+    },
+    {
+      "titel": "Fachliche Referenz",
+      "url": "https://www.leifiphysik.de/akustik"
+    }
+  ],
+  "lernziele": [
+    {
+      "id": "1",
+      "nr": "1",
+      "gruppe": "Grundlagen",
+      "kurz": "Reiz, Verarbeitung und Reaktion",
+      "text": "Ich kann den Weg vom Reiz über das Nervensystem bis zur Reaktion beschreiben.",
+      "frage": "Wie kannst du den Weg vom Reiz über das Nervensystem bis zur Reaktion beschreiben?",
+      "antwort": "**Sinneszellen** nehmen passende Reize auf und wandeln sie in Signale um. Sensorische Nerven leiten Informationen zum **Zentralnervensystem** (Gehirn und Rückenmark). Dort werden sie verarbeitet. Motorische Nerven leiten Signale zu Muskeln oder anderen Erfolgsorganen."
+    },
+    {
+      "id": "2",
+      "nr": "2",
+      "gruppe": "Grundlagen",
+      "kurz": "Nervenzellen und Synapsen",
+      "text": "Ich kann eine Nervenzelle beschriften und die Signalrichtung erklären.",
+      "frage": "Wie kannst du eine Nervenzelle beschriften und die Signalrichtung erklären?",
+      "antwort": "Eine Nervenzelle besitzt **Dendriten**, **Zellkörper** und ein **Axon**. Signale gelangen vereinfacht über Dendriten und Zellkörper zum Axon und zu den Endknöpfchen. An vielen **Synapsen** übertragen chemische Botenstoffe das Signal auf die nächste Zelle."
+    },
+    {
+      "id": "3",
+      "nr": "3",
+      "gruppe": "Grundlagen",
+      "kurz": "Reflexe und bewusste Reaktionen",
+      "text": "Ich kann einen einfachen Reflexbogen erklären und von einer bewussten Reaktion unterscheiden.",
+      "frage": "Wie kannst du einen einfachen Reflexbogen erklären und von einer bewussten Reaktion unterscheiden?",
+      "antwort": "Ein **Reflex** ist eine rasche, unwillkürliche Antwort auf einen bestimmten Reiz. Ein einfacher Schutzreflex kann über Sinneszelle, sensorischen Nerv, Rückenmark, motorischen Nerv und Muskel laufen. Die bewusste Wahrnehmung kann danach folgen."
+    },
+    {
+      "id": "4",
+      "nr": "4",
+      "gruppe": "Anwenden und verstehen",
+      "kurz": "Schall und Schwingungen",
+      "text": "Ich kann Schallentstehung, Frequenz und Amplitude unterscheiden.",
+      "frage": "Wie kannst du Schallentstehung, Frequenz und Amplitude unterscheiden?",
+      "antwort": "**Schall** entsteht durch Schwingungen und breitet sich als Druckschwankung in einem Stoff aus. Im Vakuum fehlt ein Übertragungsmedium. **Frequenz** gibt Schwingungen pro Sekunde in Hertz (Hz) an und bestimmt wesentlich die Tonhöhe. **Amplitude** beschreibt die Stärke der Schwingung."
+    },
+    {
+      "id": "5",
+      "nr": "5",
+      "gruppe": "Anwenden und verstehen",
+      "kurz": "Das Ohr",
+      "text": "Ich kann den Weg des Schalls durchs Ohr bis zum Nervensignal erklären.",
+      "frage": "Wie kannst du den Weg des Schalls durchs Ohr bis zum Nervensignal erklären?",
+      "antwort": "**Ohrmuschel und Gehörgang** leiten Schall zum **Trommelfell**. Dessen Schwingungen werden über die **Gehörknöchelchen** ins Innenohr übertragen. In der **Hörschnecke** setzen Haarzellen mechanische Vorgänge in Signale um; der **Hörnerv** leitet sie zum Gehirn."
+    },
+    {
+      "id": "6",
+      "nr": "6",
+      "gruppe": "Anwenden und verstehen",
+      "kurz": "Licht, Sehen und Reflexion",
+      "text": "Ich kann den Sehvorgang und das Reflexionsgesetz mit Strahlen erklären.",
+      "frage": "Wie kannst du den Sehvorgang und das Reflexionsgesetz mit Strahlen erklären?",
+      "antwort": "Wir sehen, wenn **Licht von einem Gegenstand ins Auge** gelangt. Im gleichförmigen durchsichtigen Medium verläuft Licht geradlinig. Am ebenen Spiegel gilt: **Einfallswinkel = Reflexionswinkel**, beide zum **Lot** gemessen."
+    },
+    {
+      "id": "7",
+      "nr": "7",
+      "gruppe": "Zusammenhänge und Kontrolle",
+      "kurz": "Brechung und Linsen",
+      "text": "Ich kann Lichtbrechung und die Wirkung einer Sammellinse beschreiben.",
+      "frage": "Wie kannst du Lichtbrechung und die Wirkung einer Sammellinse beschreiben?",
+      "antwort": "Beim schrägen Übergang zwischen durchsichtigen Stoffen kann Licht seine Richtung ändern: **Brechung**. Beim Übergang von Luft in Wasser wird der Strahl meist **zum Lot hin** gebrochen. Eine **Sammellinse** bündelt achsenparallele Strahlen im idealisierten Modell im Brennpunkt."
+    },
+    {
+      "id": "8",
+      "nr": "8",
+      "gruppe": "Zusammenhänge und Kontrolle",
+      "kurz": "Auge und Scharfstellen",
+      "text": "Ich kann wichtige Teile des Auges und Akkommodation erklären.",
+      "frage": "Wie kannst du wichtige Teile des Auges und Akkommodation erklären?",
+      "antwort": "**Hornhaut und Linse** brechen Licht. Die **Iris** verändert die Pupillenweite. Die **Netzhaut** enthält Sinneszellen; der **Sehnerv** leitet Signale weiter. Bei der **Akkommodation** wird die Linsenform für verschiedene Gegenstandsweiten angepasst."
+    }
+  ],
+  "lernen": [
+    {
+      "id": "lz-1",
+      "titel": "Reiz, Verarbeitung und Reaktion",
+      "lernziele": [
+        "1"
+      ],
+      "intro": "Ich kann den Weg vom Reiz über das Nervensystem bis zur Reaktion beschreiben.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "**Sinneszellen** nehmen passende Reize auf und wandeln sie in Signale um. Sensorische Nerven leiten Informationen zum **Zentralnervensystem** (Gehirn und Rückenmark). Dort werden sie verarbeitet. Motorische Nerven leiten Signale zu Muskeln oder anderen Erfolgsorganen."
+        },
+        {
+          "t": "p",
+          "text": "Sinnesorgan, Nerv und Gehirn erfüllen verschiedene Aufgaben. Ein Signal läuft nicht als kleines Bild durch den Sehnerv. Die Verarbeitung verknüpft eintreffende Signale mit weiteren Informationen und Erfahrungen."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Ein Ball nähert sich: Licht trifft auf Sinneszellen der Netzhaut → Sehnerv → Verarbeitung im Gehirn → motorische Signale → Armmuskeln bewegen sich."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Das Gehirn allein nimmt nicht direkt Licht oder Schall von draussen auf. Es verarbeitet Signale von Sinneszellen."
+        }
+      ]
+    },
+    {
+      "id": "lz-2",
+      "titel": "Nervenzellen und Synapsen",
+      "lernziele": [
+        "2"
+      ],
+      "intro": "Ich kann eine Nervenzelle beschriften und die Signalrichtung erklären.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Eine Nervenzelle besitzt **Dendriten**, **Zellkörper** und ein **Axon**. Signale gelangen vereinfacht über Dendriten und Zellkörper zum Axon und zu den Endknöpfchen. An vielen **Synapsen** übertragen chemische Botenstoffe das Signal auf die nächste Zelle."
+        },
+        {
+          "t": "bild",
+          "src": "content/img/prisma/nervensystem-akustik-optik.svg",
+          "alt": "Reize, Nerven, Schall, Licht und Sinnesorgane - beschriftete Lernskizze",
+          "caption": "Eigene vereinfachte Skizze; nicht massstabsgetreu."
+        },
+        {
+          "t": "p",
+          "text": "Entlang des Axons laufen elektrische Veränderungen. Eine Myelinhülle kann die Leitung beschleunigen. Die chemische Synapse ist eine Kontaktstelle mit einem schmalen Spalt; Nervenzellen sind dort nicht einfach zu einem einzigen durchgehenden Draht verbunden."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Dendriten → Zellkörper → Axon → Endknöpfchen → Botenstoffübertragung an der Synapse → nächste Zelle."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Ein Nerv und eine einzelne Nervenzelle sind nicht dasselbe: Ein Nerv enthält viele Nervenfasern."
+        }
+      ]
+    },
+    {
+      "id": "lz-3",
+      "titel": "Reflexe und bewusste Reaktionen",
+      "lernziele": [
+        "3"
+      ],
+      "intro": "Ich kann einen einfachen Reflexbogen erklären und von einer bewussten Reaktion unterscheiden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Ein **Reflex** ist eine rasche, unwillkürliche Antwort auf einen bestimmten Reiz. Ein einfacher Schutzreflex kann über Sinneszelle, sensorischen Nerv, Rückenmark, motorischen Nerv und Muskel laufen. Die bewusste Wahrnehmung kann danach folgen."
+        },
+        {
+          "t": "p",
+          "text": "Bei einer bewussten Reaktion spielen Wahrnehmung und Entscheidung im Gehirn eine grössere Rolle. Reflexe können im Rückenmark oder in Teilen des Gehirns verschaltet sein; „Reflex“ bedeutet nicht grundsätzlich „ohne jedes Gehirn“."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Eine Hand wird von einer schmerzhaften heissen Fläche zurückgezogen. Die Schutzbewegung muss nicht auf eine bewusste Entscheidung warten."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Nicht jede schnelle Bewegung ist ein Reflex. Ein geübter Start auf ein Signal bleibt eine bewusste Reaktion."
+        }
+      ]
+    },
+    {
+      "id": "lz-4",
+      "titel": "Schall und Schwingungen",
+      "lernziele": [
+        "4"
+      ],
+      "intro": "Ich kann Schallentstehung, Frequenz und Amplitude unterscheiden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "**Schall** entsteht durch Schwingungen und breitet sich als Druckschwankung in einem Stoff aus. Im Vakuum fehlt ein Übertragungsmedium. **Frequenz** gibt Schwingungen pro Sekunde in Hertz (Hz) an und bestimmt wesentlich die Tonhöhe. **Amplitude** beschreibt die Stärke der Schwingung."
+        },
+        {
+          "t": "p",
+          "text": "Bei gleicher Frequenz klingt eine stärkere Schwingung meist lauter. Wahrgenommene Lautstärke hängt zusätzlich von Frequenz und Gehör ab. In Luft bewegen sich Teilchen um ihre Ruhelage; sie reisen nicht vom Lautsprecher bis zum Ohr mit."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "100 Hz: 100 Schwingungen pro Sekunde. Ein Ton mit 400 Hz ist höher als einer mit 200 Hz. Eine grössere Amplitude bei sonst gleichen Bedingungen bedeutet mehr Schallintensität."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Tonhöhe und Lautstärke nicht verwechseln. Schall kann sich auch in Flüssigkeiten und Festkörpern ausbreiten."
+        }
+      ]
+    },
+    {
+      "id": "lz-5",
+      "titel": "Das Ohr",
+      "lernziele": [
+        "5"
+      ],
+      "intro": "Ich kann den Weg des Schalls durchs Ohr bis zum Nervensignal erklären.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "**Ohrmuschel und Gehörgang** leiten Schall zum **Trommelfell**. Dessen Schwingungen werden über die **Gehörknöchelchen** ins Innenohr übertragen. In der **Hörschnecke** setzen Haarzellen mechanische Vorgänge in Signale um; der **Hörnerv** leitet sie zum Gehirn."
+        },
+        {
+          "t": "p",
+          "text": "Das Trommelfell trennt äusseren Gehörgang und Mittelohr. Die Hörschnecke enthält Flüssigkeit. Sehr lauter oder lange einwirkender Schall kann das Gehör schädigen; geringere Lautstärke und Hörpausen vermindern die Belastung."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Lautsprecher → Luftschwingung → Trommelfell → Gehörknöchelchen → Innenohr mit Haarzellen → Hörnerv → Gehirn."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Der Hörnerv transportiert keine Luftschwingung als Luftstrom. Die Umwandlung in Nervensignale geschieht im Sinnesorgan."
+        }
+      ]
+    },
+    {
+      "id": "lz-6",
+      "titel": "Licht, Sehen und Reflexion",
+      "lernziele": [
+        "6"
+      ],
+      "intro": "Ich kann den Sehvorgang und das Reflexionsgesetz mit Strahlen erklären.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Wir sehen, wenn **Licht von einem Gegenstand ins Auge** gelangt. Im gleichförmigen durchsichtigen Medium verläuft Licht geradlinig. Am ebenen Spiegel gilt: **Einfallswinkel = Reflexionswinkel**, beide zum **Lot** gemessen."
+        },
+        {
+          "t": "p",
+          "text": "Das Lot steht senkrecht auf der Oberfläche am Auftreffpunkt. Zeichne zuerst Spiegel und Lot, dann den einfallenden und ausfallenden Strahl mit Richtungspfeilen. Die Winkel zur Oberfläche sind Ergänzungswinkel zu den Winkeln zum Lot."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Einfallswinkel 30° zum Lot → Reflexionswinkel 30° zum Lot. Ein Buch ist sichtbar, weil es Licht in viele Richtungen streut und ein Teil davon das Auge erreicht."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Das Auge sendet keine Sehstrahlen aus. Winkel zum Spiegel und Winkel zum Lot nicht verwechseln."
+        }
+      ]
+    },
+    {
+      "id": "lz-7",
+      "titel": "Brechung und Linsen",
+      "lernziele": [
+        "7"
+      ],
+      "intro": "Ich kann Lichtbrechung und die Wirkung einer Sammellinse beschreiben.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Beim schrägen Übergang zwischen durchsichtigen Stoffen kann Licht seine Richtung ändern: **Brechung**. Beim Übergang von Luft in Wasser wird der Strahl meist **zum Lot hin** gebrochen. Eine **Sammellinse** bündelt achsenparallele Strahlen im idealisierten Modell im Brennpunkt."
+        },
+        {
+          "t": "p",
+          "text": "Beim senkrechten Einfall ändert der Strahl seine Richtung nicht. Der Strahlenverlauf durch eine Linse wird vereinfacht mit Konstruktionsstrahlen beschrieben. Für eine Abbildung auf einem Schirm muss die Gegenstandsweite bei der Sammellinse grösser als die Brennweite sein."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Ein ins Wasser getauchter Stift erscheint an der Oberfläche geknickt. Eine Sammellinse kann unter passenden Bedingungen ein umgekehrtes reelles Bild auf einem Schirm erzeugen."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Eine Linse bündelt nicht alle Strahlen immer an derselben Stelle. Der Brennpunkt gilt für achsenparallel einfallende Strahlen."
+        }
+      ]
+    },
+    {
+      "id": "lz-8",
+      "titel": "Auge und Scharfstellen",
+      "lernziele": [
+        "8"
+      ],
+      "intro": "Ich kann wichtige Teile des Auges und Akkommodation erklären.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "**Hornhaut und Linse** brechen Licht. Die **Iris** verändert die Pupillenweite. Die **Netzhaut** enthält Sinneszellen; der **Sehnerv** leitet Signale weiter. Bei der **Akkommodation** wird die Linsenform für verschiedene Gegenstandsweiten angepasst."
+        },
+        {
+          "t": "p",
+          "text": "Beim Nahsehen ist die Linse stärker gewölbt und bricht stärker. Beim Fernsehen ist sie flacher und bricht schwächer. Auf der Netzhaut entsteht ein verkleinertes, umgekehrtes Bild; das Gehirn verarbeitet die Signale zur Wahrnehmung."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Blick vom nahen Heft zur entfernten Tafel: Die Form der Linse ändert sich. Die Pupillenänderung reguliert vor allem die Lichtmenge, nicht die Entfernungseinstellung."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Pupille und Linse sind verschiedene Strukturen. Die Netzhaut verschiebt sich beim Scharfstellen normalerweise nicht nach hinten oder vorn."
+        }
+      ]
+    },
+    {
+      "id": "lernspick",
+      "titel": "Lernspick: alle Lernziele mit Kurzantwort",
+      "lernziele": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "intro": "Eigene Lernziele: mit den schulischen Vorgaben abgleichen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "1. Reiz, Verarbeitung und Reaktion",
+          "text": "**Sinneszellen** nehmen passende Reize auf und wandeln sie in Signale um. Sensorische Nerven leiten Informationen zum **Zentralnervensystem** (Gehirn und Rückenmark). Dort werden sie verarbeitet. Motorische Nerven leiten Signale zu Muskeln oder anderen Erfolgsorganen."
+        },
+        {
+          "t": "merke",
+          "titel": "2. Nervenzellen und Synapsen",
+          "text": "Eine Nervenzelle besitzt **Dendriten**, **Zellkörper** und ein **Axon**. Signale gelangen vereinfacht über Dendriten und Zellkörper zum Axon und zu den Endknöpfchen. An vielen **Synapsen** übertragen chemische Botenstoffe das Signal auf die nächste Zelle."
+        },
+        {
+          "t": "merke",
+          "titel": "3. Reflexe und bewusste Reaktionen",
+          "text": "Ein **Reflex** ist eine rasche, unwillkürliche Antwort auf einen bestimmten Reiz. Ein einfacher Schutzreflex kann über Sinneszelle, sensorischen Nerv, Rückenmark, motorischen Nerv und Muskel laufen. Die bewusste Wahrnehmung kann danach folgen."
+        },
+        {
+          "t": "merke",
+          "titel": "4. Schall und Schwingungen",
+          "text": "**Schall** entsteht durch Schwingungen und breitet sich als Druckschwankung in einem Stoff aus. Im Vakuum fehlt ein Übertragungsmedium. **Frequenz** gibt Schwingungen pro Sekunde in Hertz (Hz) an und bestimmt wesentlich die Tonhöhe. **Amplitude** beschreibt die Stärke der Schwingung."
+        },
+        {
+          "t": "merke",
+          "titel": "5. Das Ohr",
+          "text": "**Ohrmuschel und Gehörgang** leiten Schall zum **Trommelfell**. Dessen Schwingungen werden über die **Gehörknöchelchen** ins Innenohr übertragen. In der **Hörschnecke** setzen Haarzellen mechanische Vorgänge in Signale um; der **Hörnerv** leitet sie zum Gehirn."
+        },
+        {
+          "t": "merke",
+          "titel": "6. Licht, Sehen und Reflexion",
+          "text": "Wir sehen, wenn **Licht von einem Gegenstand ins Auge** gelangt. Im gleichförmigen durchsichtigen Medium verläuft Licht geradlinig. Am ebenen Spiegel gilt: **Einfallswinkel = Reflexionswinkel**, beide zum **Lot** gemessen."
+        },
+        {
+          "t": "merke",
+          "titel": "7. Brechung und Linsen",
+          "text": "Beim schrägen Übergang zwischen durchsichtigen Stoffen kann Licht seine Richtung ändern: **Brechung**. Beim Übergang von Luft in Wasser wird der Strahl meist **zum Lot hin** gebrochen. Eine **Sammellinse** bündelt achsenparallele Strahlen im idealisierten Modell im Brennpunkt."
+        },
+        {
+          "t": "merke",
+          "titel": "8. Auge und Scharfstellen",
+          "text": "**Hornhaut und Linse** brechen Licht. Die **Iris** verändert die Pupillenweite. Die **Netzhaut** enthält Sinneszellen; der **Sehnerv** leitet Signale weiter. Bei der **Akkommodation** wird die Linsenform für verschiedene Gegenstandsweiten angepasst."
+        }
+      ]
+    }
+  ],
+  "karten": [
+    {
+      "vorne": "Zentralnervensystem",
+      "hinten": "Gehirn und Rückenmark"
+    },
+    {
+      "vorne": "Sensorisch",
+      "hinten": "leitet Informationen zum Zentralnervensystem"
+    },
+    {
+      "vorne": "Motorisch",
+      "hinten": "leitet Signale zu Erfolgsorganen wie Muskeln"
+    },
+    {
+      "vorne": "Axon",
+      "hinten": "leitet Signale vom Zellkörper weiter"
+    },
+    {
+      "vorne": "Synapse",
+      "hinten": "Kontaktstelle zur Signalübertragung"
+    },
+    {
+      "vorne": "Reflex",
+      "hinten": "rasche unwillkürliche Antwort"
+    },
+    {
+      "vorne": "Frequenz",
+      "hinten": "Schwingungen pro Sekunde in Hertz"
+    },
+    {
+      "vorne": "Amplitude",
+      "hinten": "Stärke beziehungsweise maximale Auslenkung einer Schwingung"
+    },
+    {
+      "vorne": "Hörschnecke",
+      "hinten": "enthält Haarzellen für die Signalumwandlung"
+    },
+    {
+      "vorne": "Reflexionsgesetz",
+      "hinten": "Einfallswinkel = Reflexionswinkel, jeweils zum Lot"
+    },
+    {
+      "vorne": "Sammellinse",
+      "hinten": "bündelt achsenparallele Strahlen im Brennpunkt"
+    },
+    {
+      "vorne": "Akkommodation",
+      "hinten": "Scharfstellen durch Änderung der Linsenform"
+    }
+  ],
+  "uebungen": [
+    {
+      "typ": "mc",
+      "frage": "Welche Strukturen bilden das Zentralnervensystem?",
+      "optionen": [
+        "Gehirn und Rückenmark",
+        "Auge und Ohr",
+        "Nur die Armmuskeln"
+      ],
+      "richtig": 0,
+      "id": "u1-1",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "**Sinneszellen** nehmen passende Reize auf und wandeln sie in Signale um. Sensorische Nerven leiten Informationen zum **Zentralnervensystem** (Gehirn und Rückenmark). Dort werden sie verarbeitet. Motorische Nerven leiten Signale zu Muskeln oder anderen Erfolgsorganen."
+    },
+    {
+      "typ": "reihenfolge",
+      "frage": "Ordne den Grundablauf.",
+      "items": [
+        "Reiz",
+        "Sinneszelle",
+        "Sensorischer Nerv",
+        "Verarbeitung im Zentralnervensystem",
+        "Motorischer Nerv",
+        "Muskelreaktion"
+      ],
+      "id": "u1-2",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "**Sinneszellen** nehmen passende Reize auf und wandeln sie in Signale um. Sensorische Nerven leiten Informationen zum **Zentralnervensystem** (Gehirn und Rückenmark). Dort werden sie verarbeitet. Motorische Nerven leiten Signale zu Muskeln oder anderen Erfolgsorganen."
+    },
+    {
+      "id": "u1-3",
+      "typ": "offen",
+      "lernziel": "1",
+      "frage": "Beschreibe, wie das Sehen einer roten Ampel zum Anhalten führen kann.",
+      "musterloesung": "Lichtreiz → Netzhaut → sensorische Leitung → Verarbeitung → motorische Leitung → Muskeln bewirken Anhalten.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "**Sinneszellen** nehmen passende Reize auf und wandeln sie in Signale um. Sensorische Nerven leiten Informationen zum **Zentralnervensystem** (Gehirn und Rückenmark). Dort werden sie verarbeitet. Motorische Nerven leiten Signale zu Muskeln oder anderen Erfolgsorganen."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welcher Teil leitet Signale vom Zellkörper zu Endknöpfchen?",
+      "optionen": [
+        "Axon",
+        "Dendriten allein",
+        "Zellkern allein"
+      ],
+      "richtig": 0,
+      "id": "u2-1",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "Eine Nervenzelle besitzt **Dendriten**, **Zellkörper** und ein **Axon**. Signale gelangen vereinfacht über Dendriten und Zellkörper zum Axon und zu den Endknöpfchen. An vielen **Synapsen** übertragen chemische Botenstoffe das Signal auf die nächste Zelle."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne zu.",
+      "paare": [
+        [
+          "Dendriten",
+          "Signale aufnehmen"
+        ],
+        [
+          "Axon",
+          "Signale weiterleiten"
+        ],
+        [
+          "Synapse",
+          "Übertragung auf eine nächste Zelle"
+        ]
+      ],
+      "id": "u2-2",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "Eine Nervenzelle besitzt **Dendriten**, **Zellkörper** und ein **Axon**. Signale gelangen vereinfacht über Dendriten und Zellkörper zum Axon und zu den Endknöpfchen. An vielen **Synapsen** übertragen chemische Botenstoffe das Signal auf die nächste Zelle."
+    },
+    {
+      "id": "u2-3",
+      "typ": "offen",
+      "lernziel": "2",
+      "frage": "Skizziere eine Nervenzelle und markiere die Signalrichtung.",
+      "musterloesung": "Verzweigte Dendriten am Zellkörper; langes Axon mit Endknöpfchen; Pfeil von Dendriten zum Axonende.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": true,
+      "zeilen": 4,
+      "hilfe": "Eine Nervenzelle besitzt **Dendriten**, **Zellkörper** und ein **Axon**. Signale gelangen vereinfacht über Dendriten und Zellkörper zum Axon und zu den Endknöpfchen. An vielen **Synapsen** übertragen chemische Botenstoffe das Signal auf die nächste Zelle."
+    },
+    {
+      "typ": "mc",
+      "frage": "Was kennzeichnet einen Reflex?",
+      "optionen": [
+        "Rasche unwillkürliche Antwort auf einen Reiz",
+        "Immer eine lange bewusste Entscheidung",
+        "Immer eine Bewegung ohne Nerven"
+      ],
+      "richtig": 0,
+      "id": "u3-1",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Ein **Reflex** ist eine rasche, unwillkürliche Antwort auf einen bestimmten Reiz. Ein einfacher Schutzreflex kann über Sinneszelle, sensorischen Nerv, Rückenmark, motorischen Nerv und Muskel laufen. Die bewusste Wahrnehmung kann danach folgen."
+    },
+    {
+      "typ": "reihenfolge",
+      "frage": "Ordne den vereinfachten Schutzreflex.",
+      "items": [
+        "Reizaufnahme",
+        "Sensorischer Nerv",
+        "Verschaltung im Rückenmark",
+        "Motorischer Nerv",
+        "Muskel zieht sich zusammen"
+      ],
+      "id": "u3-2",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Ein **Reflex** ist eine rasche, unwillkürliche Antwort auf einen bestimmten Reiz. Ein einfacher Schutzreflex kann über Sinneszelle, sensorischen Nerv, Rückenmark, motorischen Nerv und Muskel laufen. Die bewusste Wahrnehmung kann danach folgen."
+    },
+    {
+      "id": "u3-3",
+      "typ": "offen",
+      "lernziel": "3",
+      "frage": "Vergleiche Hand-zurückziehen und bewusstes Fangen eines Balls.",
+      "musterloesung": "Schutzreflex: unwillkürliche kurze Verschaltung. Fangen: bewusste Verarbeitung und koordinierte Entscheidung, auch wenn geübt sehr schnell.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "Ein **Reflex** ist eine rasche, unwillkürliche Antwort auf einen bestimmten Reiz. Ein einfacher Schutzreflex kann über Sinneszelle, sensorischen Nerv, Rückenmark, motorischen Nerv und Muskel laufen. Die bewusste Wahrnehmung kann danach folgen."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Änderung macht einen Ton bei sonst gleichen Bedingungen höher?",
+      "optionen": [
+        "Grössere Frequenz",
+        "Nur grössere Amplitude",
+        "Kleinere Frequenz"
+      ],
+      "richtig": 0,
+      "id": "u4-1",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "**Schall** entsteht durch Schwingungen und breitet sich als Druckschwankung in einem Stoff aus. Im Vakuum fehlt ein Übertragungsmedium. **Frequenz** gibt Schwingungen pro Sekunde in Hertz (Hz) an und bestimmt wesentlich die Tonhöhe. **Amplitude** beschreibt die Stärke der Schwingung."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Eine Schallquelle macht 600 Schwingungen in 2 s. Wie gross ist die Frequenz?",
+      "antwort": 300,
+      "einheit": "Hz",
+      "toleranz": 0.01,
+      "id": "u4-2",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "**Schall** entsteht durch Schwingungen und breitet sich als Druckschwankung in einem Stoff aus. Im Vakuum fehlt ein Übertragungsmedium. **Frequenz** gibt Schwingungen pro Sekunde in Hertz (Hz) an und bestimmt wesentlich die Tonhöhe. **Amplitude** beschreibt die Stärke der Schwingung."
+    },
+    {
+      "id": "u4-3",
+      "typ": "offen",
+      "lernziel": "4",
+      "frage": "Zeichne zwei gleich laute, unterschiedlich hohe Töne als schematische Schwingungen.",
+      "musterloesung": "Gleiche Amplitude; die höhere Tonhöhe hat mehr Schwingungen im gleichen Zeitabschnitt.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": true,
+      "zeilen": 4,
+      "hilfe": "**Schall** entsteht durch Schwingungen und breitet sich als Druckschwankung in einem Stoff aus. Im Vakuum fehlt ein Übertragungsmedium. **Frequenz** gibt Schwingungen pro Sekunde in Hertz (Hz) an und bestimmt wesentlich die Tonhöhe. **Amplitude** beschreibt die Stärke der Schwingung."
+    },
+    {
+      "typ": "mc",
+      "frage": "Wo wird mechanische Bewegung in Hörsignale umgewandelt?",
+      "optionen": [
+        "An Haarzellen der Hörschnecke",
+        "In der Ohrmuschel allein",
+        "In der Luft vor dem Ohr"
+      ],
+      "richtig": 0,
+      "id": "u5-1",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "**Ohrmuschel und Gehörgang** leiten Schall zum **Trommelfell**. Dessen Schwingungen werden über die **Gehörknöchelchen** ins Innenohr übertragen. In der **Hörschnecke** setzen Haarzellen mechanische Vorgänge in Signale um; der **Hörnerv** leitet sie zum Gehirn."
+    },
+    {
+      "typ": "reihenfolge",
+      "frage": "Ordne den Schallweg.",
+      "items": [
+        "Gehörgang",
+        "Trommelfell",
+        "Gehörknöchelchen",
+        "Hörschnecke mit Haarzellen",
+        "Hörnerv"
+      ],
+      "id": "u5-2",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "**Ohrmuschel und Gehörgang** leiten Schall zum **Trommelfell**. Dessen Schwingungen werden über die **Gehörknöchelchen** ins Innenohr übertragen. In der **Hörschnecke** setzen Haarzellen mechanische Vorgänge in Signale um; der **Hörnerv** leitet sie zum Gehirn."
+    },
+    {
+      "id": "u5-3",
+      "typ": "offen",
+      "lernziel": "5",
+      "frage": "Beschreibe die Aufgaben von Trommelfell und Hörschnecke.",
+      "musterloesung": "Trommelfell schwingt mit dem Schall; Haarzellen in der Hörschnecke wandeln mechanische Vorgänge in Nervensignale um.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "**Ohrmuschel und Gehörgang** leiten Schall zum **Trommelfell**. Dessen Schwingungen werden über die **Gehörknöchelchen** ins Innenohr übertragen. In der **Hörschnecke** setzen Haarzellen mechanische Vorgänge in Signale um; der **Hörnerv** leitet sie zum Gehirn."
+    },
+    {
+      "typ": "mc",
+      "frage": "Ein Strahl trifft mit 40° zum Lot auf einen Spiegel. Wie gross ist der Reflexionswinkel zum Lot?",
+      "optionen": [
+        "40°",
+        "50°",
+        "80°"
+      ],
+      "richtig": 0,
+      "id": "u6-1",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Wir sehen, wenn **Licht von einem Gegenstand ins Auge** gelangt. Im gleichförmigen durchsichtigen Medium verläuft Licht geradlinig. Am ebenen Spiegel gilt: **Einfallswinkel = Reflexionswinkel**, beide zum **Lot** gemessen."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Ein Strahl bildet 20° mit der Spiegeloberfläche. Wie gross ist sein Einfallswinkel zum Lot?",
+      "antwort": 70,
+      "einheit": "°",
+      "toleranz": 0.01,
+      "id": "u6-2",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Wir sehen, wenn **Licht von einem Gegenstand ins Auge** gelangt. Im gleichförmigen durchsichtigen Medium verläuft Licht geradlinig. Am ebenen Spiegel gilt: **Einfallswinkel = Reflexionswinkel**, beide zum **Lot** gemessen."
+    },
+    {
+      "id": "u6-3",
+      "typ": "offen",
+      "lernziel": "6",
+      "frage": "Zeichne Spiegel, Lot und reflektierten Strahl für 45° Einfall zum Lot.",
+      "musterloesung": "Lot senkrecht; beide Strahlen auf derselben Seite des Spiegels mit je 45° zum Lot und passenden Richtungspfeilen.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": true,
+      "zeilen": 4,
+      "hilfe": "Wir sehen, wenn **Licht von einem Gegenstand ins Auge** gelangt. Im gleichförmigen durchsichtigen Medium verläuft Licht geradlinig. Am ebenen Spiegel gilt: **Einfallswinkel = Reflexionswinkel**, beide zum **Lot** gemessen."
+    },
+    {
+      "typ": "mc",
+      "frage": "Ein schräger Strahl geht von Luft in Wasser. Er wird gewöhnlich ...",
+      "optionen": [
+        "zum Lot hin gebrochen",
+        "vom Lot weg gebrochen",
+        "immer vollständig gestoppt"
+      ],
+      "richtig": 0,
+      "id": "u7-1",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Beim schrägen Übergang zwischen durchsichtigen Stoffen kann Licht seine Richtung ändern: **Brechung**. Beim Übergang von Luft in Wasser wird der Strahl meist **zum Lot hin** gebrochen. Eine **Sammellinse** bündelt achsenparallele Strahlen im idealisierten Modell im Brennpunkt."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne zu.",
+      "paare": [
+        [
+          "Brechung",
+          "Richtungsänderung an einer Stoffgrenze"
+        ],
+        [
+          "Sammellinse",
+          "bündelt achsenparalleles Licht"
+        ],
+        [
+          "Brennpunkt",
+          "Treffpunkt achsenparallel einfallender Strahlen im Modell"
+        ]
+      ],
+      "id": "u7-2",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Beim schrägen Übergang zwischen durchsichtigen Stoffen kann Licht seine Richtung ändern: **Brechung**. Beim Übergang von Luft in Wasser wird der Strahl meist **zum Lot hin** gebrochen. Eine **Sammellinse** bündelt achsenparallele Strahlen im idealisierten Modell im Brennpunkt."
+    },
+    {
+      "id": "u7-3",
+      "typ": "offen",
+      "lernziel": "7",
+      "frage": "Zeichne zwei achsenparallel einfallende Strahlen und ihren Weg durch eine Sammellinse.",
+      "musterloesung": "Hinter der Linse laufen beide Strahlen zum Brennpunkt auf der optischen Achse.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": true,
+      "zeilen": 4,
+      "hilfe": "Beim schrägen Übergang zwischen durchsichtigen Stoffen kann Licht seine Richtung ändern: **Brechung**. Beim Übergang von Luft in Wasser wird der Strahl meist **zum Lot hin** gebrochen. Eine **Sammellinse** bündelt achsenparallele Strahlen im idealisierten Modell im Brennpunkt."
+    },
+    {
+      "typ": "mc",
+      "frage": "Wie ist die Linse beim Nahsehen im Vergleich zum Fernsehen?",
+      "optionen": [
+        "Stärker gewölbt",
+        "Flacher",
+        "Nicht vorhanden"
+      ],
+      "richtig": 0,
+      "id": "u8-1",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "**Hornhaut und Linse** brechen Licht. Die **Iris** verändert die Pupillenweite. Die **Netzhaut** enthält Sinneszellen; der **Sehnerv** leitet Signale weiter. Bei der **Akkommodation** wird die Linsenform für verschiedene Gegenstandsweiten angepasst."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne zu.",
+      "paare": [
+        [
+          "Iris/Pupille",
+          "Lichtmenge regulieren"
+        ],
+        [
+          "Linse",
+          "Entfernungseinstellung durch Formänderung"
+        ],
+        [
+          "Netzhaut",
+          "Lichtreize aufnehmen"
+        ]
+      ],
+      "id": "u8-2",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "**Hornhaut und Linse** brechen Licht. Die **Iris** verändert die Pupillenweite. Die **Netzhaut** enthält Sinneszellen; der **Sehnerv** leitet Signale weiter. Bei der **Akkommodation** wird die Linsenform für verschiedene Gegenstandsweiten angepasst."
+    },
+    {
+      "id": "u8-3",
+      "typ": "offen",
+      "lernziel": "8",
+      "frage": "Erkläre den Unterschied zwischen Pupillenreaktion und Akkommodation.",
+      "musterloesung": "Pupille: regelt Lichtmenge. Akkommodation: verändert die Brechkraft der Linse zum Scharfstellen auf verschiedene Entfernungen.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "**Hornhaut und Linse** brechen Licht. Die **Iris** verändert die Pupillenweite. Die **Netzhaut** enthält Sinneszellen; der **Sehnerv** leitet Signale weiter. Bei der **Akkommodation** wird die Linsenform für verschiedene Gegenstandsweiten angepasst."
+    }
+  ],
+  "pruefungen": [
+    {
+      "id": "test-32",
+      "titel": "Nervensystem, Akustik und Optik - Testprüfung",
+      "richtzeit": 45,
+      "hinweis": "32 Punkte. Grundlagenprüfung zu selbst formulierten Lernzielen; noch kein Abgleich mit den Prüfungszielen der Schule. Zeichnungen auf Papier. Offene Aufgaben anhand der Kriterien selbst bewerten.",
+      "aufgaben": [
+        {
+          "id": "p1",
+          "nr": "1",
+          "typ": "offen",
+          "lernziel": "1",
+          "titel": "Reiz, Verarbeitung und Reaktion",
+          "frage": "Erkläre an einem Beispiel den Weg vom Reiz zur Muskelreaktion. Benenne Sinneszelle, sensorische Leitung, Verarbeitung und motorische Leitung.",
+          "punkte": 4,
+          "musterloesung": "Sinneszelle nimmt passenden Reiz auf\nSensorischer Nerv leitet zum Zentralnervensystem\nGehirn oder Rückenmark verarbeitet\nMotorischer Nerv leitet zum Muskel",
+          "kriterien": [
+            {
+              "text": "Sinneszelle nimmt passenden Reiz auf",
+              "punkte": 1
+            },
+            {
+              "text": "Sensorischer Nerv leitet zum Zentralnervensystem",
+              "punkte": 1
+            },
+            {
+              "text": "Gehirn oder Rückenmark verarbeitet",
+              "punkte": 1
+            },
+            {
+              "text": "Motorischer Nerv leitet zum Muskel",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p2",
+          "nr": "2",
+          "typ": "offen",
+          "lernziel": "2",
+          "titel": "Nervenzellen und Synapsen",
+          "frage": "Zeichne eine Nervenzelle mit Dendriten, Zellkörper und Axon. Ergänze die Signalrichtung und erkläre kurz eine chemische Synapse.",
+          "punkte": 4,
+          "musterloesung": "Dendriten und Zellkörper richtig angeordnet\nAxon als Fortsatz zum Endbereich\nPfeil vom Aufnahmebereich zum Axonende\nChemische Botenstoffe übertragen über den synaptischen Spalt",
+          "kriterien": [
+            {
+              "text": "Dendriten und Zellkörper richtig angeordnet",
+              "punkte": 1
+            },
+            {
+              "text": "Axon als Fortsatz zum Endbereich",
+              "punkte": 1
+            },
+            {
+              "text": "Pfeil vom Aufnahmebereich zum Axonende",
+              "punkte": 1
+            },
+            {
+              "text": "Chemische Botenstoffe übertragen über den synaptischen Spalt",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        },
+        {
+          "id": "p3",
+          "nr": "3",
+          "typ": "offen",
+          "lernziel": "3",
+          "titel": "Reflexe und bewusste Reaktionen",
+          "frage": "Erkläre einen einfachen Schutzreflex mit Reizaufnahme, sensorischer Leitung, Verschaltung und motorischer Antwort.",
+          "punkte": 4,
+          "musterloesung": "Sinneszelle nimmt Reiz auf\nSensorischer Nerv leitet ihn weiter\nVerschaltung beispielsweise im Rückenmark\nMotorischer Nerv aktiviert Muskel ohne vorgängige bewusste Entscheidung",
+          "kriterien": [
+            {
+              "text": "Sinneszelle nimmt Reiz auf",
+              "punkte": 1
+            },
+            {
+              "text": "Sensorischer Nerv leitet ihn weiter",
+              "punkte": 1
+            },
+            {
+              "text": "Verschaltung beispielsweise im Rückenmark",
+              "punkte": 1
+            },
+            {
+              "text": "Motorischer Nerv aktiviert Muskel ohne vorgängige bewusste Entscheidung",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p4",
+          "nr": "4",
+          "typ": "offen",
+          "lernziel": "4",
+          "titel": "Schall und Schwingungen",
+          "frage": "Erkläre Frequenz und Amplitude. Berechne die Frequenz bei 800 Schwingungen in 2 s und nenne die Voraussetzung der Schallausbreitung.",
+          "punkte": 4,
+          "musterloesung": "Frequenz = Schwingungen pro Sekunde, prägt Tonhöhe\nAmplitude = Schwingungsstärke\n800/2 = 400 Hz\nEin Übertragungsmedium ist nötig",
+          "kriterien": [
+            {
+              "text": "Frequenz = Schwingungen pro Sekunde, prägt Tonhöhe",
+              "punkte": 1
+            },
+            {
+              "text": "Amplitude = Schwingungsstärke",
+              "punkte": 1
+            },
+            {
+              "text": "800/2 = 400 Hz",
+              "punkte": 1
+            },
+            {
+              "text": "Ein Übertragungsmedium ist nötig",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p5",
+          "nr": "5",
+          "typ": "offen",
+          "lernziel": "5",
+          "titel": "Das Ohr",
+          "frage": "Beschreibe vier aufeinanderfolgende Stationen vom Trommelfell bis zur Leitung ins Gehirn.",
+          "punkte": 4,
+          "musterloesung": "Trommelfell schwingt\nGehörknöchelchen übertragen Schwingung\nHaarzellen in der Hörschnecke erzeugen Signale\nHörnerv leitet Signale zum Gehirn",
+          "kriterien": [
+            {
+              "text": "Trommelfell schwingt",
+              "punkte": 1
+            },
+            {
+              "text": "Gehörknöchelchen übertragen Schwingung",
+              "punkte": 1
+            },
+            {
+              "text": "Haarzellen in der Hörschnecke erzeugen Signale",
+              "punkte": 1
+            },
+            {
+              "text": "Hörnerv leitet Signale zum Gehirn",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p6",
+          "nr": "6",
+          "typ": "offen",
+          "lernziel": "6",
+          "titel": "Licht, Sehen und Reflexion",
+          "frage": "Zeichne an einem ebenen Spiegel ein Lot und einen Strahl mit 30° Einfall zum Lot. Ergänze den reflektierten Strahl mit Winkel und beiden Richtungspfeilen.",
+          "punkte": 4,
+          "musterloesung": "Lot senkrecht zum Spiegel\nEinfallender Strahl mit 30° zum Lot\nReflektierter Strahl ebenfalls 30° zum Lot\nPfeile zum beziehungsweise vom Auftreffpunkt",
+          "kriterien": [
+            {
+              "text": "Lot senkrecht zum Spiegel",
+              "punkte": 1
+            },
+            {
+              "text": "Einfallender Strahl mit 30° zum Lot",
+              "punkte": 1
+            },
+            {
+              "text": "Reflektierter Strahl ebenfalls 30° zum Lot",
+              "punkte": 1
+            },
+            {
+              "text": "Pfeile zum beziehungsweise vom Auftreffpunkt",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        },
+        {
+          "id": "p7",
+          "nr": "7",
+          "typ": "offen",
+          "lernziel": "7",
+          "titel": "Brechung und Linsen",
+          "frage": "Erkläre Brechung beim schrägen Übergang Luft-Wasser. Zeichne zwei parallele Strahlen durch eine Sammellinse mit optischer Achse und Brennpunkt.",
+          "punkte": 4,
+          "musterloesung": "Brechung zur Lotrichtung beim Übergang Luft-Wasser erklärt\nOptische Achse und Sammellinse gezeichnet\nZwei achsenparallel einfallende Strahlen\nGebrochene Strahlen treffen sich hinter der Linse im Brennpunkt",
+          "kriterien": [
+            {
+              "text": "Brechung zur Lotrichtung beim Übergang Luft-Wasser erklärt",
+              "punkte": 1
+            },
+            {
+              "text": "Optische Achse und Sammellinse gezeichnet",
+              "punkte": 1
+            },
+            {
+              "text": "Zwei achsenparallel einfallende Strahlen",
+              "punkte": 1
+            },
+            {
+              "text": "Gebrochene Strahlen treffen sich hinter der Linse im Brennpunkt",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        },
+        {
+          "id": "p8",
+          "nr": "8",
+          "typ": "offen",
+          "lernziel": "8",
+          "titel": "Auge und Scharfstellen",
+          "frage": "Nenne die Aufgaben von Iris, Netzhaut und Sehnerv. Beschreibe zusätzlich die Linsenform beim Nahsehen.",
+          "punkte": 4,
+          "musterloesung": "Iris verändert Pupillenweite und Lichtmenge\nNetzhaut wandelt Lichtreize mit Sinneszellen in Signale um\nSehnerv leitet Signale zum Gehirn\nBeim Nahsehen ist die Linse stärker gewölbt",
+          "kriterien": [
+            {
+              "text": "Iris verändert Pupillenweite und Lichtmenge",
+              "punkte": 1
+            },
+            {
+              "text": "Netzhaut wandelt Lichtreize mit Sinneszellen in Signale um",
+              "punkte": 1
+            },
+            {
+              "text": "Sehnerv leitet Signale zum Gehirn",
+              "punkte": 1
+            },
+            {
+              "text": "Beim Nahsehen ist die Linse stärker gewölbt",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        }
+      ]
+    }
+  ]
+}

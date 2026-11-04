@@ -123,8 +123,13 @@ async function loadTopic(id) {
   if (topicCache.has(id)) return topicCache.get(id);
   const meta = INDEX.themen.find((t) => t.id === id);
   if (!meta) return null;
-  const res = await fetch(`content/${meta.datei}`, { cache: "no-cache" });
-  const topic = { ...meta, ...(await res.json()) };
+  let content = {};
+  if (meta.status !== "geplant") {
+    const res = await fetch(`content/${meta.datei}`, { cache: "no-cache" });
+    if (!res.ok) throw new Error("Die Lerninhalte konnten nicht geladen werden.");
+    content = await res.json();
+  }
+  const topic = { ...meta, ...content };
   topic.uebungen ??= [];
   topic.pruefungen ??= [];
   topic.karten ??= [];
@@ -264,6 +269,8 @@ function renderHome() {
     return;
   }
   const topics = INDEX.themen.filter((t) => topicMatches(t, p.klasse, p.stufe));
+  const planned = topics.filter((t) => t.status === "geplant").length;
+  const ready = topics.length - planned;
   const byFach = new Map();
   for (const t of topics) byFach.set(t.fach, [...(byFach.get(t.fach) ?? []), t]);
   const faecher = INDEX.faecher.filter((f) => (f.klassen ?? [1, 9]).length === 2 && p.klasse >= f.klassen[0] && p.klasse <= f.klassen[1]);
@@ -274,7 +281,7 @@ function renderHome() {
     <section class="hero hero--compact">
       <p class="eyebrow">${esc(profileLabel(p))}</p>
       <h1>Was lernst du heute?</h1>
-      <p class="lead">${topics.length ? `${topics.length} ${topics.length === 1 ? "Thema" : "Themen"} für deine Klasse.` : "Für deine Klasse gibt es noch keine Themen."} Neues Material? <a href="#/material">So kommt es in die App.</a></p>
+      <p class="lead">${topics.length ? `${ready} ${ready === 1 ? "Thema" : "Themen"} zum Lernen${planned ? ` · ${planned} weitere geplant` : ""}.` : "Für deine Klasse gibt es noch keine Themen."} Neues Material? <a href="#/material">So kommt es in die App.</a></p>
     </section>
     ${withTopics.map((f) => `
       <section class="fach" style="--h:${f.hue}">
@@ -301,6 +308,7 @@ function topicCard(t) {
       <strong class="topic-card__title">${esc(t.titel)}</strong>
       <span class="topic-card__sub">${esc(t.untertitel ?? "")}</span>
       <span class="topic-card__meta">
+        ${t.prismaBand ? `<span class="pill">Prisma ${t.prismaBand} · Thema ${t.prismaThema}</span>` : ""}
         ${(t.angebot ?? []).map((x) => `<span class="pill">${esc(x)}</span>`).join("")}
       </span>
       ${s && s.ueb ? `<span class="bar" title="${s.ok} von ${s.ueb} Übungen richtig"><span style="width:${(100 * s.ok) / s.ueb}%"></span></span>` : ""}
@@ -345,6 +353,16 @@ async function renderTopic(id, tab, sub) {
   }
   const f = fachById(topic.fach);
   document.title = `${topic.titel} · Lernen`;
+  if (topic.status === "geplant") {
+    view.innerHTML = `<div class="topic" style="--h:${f.hue}">
+      <a class="back" href="#/">${icon("back")} Übersicht</a>
+      <header class="topic__head"><p class="eyebrow">${esc(f.label)} · ${topic.klasse}. Klasse · ${esc(topic.kapitel ?? "")}</p><h1>${esc(topic.titel)}</h1></header>
+      <section class="card"><span class="pill">Geplant</span><h2>Dieses Thema ist vorgemerkt</h2>
+      <p>Die Themenübersicht ist angelegt. Lerntexte, Übungen und Testprüfung werden später ergänzt.</p>
+      <p>Unterlagen und Lernziele aus der Schule helfen, das Thema passend auszuarbeiten.</p>
+      <a class="btn" href="#/material">Unterlagen ergänzen</a></section></div>`;
+    return;
+  }
   const counts = {
     lernen: topic.lernen.length,
     ziele: topic.lernziele.length,
@@ -360,6 +378,7 @@ async function renderTopic(id, tab, sub) {
         <p class="eyebrow">${icon(f.icon ?? f.id)} ${esc(f.label)} · ${topic.klasse}. Klasse${topic.kapitel ? ` · ${esc(topic.kapitel)}` : ""}</p>
         <h1>${esc(topic.titel)}</h1>
         ${topic.untertitel ? `<p class="lead">${esc(topic.untertitel)}</p>` : ""}
+        ${topic.lernzielBasis === "selbst-formuliert" ? `<div class="box box--tipp"><strong>Eigene Lernziele</strong><p>Die Lernziele wurden passend zum Thema formuliert. Gleiche sie vor einer Prüfung mit den Vorgaben deiner Lehrperson ab.</p></div>` : ""}
       </header>
       <nav class="tabs" role="tablist">
         ${TABS.filter((t) => counts[t.id]).map((t) => `<a role="tab" class="tab ${t.id === tab ? "is-on" : ""}" aria-selected="${t.id === tab}" href="#/t/${topic.id}/${t.id}">${icon(t.icon)}<span>${t.label}</span></a>`).join("")}
@@ -466,6 +485,7 @@ function printSpick(topic) {
   printHTML(`
     <h1>${esc(topic.titel)} – Lernspick</h1>
     <p class="muted">${esc(fachById(topic.fach).label)} · ${topic.klasse}. Klasse</p>
+    ${topic.lernzielBasis === "selbst-formuliert" ? `<p class="small"><strong>Eigene Lernziele:</strong> Vor einer Prüfung mit den Vorgaben der Lehrperson abgleichen.</p>` : ""}
     <div class="print-cols">
       ${topic.lernziele.map((lz) => `<div class="print-lz"><strong>${esc(lz.nr ?? lz.id)}. ${fmt(lz.text)}</strong><div>→ ${fmt(lz.antwort)}</div></div>`).join("")}
     </div>`);
@@ -1026,7 +1046,7 @@ async function renderMaterial() {
       </li>
     </ol>
     <h2 class="page-sub">Bereits verarbeitetes Material</h2>
-    ${INDEX.themen.map((t) => {
+    ${INDEX.themen.filter((t) => t.status !== "geplant").map((t) => {
       const topic = topicCache.get(t.id);
       return `<div class="card mat-row"><a class="link" href="#/t/${t.id}"><strong>${esc(t.titel)}</strong></a> <span class="muted small">${esc(fachById(t.fach).label)} · ${t.klasse}. Klasse</span>
         <ul class="files files--compact">${topic.quellen.map((q) => `<li><a class="file" href="${esc(q.datei)}" target="_blank" rel="noopener">${icon("file")}<span>${esc(q.titel)}</span></a></li>`).join("")}</ul></div>`;
@@ -1048,3 +1068,4 @@ loadIndex().then(() => {
   const pre = p ? INDEX.themen.filter((t) => topicMatches(t, p.klasse, p.stufe)) : [];
   Promise.all(pre.map((t) => loadTopic(t.id))).finally(route);
 });
+

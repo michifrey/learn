@@ -1,0 +1,1124 @@
+{
+  "lernzielBasis": "selbst-formuliert",
+  "hinweis": "Eigenständig formulierte Lernziele und Inhalte zur Themenübersicht von Prisma 2. Die Lernziele der Schule sind noch nicht abgeglichen.",
+  "quellen": [
+    {
+      "titel": "Gesundheit und Krankheit - Lerndossier",
+      "art": "Eigene Erklärungen, Übungsblätter, Testprüfung und Lösungen",
+      "seiten": 12,
+      "datei": "material/klasse-8/prisma/gesundheit-krankheit/Prisma2_gesundheit-krankheit_Lerndossier.pdf"
+    }
+  ],
+  "referenzen": [
+    {
+      "titel": "Prisma: öffentliche Themenübersicht",
+      "url": "https://downloads.klett.ch/uploads/images/textbooks/Dateien/Klett_Prisma-Prospekt_201119_3_final.pdf?v=1616765520"
+    },
+    {
+      "titel": "Fachliche Referenz",
+      "url": "https://www.bag.admin.ch/de/mir-wurden-antibiotika-verschrieben-was-nun"
+    },
+    {
+      "titel": "Fachliche Referenz",
+      "url": "https://www.bag.admin.ch/de/was-ist-eine-impfung-in-leichter-sprache"
+    },
+    {
+      "titel": "Fachliche Referenz",
+      "url": "https://www.infektionsschutz.de/infektionen/erregerarten/bakterien/"
+    }
+  ],
+  "lernziele": [
+    {
+      "id": "1",
+      "nr": "1",
+      "gruppe": "Grundlagen",
+      "kurz": "Gesundheit und Einflussfaktoren",
+      "text": "Ich kann körperliche, psychische und soziale Einflüsse auf Gesundheit unterscheiden.",
+      "frage": "Wie kannst du körperliche, psychische und soziale Einflüsse auf Gesundheit unterscheiden?",
+      "antwort": "Gesundheit umfasst körperliches und psychisches Wohlbefinden sowie soziale Bedingungen. **Infektionskrankheiten** werden durch übertragbare Erreger ausgelöst. Viele andere Erkrankungen haben andere oder mehrere Ursachen. Umwelt, Verhalten, Veranlagung und Lebensbedingungen können zusammenwirken."
+    },
+    {
+      "id": "2",
+      "nr": "2",
+      "gruppe": "Grundlagen",
+      "kurz": "Erreger unterscheiden",
+      "text": "Ich kann Bakterien und Viren vergleichen und weitere Erregergruppen nennen.",
+      "frage": "Wie kannst du Bakterien und Viren vergleichen und weitere Erregergruppen nennen?",
+      "antwort": "**Bakterien** sind eigenständige Zellen mit Stoffwechsel und können sich durch Teilung vermehren. **Viren** besitzen keinen eigenen vollständigen Stoffwechsel und brauchen Wirtszellen zur Vermehrung. Auch bestimmte Pilze und Parasiten können Krankheiten auslösen."
+    },
+    {
+      "id": "3",
+      "nr": "3",
+      "gruppe": "Grundlagen",
+      "kurz": "Übertragungswege",
+      "text": "Ich kann wichtige Infektionswege beschreiben und passende Unterbrechungen nennen.",
+      "frage": "Wie kannst du wichtige Infektionswege beschreiben und passende Unterbrechungen nennen?",
+      "antwort": "Erreger können unter anderem über **Atemluft**, **direkten Kontakt**, **Lebensmittel oder Wasser**, **Blut oder Sexualkontakte** sowie durch bestimmte Tiere übertragen werden. Welche Wege wichtig sind, hängt vom jeweiligen Erreger ab."
+    },
+    {
+      "id": "4",
+      "nr": "4",
+      "gruppe": "Anwenden und verstehen",
+      "kurz": "Angeborene Abwehr",
+      "text": "Ich kann Barrieren und die angeborene Immunabwehr erklären.",
+      "frage": "Wie kannst du Barrieren und die angeborene Immunabwehr erklären?",
+      "antwort": "**Haut und Schleimhäute** bilden Barrieren. Schleim und Flimmerhärchen helfen, Erreger abzutransportieren. Magensäure erschwert vielen Erregern das Überleben. Dringen sie ein, können **Fresszellen** sie aufnehmen; eine **Entzündung** unterstützt die Abwehr."
+    },
+    {
+      "id": "5",
+      "nr": "5",
+      "gruppe": "Anwenden und verstehen",
+      "kurz": "Erworbene Abwehr und Gedächtnis",
+      "text": "Ich kann spezifische Abwehr, Antikörper und Gedächtniszellen erklären.",
+      "frage": "Wie kannst du spezifische Abwehr, Antikörper und Gedächtniszellen erklären?",
+      "antwort": "Die **erworbene Abwehr** reagiert gezielt auf Erregermerkmale, die **Antigene**. Bestimmte B-Zellen entwickeln sich zu Plasmazellen, die passende **Antikörper** bilden. Andere Abwehrzellen bekämpfen infizierte Körperzellen. **Gedächtniszellen** ermöglichen spätere schnellere Antworten."
+    },
+    {
+      "id": "6",
+      "nr": "6",
+      "gruppe": "Anwenden und verstehen",
+      "kurz": "Aktive und passive Immunisierung",
+      "text": "Ich kann aktive und passive Immunisierung grundsätzlich unterscheiden.",
+      "frage": "Wie kannst du aktive und passive Immunisierung grundsätzlich unterscheiden?",
+      "antwort": "**Aktive Immunisierung:** Das eigene Immunsystem wird durch einen Impfstoff zur gezielten Abwehr und Gedächtnisbildung angeregt. Das braucht Zeit. **Passive Immunisierung:** Fertige Antikörper werden zugeführt; sie können rasch wirken, bauen aber selbst kein dauerhaftes Immungedächtnis auf."
+    },
+    {
+      "id": "7",
+      "nr": "7",
+      "gruppe": "Zusammenhänge und Kontrolle",
+      "kurz": "Antibiotika und Resistenz",
+      "text": "Ich kann erklären, gegen welche Erreger Antibiotika wirken und wie Resistenz entsteht.",
+      "frage": "Wie kannst du erklären, gegen welche Erreger Antibiotika wirken und wie Resistenz entsteht?",
+      "antwort": "**Antibiotika** wirken gegen bestimmte Bakterien, nicht gegen Viren. **Resistente Bakterien** sind gegen ein Antibiotikum unempfindlich. Bei einer Behandlung können empfindliche Bakterien absterben, während resistente überleben und sich vermehren."
+    },
+    {
+      "id": "8",
+      "nr": "8",
+      "gruppe": "Zusammenhänge und Kontrolle",
+      "kurz": "Daten und Vorbeugung beurteilen",
+      "text": "Ich kann einfache Gesundheitsdaten vergleichen und passende Vorbeugemassnahmen begründen.",
+      "frage": "Wie kannst du einfache Gesundheitsdaten vergleichen und passende Vorbeugemassnahmen begründen?",
+      "antwort": "Vergleiche bei Daten **Anteile statt nur absolute Zahlen**, wenn Gruppen unterschiedlich gross sind. Eine beobachtete Verbindung beweist nicht automatisch eine Ursache. Vorbeugung soll zu einem konkreten Übertragungsweg oder Risikofaktor passen."
+    }
+  ],
+  "lernen": [
+    {
+      "id": "lz-1",
+      "titel": "Gesundheit und Einflussfaktoren",
+      "lernziele": [
+        "1"
+      ],
+      "intro": "Ich kann körperliche, psychische und soziale Einflüsse auf Gesundheit unterscheiden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Gesundheit umfasst körperliches und psychisches Wohlbefinden sowie soziale Bedingungen. **Infektionskrankheiten** werden durch übertragbare Erreger ausgelöst. Viele andere Erkrankungen haben andere oder mehrere Ursachen. Umwelt, Verhalten, Veranlagung und Lebensbedingungen können zusammenwirken."
+        },
+        {
+          "t": "p",
+          "text": "Ein Risikofaktor erhöht eine Wahrscheinlichkeit, bestimmt aber nicht allein, ob jemand erkrankt. Niemand lässt sich allein wegen einer Krankheit auf persönliches Verhalten reduzieren. Schutzfaktoren sind etwa Schlaf, Bewegung und tragfähige Beziehungen."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Schlafmangel wirkt körperlich und psychisch. Sauberes Trinkwasser und unterstützende Beziehungen sind Beispiele für gesundheitsfördernde Bedingungen."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Krankheit ist nicht immer ansteckend und nicht einfach persönliches Versagen."
+        }
+      ]
+    },
+    {
+      "id": "lz-2",
+      "titel": "Erreger unterscheiden",
+      "lernziele": [
+        "2"
+      ],
+      "intro": "Ich kann Bakterien und Viren vergleichen und weitere Erregergruppen nennen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "**Bakterien** sind eigenständige Zellen mit Stoffwechsel und können sich durch Teilung vermehren. **Viren** besitzen keinen eigenen vollständigen Stoffwechsel und brauchen Wirtszellen zur Vermehrung. Auch bestimmte Pilze und Parasiten können Krankheiten auslösen."
+        },
+        {
+          "t": "p",
+          "text": "Nicht alle Mikroorganismen sind krankmachend. Viele Bakterien leben nützlich im Darm oder auf der Haut. Viren sind keine kleinen Bakterien; ihre Vermehrung greift auf Vorgänge in befallenen Zellen zurück."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Influenza wird durch Viren verursacht. Bestimmte Bakterien können Lungenentzündungen verursachen. Die Krankheit allein sagt jedoch nicht in jedem Fall eindeutig, welche Erregergruppe beteiligt ist."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Antibiotika wirken nicht gegen Viren. Nicht jede Bakterienart muss bekämpft werden."
+        }
+      ]
+    },
+    {
+      "id": "lz-3",
+      "titel": "Übertragungswege",
+      "lernziele": [
+        "3"
+      ],
+      "intro": "Ich kann wichtige Infektionswege beschreiben und passende Unterbrechungen nennen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Erreger können unter anderem über **Atemluft**, **direkten Kontakt**, **Lebensmittel oder Wasser**, **Blut oder Sexualkontakte** sowie durch bestimmte Tiere übertragen werden. Welche Wege wichtig sind, hängt vom jeweiligen Erreger ab."
+        },
+        {
+          "t": "p",
+          "text": "Eine Infektionskette umfasst eine Quelle, einen Übertragungsweg und einen empfänglichen Menschen. Eine Massnahme wirkt dort, wo sie einen passenden Weg unterbricht. Hände waschen unterbricht Kontaktwege; Lüften verringert die Konzentration luftgetragener Partikel in Innenräumen."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Kontakt mit verunreinigten Händen → Schleimhäute berühren → möglicher Erregereintritt. Händehygiene kann diesen Weg unterbrechen."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Ein und dieselbe Massnahme verhindert nicht automatisch jede Art der Übertragung."
+        }
+      ]
+    },
+    {
+      "id": "lz-4",
+      "titel": "Angeborene Abwehr",
+      "lernziele": [
+        "4"
+      ],
+      "intro": "Ich kann Barrieren und die angeborene Immunabwehr erklären.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "**Haut und Schleimhäute** bilden Barrieren. Schleim und Flimmerhärchen helfen, Erreger abzutransportieren. Magensäure erschwert vielen Erregern das Überleben. Dringen sie ein, können **Fresszellen** sie aufnehmen; eine **Entzündung** unterstützt die Abwehr."
+        },
+        {
+          "t": "bild",
+          "src": "content/img/prisma/gesundheit-krankheit.svg",
+          "alt": "Erreger, Übertragung, Abwehr und Vorbeugung - beschriftete Lernskizze",
+          "caption": "Eigene vereinfachte Skizze; nicht massstabsgetreu."
+        },
+        {
+          "t": "p",
+          "text": "Die angeborene Abwehr reagiert rasch auf typische Erregermerkmale. Rötung, Wärme und Schwellung können zu einer Entzündung gehören. Diese Merkmale beweisen für sich allein keine bestimmte Krankheit oder Erregerart."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Nach einem kleinen Hautdefekt werden Abwehrzellen zum Ort gelockt. Fresszellen nehmen eingedrungene Mikroorganismen auf."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Eine Entzündung ist nicht mit einer Infektion gleichzusetzen. Entzündungen können auch ohne Erreger entstehen."
+        }
+      ]
+    },
+    {
+      "id": "lz-5",
+      "titel": "Erworbene Abwehr und Gedächtnis",
+      "lernziele": [
+        "5"
+      ],
+      "intro": "Ich kann spezifische Abwehr, Antikörper und Gedächtniszellen erklären.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Die **erworbene Abwehr** reagiert gezielt auf Erregermerkmale, die **Antigene**. Bestimmte B-Zellen entwickeln sich zu Plasmazellen, die passende **Antikörper** bilden. Andere Abwehrzellen bekämpfen infizierte Körperzellen. **Gedächtniszellen** ermöglichen spätere schnellere Antworten."
+        },
+        {
+          "t": "p",
+          "text": "Die erste passende Immunantwort braucht Zeit. Antikörper können Erregerbestandteile binden, neutralisieren oder für andere Abwehrmechanismen markieren. Sie wirken nicht pauschal gegen jede Krankheit."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Beim erneuten Kontakt mit einem bekannten Antigen können Gedächtniszellen eine raschere Reaktion ermöglichen. Das ist eine Grundlage für aktives Impfen."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Antikörper sind keine Erreger. Ein einmaliger Kontakt schützt nicht zwangsläufig lebenslang."
+        }
+      ]
+    },
+    {
+      "id": "lz-6",
+      "titel": "Aktive und passive Immunisierung",
+      "lernziele": [
+        "6"
+      ],
+      "intro": "Ich kann aktive und passive Immunisierung grundsätzlich unterscheiden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "**Aktive Immunisierung:** Das eigene Immunsystem wird durch einen Impfstoff zur gezielten Abwehr und Gedächtnisbildung angeregt. Das braucht Zeit. **Passive Immunisierung:** Fertige Antikörper werden zugeführt; sie können rasch wirken, bauen aber selbst kein dauerhaftes Immungedächtnis auf."
+        },
+        {
+          "t": "p",
+          "text": "Wie stark und wie lange eine aktive Impfung schützt, hängt unter anderem vom Erreger und Impfstoff ab. Impfungen zielen auf bestimmte Krankheiten, nicht auf alle Erreger zugleich. Schutz vor schwerer Erkrankung und Schutz vor Ansteckung sind unterschiedliche Wirkungen."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Aktiv: Der Körper lernt ein Merkmal kennen und bildet eigene Abwehr. Passiv: Bereits hergestellte Antikörper werden bereitgestellt."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Aktive Impfung ist nicht dasselbe wie eine Antibiotikabehandlung. Nicht jede Impfung verhindert jede Ansteckung."
+        }
+      ]
+    },
+    {
+      "id": "lz-7",
+      "titel": "Antibiotika und Resistenz",
+      "lernziele": [
+        "7"
+      ],
+      "intro": "Ich kann erklären, gegen welche Erreger Antibiotika wirken und wie Resistenz entsteht.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "**Antibiotika** wirken gegen bestimmte Bakterien, nicht gegen Viren. **Resistente Bakterien** sind gegen ein Antibiotikum unempfindlich. Bei einer Behandlung können empfindliche Bakterien absterben, während resistente überleben und sich vermehren."
+        },
+        {
+          "t": "p",
+          "text": "Resistent werden die Bakterien, nicht die behandelte Person. Unnötiger oder falscher Einsatz kann die Auswahl resistenter Bakterien begünstigen. Antibiotika werden nur gemäss ärztlicher Verordnung verwendet."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Eine virale Grippe wird nicht durch Antibiotika gegen die Viren geheilt. Bei einer bakteriellen Infektion kann je nach Erreger ein passendes Antibiotikum eingesetzt werden."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Antibiotika sind keine allgemeine Medizin gegen jede Infektion. Resistenz bedeutet nicht, dass der menschliche Körper das Medikament „gewohnt“ ist."
+        }
+      ]
+    },
+    {
+      "id": "lz-8",
+      "titel": "Daten und Vorbeugung beurteilen",
+      "lernziele": [
+        "8"
+      ],
+      "intro": "Ich kann einfache Gesundheitsdaten vergleichen und passende Vorbeugemassnahmen begründen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Vergleiche bei Daten **Anteile statt nur absolute Zahlen**, wenn Gruppen unterschiedlich gross sind. Eine beobachtete Verbindung beweist nicht automatisch eine Ursache. Vorbeugung soll zu einem konkreten Übertragungsweg oder Risikofaktor passen."
+        },
+        {
+          "t": "p",
+          "text": "Für einen fairen Vergleich müssen Gruppen und Beobachtungszeiträume vergleichbar sein. Testhäufigkeit oder verschiedene Altersgruppen können Ergebnisse beeinflussen. Schulbeispiele mit erfundenen Zahlen sind Rechenübungen, keine aktuellen Studien."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Erfundene Daten: 10 Erkrankte von 100 sind 10 %. 10 von 200 sind 5 %. Gleiche Fallzahl, aber unterschiedlicher Anteil."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Eine grössere Fallzahl beweist ohne Bezug zur Gruppengrösse kein höheres Risiko."
+        }
+      ]
+    },
+    {
+      "id": "lernspick",
+      "titel": "Lernspick: alle Lernziele mit Kurzantwort",
+      "lernziele": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "intro": "Eigene Lernziele: mit den schulischen Vorgaben abgleichen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "1. Gesundheit und Einflussfaktoren",
+          "text": "Gesundheit umfasst körperliches und psychisches Wohlbefinden sowie soziale Bedingungen. **Infektionskrankheiten** werden durch übertragbare Erreger ausgelöst. Viele andere Erkrankungen haben andere oder mehrere Ursachen. Umwelt, Verhalten, Veranlagung und Lebensbedingungen können zusammenwirken."
+        },
+        {
+          "t": "merke",
+          "titel": "2. Erreger unterscheiden",
+          "text": "**Bakterien** sind eigenständige Zellen mit Stoffwechsel und können sich durch Teilung vermehren. **Viren** besitzen keinen eigenen vollständigen Stoffwechsel und brauchen Wirtszellen zur Vermehrung. Auch bestimmte Pilze und Parasiten können Krankheiten auslösen."
+        },
+        {
+          "t": "merke",
+          "titel": "3. Übertragungswege",
+          "text": "Erreger können unter anderem über **Atemluft**, **direkten Kontakt**, **Lebensmittel oder Wasser**, **Blut oder Sexualkontakte** sowie durch bestimmte Tiere übertragen werden. Welche Wege wichtig sind, hängt vom jeweiligen Erreger ab."
+        },
+        {
+          "t": "merke",
+          "titel": "4. Angeborene Abwehr",
+          "text": "**Haut und Schleimhäute** bilden Barrieren. Schleim und Flimmerhärchen helfen, Erreger abzutransportieren. Magensäure erschwert vielen Erregern das Überleben. Dringen sie ein, können **Fresszellen** sie aufnehmen; eine **Entzündung** unterstützt die Abwehr."
+        },
+        {
+          "t": "merke",
+          "titel": "5. Erworbene Abwehr und Gedächtnis",
+          "text": "Die **erworbene Abwehr** reagiert gezielt auf Erregermerkmale, die **Antigene**. Bestimmte B-Zellen entwickeln sich zu Plasmazellen, die passende **Antikörper** bilden. Andere Abwehrzellen bekämpfen infizierte Körperzellen. **Gedächtniszellen** ermöglichen spätere schnellere Antworten."
+        },
+        {
+          "t": "merke",
+          "titel": "6. Aktive und passive Immunisierung",
+          "text": "**Aktive Immunisierung:** Das eigene Immunsystem wird durch einen Impfstoff zur gezielten Abwehr und Gedächtnisbildung angeregt. Das braucht Zeit. **Passive Immunisierung:** Fertige Antikörper werden zugeführt; sie können rasch wirken, bauen aber selbst kein dauerhaftes Immungedächtnis auf."
+        },
+        {
+          "t": "merke",
+          "titel": "7. Antibiotika und Resistenz",
+          "text": "**Antibiotika** wirken gegen bestimmte Bakterien, nicht gegen Viren. **Resistente Bakterien** sind gegen ein Antibiotikum unempfindlich. Bei einer Behandlung können empfindliche Bakterien absterben, während resistente überleben und sich vermehren."
+        },
+        {
+          "t": "merke",
+          "titel": "8. Daten und Vorbeugung beurteilen",
+          "text": "Vergleiche bei Daten **Anteile statt nur absolute Zahlen**, wenn Gruppen unterschiedlich gross sind. Eine beobachtete Verbindung beweist nicht automatisch eine Ursache. Vorbeugung soll zu einem konkreten Übertragungsweg oder Risikofaktor passen."
+        }
+      ]
+    }
+  ],
+  "karten": [
+    {
+      "vorne": "Infektion",
+      "hinten": "Erreger dringen ein und vermehren sich"
+    },
+    {
+      "vorne": "Bakterium",
+      "hinten": "Zelle mit eigenem Stoffwechsel"
+    },
+    {
+      "vorne": "Virus",
+      "hinten": "benötigt Wirtszellen zur Vermehrung"
+    },
+    {
+      "vorne": "Barriere",
+      "hinten": "erschwert das Eindringen von Erregern"
+    },
+    {
+      "vorne": "Fresszelle",
+      "hinten": "nimmt unter anderem Erreger auf"
+    },
+    {
+      "vorne": "Antigen",
+      "hinten": "erkennbares Merkmal"
+    },
+    {
+      "vorne": "Antikörper",
+      "hinten": "bindet passend zu einem bestimmten Antigen"
+    },
+    {
+      "vorne": "Gedächtniszelle",
+      "hinten": "ermöglicht raschere spätere Immunantwort"
+    },
+    {
+      "vorne": "Aktive Immunisierung",
+      "hinten": "regt die eigene Abwehr und Gedächtnisbildung an"
+    },
+    {
+      "vorne": "Passive Immunisierung",
+      "hinten": "führt fertige Antikörper zu"
+    },
+    {
+      "vorne": "Antibiotikum",
+      "hinten": "wirkt gegen bestimmte Bakterien, nicht gegen Viren"
+    },
+    {
+      "vorne": "Resistenz",
+      "hinten": "Unempfindlichkeit von Erregern gegen ein Mittel"
+    }
+  ],
+  "uebungen": [
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage stimmt?",
+      "optionen": [
+        "Jede Krankheit ist ansteckend.",
+        "Gesundheit hat körperliche, psychische und soziale Aspekte.",
+        "Ein Risikofaktor führt immer zur Krankheit."
+      ],
+      "richtig": 1,
+      "id": "u1-1",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Gesundheit umfasst körperliches und psychisches Wohlbefinden sowie soziale Bedingungen. **Infektionskrankheiten** werden durch übertragbare Erreger ausgelöst. Viele andere Erkrankungen haben andere oder mehrere Ursachen. Umwelt, Verhalten, Veranlagung und Lebensbedingungen können zusammenwirken."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne den Schwerpunkt zu.",
+      "paare": [
+        [
+          "Ausdauer",
+          "körperlich"
+        ],
+        [
+          "Gefühle verarbeiten",
+          "psychisch"
+        ],
+        [
+          "Unterstützende Beziehungen",
+          "sozial"
+        ]
+      ],
+      "id": "u1-2",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Gesundheit umfasst körperliches und psychisches Wohlbefinden sowie soziale Bedingungen. **Infektionskrankheiten** werden durch übertragbare Erreger ausgelöst. Viele andere Erkrankungen haben andere oder mehrere Ursachen. Umwelt, Verhalten, Veranlagung und Lebensbedingungen können zusammenwirken."
+    },
+    {
+      "id": "u1-3",
+      "typ": "offen",
+      "lernziel": "1",
+      "frage": "Nenne je einen körperlichen, psychischen und sozialen Schutzfaktor.",
+      "musterloesung": "Zum Beispiel Bewegung, gute Erholung beziehungsweise Umgang mit Belastung und verlässliche soziale Unterstützung.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "Gesundheit umfasst körperliches und psychisches Wohlbefinden sowie soziale Bedingungen. **Infektionskrankheiten** werden durch übertragbare Erreger ausgelöst. Viele andere Erkrankungen haben andere oder mehrere Ursachen. Umwelt, Verhalten, Veranlagung und Lebensbedingungen können zusammenwirken."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Erreger brauchen Wirtszellen zur Vermehrung?",
+      "optionen": [
+        "Viren",
+        "Alle Bakterien",
+        "Alle Pilze"
+      ],
+      "richtig": 0,
+      "id": "u2-1",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "**Bakterien** sind eigenständige Zellen mit Stoffwechsel und können sich durch Teilung vermehren. **Viren** besitzen keinen eigenen vollständigen Stoffwechsel und brauchen Wirtszellen zur Vermehrung. Auch bestimmte Pilze und Parasiten können Krankheiten auslösen."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne zu.",
+      "paare": [
+        [
+          "Bakterium",
+          "Zelle mit eigenem Stoffwechsel"
+        ],
+        [
+          "Virus",
+          "Vermehrung nur mithilfe einer Wirtszelle"
+        ],
+        [
+          "Darmbakterien",
+          "können nützlich sein"
+        ]
+      ],
+      "id": "u2-2",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "**Bakterien** sind eigenständige Zellen mit Stoffwechsel und können sich durch Teilung vermehren. **Viren** besitzen keinen eigenen vollständigen Stoffwechsel und brauchen Wirtszellen zur Vermehrung. Auch bestimmte Pilze und Parasiten können Krankheiten auslösen."
+    },
+    {
+      "id": "u2-3",
+      "typ": "offen",
+      "lernziel": "2",
+      "frage": "Vergleiche Bakterium und Virus nach Zellaufbau und Vermehrung.",
+      "musterloesung": "Bakterium: eigene Zelle, Teilung. Virus: keine eigene Zelle, nutzt Wirtszelle zur Vermehrung.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "**Bakterien** sind eigenständige Zellen mit Stoffwechsel und können sich durch Teilung vermehren. **Viren** besitzen keinen eigenen vollständigen Stoffwechsel und brauchen Wirtszellen zur Vermehrung. Auch bestimmte Pilze und Parasiten können Krankheiten auslösen."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Massnahme passt besonders zu luftgetragenen Erregern in Innenräumen?",
+      "optionen": [
+        "Lüften",
+        "Nur Trinkwasser abkochen",
+        "Ausschliesslich Schuhe reinigen"
+      ],
+      "richtig": 0,
+      "id": "u3-1",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Erreger können unter anderem über **Atemluft**, **direkten Kontakt**, **Lebensmittel oder Wasser**, **Blut oder Sexualkontakte** sowie durch bestimmte Tiere übertragen werden. Welche Wege wichtig sind, hängt vom jeweiligen Erreger ab."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne Übertragungsweg und passende Massnahme zu.",
+      "paare": [
+        [
+          "Kontakt über Hände",
+          "Hände waschen"
+        ],
+        [
+          "Verunreinigtes Trinkwasser",
+          "Wasser hygienisch aufbereiten"
+        ],
+        [
+          "Erreger in der Raumluft",
+          "Lüften"
+        ]
+      ],
+      "id": "u3-2",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Erreger können unter anderem über **Atemluft**, **direkten Kontakt**, **Lebensmittel oder Wasser**, **Blut oder Sexualkontakte** sowie durch bestimmte Tiere übertragen werden. Welche Wege wichtig sind, hängt vom jeweiligen Erreger ab."
+    },
+    {
+      "id": "u3-3",
+      "typ": "offen",
+      "lernziel": "3",
+      "frage": "Beschreibe eine Infektionskette und eine Stelle, an der sie unterbrochen werden kann.",
+      "musterloesung": "Zum Beispiel Quelle mit verunreinigten Händen → direkter Kontakt → Schleimhaut; Unterbrechung durch Händehygiene.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "Erreger können unter anderem über **Atemluft**, **direkten Kontakt**, **Lebensmittel oder Wasser**, **Blut oder Sexualkontakte** sowie durch bestimmte Tiere übertragen werden. Welche Wege wichtig sind, hängt vom jeweiligen Erreger ab."
+    },
+    {
+      "typ": "mc",
+      "frage": "Was gehört zur angeborenen Abwehr?",
+      "optionen": [
+        "Hautbarriere und Fresszellen",
+        "Nur Gedächtniszellen",
+        "Nur Impfstoffe"
+      ],
+      "richtig": 0,
+      "id": "u4-1",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "**Haut und Schleimhäute** bilden Barrieren. Schleim und Flimmerhärchen helfen, Erreger abzutransportieren. Magensäure erschwert vielen Erregern das Überleben. Dringen sie ein, können **Fresszellen** sie aufnehmen; eine **Entzündung** unterstützt die Abwehr."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne die Schutzfunktion zu.",
+      "paare": [
+        [
+          "Haut",
+          "äussere Barriere"
+        ],
+        [
+          "Schleim und Flimmerhärchen",
+          "Teilchen abfangen und abtransportieren"
+        ],
+        [
+          "Fresszellen",
+          "Erreger aufnehmen"
+        ]
+      ],
+      "id": "u4-2",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "**Haut und Schleimhäute** bilden Barrieren. Schleim und Flimmerhärchen helfen, Erreger abzutransportieren. Magensäure erschwert vielen Erregern das Überleben. Dringen sie ein, können **Fresszellen** sie aufnehmen; eine **Entzündung** unterstützt die Abwehr."
+    },
+    {
+      "id": "u4-3",
+      "typ": "offen",
+      "lernziel": "4",
+      "frage": "Nenne zwei äussere Barrieren und eine innere angeborene Abwehrreaktion.",
+      "musterloesung": "Zum Beispiel Haut, Schleimhäute sowie Fresszellen beziehungsweise Entzündungsreaktion.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "**Haut und Schleimhäute** bilden Barrieren. Schleim und Flimmerhärchen helfen, Erreger abzutransportieren. Magensäure erschwert vielen Erregern das Überleben. Dringen sie ein, können **Fresszellen** sie aufnehmen; eine **Entzündung** unterstützt die Abwehr."
+    },
+    {
+      "typ": "mc",
+      "frage": "Was ist eine wichtige Aufgabe von Gedächtniszellen?",
+      "optionen": [
+        "Bei erneutem Kontakt schneller passende Abwehr ermöglichen",
+        "Alle Erreger gleichzeitig erzeugen",
+        "Sauerstoff transportieren"
+      ],
+      "richtig": 0,
+      "id": "u5-1",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Die **erworbene Abwehr** reagiert gezielt auf Erregermerkmale, die **Antigene**. Bestimmte B-Zellen entwickeln sich zu Plasmazellen, die passende **Antikörper** bilden. Andere Abwehrzellen bekämpfen infizierte Körperzellen. **Gedächtniszellen** ermöglichen spätere schnellere Antworten."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne zu.",
+      "paare": [
+        [
+          "Antigen",
+          "erkennbares Erregermerkmal"
+        ],
+        [
+          "Antikörper",
+          "passt gezielt zu einem Antigen"
+        ],
+        [
+          "Gedächtniszelle",
+          "bleibt nach der Abwehr erhalten"
+        ]
+      ],
+      "id": "u5-2",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Die **erworbene Abwehr** reagiert gezielt auf Erregermerkmale, die **Antigene**. Bestimmte B-Zellen entwickeln sich zu Plasmazellen, die passende **Antikörper** bilden. Andere Abwehrzellen bekämpfen infizierte Körperzellen. **Gedächtniszellen** ermöglichen spätere schnellere Antworten."
+    },
+    {
+      "id": "u5-3",
+      "typ": "offen",
+      "lernziel": "5",
+      "frage": "Erkläre, warum ein zweiter Kontakt oft eine schnellere Abwehr auslöst.",
+      "musterloesung": "Passende Gedächtniszellen sind bereits vorhanden und ermöglichen rascher eine gezielte Immunantwort.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "Die **erworbene Abwehr** reagiert gezielt auf Erregermerkmale, die **Antigene**. Bestimmte B-Zellen entwickeln sich zu Plasmazellen, die passende **Antikörper** bilden. Andere Abwehrzellen bekämpfen infizierte Körperzellen. **Gedächtniszellen** ermöglichen spätere schnellere Antworten."
+    },
+    {
+      "typ": "mc",
+      "frage": "Bei welcher Form werden fertige Antikörper gegeben?",
+      "optionen": [
+        "Passiver Immunisierung",
+        "Aktiver Immunisierung",
+        "Jeder Antibiotikabehandlung"
+      ],
+      "richtig": 0,
+      "id": "u6-1",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "**Aktive Immunisierung:** Das eigene Immunsystem wird durch einen Impfstoff zur gezielten Abwehr und Gedächtnisbildung angeregt. Das braucht Zeit. **Passive Immunisierung:** Fertige Antikörper werden zugeführt; sie können rasch wirken, bauen aber selbst kein dauerhaftes Immungedächtnis auf."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne zu.",
+      "paare": [
+        [
+          "Aktiv",
+          "Körper bildet selbst spezifische Abwehr"
+        ],
+        [
+          "Passiv",
+          "fertige Antikörper werden gegeben"
+        ],
+        [
+          "Gedächtnisbildung",
+          "typisches Ziel aktiver Immunisierung"
+        ]
+      ],
+      "id": "u6-2",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "**Aktive Immunisierung:** Das eigene Immunsystem wird durch einen Impfstoff zur gezielten Abwehr und Gedächtnisbildung angeregt. Das braucht Zeit. **Passive Immunisierung:** Fertige Antikörper werden zugeführt; sie können rasch wirken, bauen aber selbst kein dauerhaftes Immungedächtnis auf."
+    },
+    {
+      "id": "u6-3",
+      "typ": "offen",
+      "lernziel": "6",
+      "frage": "Vergleiche aktiv und passiv nach Herkunft der Antikörper und Gedächtnisbildung.",
+      "musterloesung": "Aktiv: eigene Abwehr und Gedächtniszellen. Passiv: zugeführte Antikörper, dadurch kein eigenes dauerhaftes Immungedächtnis.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "**Aktive Immunisierung:** Das eigene Immunsystem wird durch einen Impfstoff zur gezielten Abwehr und Gedächtnisbildung angeregt. Das braucht Zeit. **Passive Immunisierung:** Fertige Antikörper werden zugeführt; sie können rasch wirken, bauen aber selbst kein dauerhaftes Immungedächtnis auf."
+    },
+    {
+      "typ": "mc",
+      "frage": "Was kann gegen ein Antibiotikum resistent werden?",
+      "optionen": [
+        "Bakterien",
+        "Die Person als Ganzes",
+        "Das Fieber"
+      ],
+      "richtig": 0,
+      "id": "u7-1",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "**Antibiotika** wirken gegen bestimmte Bakterien, nicht gegen Viren. **Resistente Bakterien** sind gegen ein Antibiotikum unempfindlich. Bei einer Behandlung können empfindliche Bakterien absterben, während resistente überleben und sich vermehren."
+    },
+    {
+      "typ": "reihenfolge",
+      "frage": "Ordne die vereinfachte Auswahl resistenter Bakterien.",
+      "items": [
+        "Bakterien mit unterschiedlicher Empfindlichkeit vorhanden",
+        "Antibiotikum wirkt auf die Population",
+        "Empfindliche sterben, resistente können überleben",
+        "Überlebende resistente Bakterien vermehren sich"
+      ],
+      "id": "u7-2",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "**Antibiotika** wirken gegen bestimmte Bakterien, nicht gegen Viren. **Resistente Bakterien** sind gegen ein Antibiotikum unempfindlich. Bei einer Behandlung können empfindliche Bakterien absterben, während resistente überleben und sich vermehren."
+    },
+    {
+      "id": "u7-3",
+      "typ": "offen",
+      "lernziel": "7",
+      "frage": "Korrigiere: «Antibiotika töten Grippeviren. Nach häufiger Einnahme wird die Person resistent.»",
+      "musterloesung": "Antibiotika wirken nicht gegen Grippeviren. Bestimmte Bakterien können resistent sein beziehungsweise ausgewählt werden.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "**Antibiotika** wirken gegen bestimmte Bakterien, nicht gegen Viren. **Resistente Bakterien** sind gegen ein Antibiotikum unempfindlich. Bei einer Behandlung können empfindliche Bakterien absterben, während resistente überleben und sich vermehren."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Gruppe hat im erfundenen Beispiel den höheren Erkranktenanteil?",
+      "optionen": [
+        "10 von 100",
+        "10 von 200",
+        "Beide gleich"
+      ],
+      "richtig": 0,
+      "id": "u8-1",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Vergleiche bei Daten **Anteile statt nur absolute Zahlen**, wenn Gruppen unterschiedlich gross sind. Eine beobachtete Verbindung beweist nicht automatisch eine Ursache. Vorbeugung soll zu einem konkreten Übertragungsweg oder Risikofaktor passen."
+    },
+    {
+      "typ": "zahl",
+      "frage": "In einer erfundenen Gruppe erkranken 6 von 120 Personen. Wie viel Prozent sind das?",
+      "antwort": 5,
+      "einheit": "%",
+      "toleranz": 0.01,
+      "id": "u8-2",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Vergleiche bei Daten **Anteile statt nur absolute Zahlen**, wenn Gruppen unterschiedlich gross sind. Eine beobachtete Verbindung beweist nicht automatisch eine Ursache. Vorbeugung soll zu einem konkreten Übertragungsweg oder Risikofaktor passen."
+    },
+    {
+      "id": "u8-3",
+      "typ": "offen",
+      "lernziel": "8",
+      "frage": "Vergleiche 8 von 80 und 12 von 240 Erkrankten. Welche Gruppe hat den höheren Anteil?",
+      "musterloesung": "8/80 = 10 %; 12/240 = 5 %. Die erste Gruppe hat den höheren Anteil, obwohl es weniger Fälle sind.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "Vergleiche bei Daten **Anteile statt nur absolute Zahlen**, wenn Gruppen unterschiedlich gross sind. Eine beobachtete Verbindung beweist nicht automatisch eine Ursache. Vorbeugung soll zu einem konkreten Übertragungsweg oder Risikofaktor passen."
+    }
+  ],
+  "pruefungen": [
+    {
+      "id": "test-32",
+      "titel": "Gesundheit und Krankheit - Testprüfung",
+      "richtzeit": 45,
+      "hinweis": "32 Punkte. Grundlagenprüfung zu selbst formulierten Lernzielen; noch kein Abgleich mit den Prüfungszielen der Schule. Zeichnungen auf Papier. Offene Aufgaben anhand der Kriterien selbst bewerten.",
+      "aufgaben": [
+        {
+          "id": "p1",
+          "nr": "1",
+          "typ": "offen",
+          "lernziel": "1",
+          "titel": "Gesundheit und Einflussfaktoren",
+          "frage": "Nenne die drei Gesundheitsbereiche mit je einem Beispiel. Erkläre zusätzlich, was ein Risikofaktor bedeutet.",
+          "punkte": 4,
+          "musterloesung": "Körperlich mit passendem Beispiel\nPsychisch mit passendem Beispiel\nSozial mit passendem Beispiel\nRisikofaktor erhöht eine Wahrscheinlichkeit, ist keine sichere Vorhersage",
+          "kriterien": [
+            {
+              "text": "Körperlich mit passendem Beispiel",
+              "punkte": 1
+            },
+            {
+              "text": "Psychisch mit passendem Beispiel",
+              "punkte": 1
+            },
+            {
+              "text": "Sozial mit passendem Beispiel",
+              "punkte": 1
+            },
+            {
+              "text": "Risikofaktor erhöht eine Wahrscheinlichkeit, ist keine sichere Vorhersage",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p2",
+          "nr": "2",
+          "typ": "offen",
+          "lernziel": "2",
+          "titel": "Erreger unterscheiden",
+          "frage": "Nenne je zwei Unterschiede zwischen Bakterien und Viren.",
+          "punkte": 4,
+          "musterloesung": "Bakterien sind Zellen\nBakterien besitzen einen eigenen Stoffwechsel\nViren sind keine eigenen Zellen\nViren brauchen Wirtszellen zur Vermehrung",
+          "kriterien": [
+            {
+              "text": "Bakterien sind Zellen",
+              "punkte": 1
+            },
+            {
+              "text": "Bakterien besitzen einen eigenen Stoffwechsel",
+              "punkte": 1
+            },
+            {
+              "text": "Viren sind keine eigenen Zellen",
+              "punkte": 1
+            },
+            {
+              "text": "Viren brauchen Wirtszellen zur Vermehrung",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p3",
+          "nr": "3",
+          "typ": "offen",
+          "lernziel": "3",
+          "titel": "Übertragungswege",
+          "frage": "Beschreibe eine Kontaktinfektion und eine luftgetragene Übertragung. Nenne je eine passende Vorbeugemassnahme.",
+          "punkte": 4,
+          "musterloesung": "Kontaktweg nachvollziehbar beschrieben\nPassende Händehygiene oder Kontaktmassnahme\nLuftgetragener Weg nachvollziehbar beschrieben\nPassendes Lüften oder andere Massnahme gegen eingeatmete Erreger",
+          "kriterien": [
+            {
+              "text": "Kontaktweg nachvollziehbar beschrieben",
+              "punkte": 1
+            },
+            {
+              "text": "Passende Händehygiene oder Kontaktmassnahme",
+              "punkte": 1
+            },
+            {
+              "text": "Luftgetragener Weg nachvollziehbar beschrieben",
+              "punkte": 1
+            },
+            {
+              "text": "Passendes Lüften oder andere Massnahme gegen eingeatmete Erreger",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p4",
+          "nr": "4",
+          "typ": "offen",
+          "lernziel": "4",
+          "titel": "Angeborene Abwehr",
+          "frage": "Erkläre zwei Barrieren, die Wirkung von Fresszellen und die Aufgabe einer Entzündungsreaktion.",
+          "punkte": 4,
+          "musterloesung": "Haut erschwert das Eindringen\nSchleimhaut beziehungsweise Flimmerhärchen fangen ab und transportieren weg\nFresszellen nehmen Erreger auf\nEntzündung unterstützt die Abwehr am betroffenen Ort",
+          "kriterien": [
+            {
+              "text": "Haut erschwert das Eindringen",
+              "punkte": 1
+            },
+            {
+              "text": "Schleimhaut beziehungsweise Flimmerhärchen fangen ab und transportieren weg",
+              "punkte": 1
+            },
+            {
+              "text": "Fresszellen nehmen Erreger auf",
+              "punkte": 1
+            },
+            {
+              "text": "Entzündung unterstützt die Abwehr am betroffenen Ort",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p5",
+          "nr": "5",
+          "typ": "offen",
+          "lernziel": "5",
+          "titel": "Erworbene Abwehr und Gedächtnis",
+          "frage": "Erkläre die Begriffe Antigen, Antikörper, spezifisch und Gedächtniszelle.",
+          "punkte": 4,
+          "musterloesung": "Antigen = erkennbares Merkmal\nAntikörper bindet zu einem passenden Antigen\nSpezifisch = gezielt passend, nicht beliebig gegen alles\nGedächtniszellen ermöglichen raschere spätere Reaktion",
+          "kriterien": [
+            {
+              "text": "Antigen = erkennbares Merkmal",
+              "punkte": 1
+            },
+            {
+              "text": "Antikörper bindet zu einem passenden Antigen",
+              "punkte": 1
+            },
+            {
+              "text": "Spezifisch = gezielt passend, nicht beliebig gegen alles",
+              "punkte": 1
+            },
+            {
+              "text": "Gedächtniszellen ermöglichen raschere spätere Reaktion",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p6",
+          "nr": "6",
+          "typ": "offen",
+          "lernziel": "6",
+          "titel": "Aktive und passive Immunisierung",
+          "frage": "Vergleiche aktive und passive Immunisierung: eigene Abwehr, Beginn der Wirkung und Gedächtnisbildung.",
+          "punkte": 4,
+          "musterloesung": "Aktiv regt die eigene Abwehr an\nAktiver Schutzaufbau braucht Zeit\nPassiv führt fertige Antikörper für rasche Wirkung zu\nPassive Gabe erzeugt selbst kein dauerhaftes Immungedächtnis",
+          "kriterien": [
+            {
+              "text": "Aktiv regt die eigene Abwehr an",
+              "punkte": 1
+            },
+            {
+              "text": "Aktiver Schutzaufbau braucht Zeit",
+              "punkte": 1
+            },
+            {
+              "text": "Passiv führt fertige Antikörper für rasche Wirkung zu",
+              "punkte": 1
+            },
+            {
+              "text": "Passive Gabe erzeugt selbst kein dauerhaftes Immungedächtnis",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p7",
+          "nr": "7",
+          "typ": "offen",
+          "lernziel": "7",
+          "titel": "Antibiotika und Resistenz",
+          "frage": "Erkläre, warum Antibiotika nicht gegen eine reine Virusinfektion helfen und wie resistente Bakterien bei einer Behandlung häufiger werden können.",
+          "punkte": 4,
+          "musterloesung": "Antibiotika greifen bakterielle Strukturen oder Vorgänge an\nGegen Viren wirken sie nicht\nEmpfindliche Bakterien werden stärker geschädigt als resistente\nÜberlebende resistente Bakterien können sich vermehren",
+          "kriterien": [
+            {
+              "text": "Antibiotika greifen bakterielle Strukturen oder Vorgänge an",
+              "punkte": 1
+            },
+            {
+              "text": "Gegen Viren wirken sie nicht",
+              "punkte": 1
+            },
+            {
+              "text": "Empfindliche Bakterien werden stärker geschädigt als resistente",
+              "punkte": 1
+            },
+            {
+              "text": "Überlebende resistente Bakterien können sich vermehren",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p8",
+          "nr": "8",
+          "typ": "offen",
+          "lernziel": "8",
+          "titel": "Daten und Vorbeugung beurteilen",
+          "frage": "Erfundene Daten: In Gruppe A erkranken 8 von 100, in B 12 von 300. Berechne beide Anteile, vergleiche sie und nenne eine Voraussetzung für einen fairen Vergleich.",
+          "punkte": 4,
+          "musterloesung": "A: 8 %\nB: 4 %\nA hat den höheren Erkranktenanteil\nVergleichbare Gruppen beziehungsweise gleicher Beobachtungszeitraum",
+          "kriterien": [
+            {
+              "text": "A: 8 %",
+              "punkte": 1
+            },
+            {
+              "text": "B: 4 %",
+              "punkte": 1
+            },
+            {
+              "text": "A hat den höheren Erkranktenanteil",
+              "punkte": 1
+            },
+            {
+              "text": "Vergleichbare Gruppen beziehungsweise gleicher Beobachtungszeitraum",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        }
+      ]
+    }
+  ]
+}

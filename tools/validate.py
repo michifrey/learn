@@ -92,7 +92,7 @@ def main():
     faecher = {f["id"] for f in index["faecher"]}
     stufen = {s["id"] for s in index["stufen"]}
     seen = set()
-    total = {"themen": 0, "uebungen": 0, "pruefungen": 0}
+    total = {"themen": 0, "geplant": 0, "uebungen": 0, "pruefungen": 0}
     for t in index["themen"]:
         w = f"index/{t.get('id')}"
         if t["id"] in seen:
@@ -105,6 +105,15 @@ def main():
         for s in t.get("stufen", []):
             if s not in stufen:
                 err(w, f"stufe {s!r} unbekannt")
+        if t.get("status") not in (None, "bereit", "geplant"):
+            err(w, "unbekannter Themenstatus")
+        if t.get("status") == "geplant":
+            if t.get("datei"):
+                err(w, "geplante Themen haben noch keine Inhaltsdatei")
+            if fix:
+                t["angebot"] = ["Geplant"]
+            total["geplant"] += 1
+            continue
         path = os.path.join(CONTENT, t["datei"])
         try:
             with open(path, encoding="utf-8") as f:
@@ -151,8 +160,9 @@ def main():
     if errors:
         print("\n".join(f"✗ {e}" for e in errors))
         sys.exit(1)
-    print(f"✓ {total['themen']} Themen, {total['uebungen']} Übungen, {total['pruefungen']} Prüfungen OK")
+    print(f"✓ {total['themen']} ausgearbeitete Themen, {total['geplant']} geplant, {total['uebungen']} Übungen, {total['pruefungen']} Prüfungen OK")
 
 
 if __name__ == "__main__":
     main()
+

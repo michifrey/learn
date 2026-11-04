@@ -1,0 +1,176 @@
+{
+  "titel": "Prisma 1-3: Themenstruktur",
+  "quelle": "Öffentliche Themenübersicht Klett und Balmer, Prospekt Seite 4",
+  "url": "https://downloads.klett.ch/uploads/images/textbooks/Dateien/Klett_Prisma-Prospekt_201119_3_final.pdf?v=1616765520",
+  "hinweis": "Thementitel und Zuordnung dienen der Orientierung. Neue Lerntexte, Aufgaben und Skizzen wurden eigenständig erstellt.",
+  "themen": [
+    {
+      "nr": 1,
+      "band": 1,
+      "klasse": 7,
+      "id": "prisma-arbeiten-forschen",
+      "titel": "Arbeiten und Forschen in Natur und Technik",
+      "status": "geplant"
+    },
+    {
+      "nr": 2,
+      "band": 1,
+      "klasse": 7,
+      "id": "prisma-unser-koerper",
+      "titel": "Unser Körper",
+      "status": "geplant"
+    },
+    {
+      "nr": 3,
+      "band": 1,
+      "klasse": 7,
+      "id": "prisma-stoffe-eigenschaften",
+      "titel": "Stoffe und ihre Eigenschaften",
+      "status": "geplant"
+    },
+    {
+      "nr": 4,
+      "band": 1,
+      "klasse": 7,
+      "id": "prisma-stoffgemische-trennverfahren",
+      "titel": "Stoffgemische und Trennverfahren",
+      "status": "geplant"
+    },
+    {
+      "nr": 5,
+      "band": 1,
+      "klasse": 7,
+      "id": "prisma-elektrische-phaenomene",
+      "titel": "Elektrische Phänomene",
+      "status": "geplant"
+    },
+    {
+      "nr": 6,
+      "band": 1,
+      "klasse": 7,
+      "id": "prisma-wasser",
+      "titel": "Wasser - ein lebenswichtiger Stoff",
+      "status": "geplant"
+    },
+    {
+      "nr": 7,
+      "band": 1,
+      "klasse": 7,
+      "id": "prisma-lebensraum-gewaesser",
+      "titel": "Lebensraum Gewässer",
+      "status": "geplant"
+    },
+    {
+      "nr": 8,
+      "band": 2,
+      "klasse": 8,
+      "id": "bio-wachstum-pflanzen",
+      "titel": "Wachstum von Pflanzen",
+      "status": "bereit"
+    },
+    {
+      "nr": 9,
+      "band": 2,
+      "klasse": 8,
+      "id": "prisma-atombau-periodensystem",
+      "titel": "Atombau und Periodensystem",
+      "status": "bereit"
+    },
+    {
+      "nr": 10,
+      "band": 2,
+      "klasse": 8,
+      "id": "prisma-chemische-reaktionen",
+      "titel": "Chemische Reaktionen",
+      "status": "bereit"
+    },
+    {
+      "nr": 11,
+      "band": 2,
+      "klasse": 8,
+      "id": "prisma-ein-mensch-entsteht",
+      "titel": "Ein Mensch entsteht",
+      "status": "bereit"
+    },
+    {
+      "nr": 12,
+      "band": 2,
+      "klasse": 8,
+      "id": "prisma-gesundheit-krankheit",
+      "titel": "Gesundheit und Krankheit",
+      "status": "bereit"
+    },
+    {
+      "nr": 13,
+      "band": 2,
+      "klasse": 8,
+      "id": "prisma-kraefte-bewegung",
+      "titel": "Kräfte und Bewegung",
+      "status": "bereit"
+    },
+    {
+      "nr": 14,
+      "band": 2,
+      "klasse": 8,
+      "id": "prisma-ernaehrung-verdauung",
+      "titel": "Ernährung und Verdauung",
+      "status": "bereit"
+    },
+    {
+      "nr": 15,
+      "band": 2,
+      "klasse": 8,
+      "id": "prisma-nervensystem-akustik-optik",
+      "titel": "Nervensystem, Akustik und Optik",
+      "status": "bereit"
+    },
+    {
+      "nr": 16,
+      "band": 3,
+      "klasse": 9,
+      "id": "prisma-vernetzte-lebensraeume",
+      "titel": "Vernetzte Lebensräume",
+      "status": "geplant"
+    },
+    {
+      "nr": 17,
+      "band": 3,
+      "klasse": 9,
+      "id": "prisma-energieformen-umwandlung",
+      "titel": "Energieformen und Energieumwandlung",
+      "status": "geplant"
+    },
+    {
+      "nr": 18,
+      "band": 3,
+      "klasse": 9,
+      "id": "prisma-natuerliche-ressourcen",
+      "titel": "Natürliche Ressourcen",
+      "status": "geplant"
+    },
+    {
+      "nr": 19,
+      "band": 3,
+      "klasse": 9,
+      "id": "prisma-evolution",
+      "titel": "Evolution",
+      "status": "geplant"
+    },
+    {
+      "nr": 20,
+      "band": 3,
+      "klasse": 9,
+      "id": "prisma-elektrisch-steuern-regeln",
+      "titel": "Elektrisch steuern und regeln",
+      "status": "geplant"
+    },
+    {
+      "nr": 21,
+      "band": 3,
+      "klasse": 9,
+      "id": "prisma-genetik-gentechnik",
+      "titel": "Genetik und Gentechnik",
+      "status": "geplant"
+    }
+  ]
+}

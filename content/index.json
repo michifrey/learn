@@ -66,7 +66,7 @@
     },
     {
       "id": "bio",
-      "label": "Biologie / Natur und Technik",
+      "label": "Natur und Technik",
       "hue": 140,
       "klassen": [
         7,
@@ -121,17 +121,108 @@
   ],
   "themen": [
     {
-      "id": "mathe-pythagoras",
-      "fach": "mathe",
-      "klasse": 8,
+      "id": "prisma-arbeiten-forschen",
+      "fach": "bio",
+      "klasse": 7,
       "stufen": [],
-      "titel": "Satz des Pythagoras",
-      "untertitel": "Pythagoras und Thales – verstehen, skizzieren, rechnen",
-      "datei": "themen/mathe-pythagoras.json",
+      "titel": "Arbeiten und Forschen in Natur und Technik",
+      "untertitel": "Dieses Thema wird später ausgearbeitet.",
+      "kapitel": "Prisma 1 · Thema 1",
+      "prismaThema": 1,
+      "prismaBand": 1,
+      "status": "geplant",
       "angebot": [
-        "12 Kapitel",
-        "37 Übungen",
-        "2 Prüfungen"
+        "Geplant"
+      ]
+    },
+    {
+      "id": "prisma-unser-koerper",
+      "fach": "bio",
+      "klasse": 7,
+      "stufen": [],
+      "titel": "Unser Körper",
+      "untertitel": "Dieses Thema wird später ausgearbeitet.",
+      "kapitel": "Prisma 1 · Thema 2",
+      "prismaThema": 2,
+      "prismaBand": 1,
+      "status": "geplant",
+      "angebot": [
+        "Geplant"
+      ]
+    },
+    {
+      "id": "prisma-stoffe-eigenschaften",
+      "fach": "bio",
+      "klasse": 7,
+      "stufen": [],
+      "titel": "Stoffe und ihre Eigenschaften",
+      "untertitel": "Dieses Thema wird später ausgearbeitet.",
+      "kapitel": "Prisma 1 · Thema 3",
+      "prismaThema": 3,
+      "prismaBand": 1,
+      "status": "geplant",
+      "angebot": [
+        "Geplant"
+      ]
+    },
+    {
+      "id": "prisma-stoffgemische-trennverfahren",
+      "fach": "bio",
+      "klasse": 7,
+      "stufen": [],
+      "titel": "Stoffgemische und Trennverfahren",
+      "untertitel": "Dieses Thema wird später ausgearbeitet.",
+      "kapitel": "Prisma 1 · Thema 4",
+      "prismaThema": 4,
+      "prismaBand": 1,
+      "status": "geplant",
+      "angebot": [
+        "Geplant"
+      ]
+    },
+    {
+      "id": "prisma-elektrische-phaenomene",
+      "fach": "bio",
+      "klasse": 7,
+      "stufen": [],
+      "titel": "Elektrische Phänomene",
+      "untertitel": "Dieses Thema wird später ausgearbeitet.",
+      "kapitel": "Prisma 1 · Thema 5",
+      "prismaThema": 5,
+      "prismaBand": 1,
+      "status": "geplant",
+      "angebot": [
+        "Geplant"
+      ]
+    },
+    {
+      "id": "prisma-wasser",
+      "fach": "bio",
+      "klasse": 7,
+      "stufen": [],
+      "titel": "Wasser - ein lebenswichtiger Stoff",
+      "untertitel": "Dieses Thema wird später ausgearbeitet.",
+      "kapitel": "Prisma 1 · Thema 6",
+      "prismaThema": 6,
+      "prismaBand": 1,
+      "status": "geplant",
+      "angebot": [
+        "Geplant"
+      ]
+    },
+    {
+      "id": "prisma-lebensraum-gewaesser",
+      "fach": "bio",
+      "klasse": 7,
+      "stufen": [],
+      "titel": "Lebensraum Gewässer",
+      "untertitel": "Dieses Thema wird später ausgearbeitet.",
+      "kapitel": "Prisma 1 · Thema 7",
+      "prismaThema": 7,
+      "prismaBand": 1,
+      "status": "geplant",
+      "angebot": [
+        "Geplant"
       ]
     },
     {
@@ -139,13 +230,141 @@
       "fach": "bio",
       "klasse": 8,
       "stufen": [],
-      "kapitel": "Kapitel 8",
+      "kapitel": "Prisma 2 · Thema 8",
       "titel": "Wachstum von Pflanzen",
       "untertitel": "Zellen, Osmose, Fotosynthese, Zellatmung und Wassertransport",
       "datei": "themen/bio-wachstum-pflanzen.json",
       "angebot": [
         "10 Kapitel",
         "41 Übungen",
+        "1 Prüfung"
+      ],
+      "prismaThema": 8,
+      "prismaBand": 2
+    },
+    {
+      "id": "prisma-atombau-periodensystem",
+      "fach": "bio",
+      "klasse": 8,
+      "stufen": [],
+      "prismaThema": 9,
+      "prismaBand": 2,
+      "kapitel": "Prisma 2 · Thema 9",
+      "titel": "Atombau und Periodensystem",
+      "untertitel": "Teilchen, Schalenmodelle, Elemente und Ionen",
+      "datei": "themen/prisma-atombau-periodensystem.json",
+      "lernzielBasis": "selbst-formuliert",
+      "angebot": [
+        "9 Kapitel",
+        "24 Übungen",
+        "1 Prüfung"
+      ]
+    },
+    {
+      "id": "prisma-chemische-reaktionen",
+      "fach": "bio",
+      "klasse": 8,
+      "stufen": [],
+      "prismaThema": 10,
+      "prismaBand": 2,
+      "kapitel": "Prisma 2 · Thema 10",
+      "titel": "Chemische Reaktionen",
+      "untertitel": "Stoffumwandlung, Reaktionsgleichung, Energie und Versuche",
+      "datei": "themen/prisma-chemische-reaktionen.json",
+      "lernzielBasis": "selbst-formuliert",
+      "angebot": [
+        "9 Kapitel",
+        "24 Übungen",
+        "1 Prüfung"
+      ]
+    },
+    {
+      "id": "prisma-ein-mensch-entsteht",
+      "fach": "bio",
+      "klasse": 8,
+      "stufen": [],
+      "prismaThema": 11,
+      "prismaBand": 2,
+      "kapitel": "Prisma 2 · Thema 11",
+      "titel": "Ein Mensch entsteht",
+      "untertitel": "Pubertät, Fortpflanzung, Entwicklung und Schutz",
+      "datei": "themen/prisma-ein-mensch-entsteht.json",
+      "lernzielBasis": "selbst-formuliert",
+      "angebot": [
+        "9 Kapitel",
+        "24 Übungen",
+        "1 Prüfung"
+      ]
+    },
+    {
+      "id": "prisma-gesundheit-krankheit",
+      "fach": "bio",
+      "klasse": 8,
+      "stufen": [],
+      "prismaThema": 12,
+      "prismaBand": 2,
+      "kapitel": "Prisma 2 · Thema 12",
+      "titel": "Gesundheit und Krankheit",
+      "untertitel": "Erreger, Übertragung, Abwehr und Vorbeugung",
+      "datei": "themen/prisma-gesundheit-krankheit.json",
+      "lernzielBasis": "selbst-formuliert",
+      "angebot": [
+        "9 Kapitel",
+        "24 Übungen",
+        "1 Prüfung"
+      ]
+    },
+    {
+      "id": "prisma-kraefte-bewegung",
+      "fach": "bio",
+      "klasse": 8,
+      "stufen": [],
+      "prismaThema": 13,
+      "prismaBand": 2,
+      "kapitel": "Prisma 2 · Thema 13",
+      "titel": "Kräfte und Bewegung",
+      "untertitel": "Geschwindigkeit, Diagramme, Kraftpfeile und Hebel",
+      "datei": "themen/prisma-kraefte-bewegung.json",
+      "lernzielBasis": "selbst-formuliert",
+      "angebot": [
+        "9 Kapitel",
+        "24 Übungen",
+        "1 Prüfung"
+      ]
+    },
+    {
+      "id": "prisma-ernaehrung-verdauung",
+      "fach": "bio",
+      "klasse": 8,
+      "stufen": [],
+      "prismaThema": 14,
+      "prismaBand": 2,
+      "kapitel": "Prisma 2 · Thema 14",
+      "titel": "Ernährung und Verdauung",
+      "untertitel": "Nährstoffe, Enzyme, Verdauungsweg und Stoffaufnahme",
+      "datei": "themen/prisma-ernaehrung-verdauung.json",
+      "lernzielBasis": "selbst-formuliert",
+      "angebot": [
+        "9 Kapitel",
+        "24 Übungen",
+        "1 Prüfung"
+      ]
+    },
+    {
+      "id": "prisma-nervensystem-akustik-optik",
+      "fach": "bio",
+      "klasse": 8,
+      "stufen": [],
+      "prismaThema": 15,
+      "prismaBand": 2,
+      "kapitel": "Prisma 2 · Thema 15",
+      "titel": "Nervensystem, Akustik und Optik",
+      "untertitel": "Reize, Nerven, Schall, Licht und Sinnesorgane",
+      "datei": "themen/prisma-nervensystem-akustik-optik.json",
+      "lernzielBasis": "selbst-formuliert",
+      "angebot": [
+        "9 Kapitel",
+        "24 Übungen",
         "1 Prüfung"
       ]
     },
@@ -161,6 +380,110 @@
         "11 Kapitel",
         "40 Übungen",
         "1 Prüfung"
+      ]
+    },
+    {
+      "id": "mathe-pythagoras",
+      "fach": "mathe",
+      "klasse": 8,
+      "stufen": [],
+      "titel": "Satz des Pythagoras",
+      "untertitel": "Pythagoras und Thales – verstehen, skizzieren, rechnen",
+      "datei": "themen/mathe-pythagoras.json",
+      "angebot": [
+        "12 Kapitel",
+        "37 Übungen",
+        "2 Prüfungen"
+      ]
+    },
+    {
+      "id": "prisma-vernetzte-lebensraeume",
+      "fach": "bio",
+      "klasse": 9,
+      "stufen": [],
+      "titel": "Vernetzte Lebensräume",
+      "untertitel": "Dieses Thema wird später ausgearbeitet.",
+      "kapitel": "Prisma 3 · Thema 16",
+      "prismaThema": 16,
+      "prismaBand": 3,
+      "status": "geplant",
+      "angebot": [
+        "Geplant"
+      ]
+    },
+    {
+      "id": "prisma-energieformen-umwandlung",
+      "fach": "bio",
+      "klasse": 9,
+      "stufen": [],
+      "titel": "Energieformen und Energieumwandlung",
+      "untertitel": "Dieses Thema wird später ausgearbeitet.",
+      "kapitel": "Prisma 3 · Thema 17",
+      "prismaThema": 17,
+      "prismaBand": 3,
+      "status": "geplant",
+      "angebot": [
+        "Geplant"
+      ]
+    },
+    {
+      "id": "prisma-natuerliche-ressourcen",
+      "fach": "bio",
+      "klasse": 9,
+      "stufen": [],
+      "titel": "Natürliche Ressourcen",
+      "untertitel": "Dieses Thema wird später ausgearbeitet.",
+      "kapitel": "Prisma 3 · Thema 18",
+      "prismaThema": 18,
+      "prismaBand": 3,
+      "status": "geplant",
+      "angebot": [
+        "Geplant"
+      ]
+    },
+    {
+      "id": "prisma-evolution",
+      "fach": "bio",
+      "klasse": 9,
+      "stufen": [],
+      "titel": "Evolution",
+      "untertitel": "Dieses Thema wird später ausgearbeitet.",
+      "kapitel": "Prisma 3 · Thema 19",
+      "prismaThema": 19,
+      "prismaBand": 3,
+      "status": "geplant",
+      "angebot": [
+        "Geplant"
+      ]
+    },
+    {
+      "id": "prisma-elektrisch-steuern-regeln",
+      "fach": "bio",
+      "klasse": 9,
+      "stufen": [],
+      "titel": "Elektrisch steuern und regeln",
+      "untertitel": "Dieses Thema wird später ausgearbeitet.",
+      "kapitel": "Prisma 3 · Thema 20",
+      "prismaThema": 20,
+      "prismaBand": 3,
+      "status": "geplant",
+      "angebot": [
+        "Geplant"
+      ]
+    },
+    {
+      "id": "prisma-genetik-gentechnik",
+      "fach": "bio",
+      "klasse": 9,
+      "stufen": [],
+      "titel": "Genetik und Gentechnik",
+      "untertitel": "Dieses Thema wird später ausgearbeitet.",
+      "kapitel": "Prisma 3 · Thema 21",
+      "prismaThema": 21,
+      "prismaBand": 3,
+      "status": "geplant",
+      "angebot": [
+        "Geplant"
       ]
     }
   ]

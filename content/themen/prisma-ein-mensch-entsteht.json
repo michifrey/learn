@@ -1,0 +1,1107 @@
+{
+  "lernzielBasis": "selbst-formuliert",
+  "hinweis": "Eigenständig formulierte Lernziele und Inhalte zur Themenübersicht von Prisma 2. Die Lernziele der Schule sind noch nicht abgeglichen.",
+  "quellen": [
+    {
+      "titel": "Ein Mensch entsteht - Lerndossier",
+      "art": "Eigene Erklärungen, Übungsblätter, Testprüfung und Lösungen",
+      "seiten": 12,
+      "datei": "material/klasse-8/prisma/ein-mensch-entsteht/Prisma2_ein-mensch-entsteht_Lerndossier.pdf"
+    }
+  ],
+  "referenzen": [
+    {
+      "titel": "Prisma: öffentliche Themenübersicht",
+      "url": "https://downloads.klett.ch/uploads/images/textbooks/Dateien/Klett_Prisma-Prospekt_201119_3_final.pdf?v=1616765520"
+    },
+    {
+      "titel": "Fachliche Referenz",
+      "url": "https://www.familienplanung.de/kinderwunsch/fruchtbarkeit-geschlechtsorgane/eisprung-und-befruchtung/"
+    },
+    {
+      "titel": "Fachliche Referenz",
+      "url": "https://www.gesundheit.gv.at/leben/eltern/schwangerschaft/info/beginn-schwangerschaft.html"
+    },
+    {
+      "titel": "Fachliche Referenz",
+      "url": "https://www.familienplanung.de/verhuetung/welche-verhuetung-passt-zu-mir/"
+    }
+  ],
+  "lernziele": [
+    {
+      "id": "1",
+      "nr": "1",
+      "gruppe": "Grundlagen",
+      "kurz": "Pubertät und Hormone",
+      "text": "Ich kann körperliche Veränderungen in der Pubertät und die Rolle von Hormonen erklären.",
+      "frage": "Wie kannst du körperliche Veränderungen in der Pubertät und die Rolle von Hormonen erklären?",
+      "antwort": "In der **Pubertät** reifen Körper und Fortpflanzungsorgane. **Hormone** sind chemische Botenstoffe, die Veränderungen steuern. Körperwachstum, Körperbehaarung, Hautveränderungen und die Reifung der Keimzellen können zu unterschiedlichen Zeiten einsetzen."
+    },
+    {
+      "id": "2",
+      "nr": "2",
+      "gruppe": "Grundlagen",
+      "kurz": "Fortpflanzungsorgane",
+      "text": "Ich kann wichtige Fortpflanzungsorgane beschriften und ihre Aufgaben nennen.",
+      "frage": "Wie kannst du wichtige Fortpflanzungsorgane beschriften und ihre Aufgaben nennen?",
+      "antwort": "**Eierstöcke:** Eizellreifung und Hormonbildung. **Eileiter:** Transport, meist Ort der Befruchtung. **Gebärmutter:** Entwicklung des Embryos und Fetus. **Vagina:** Verbindung nach aussen. **Hoden:** Bildung von Spermien und Hormonen. **Samenleiter:** Spermientransport."
+    },
+    {
+      "id": "3",
+      "nr": "3",
+      "gruppe": "Grundlagen",
+      "kurz": "Keimzellen und Erbinformation",
+      "text": "Ich kann Ei- und Samenzelle vergleichen und die Chromosomenzahlen bei der Befruchtung erklären.",
+      "frage": "Wie kannst du Ei- und Samenzelle vergleichen und die Chromosomenzahlen bei der Befruchtung erklären?",
+      "antwort": "**Eizellen und Spermien** sind Keimzellen. Sie besitzen beim Menschen normalerweise je **23 Chromosomen**. Bei der Befruchtung werden ihre Erbinformationen vereint; die Zygote hat normalerweise **46 Chromosomen**. Ein Teil der Erbinformation stammt von jedem Elternteil."
+    },
+    {
+      "id": "4",
+      "nr": "4",
+      "gruppe": "Anwenden und verstehen",
+      "kurz": "Menstruationszyklus",
+      "text": "Ich kann die Grundphasen des Zyklus erklären und vereinfachte Zeitangaben einordnen.",
+      "frage": "Wie kannst du die Grundphasen des Zyklus erklären und vereinfachte Zeitangaben einordnen?",
+      "antwort": "Ein Zyklus beginnt mit dem ersten Tag der **Menstruation**. Die Gebärmutterschleimhaut wird teilweise abgestossen. Danach reift eine Eizelle, die Schleimhaut baut sich wieder auf. Beim **Eisprung** wird die Eizelle freigesetzt. Ohne Schwangerschaft beginnt später eine neue Blutung."
+    },
+    {
+      "id": "5",
+      "nr": "5",
+      "gruppe": "Anwenden und verstehen",
+      "kurz": "Befruchtung und Einnistung",
+      "text": "Ich kann den Weg von der Befruchtung bis zur Einnistung darstellen.",
+      "frage": "Wie kannst du den Weg von der Befruchtung bis zur Einnistung darstellen?",
+      "antwort": "Die **Befruchtung** findet meist im Eileiter statt: Ei- und Samenzelle verschmelzen, ihre Erbinformation wird vereint. Die **Zygote** teilt sich auf dem Weg zur Gebärmutter. Einige Tage später kann sich der frühe Embryo in die Gebärmutterschleimhaut **einnisten**."
+    },
+    {
+      "id": "6",
+      "nr": "6",
+      "gruppe": "Anwenden und verstehen",
+      "kurz": "Entwicklung und Versorgung",
+      "text": "Ich kann die Aufgaben von Plazenta, Nabelschnur und Fruchtwasser erklären.",
+      "frage": "Wie kannst du die Aufgaben von Plazenta, Nabelschnur und Fruchtwasser erklären?",
+      "antwort": "Der frühe Mensch heisst zunächst **Embryo**, später **Fetus**. Die **Plazenta** ermöglicht Stoffaustausch zwischen den getrennten Blutkreisläufen. Die **Nabelschnur** verbindet Fetus und Plazenta. **Fruchtwasser** und Fruchtblase schützen unter anderem vor Stössen."
+    },
+    {
+      "id": "7",
+      "nr": "7",
+      "gruppe": "Zusammenhänge und Kontrolle",
+      "kurz": "Geburt und erste Anpassungen",
+      "text": "Ich kann die Grundphasen einer vaginalen Geburt und die Umstellung auf Luftatmung beschreiben.",
+      "frage": "Wie kannst du die Grundphasen einer vaginalen Geburt und die Umstellung auf Luftatmung beschreiben?",
+      "antwort": "Bei einer vaginalen Geburt wird der Muttermund in der **Eröffnungsphase** durch Wehen geöffnet. In der **Austreibungsphase** wird das Kind geboren. In der **Nachgeburtsphase** lösen sich Plazenta und weitere Hüllen. Nach der Geburt beginnt die eigene Luftatmung."
+    },
+    {
+      "id": "8",
+      "nr": "8",
+      "gruppe": "Zusammenhänge und Kontrolle",
+      "kurz": "Verhütung und Infektionsschutz",
+      "text": "Ich kann Schwangerschaftsverhütung und Schutz vor sexuell übertragbaren Infektionen unterscheiden.",
+      "frage": "Wie kannst du Schwangerschaftsverhütung und Schutz vor sexuell übertragbaren Infektionen unterscheiden?",
+      "antwort": "**Verhütung** soll eine ungewollte Schwangerschaft verhindern. Methoden wirken unterschiedlich, etwa als Barriere oder hormonell. **Kondome senken zusätzlich das Risiko vieler sexuell übertragbarer Infektionen (STI)**. Die Pille schützt nicht vor STI."
+    }
+  ],
+  "lernen": [
+    {
+      "id": "lz-1",
+      "titel": "Pubertät und Hormone",
+      "lernziele": [
+        "1"
+      ],
+      "intro": "Ich kann körperliche Veränderungen in der Pubertät und die Rolle von Hormonen erklären.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "In der **Pubertät** reifen Körper und Fortpflanzungsorgane. **Hormone** sind chemische Botenstoffe, die Veränderungen steuern. Körperwachstum, Körperbehaarung, Hautveränderungen und die Reifung der Keimzellen können zu unterschiedlichen Zeiten einsetzen."
+        },
+        {
+          "t": "p",
+          "text": "Veränderungen verlaufen individuell. Östrogene, Progesteron und Testosteron wirken in unterschiedlichen Mengen bei allen Menschen. Gefühle und soziale Beziehungen verändern sich ebenfalls; kein einzelnes Merkmal bestimmt den persönlichen Reifegrad."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Stimmveränderung, Brustentwicklung, Beginn von Menstruationen oder Samenergüssen sind mögliche Veränderungen. Sie beginnen nicht bei allen im gleichen Alter."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Ein festes Alter oder dieselbe Reihenfolge für alle Menschen anzunehmen ist falsch."
+        }
+      ]
+    },
+    {
+      "id": "lz-2",
+      "titel": "Fortpflanzungsorgane",
+      "lernziele": [
+        "2"
+      ],
+      "intro": "Ich kann wichtige Fortpflanzungsorgane beschriften und ihre Aufgaben nennen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "**Eierstöcke:** Eizellreifung und Hormonbildung. **Eileiter:** Transport, meist Ort der Befruchtung. **Gebärmutter:** Entwicklung des Embryos und Fetus. **Vagina:** Verbindung nach aussen. **Hoden:** Bildung von Spermien und Hormonen. **Samenleiter:** Spermientransport."
+        },
+        {
+          "t": "bild",
+          "src": "content/img/prisma/ein-mensch-entsteht.svg",
+          "alt": "Pubertät, Fortpflanzung, Entwicklung und Schutz - beschriftete Lernskizze",
+          "caption": "Eigene vereinfachte Skizze; nicht massstabsgetreu."
+        },
+        {
+          "t": "p",
+          "text": "Spermien reifen im Nebenhoden weiter. Prostata und weitere Drüsen geben Flüssigkeit zum Sperma. Die Vulva bezeichnet die äusseren Geschlechtsorgane; die Vagina liegt im Körper. Die Harnröhre und die Vagina sind verschiedene Öffnungen."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Die Eizelle gelangt vom Eierstock in den Eileiter. Ein Embryo entwickelt sich nach der Einnistung in der Gebärmutter, nicht im Eierstock."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Vulva und Vagina sind nicht dasselbe. Befruchtung und Einnistung finden nicht am selben Ort statt."
+        }
+      ]
+    },
+    {
+      "id": "lz-3",
+      "titel": "Keimzellen und Erbinformation",
+      "lernziele": [
+        "3"
+      ],
+      "intro": "Ich kann Ei- und Samenzelle vergleichen und die Chromosomenzahlen bei der Befruchtung erklären.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "**Eizellen und Spermien** sind Keimzellen. Sie besitzen beim Menschen normalerweise je **23 Chromosomen**. Bei der Befruchtung werden ihre Erbinformationen vereint; die Zygote hat normalerweise **46 Chromosomen**. Ein Teil der Erbinformation stammt von jedem Elternteil."
+        },
+        {
+          "t": "p",
+          "text": "Die Eizelle ist gross und enthält viel Zellplasma. Ein Spermium ist klein und besitzt einen beweglichen Schwanz. Körperzellen besitzen normalerweise 46 Chromosomen; reife rote Blutkörperchen haben keinen Zellkern."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "23 Chromosomen der Eizelle + 23 des Spermiums → 46 Chromosomen der ersten gemeinsamen Zelle. Spätere Zellteilungen verteilen Kopien dieser Information auf die Tochterzellen."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Keimzellen haben normalerweise nicht je 46 Chromosomen. Die Chromosomenzahl verdoppelt sich nicht bei jeder normalen Zellteilung."
+        }
+      ]
+    },
+    {
+      "id": "lz-4",
+      "titel": "Menstruationszyklus",
+      "lernziele": [
+        "4"
+      ],
+      "intro": "Ich kann die Grundphasen des Zyklus erklären und vereinfachte Zeitangaben einordnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Ein Zyklus beginnt mit dem ersten Tag der **Menstruation**. Die Gebärmutterschleimhaut wird teilweise abgestossen. Danach reift eine Eizelle, die Schleimhaut baut sich wieder auf. Beim **Eisprung** wird die Eizelle freigesetzt. Ohne Schwangerschaft beginnt später eine neue Blutung."
+        },
+        {
+          "t": "p",
+          "text": "Hormone steuern die Vorgänge in Eierstock und Gebärmutter. Ein 28-Tage-Zyklus ist ein Modell, kein für alle gültiger Kalender. Besonders in der Pubertät sind unregelmässige Zyklen häufig. Der genaue Eisprung lässt sich nicht allein aus einem Kalendertag sicher bestimmen."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "In einer Modellzeichnung steht der Eisprung etwa in der Mitte. Eine echte Person kann davon deutlich abweichen. Die Blutung ist nicht der Eisprung."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Der Eisprung findet nicht bei allen Menschen am 14. Tag statt. Die Menstruationsblutung besteht nicht einfach aus einer sichtbaren Eizelle."
+        }
+      ]
+    },
+    {
+      "id": "lz-5",
+      "titel": "Befruchtung und Einnistung",
+      "lernziele": [
+        "5"
+      ],
+      "intro": "Ich kann den Weg von der Befruchtung bis zur Einnistung darstellen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Die **Befruchtung** findet meist im Eileiter statt: Ei- und Samenzelle verschmelzen, ihre Erbinformation wird vereint. Die **Zygote** teilt sich auf dem Weg zur Gebärmutter. Einige Tage später kann sich der frühe Embryo in die Gebärmutterschleimhaut **einnisten**."
+        },
+        {
+          "t": "p",
+          "text": "Befruchtung und Einnistung sind verschiedene Vorgänge. Spermien können vor dem Eisprung einige Tage im Körper überleben. Es kann deshalb auch durch Geschlechtsverkehr vor dem Eisprung zu einer Befruchtung kommen."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Eierstock → Eileiter mit Befruchtung → Zellteilungen während des Transports → Gebärmutter mit Einnistung."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Ein Embryo entsteht nicht erst durch die Einnistung. Die Befruchtung findet normalerweise nicht in der Gebärmutter statt."
+        }
+      ]
+    },
+    {
+      "id": "lz-6",
+      "titel": "Entwicklung und Versorgung",
+      "lernziele": [
+        "6"
+      ],
+      "intro": "Ich kann die Aufgaben von Plazenta, Nabelschnur und Fruchtwasser erklären.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Der frühe Mensch heisst zunächst **Embryo**, später **Fetus**. Die **Plazenta** ermöglicht Stoffaustausch zwischen den getrennten Blutkreisläufen. Die **Nabelschnur** verbindet Fetus und Plazenta. **Fruchtwasser** und Fruchtblase schützen unter anderem vor Stössen."
+        },
+        {
+          "t": "p",
+          "text": "Sauerstoff und Nährstoffe gelangen über die Plazenta zum Kind; CO₂ und Abfallstoffe werden abgegeben. Die Plazenta ist keine vollständige Schutzmauer: Auch schädliche Stoffe können passieren. Die Versorgung geschieht nicht über die eigene Lungenatmung des Fetus."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Die Nabelvene führt sauerstoff- und nährstoffreiches Blut von der Plazenta zum Fetus. Die Lunge übernimmt die Luftatmung erst nach der Geburt."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Das Blut von schwangerer Person und Fetus vermischt sich bei normalem Stoffaustausch nicht direkt. Die Nabelschnur führt nicht zum Magen."
+        }
+      ]
+    },
+    {
+      "id": "lz-7",
+      "titel": "Geburt und erste Anpassungen",
+      "lernziele": [
+        "7"
+      ],
+      "intro": "Ich kann die Grundphasen einer vaginalen Geburt und die Umstellung auf Luftatmung beschreiben.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Bei einer vaginalen Geburt wird der Muttermund in der **Eröffnungsphase** durch Wehen geöffnet. In der **Austreibungsphase** wird das Kind geboren. In der **Nachgeburtsphase** lösen sich Plazenta und weitere Hüllen. Nach der Geburt beginnt die eigene Luftatmung."
+        },
+        {
+          "t": "p",
+          "text": "Geburten können unterschiedlich verlaufen. Eine weitere Geburtsform ist der Kaiserschnitt. Nach dem Übergang zur eigenen Atmung ist die Versorgung über die Plazenta nicht mehr nötig; der Kreislauf stellt sich um."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Reihenfolge im Grundmodell: Muttermund öffnet sich → Kind wird geboren → Plazenta wird ausgestossen. Der erste Atemzug entfaltet die Lunge."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Die Nachgeburt ist kein zweites Kind. Vor der Geburt atmet der Fetus keine Luft aus der Gebärmutter."
+        }
+      ]
+    },
+    {
+      "id": "lz-8",
+      "titel": "Verhütung und Infektionsschutz",
+      "lernziele": [
+        "8"
+      ],
+      "intro": "Ich kann Schwangerschaftsverhütung und Schutz vor sexuell übertragbaren Infektionen unterscheiden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "**Verhütung** soll eine ungewollte Schwangerschaft verhindern. Methoden wirken unterschiedlich, etwa als Barriere oder hormonell. **Kondome senken zusätzlich das Risiko vieler sexuell übertragbarer Infektionen (STI)**. Die Pille schützt nicht vor STI."
+        },
+        {
+          "t": "p",
+          "text": "Keine Methode ist in jeder Anwendung fehlerfrei. Sachwissen, korrekte Anwendung und freiwillige, informierte Entscheidungen sind wichtig. Kalendertage allein sind besonders bei unregelmässigen Zyklen keine verlässliche Grundlage, um fruchtbare Tage sicher auszuschliessen."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Kondom: Barriere gegen Spermien und geringeres Risiko vieler STI. Pille: hormonelle Schwangerschaftsverhütung, kein STI-Schutz."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Schutz vor Schwangerschaft und Schutz vor Infektionen sind nicht automatisch dasselbe. Die Pille ersetzt keinen STI-Schutz."
+        }
+      ]
+    },
+    {
+      "id": "lernspick",
+      "titel": "Lernspick: alle Lernziele mit Kurzantwort",
+      "lernziele": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "intro": "Eigene Lernziele: mit den schulischen Vorgaben abgleichen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "1. Pubertät und Hormone",
+          "text": "In der **Pubertät** reifen Körper und Fortpflanzungsorgane. **Hormone** sind chemische Botenstoffe, die Veränderungen steuern. Körperwachstum, Körperbehaarung, Hautveränderungen und die Reifung der Keimzellen können zu unterschiedlichen Zeiten einsetzen."
+        },
+        {
+          "t": "merke",
+          "titel": "2. Fortpflanzungsorgane",
+          "text": "**Eierstöcke:** Eizellreifung und Hormonbildung. **Eileiter:** Transport, meist Ort der Befruchtung. **Gebärmutter:** Entwicklung des Embryos und Fetus. **Vagina:** Verbindung nach aussen. **Hoden:** Bildung von Spermien und Hormonen. **Samenleiter:** Spermientransport."
+        },
+        {
+          "t": "merke",
+          "titel": "3. Keimzellen und Erbinformation",
+          "text": "**Eizellen und Spermien** sind Keimzellen. Sie besitzen beim Menschen normalerweise je **23 Chromosomen**. Bei der Befruchtung werden ihre Erbinformationen vereint; die Zygote hat normalerweise **46 Chromosomen**. Ein Teil der Erbinformation stammt von jedem Elternteil."
+        },
+        {
+          "t": "merke",
+          "titel": "4. Menstruationszyklus",
+          "text": "Ein Zyklus beginnt mit dem ersten Tag der **Menstruation**. Die Gebärmutterschleimhaut wird teilweise abgestossen. Danach reift eine Eizelle, die Schleimhaut baut sich wieder auf. Beim **Eisprung** wird die Eizelle freigesetzt. Ohne Schwangerschaft beginnt später eine neue Blutung."
+        },
+        {
+          "t": "merke",
+          "titel": "5. Befruchtung und Einnistung",
+          "text": "Die **Befruchtung** findet meist im Eileiter statt: Ei- und Samenzelle verschmelzen, ihre Erbinformation wird vereint. Die **Zygote** teilt sich auf dem Weg zur Gebärmutter. Einige Tage später kann sich der frühe Embryo in die Gebärmutterschleimhaut **einnisten**."
+        },
+        {
+          "t": "merke",
+          "titel": "6. Entwicklung und Versorgung",
+          "text": "Der frühe Mensch heisst zunächst **Embryo**, später **Fetus**. Die **Plazenta** ermöglicht Stoffaustausch zwischen den getrennten Blutkreisläufen. Die **Nabelschnur** verbindet Fetus und Plazenta. **Fruchtwasser** und Fruchtblase schützen unter anderem vor Stössen."
+        },
+        {
+          "t": "merke",
+          "titel": "7. Geburt und erste Anpassungen",
+          "text": "Bei einer vaginalen Geburt wird der Muttermund in der **Eröffnungsphase** durch Wehen geöffnet. In der **Austreibungsphase** wird das Kind geboren. In der **Nachgeburtsphase** lösen sich Plazenta und weitere Hüllen. Nach der Geburt beginnt die eigene Luftatmung."
+        },
+        {
+          "t": "merke",
+          "titel": "8. Verhütung und Infektionsschutz",
+          "text": "**Verhütung** soll eine ungewollte Schwangerschaft verhindern. Methoden wirken unterschiedlich, etwa als Barriere oder hormonell. **Kondome senken zusätzlich das Risiko vieler sexuell übertragbarer Infektionen (STI)**. Die Pille schützt nicht vor STI."
+        }
+      ]
+    }
+  ],
+  "karten": [
+    {
+      "vorne": "Pubertät",
+      "hinten": "Reifungs- und Veränderungsphase"
+    },
+    {
+      "vorne": "Hormone",
+      "hinten": "chemische Botenstoffe"
+    },
+    {
+      "vorne": "Eierstock",
+      "hinten": "Ort der Eizellreifung"
+    },
+    {
+      "vorne": "Hoden",
+      "hinten": "Ort der Spermienbildung"
+    },
+    {
+      "vorne": "Eileiter",
+      "hinten": "Transport und meist Ort der Befruchtung"
+    },
+    {
+      "vorne": "Gebärmutter",
+      "hinten": "Entwicklungsort nach der Einnistung"
+    },
+    {
+      "vorne": "Zygote",
+      "hinten": "erste Zelle nach der Befruchtung"
+    },
+    {
+      "vorne": "Eisprung",
+      "hinten": "Freisetzung einer Eizelle aus dem Eierstock"
+    },
+    {
+      "vorne": "Plazenta",
+      "hinten": "Stoffaustausch zwischen getrennten Blutkreisläufen"
+    },
+    {
+      "vorne": "Nabelschnur",
+      "hinten": "Verbindung zwischen Fetus und Plazenta"
+    },
+    {
+      "vorne": "Menstruation",
+      "hinten": "teilweises Abstossen der Gebärmutterschleimhaut mit Blutung"
+    },
+    {
+      "vorne": "STI",
+      "hinten": "sexuell übertragbare Infektion"
+    }
+  ],
+  "uebungen": [
+    {
+      "typ": "mc",
+      "frage": "Hormone sind ...",
+      "optionen": [
+        "chemische Botenstoffe",
+        "Verdauungsorgane",
+        "Knochenzellen"
+      ],
+      "richtig": 0,
+      "id": "u1-1",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "In der **Pubertät** reifen Körper und Fortpflanzungsorgane. **Hormone** sind chemische Botenstoffe, die Veränderungen steuern. Körperwachstum, Körperbehaarung, Hautveränderungen und die Reifung der Keimzellen können zu unterschiedlichen Zeiten einsetzen."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne zu.",
+      "paare": [
+        [
+          "Hormone",
+          "chemische Nachrichten"
+        ],
+        [
+          "Pubertät",
+          "Reifungs- und Veränderungsphase"
+        ],
+        [
+          "Individuelle Entwicklung",
+          "unterschiedliches Tempo"
+        ]
+      ],
+      "id": "u1-2",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "In der **Pubertät** reifen Körper und Fortpflanzungsorgane. **Hormone** sind chemische Botenstoffe, die Veränderungen steuern. Körperwachstum, Körperbehaarung, Hautveränderungen und die Reifung der Keimzellen können zu unterschiedlichen Zeiten einsetzen."
+    },
+    {
+      "id": "u1-3",
+      "typ": "offen",
+      "lernziel": "1",
+      "frage": "Nenne drei mögliche Veränderungen und erkläre, warum Vergleiche des Entwicklungsstands unzuverlässig sind.",
+      "musterloesung": "Zum Beispiel Wachstum, Behaarung, Stimmveränderung. Beginn und Tempo sind individuell.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "In der **Pubertät** reifen Körper und Fortpflanzungsorgane. **Hormone** sind chemische Botenstoffe, die Veränderungen steuern. Körperwachstum, Körperbehaarung, Hautveränderungen und die Reifung der Keimzellen können zu unterschiedlichen Zeiten einsetzen."
+    },
+    {
+      "typ": "mc",
+      "frage": "Wo reifen Eizellen heran?",
+      "optionen": [
+        "Im Eierstock",
+        "In der Gebärmutter",
+        "In der Vagina"
+      ],
+      "richtig": 0,
+      "id": "u2-1",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "**Eierstöcke:** Eizellreifung und Hormonbildung. **Eileiter:** Transport, meist Ort der Befruchtung. **Gebärmutter:** Entwicklung des Embryos und Fetus. **Vagina:** Verbindung nach aussen. **Hoden:** Bildung von Spermien und Hormonen. **Samenleiter:** Spermientransport."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne Organ und Hauptaufgabe zu.",
+      "paare": [
+        [
+          "Hoden",
+          "Spermien bilden"
+        ],
+        [
+          "Eileiter",
+          "Eizelle transportieren"
+        ],
+        [
+          "Gebärmutter",
+          "Entwicklungsort während der Schwangerschaft"
+        ]
+      ],
+      "id": "u2-2",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "**Eierstöcke:** Eizellreifung und Hormonbildung. **Eileiter:** Transport, meist Ort der Befruchtung. **Gebärmutter:** Entwicklung des Embryos und Fetus. **Vagina:** Verbindung nach aussen. **Hoden:** Bildung von Spermien und Hormonen. **Samenleiter:** Spermientransport."
+    },
+    {
+      "id": "u2-3",
+      "typ": "offen",
+      "lernziel": "2",
+      "frage": "Beschrifte die vereinfachte Organskizze. Erkläre Eierstock, Eileiter und Gebärmutter.",
+      "musterloesung": "Eierstock: Eizellreifung; Eileiter: Transport und meist Befruchtung; Gebärmutter: Entwicklung nach der Einnistung.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": true,
+      "zeilen": 4,
+      "hilfe": "**Eierstöcke:** Eizellreifung und Hormonbildung. **Eileiter:** Transport, meist Ort der Befruchtung. **Gebärmutter:** Entwicklung des Embryos und Fetus. **Vagina:** Verbindung nach aussen. **Hoden:** Bildung von Spermien und Hormonen. **Samenleiter:** Spermientransport."
+    },
+    {
+      "typ": "mc",
+      "frage": "Wie viele Chromosomen hat eine menschliche Keimzelle normalerweise?",
+      "optionen": [
+        "23",
+        "46",
+        "92"
+      ],
+      "richtig": 0,
+      "id": "u3-1",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "**Eizellen und Spermien** sind Keimzellen. Sie besitzen beim Menschen normalerweise je **23 Chromosomen**. Bei der Befruchtung werden ihre Erbinformationen vereint; die Zygote hat normalerweise **46 Chromosomen**. Ein Teil der Erbinformation stammt von jedem Elternteil."
+    },
+    {
+      "typ": "zahl",
+      "frage": "23 Chromosomen aus der Eizelle und 23 aus einem Spermium ergeben wie viele Chromosomen?",
+      "antwort": 46,
+      "einheit": "",
+      "toleranz": 0.01,
+      "id": "u3-2",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "**Eizellen und Spermien** sind Keimzellen. Sie besitzen beim Menschen normalerweise je **23 Chromosomen**. Bei der Befruchtung werden ihre Erbinformationen vereint; die Zygote hat normalerweise **46 Chromosomen**. Ein Teil der Erbinformation stammt von jedem Elternteil."
+    },
+    {
+      "id": "u3-3",
+      "typ": "offen",
+      "lernziel": "3",
+      "frage": "Vergleiche Ei- und Samenzelle nach Grösse, Beweglichkeit und Chromosomenzahl.",
+      "musterloesung": "Eizelle: gross und nicht selbst schwimmend. Spermium: klein und aktiv beweglich. Beide normalerweise 23 Chromosomen.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "**Eizellen und Spermien** sind Keimzellen. Sie besitzen beim Menschen normalerweise je **23 Chromosomen**. Bei der Befruchtung werden ihre Erbinformationen vereint; die Zygote hat normalerweise **46 Chromosomen**. Ein Teil der Erbinformation stammt von jedem Elternteil."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welcher Tag gilt als Beginn eines Menstruationszyklus?",
+      "optionen": [
+        "Erster Tag der Blutung",
+        "Immer der erste Kalendertag des Monats",
+        "Tag nach dem Eisprung"
+      ],
+      "richtig": 0,
+      "id": "u4-1",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Ein Zyklus beginnt mit dem ersten Tag der **Menstruation**. Die Gebärmutterschleimhaut wird teilweise abgestossen. Danach reift eine Eizelle, die Schleimhaut baut sich wieder auf. Beim **Eisprung** wird die Eizelle freigesetzt. Ohne Schwangerschaft beginnt später eine neue Blutung."
+    },
+    {
+      "typ": "reihenfolge",
+      "frage": "Ordne die vereinfachten Phasen ab Zyklusbeginn.",
+      "items": [
+        "Menstruation",
+        "Eizellreifung und Schleimhautaufbau",
+        "Eisprung",
+        "Phase nach dem Eisprung"
+      ],
+      "id": "u4-2",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Ein Zyklus beginnt mit dem ersten Tag der **Menstruation**. Die Gebärmutterschleimhaut wird teilweise abgestossen. Danach reift eine Eizelle, die Schleimhaut baut sich wieder auf. Beim **Eisprung** wird die Eizelle freigesetzt. Ohne Schwangerschaft beginnt später eine neue Blutung."
+    },
+    {
+      "id": "u4-3",
+      "typ": "offen",
+      "lernziel": "4",
+      "frage": "Warum ist eine starre 28-Tage-Zeichnung keine sichere Vorhersage des Eisprungs?",
+      "musterloesung": "Zykluslängen und Eisprungzeitpunkte variieren; die Zeichnung ist nur ein vereinfachtes Modell.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "Ein Zyklus beginnt mit dem ersten Tag der **Menstruation**. Die Gebärmutterschleimhaut wird teilweise abgestossen. Danach reift eine Eizelle, die Schleimhaut baut sich wieder auf. Beim **Eisprung** wird die Eizelle freigesetzt. Ohne Schwangerschaft beginnt später eine neue Blutung."
+    },
+    {
+      "typ": "mc",
+      "frage": "Wo findet eine Befruchtung meist statt?",
+      "optionen": [
+        "Im Eileiter",
+        "Im Eierstock",
+        "In der Vagina"
+      ],
+      "richtig": 0,
+      "id": "u5-1",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Die **Befruchtung** findet meist im Eileiter statt: Ei- und Samenzelle verschmelzen, ihre Erbinformation wird vereint. Die **Zygote** teilt sich auf dem Weg zur Gebärmutter. Einige Tage später kann sich der frühe Embryo in die Gebärmutterschleimhaut **einnisten**."
+    },
+    {
+      "typ": "reihenfolge",
+      "frage": "Ordne die Vorgänge.",
+      "items": [
+        "Eisprung",
+        "Befruchtung im Eileiter",
+        "Zellteilungen und Transport",
+        "Einnistung in der Gebärmutter"
+      ],
+      "id": "u5-2",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Die **Befruchtung** findet meist im Eileiter statt: Ei- und Samenzelle verschmelzen, ihre Erbinformation wird vereint. Die **Zygote** teilt sich auf dem Weg zur Gebärmutter. Einige Tage später kann sich der frühe Embryo in die Gebärmutterschleimhaut **einnisten**."
+    },
+    {
+      "id": "u5-3",
+      "typ": "offen",
+      "lernziel": "5",
+      "frage": "Zeichne einen Wegpfeil von der Eizellreifung bis zur Einnistung und benenne die Orte.",
+      "musterloesung": "Eizellreifung im Eierstock; Freisetzung, Befruchtung im Eileiter, Transport und Zellteilungen; Einnistung in der Gebärmutter.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": true,
+      "zeilen": 4,
+      "hilfe": "Die **Befruchtung** findet meist im Eileiter statt: Ei- und Samenzelle verschmelzen, ihre Erbinformation wird vereint. Die **Zygote** teilt sich auf dem Weg zur Gebärmutter. Einige Tage später kann sich der frühe Embryo in die Gebärmutterschleimhaut **einnisten**."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Struktur ermöglicht den Stoffaustausch mit der schwangeren Person?",
+      "optionen": [
+        "Plazenta",
+        "Magen des Fetus",
+        "Fruchtwasser allein"
+      ],
+      "richtig": 0,
+      "id": "u6-1",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Der frühe Mensch heisst zunächst **Embryo**, später **Fetus**. Die **Plazenta** ermöglicht Stoffaustausch zwischen den getrennten Blutkreisläufen. Die **Nabelschnur** verbindet Fetus und Plazenta. **Fruchtwasser** und Fruchtblase schützen unter anderem vor Stössen."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne zu.",
+      "paare": [
+        [
+          "Plazenta",
+          "Stoffaustausch"
+        ],
+        [
+          "Nabelschnur",
+          "Verbindung zur Plazenta"
+        ],
+        [
+          "Fruchtwasser",
+          "Schutz und Bewegungsraum"
+        ]
+      ],
+      "id": "u6-2",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Der frühe Mensch heisst zunächst **Embryo**, später **Fetus**. Die **Plazenta** ermöglicht Stoffaustausch zwischen den getrennten Blutkreisläufen. Die **Nabelschnur** verbindet Fetus und Plazenta. **Fruchtwasser** und Fruchtblase schützen unter anderem vor Stössen."
+    },
+    {
+      "id": "u6-3",
+      "typ": "offen",
+      "lernziel": "6",
+      "frage": "Erkläre den Weg von Sauerstoff zur Körperzelle des Fetus.",
+      "musterloesung": "Lunge und Blut der schwangeren Person → Austausch in der Plazenta → fetales Blut und Nabelschnur → Zellen des Fetus.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "Der frühe Mensch heisst zunächst **Embryo**, später **Fetus**. Die **Plazenta** ermöglicht Stoffaustausch zwischen den getrennten Blutkreisläufen. Die **Nabelschnur** verbindet Fetus und Plazenta. **Fruchtwasser** und Fruchtblase schützen unter anderem vor Stössen."
+    },
+    {
+      "typ": "mc",
+      "frage": "Was bezeichnet die Nachgeburt?",
+      "optionen": [
+        "Vor allem ausgestossene Plazenta und Hüllen",
+        "Das Neugeborene",
+        "Den ersten Atemzug"
+      ],
+      "richtig": 0,
+      "id": "u7-1",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Bei einer vaginalen Geburt wird der Muttermund in der **Eröffnungsphase** durch Wehen geöffnet. In der **Austreibungsphase** wird das Kind geboren. In der **Nachgeburtsphase** lösen sich Plazenta und weitere Hüllen. Nach der Geburt beginnt die eigene Luftatmung."
+    },
+    {
+      "typ": "reihenfolge",
+      "frage": "Ordne die Phasen.",
+      "items": [
+        "Eröffnungsphase",
+        "Austreibungsphase",
+        "Nachgeburtsphase"
+      ],
+      "id": "u7-2",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Bei einer vaginalen Geburt wird der Muttermund in der **Eröffnungsphase** durch Wehen geöffnet. In der **Austreibungsphase** wird das Kind geboren. In der **Nachgeburtsphase** lösen sich Plazenta und weitere Hüllen. Nach der Geburt beginnt die eigene Luftatmung."
+    },
+    {
+      "id": "u7-3",
+      "typ": "offen",
+      "lernziel": "7",
+      "frage": "Erkläre die Aufgabe der Lunge vor und nach der Geburt in einem Vergleich.",
+      "musterloesung": "Vorher gelangt Sauerstoff über Plazenta und Nabelschnur ins Blut. Nachher übernimmt die Lunge den Gasaustausch mit der Luft.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "Bei einer vaginalen Geburt wird der Muttermund in der **Eröffnungsphase** durch Wehen geöffnet. In der **Austreibungsphase** wird das Kind geboren. In der **Nachgeburtsphase** lösen sich Plazenta und weitere Hüllen. Nach der Geburt beginnt die eigene Luftatmung."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage stimmt?",
+      "optionen": [
+        "Die Pille schützt vor allen STI.",
+        "Kondome können zusätzlich das Risiko vieler STI senken.",
+        "Kalendertage beweisen Unfruchtbarkeit."
+      ],
+      "richtig": 1,
+      "id": "u8-1",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "**Verhütung** soll eine ungewollte Schwangerschaft verhindern. Methoden wirken unterschiedlich, etwa als Barriere oder hormonell. **Kondome senken zusätzlich das Risiko vieler sexuell übertragbarer Infektionen (STI)**. Die Pille schützt nicht vor STI."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne zu.",
+      "paare": [
+        [
+          "Kondom",
+          "Barriere, zusätzlicher Schutz vor vielen STI"
+        ],
+        [
+          "Pille",
+          "hormonelle Schwangerschaftsverhütung, kein STI-Schutz"
+        ],
+        [
+          "STI",
+          "sexuell übertragbare Infektionen"
+        ]
+      ],
+      "id": "u8-2",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "**Verhütung** soll eine ungewollte Schwangerschaft verhindern. Methoden wirken unterschiedlich, etwa als Barriere oder hormonell. **Kondome senken zusätzlich das Risiko vieler sexuell übertragbarer Infektionen (STI)**. Die Pille schützt nicht vor STI."
+    },
+    {
+      "id": "u8-3",
+      "typ": "offen",
+      "lernziel": "8",
+      "frage": "Eine Aussage lautet: «Wer die Pille nimmt, ist auch vor STI geschützt.» Korrigiere sie.",
+      "musterloesung": "Die Pille dient der Schwangerschaftsverhütung, schützt aber nicht vor STI. Kondome können das Risiko vieler STI zusätzlich senken.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "**Verhütung** soll eine ungewollte Schwangerschaft verhindern. Methoden wirken unterschiedlich, etwa als Barriere oder hormonell. **Kondome senken zusätzlich das Risiko vieler sexuell übertragbarer Infektionen (STI)**. Die Pille schützt nicht vor STI."
+    }
+  ],
+  "pruefungen": [
+    {
+      "id": "test-32",
+      "titel": "Ein Mensch entsteht - Testprüfung",
+      "richtzeit": 45,
+      "hinweis": "32 Punkte. Grundlagenprüfung zu selbst formulierten Lernzielen; noch kein Abgleich mit den Prüfungszielen der Schule. Zeichnungen auf Papier. Offene Aufgaben anhand der Kriterien selbst bewerten.",
+      "aufgaben": [
+        {
+          "id": "p1",
+          "nr": "1",
+          "typ": "offen",
+          "lernziel": "1",
+          "titel": "Pubertät und Hormone",
+          "frage": "Erkläre die Funktion von Hormonen in der Pubertät. Nenne zwei mögliche körperliche Veränderungen und eine Aussage zum zeitlichen Verlauf.",
+          "punkte": 4,
+          "musterloesung": "Hormone wirken als chemische Botenstoffe\nEine passende körperliche Veränderung\nEine weitere passende körperliche Veränderung\nBeginn und Tempo sind individuell",
+          "kriterien": [
+            {
+              "text": "Hormone wirken als chemische Botenstoffe",
+              "punkte": 1
+            },
+            {
+              "text": "Eine passende körperliche Veränderung",
+              "punkte": 1
+            },
+            {
+              "text": "Eine weitere passende körperliche Veränderung",
+              "punkte": 1
+            },
+            {
+              "text": "Beginn und Tempo sind individuell",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p2",
+          "nr": "2",
+          "typ": "offen",
+          "lernziel": "2",
+          "titel": "Fortpflanzungsorgane",
+          "frage": "Zeichne Eierstöcke, Eileiter, Gebärmutter und Vagina als vereinfachte Skizze. Beschrifte die vier Organarten.",
+          "punkte": 4,
+          "musterloesung": "Eierstöcke korrekt angeordnet\nEileiter verbinden den Bereich der Eierstöcke mit der Gebärmutter\nGebärmutter in der Mitte\nVagina unterhalb der Gebärmutter richtig verbunden und beschriftet",
+          "kriterien": [
+            {
+              "text": "Eierstöcke korrekt angeordnet",
+              "punkte": 1
+            },
+            {
+              "text": "Eileiter verbinden den Bereich der Eierstöcke mit der Gebärmutter",
+              "punkte": 1
+            },
+            {
+              "text": "Gebärmutter in der Mitte",
+              "punkte": 1
+            },
+            {
+              "text": "Vagina unterhalb der Gebärmutter richtig verbunden und beschriftet",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        },
+        {
+          "id": "p3",
+          "nr": "3",
+          "typ": "offen",
+          "lernziel": "3",
+          "titel": "Keimzellen und Erbinformation",
+          "frage": "Vergleiche Ei- und Samenzelle mit je einem Merkmal. Gib die normale Chromosomenzahl einer Keimzelle und der Zygote an.",
+          "punkte": 4,
+          "musterloesung": "Eizelle gross mit viel Zellplasma\nSpermium klein mit beweglichem Schwanz\nKeimzelle normalerweise 23 Chromosomen\nZygote normalerweise 46 Chromosomen",
+          "kriterien": [
+            {
+              "text": "Eizelle gross mit viel Zellplasma",
+              "punkte": 1
+            },
+            {
+              "text": "Spermium klein mit beweglichem Schwanz",
+              "punkte": 1
+            },
+            {
+              "text": "Keimzelle normalerweise 23 Chromosomen",
+              "punkte": 1
+            },
+            {
+              "text": "Zygote normalerweise 46 Chromosomen",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p4",
+          "nr": "4",
+          "typ": "offen",
+          "lernziel": "4",
+          "titel": "Menstruationszyklus",
+          "frage": "Beschreibe Menstruation, Schleimhautaufbau und Eisprung. Erkläre eine Grenze des 28-Tage-Modells.",
+          "punkte": 4,
+          "musterloesung": "Menstruation: Schleimhaut wird teilweise abgestossen\nSchleimhaut baut sich anschliessend wieder auf\nEisprung: Freisetzung einer Eizelle aus dem Eierstock\nZyklusdauer und Zeitpunkt sind individuell, kein starrer 28-Tage-Kalender",
+          "kriterien": [
+            {
+              "text": "Menstruation: Schleimhaut wird teilweise abgestossen",
+              "punkte": 1
+            },
+            {
+              "text": "Schleimhaut baut sich anschliessend wieder auf",
+              "punkte": 1
+            },
+            {
+              "text": "Eisprung: Freisetzung einer Eizelle aus dem Eierstock",
+              "punkte": 1
+            },
+            {
+              "text": "Zyklusdauer und Zeitpunkt sind individuell, kein starrer 28-Tage-Kalender",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p5",
+          "nr": "5",
+          "typ": "offen",
+          "lernziel": "5",
+          "titel": "Befruchtung und Einnistung",
+          "frage": "Beschreibe die Befruchtung und die drei folgenden Schritte bis zur Einnistung in der richtigen Reihenfolge.",
+          "punkte": 4,
+          "musterloesung": "Ei- und Samenzelle verschmelzen meist im Eileiter\nDie Zygote beginnt sich zu teilen\nTransport in die Gebärmutter\nEinnistung in deren Schleimhaut",
+          "kriterien": [
+            {
+              "text": "Ei- und Samenzelle verschmelzen meist im Eileiter",
+              "punkte": 1
+            },
+            {
+              "text": "Die Zygote beginnt sich zu teilen",
+              "punkte": 1
+            },
+            {
+              "text": "Transport in die Gebärmutter",
+              "punkte": 1
+            },
+            {
+              "text": "Einnistung in deren Schleimhaut",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p6",
+          "nr": "6",
+          "typ": "offen",
+          "lernziel": "6",
+          "titel": "Entwicklung und Versorgung",
+          "frage": "Nenne die Aufgaben von Plazenta, Nabelschnur und Fruchtwasser. Beschreibe den Sauerstoffaustausch zwischen den Blutkreisläufen.",
+          "punkte": 4,
+          "musterloesung": "Plazenta ermöglicht Stoffaustausch\nNabelschnur verbindet Fetus und Plazenta\nFruchtwasser schützt unter anderem vor Stössen\nSauerstoff wechselt über die Plazenta in den getrennten fetalen Blutkreislauf",
+          "kriterien": [
+            {
+              "text": "Plazenta ermöglicht Stoffaustausch",
+              "punkte": 1
+            },
+            {
+              "text": "Nabelschnur verbindet Fetus und Plazenta",
+              "punkte": 1
+            },
+            {
+              "text": "Fruchtwasser schützt unter anderem vor Stössen",
+              "punkte": 1
+            },
+            {
+              "text": "Sauerstoff wechselt über die Plazenta in den getrennten fetalen Blutkreislauf",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p7",
+          "nr": "7",
+          "typ": "offen",
+          "lernziel": "7",
+          "titel": "Geburt und erste Anpassungen",
+          "frage": "Nenne die drei Grundphasen einer vaginalen Geburt in Reihenfolge und eine wesentliche Anpassung des Neugeborenen.",
+          "punkte": 4,
+          "musterloesung": "Eröffnungsphase zuerst\nAustreibungsphase danach\nNachgeburtsphase zuletzt\nEigene Luftatmung beziehungsweise Umstellung des Kreislaufs",
+          "kriterien": [
+            {
+              "text": "Eröffnungsphase zuerst",
+              "punkte": 1
+            },
+            {
+              "text": "Austreibungsphase danach",
+              "punkte": 1
+            },
+            {
+              "text": "Nachgeburtsphase zuletzt",
+              "punkte": 1
+            },
+            {
+              "text": "Eigene Luftatmung beziehungsweise Umstellung des Kreislaufs",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p8",
+          "nr": "8",
+          "typ": "offen",
+          "lernziel": "8",
+          "titel": "Verhütung und Infektionsschutz",
+          "frage": "Vergleiche Kondom und Pille nach Wirkprinzip und Schutz vor STI.",
+          "punkte": 4,
+          "musterloesung": "Kondom wirkt als Barriere\nKondom senkt das Risiko vieler STI\nPille wirkt hormonell zur Schwangerschaftsverhütung\nPille schützt nicht vor STI",
+          "kriterien": [
+            {
+              "text": "Kondom wirkt als Barriere",
+              "punkte": 1
+            },
+            {
+              "text": "Kondom senkt das Risiko vieler STI",
+              "punkte": 1
+            },
+            {
+              "text": "Pille wirkt hormonell zur Schwangerschaftsverhütung",
+              "punkte": 1
+            },
+            {
+              "text": "Pille schützt nicht vor STI",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        }
+      ]
+    }
+  ]
+}

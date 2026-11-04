@@ -1,0 +1,1066 @@
+{
+  "lernzielBasis": "selbst-formuliert",
+  "hinweis": "Eigenständig formulierte Lernziele und Inhalte zur Themenübersicht von Prisma 2. Die Lernziele der Schule sind noch nicht abgeglichen.",
+  "quellen": [
+    {
+      "titel": "Kräfte und Bewegung - Lerndossier",
+      "art": "Eigene Erklärungen, Übungsblätter, Testprüfung und Lösungen",
+      "seiten": 12,
+      "datei": "material/klasse-8/prisma/kraefte-bewegung/Prisma2_kraefte-bewegung_Lerndossier.pdf"
+    }
+  ],
+  "referenzen": [
+    {
+      "titel": "Prisma: öffentliche Themenübersicht",
+      "url": "https://downloads.klett.ch/uploads/images/textbooks/Dateien/Klett_Prisma-Prospekt_201119_3_final.pdf?v=1616765520"
+    },
+    {
+      "titel": "Fachliche Referenz",
+      "url": "https://www.leifiphysik.de/mechanik/gleichfoermige-bewegung"
+    },
+    {
+      "titel": "Fachliche Referenz",
+      "url": "https://www.leifiphysik.de/mechanik/kraft-und-kraftarten"
+    },
+    {
+      "titel": "Fachliche Referenz",
+      "url": "https://www.leifiphysik.de/mechanik/einfache-maschinen"
+    }
+  ],
+  "lernziele": [
+    {
+      "id": "1",
+      "nr": "1",
+      "gruppe": "Grundlagen",
+      "kurz": "Grössen und Einheiten",
+      "text": "Ich kann Weg, Zeit, Geschwindigkeit und Kraft mit passenden Einheiten angeben und umrechnen.",
+      "frage": "Wie kannst du Weg, Zeit, Geschwindigkeit und Kraft mit passenden Einheiten angeben und umrechnen?",
+      "antwort": "**Weg s:** Meter (m). **Zeit t:** Sekunde (s). **Geschwindigkeit v:** m/s oder km/h. **Kraft F:** Newton (N). **Masse m:** Kilogramm (kg). Umrechnen: 1 min = 60 s; 1 km = 1000 m; 1 m/s = 3.6 km/h."
+    },
+    {
+      "id": "2",
+      "nr": "2",
+      "gruppe": "Grundlagen",
+      "kurz": "Geschwindigkeit berechnen",
+      "text": "Ich kann Durchschnittsgeschwindigkeit, Weg und Zeit berechnen.",
+      "frage": "Wie kannst du Durchschnittsgeschwindigkeit, Weg und Zeit berechnen?",
+      "antwort": "**v = s/t**, **s = v·t**, **t = s/v**. Die Durchschnittsgeschwindigkeit ist der gesamte zurückgelegte Weg geteilt durch die gesamte benötigte Zeit. Bei gleichförmiger Bewegung ist die Geschwindigkeit konstant."
+    },
+    {
+      "id": "3",
+      "nr": "3",
+      "gruppe": "Grundlagen",
+      "kurz": "Weg-Zeit-Diagramme",
+      "text": "Ich kann ein s-t-Diagramm lesen und gleichförmige Bewegung sowie Stillstand erkennen.",
+      "frage": "Wie kannst du ein s-t-Diagramm lesen und gleichförmige Bewegung sowie Stillstand erkennen?",
+      "antwort": "Im **s-t-Diagramm** steht die Zeit auf der waagrechten und der Weg auf der senkrechten Achse. Bei gleichförmiger Bewegung entsteht eine Gerade. **Steilere Linie → grössere Geschwindigkeit.** Eine waagrechte Linie zeigt Stillstand."
+    },
+    {
+      "id": "4",
+      "nr": "4",
+      "gruppe": "Anwenden und verstehen",
+      "kurz": "Kräfte darstellen",
+      "text": "Ich kann Kraftwirkungen erklären und Kräfte mit Pfeilen darstellen.",
+      "frage": "Wie kannst du Kraftwirkungen erklären und Kräfte mit Pfeilen darstellen?",
+      "antwort": "Eine **Kraft** kann Geschwindigkeit oder Bewegungsrichtung ändern und Körper verformen. Ein Kraftpfeil zeigt **Angriffspunkt, Richtung und Betrag**. Seine Länge wird mit einem angegebenen Massstab gewählt. Gemessen wird Kraft mit einem Kraftmesser in Newton."
+    },
+    {
+      "id": "5",
+      "nr": "5",
+      "gruppe": "Anwenden und verstehen",
+      "kurz": "Masse und Gewichtskraft",
+      "text": "Ich kann Masse und Gewichtskraft unterscheiden und F_G = m·g anwenden.",
+      "frage": "Wie kannst du Masse und Gewichtskraft unterscheiden und F_G = m·g anwenden?",
+      "antwort": "**Masse** beschreibt eine Körpereigenschaft und wird in kg angegeben. Die **Gewichtskraft** ist die Gravitationskraft am jeweiligen Ort und wird in N gemessen. **F_G = m·g**. In den Aufgaben verwenden wir ausdrücklich **g = 10 N/kg** als Schulnäherung."
+    },
+    {
+      "id": "6",
+      "nr": "6",
+      "gruppe": "Anwenden und verstehen",
+      "kurz": "Resultierende Kraft und Gleichgewicht",
+      "text": "Ich kann gleichgerichtete und entgegengesetzte Kräfte zusammenfassen und Gleichgewicht erklären.",
+      "frage": "Wie kannst du gleichgerichtete und entgegengesetzte Kräfte zusammenfassen und Gleichgewicht erklären?",
+      "antwort": "Kräfte in derselben Richtung werden addiert. Bei entgegengesetzten Kräften auf derselben Wirkungslinie werden die Beträge subtrahiert. Die **resultierende Kraft** zeigt die Gesamtwirkung. Bei **Kräftegleichgewicht** ist sie null."
+    },
+    {
+      "id": "7",
+      "nr": "7",
+      "gruppe": "Zusammenhänge und Kontrolle",
+      "kurz": "Reibung im Alltag",
+      "text": "Ich kann Reibung als Kraft erklären und nützliche sowie störende Wirkungen nennen.",
+      "frage": "Wie kannst du Reibung als Kraft erklären und nützliche sowie störende Wirkungen nennen?",
+      "antwort": "**Reibung** wirkt einer relativen Bewegung oder dem drohenden Gleiten zwischen Oberflächen entgegen. Man unterscheidet unter anderem Haft-, Gleit- und Rollreibung. Reibung kann Bewegung ermöglichen, abbremsen und mechanische Energie in innere Energie umwandeln."
+    },
+    {
+      "id": "8",
+      "nr": "8",
+      "gruppe": "Zusammenhänge und Kontrolle",
+      "kurz": "Hebel und Kraftarm",
+      "text": "Ich kann das Hebelgesetz auf einen einfachen waagrechten Hebel im Gleichgewicht anwenden.",
+      "frage": "Wie kannst du das Hebelgesetz auf einen einfachen waagrechten Hebel im Gleichgewicht anwenden?",
+      "antwort": "Ein Hebel dreht sich um einen **Drehpunkt**. Beim waagrechten Hebel mit senkrechten Kräften gilt im Gleichgewicht **F₁·l₁ = F₂·l₂**. Der längere Kraftarm erlaubt eine kleinere Kraft. Allgemein ist der Hebelarm der senkrechte Abstand zur Wirkungslinie."
+    }
+  ],
+  "lernen": [
+    {
+      "id": "lz-1",
+      "titel": "Grössen und Einheiten",
+      "lernziele": [
+        "1"
+      ],
+      "intro": "Ich kann Weg, Zeit, Geschwindigkeit und Kraft mit passenden Einheiten angeben und umrechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "**Weg s:** Meter (m). **Zeit t:** Sekunde (s). **Geschwindigkeit v:** m/s oder km/h. **Kraft F:** Newton (N). **Masse m:** Kilogramm (kg). Umrechnen: 1 min = 60 s; 1 km = 1000 m; 1 m/s = 3.6 km/h."
+        },
+        {
+          "t": "p",
+          "text": "Ein Formelzeichen und eine Einheit sind verschieden: s steht für den Weg, die Einheit s für die Sekunde. Schreibe Grössenwerte immer mit Einheit. Vor einer Rechnung werden die Einheiten passend umgerechnet."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "72 km/h : 3.6 = 20 m/s. 5 m/s × 3.6 = 18 km/h. 2 min = 120 s."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "km/h und m/s sind nicht zahlenmässig gleich. 1 Minute hat 60 Sekunden, nicht 100."
+        }
+      ]
+    },
+    {
+      "id": "lz-2",
+      "titel": "Geschwindigkeit berechnen",
+      "lernziele": [
+        "2"
+      ],
+      "intro": "Ich kann Durchschnittsgeschwindigkeit, Weg und Zeit berechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "**v = s/t**, **s = v·t**, **t = s/v**. Die Durchschnittsgeschwindigkeit ist der gesamte zurückgelegte Weg geteilt durch die gesamte benötigte Zeit. Bei gleichförmiger Bewegung ist die Geschwindigkeit konstant."
+        },
+        {
+          "t": "p",
+          "text": "Eine Durchschnittsgeschwindigkeit verrät nicht, ob zwischendurch angehalten oder beschleunigt wurde. Bei verschieden langen Teilstrecken darf man die Geschwindigkeiten nicht ohne weitere Prüfung einfach mitteln."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Ein Fahrrad legt 120 m in 24 s zurück: v = 120/24 = 5 m/s = 18 km/h. Bei 4 m/s in 30 s: s = 120 m."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Weg und Zeit nicht vertauschen. Die gesamte Zeit muss auch Pausen enthalten, wenn die gesamte Fahrt betrachtet wird."
+        }
+      ]
+    },
+    {
+      "id": "lz-3",
+      "titel": "Weg-Zeit-Diagramme",
+      "lernziele": [
+        "3"
+      ],
+      "intro": "Ich kann ein s-t-Diagramm lesen und gleichförmige Bewegung sowie Stillstand erkennen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Im **s-t-Diagramm** steht die Zeit auf der waagrechten und der Weg auf der senkrechten Achse. Bei gleichförmiger Bewegung entsteht eine Gerade. **Steilere Linie → grössere Geschwindigkeit.** Eine waagrechte Linie zeigt Stillstand."
+        },
+        {
+          "t": "bild",
+          "src": "content/img/prisma/kraefte-bewegung.svg",
+          "alt": "Geschwindigkeit, Diagramme, Kraftpfeile und Hebel - beschriftete Lernskizze",
+          "caption": "Eigene vereinfachte Skizze; nicht massstabsgetreu."
+        },
+        {
+          "t": "p",
+          "text": "Die Steigung entspricht Δs/Δt. Liegt ein Punkt höher als ein anderer, ist dort mehr Weg zurückgelegt; das bedeutet nicht automatisch, dass genau dort schneller gefahren wird. Dafür muss man die Steigung vergleichen."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Von (0 s | 0 m) nach (4 s | 8 m): v = 8/4 = 2 m/s. Von (4 s | 8 m) nach (7 s | 8 m): Stillstand für 3 s."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Ein s-t-Diagramm ist keine Landkarte. Eine waagrechte Strecke bedeutet hier keine waagrechte Strasse."
+        }
+      ]
+    },
+    {
+      "id": "lz-4",
+      "titel": "Kräfte darstellen",
+      "lernziele": [
+        "4"
+      ],
+      "intro": "Ich kann Kraftwirkungen erklären und Kräfte mit Pfeilen darstellen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Eine **Kraft** kann Geschwindigkeit oder Bewegungsrichtung ändern und Körper verformen. Ein Kraftpfeil zeigt **Angriffspunkt, Richtung und Betrag**. Seine Länge wird mit einem angegebenen Massstab gewählt. Gemessen wird Kraft mit einem Kraftmesser in Newton."
+        },
+        {
+          "t": "p",
+          "text": "Man erkennt Kräfte an ihren Wirkungen, nicht als sichtbare Gegenstände. Auch ein ruhender Körper kann unter mehreren Kräften stehen. Ein Pfeil braucht einen klaren Anfang am Angriffspunkt und eine Spitze für die Wirkrichtung."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Massstab 1 cm = 2 N: Für 6 N ist der Pfeil 3 cm lang. Beim Bremsen wirkt die bremsende Kraft entgegen der Bewegungsrichtung."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Bewegungsrichtung und Kraftrichtung sind nicht immer gleich. Ein unverformter oder ruhender Körper ist nicht automatisch kräftefrei."
+        }
+      ]
+    },
+    {
+      "id": "lz-5",
+      "titel": "Masse und Gewichtskraft",
+      "lernziele": [
+        "5"
+      ],
+      "intro": "Ich kann Masse und Gewichtskraft unterscheiden und F_G = m·g anwenden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "**Masse** beschreibt eine Körpereigenschaft und wird in kg angegeben. Die **Gewichtskraft** ist die Gravitationskraft am jeweiligen Ort und wird in N gemessen. **F_G = m·g**. In den Aufgaben verwenden wir ausdrücklich **g = 10 N/kg** als Schulnäherung."
+        },
+        {
+          "t": "p",
+          "text": "Auf der Erde ist g näherungsweise 9.81 N/kg. Die Masse bleibt beim Ortswechsel gleich; die Gewichtskraft kann sich ändern. Auf dem Mond ist g deutlich kleiner als auf der Erde."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Ein Körper mit 3 kg hat bei g = 10 N/kg eine Gewichtskraft von 30 N. Auf dem Mond hat derselbe Körper weiterhin 3 kg, aber eine kleinere Gewichtskraft."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "„3 kg Gewichtskraft“ vermischt Masse und Kraft. Die Masse wird beim Flug zum Mond nicht automatisch kleiner."
+        }
+      ]
+    },
+    {
+      "id": "lz-6",
+      "titel": "Resultierende Kraft und Gleichgewicht",
+      "lernziele": [
+        "6"
+      ],
+      "intro": "Ich kann gleichgerichtete und entgegengesetzte Kräfte zusammenfassen und Gleichgewicht erklären.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Kräfte in derselben Richtung werden addiert. Bei entgegengesetzten Kräften auf derselben Wirkungslinie werden die Beträge subtrahiert. Die **resultierende Kraft** zeigt die Gesamtwirkung. Bei **Kräftegleichgewicht** ist sie null."
+        },
+        {
+          "t": "p",
+          "text": "Bei resultierender Kraft null bleibt ein ruhender Körper in Ruhe oder ein bewegter Körper bewegt sich geradlinig mit konstanter Geschwindigkeit weiter. Gleichgewicht bedeutet nicht, dass überhaupt keine einzelnen Kräfte wirken."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "8 N nach rechts und 3 N nach links → 5 N nach rechts. 4 N nach rechts und 4 N nach links → 0 N resultierend."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Gleich grosse entgegengesetzte Kräfte addiert man hier nicht zu einer Kraft in eine Richtung. Beide müssen auf denselben Körper wirken."
+        }
+      ]
+    },
+    {
+      "id": "lz-7",
+      "titel": "Reibung im Alltag",
+      "lernziele": [
+        "7"
+      ],
+      "intro": "Ich kann Reibung als Kraft erklären und nützliche sowie störende Wirkungen nennen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "**Reibung** wirkt einer relativen Bewegung oder dem drohenden Gleiten zwischen Oberflächen entgegen. Man unterscheidet unter anderem Haft-, Gleit- und Rollreibung. Reibung kann Bewegung ermöglichen, abbremsen und mechanische Energie in innere Energie umwandeln."
+        },
+        {
+          "t": "p",
+          "text": "Ohne Haftreibung zwischen Schuh und Boden wäre Gehen schwierig. Beim Schieben kann Gleitreibung stören. Schmieren oder Rollen kann Widerstand vermindern; rutschfeste Oberflächen können die Haftung erhöhen."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Bremsen nutzt Reibung zum Verzögern. Dabei erwärmen sich Teile des Bremssystems. Ein rollender Wagen lässt sich oft leichter bewegen als eine rutschende Kiste."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Reibung ist nicht immer schädlich. Sie verschwindet nicht automatisch, nur weil ein Körper stillsteht."
+        }
+      ]
+    },
+    {
+      "id": "lz-8",
+      "titel": "Hebel und Kraftarm",
+      "lernziele": [
+        "8"
+      ],
+      "intro": "Ich kann das Hebelgesetz auf einen einfachen waagrechten Hebel im Gleichgewicht anwenden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Ein Hebel dreht sich um einen **Drehpunkt**. Beim waagrechten Hebel mit senkrechten Kräften gilt im Gleichgewicht **F₁·l₁ = F₂·l₂**. Der längere Kraftarm erlaubt eine kleinere Kraft. Allgemein ist der Hebelarm der senkrechte Abstand zur Wirkungslinie."
+        },
+        {
+          "t": "p",
+          "text": "Bei Rechnungen müssen beide Armlängen dieselbe Einheit haben. Ein Hebel spart keine Energie: Der Angriffspunkt der kleineren Kraft legt bei einer Drehung einen längeren Weg zurück. Das Eigengewicht des Hebels wird in einfachen Aufgaben ausdrücklich vernachlässigt."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "20 N an 10 cm werden durch 5 N an 40 cm ausgeglichen: 20·10 = 5·40. Beide Drehmomente sind gleich gross und wirken entgegengesetzt."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Nicht nur die Kräfte vergleichen: Ihre Abstände zum Drehpunkt sind entscheidend."
+        }
+      ]
+    },
+    {
+      "id": "lernspick",
+      "titel": "Lernspick: alle Lernziele mit Kurzantwort",
+      "lernziele": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "intro": "Eigene Lernziele: mit den schulischen Vorgaben abgleichen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "1. Grössen und Einheiten",
+          "text": "**Weg s:** Meter (m). **Zeit t:** Sekunde (s). **Geschwindigkeit v:** m/s oder km/h. **Kraft F:** Newton (N). **Masse m:** Kilogramm (kg). Umrechnen: 1 min = 60 s; 1 km = 1000 m; 1 m/s = 3.6 km/h."
+        },
+        {
+          "t": "merke",
+          "titel": "2. Geschwindigkeit berechnen",
+          "text": "**v = s/t**, **s = v·t**, **t = s/v**. Die Durchschnittsgeschwindigkeit ist der gesamte zurückgelegte Weg geteilt durch die gesamte benötigte Zeit. Bei gleichförmiger Bewegung ist die Geschwindigkeit konstant."
+        },
+        {
+          "t": "merke",
+          "titel": "3. Weg-Zeit-Diagramme",
+          "text": "Im **s-t-Diagramm** steht die Zeit auf der waagrechten und der Weg auf der senkrechten Achse. Bei gleichförmiger Bewegung entsteht eine Gerade. **Steilere Linie → grössere Geschwindigkeit.** Eine waagrechte Linie zeigt Stillstand."
+        },
+        {
+          "t": "merke",
+          "titel": "4. Kräfte darstellen",
+          "text": "Eine **Kraft** kann Geschwindigkeit oder Bewegungsrichtung ändern und Körper verformen. Ein Kraftpfeil zeigt **Angriffspunkt, Richtung und Betrag**. Seine Länge wird mit einem angegebenen Massstab gewählt. Gemessen wird Kraft mit einem Kraftmesser in Newton."
+        },
+        {
+          "t": "merke",
+          "titel": "5. Masse und Gewichtskraft",
+          "text": "**Masse** beschreibt eine Körpereigenschaft und wird in kg angegeben. Die **Gewichtskraft** ist die Gravitationskraft am jeweiligen Ort und wird in N gemessen. **F_G = m·g**. In den Aufgaben verwenden wir ausdrücklich **g = 10 N/kg** als Schulnäherung."
+        },
+        {
+          "t": "merke",
+          "titel": "6. Resultierende Kraft und Gleichgewicht",
+          "text": "Kräfte in derselben Richtung werden addiert. Bei entgegengesetzten Kräften auf derselben Wirkungslinie werden die Beträge subtrahiert. Die **resultierende Kraft** zeigt die Gesamtwirkung. Bei **Kräftegleichgewicht** ist sie null."
+        },
+        {
+          "t": "merke",
+          "titel": "7. Reibung im Alltag",
+          "text": "**Reibung** wirkt einer relativen Bewegung oder dem drohenden Gleiten zwischen Oberflächen entgegen. Man unterscheidet unter anderem Haft-, Gleit- und Rollreibung. Reibung kann Bewegung ermöglichen, abbremsen und mechanische Energie in innere Energie umwandeln."
+        },
+        {
+          "t": "merke",
+          "titel": "8. Hebel und Kraftarm",
+          "text": "Ein Hebel dreht sich um einen **Drehpunkt**. Beim waagrechten Hebel mit senkrechten Kräften gilt im Gleichgewicht **F₁·l₁ = F₂·l₂**. Der längere Kraftarm erlaubt eine kleinere Kraft. Allgemein ist der Hebelarm der senkrechte Abstand zur Wirkungslinie."
+        }
+      ]
+    }
+  ],
+  "karten": [
+    {
+      "vorne": "s",
+      "hinten": "Formelzeichen für Weg; Einheit m"
+    },
+    {
+      "vorne": "t",
+      "hinten": "Formelzeichen für Zeit; Einheit s"
+    },
+    {
+      "vorne": "v",
+      "hinten": "Geschwindigkeit; v = s/t"
+    },
+    {
+      "vorne": "F",
+      "hinten": "Kraft; Einheit Newton (N)"
+    },
+    {
+      "vorne": "m",
+      "hinten": "Masse; Einheit Kilogramm (kg)"
+    },
+    {
+      "vorne": "m/s → km/h",
+      "hinten": "mit 3.6 multiplizieren"
+    },
+    {
+      "vorne": "km/h → m/s",
+      "hinten": "durch 3.6 teilen"
+    },
+    {
+      "vorne": "s-t-Steigung",
+      "hinten": "entspricht Δs/Δt und damit der Geschwindigkeit"
+    },
+    {
+      "vorne": "Gewichtskraft",
+      "hinten": "F_G = m·g"
+    },
+    {
+      "vorne": "Resultierende",
+      "hinten": "Kraft mit der Gesamtwirkung aller Kräfte"
+    },
+    {
+      "vorne": "Gleichgewicht",
+      "hinten": "resultierende Kraft ist null"
+    },
+    {
+      "vorne": "Hebelgesetz",
+      "hinten": "F₁·l₁ = F₂·l₂"
+    }
+  ],
+  "uebungen": [
+    {
+      "typ": "mc",
+      "frage": "Welche Einheit gehört zur Kraft?",
+      "optionen": [
+        "Newton",
+        "Kilogramm",
+        "Meter pro Sekunde"
+      ],
+      "richtig": 0,
+      "id": "u1-1",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "**Weg s:** Meter (m). **Zeit t:** Sekunde (s). **Geschwindigkeit v:** m/s oder km/h. **Kraft F:** Newton (N). **Masse m:** Kilogramm (kg). Umrechnen: 1 min = 60 s; 1 km = 1000 m; 1 m/s = 3.6 km/h."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Rechne 36 km/h in m/s um.",
+      "antwort": 10,
+      "einheit": "m/s",
+      "toleranz": 0.01,
+      "id": "u1-2",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "**Weg s:** Meter (m). **Zeit t:** Sekunde (s). **Geschwindigkeit v:** m/s oder km/h. **Kraft F:** Newton (N). **Masse m:** Kilogramm (kg). Umrechnen: 1 min = 60 s; 1 km = 1000 m; 1 m/s = 3.6 km/h."
+    },
+    {
+      "id": "u1-3",
+      "typ": "offen",
+      "lernziel": "1",
+      "frage": "Rechne 3 Minuten in Sekunden und 15 m/s in km/h um.",
+      "musterloesung": "3 min = 180 s; 15 × 3.6 = 54 km/h.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "**Weg s:** Meter (m). **Zeit t:** Sekunde (s). **Geschwindigkeit v:** m/s oder km/h. **Kraft F:** Newton (N). **Masse m:** Kilogramm (kg). Umrechnen: 1 min = 60 s; 1 km = 1000 m; 1 m/s = 3.6 km/h."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Formel ist richtig?",
+      "optionen": [
+        "v = s/t",
+        "v = t/s",
+        "v = s·t"
+      ],
+      "richtig": 0,
+      "id": "u2-1",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "**v = s/t**, **s = v·t**, **t = s/v**. Die Durchschnittsgeschwindigkeit ist der gesamte zurückgelegte Weg geteilt durch die gesamte benötigte Zeit. Bei gleichförmiger Bewegung ist die Geschwindigkeit konstant."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Ein Fahrzeug legt 150 m in 30 s zurück. Berechne v.",
+      "antwort": 5,
+      "einheit": "m/s",
+      "toleranz": 0.01,
+      "id": "u2-2",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "**v = s/t**, **s = v·t**, **t = s/v**. Die Durchschnittsgeschwindigkeit ist der gesamte zurückgelegte Weg geteilt durch die gesamte benötigte Zeit. Bei gleichförmiger Bewegung ist die Geschwindigkeit konstant."
+    },
+    {
+      "id": "u2-3",
+      "typ": "offen",
+      "lernziel": "2",
+      "frage": "Ein Kind geht 240 m in 3 Minuten. Berechne die Durchschnittsgeschwindigkeit in m/s.",
+      "musterloesung": "3 min = 180 s; 240/180 = 1.33 m/s (gerundet).",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "**v = s/t**, **s = v·t**, **t = s/v**. Die Durchschnittsgeschwindigkeit ist der gesamte zurückgelegte Weg geteilt durch die gesamte benötigte Zeit. Bei gleichförmiger Bewegung ist die Geschwindigkeit konstant."
+    },
+    {
+      "typ": "mc",
+      "frage": "Was bedeutet eine waagrechte Linie im s-t-Diagramm?",
+      "optionen": [
+        "Stillstand",
+        "Konstante positive Geschwindigkeit",
+        "Immer eine Bergabfahrt"
+      ],
+      "richtig": 0,
+      "id": "u3-1",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Im **s-t-Diagramm** steht die Zeit auf der waagrechten und der Weg auf der senkrechten Achse. Bei gleichförmiger Bewegung entsteht eine Gerade. **Steilere Linie → grössere Geschwindigkeit.** Eine waagrechte Linie zeigt Stillstand."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Eine Gerade führt von (0 s | 0 m) zu (6 s | 18 m). Wie gross ist die Geschwindigkeit?",
+      "antwort": 3,
+      "einheit": "m/s",
+      "toleranz": 0.01,
+      "id": "u3-2",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Im **s-t-Diagramm** steht die Zeit auf der waagrechten und der Weg auf der senkrechten Achse. Bei gleichförmiger Bewegung entsteht eine Gerade. **Steilere Linie → grössere Geschwindigkeit.** Eine waagrechte Linie zeigt Stillstand."
+    },
+    {
+      "id": "u3-3",
+      "typ": "offen",
+      "lernziel": "3",
+      "frage": "Zeichne: 0-4 s mit 2 m/s, dann 4-6 s Stillstand. Beschrifte beide Achsen.",
+      "musterloesung": "Gerade von (0|0) nach (4|8), danach waagrecht bis (6|8). Achsen t in s und s in m.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": true,
+      "zeilen": 4,
+      "hilfe": "Im **s-t-Diagramm** steht die Zeit auf der waagrechten und der Weg auf der senkrechten Achse. Bei gleichförmiger Bewegung entsteht eine Gerade. **Steilere Linie → grössere Geschwindigkeit.** Eine waagrechte Linie zeigt Stillstand."
+    },
+    {
+      "typ": "mc",
+      "frage": "Was kann eine Kraft bewirken?",
+      "optionen": [
+        "Verformung oder Änderung der Bewegung",
+        "Nur dauernde Bewegung ohne Änderung",
+        "Nur eine Massenänderung"
+      ],
+      "richtig": 0,
+      "id": "u4-1",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Eine **Kraft** kann Geschwindigkeit oder Bewegungsrichtung ändern und Körper verformen. Ein Kraftpfeil zeigt **Angriffspunkt, Richtung und Betrag**. Seine Länge wird mit einem angegebenen Massstab gewählt. Gemessen wird Kraft mit einem Kraftmesser in Newton."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Massstab: 1 cm entspricht 2 N. Wie lang ist der Pfeil für 8 N?",
+      "antwort": 4,
+      "einheit": "cm",
+      "toleranz": 0.01,
+      "id": "u4-2",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Eine **Kraft** kann Geschwindigkeit oder Bewegungsrichtung ändern und Körper verformen. Ein Kraftpfeil zeigt **Angriffspunkt, Richtung und Betrag**. Seine Länge wird mit einem angegebenen Massstab gewählt. Gemessen wird Kraft mit einem Kraftmesser in Newton."
+    },
+    {
+      "id": "u4-3",
+      "typ": "offen",
+      "lernziel": "4",
+      "frage": "Zeichne eine Kraft von 5 N nach rechts bei 1 cm = 1 N. Markiere den Angriffspunkt.",
+      "musterloesung": "Pfeil beginnt am Angriffspunkt, zeigt nach rechts und ist 5 cm lang.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": true,
+      "zeilen": 4,
+      "hilfe": "Eine **Kraft** kann Geschwindigkeit oder Bewegungsrichtung ändern und Körper verformen. Ein Kraftpfeil zeigt **Angriffspunkt, Richtung und Betrag**. Seine Länge wird mit einem angegebenen Massstab gewählt. Gemessen wird Kraft mit einem Kraftmesser in Newton."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Grösse bleibt beim Wechsel von Erde zu Mond gleich?",
+      "optionen": [
+        "Masse",
+        "Gewichtskraft",
+        "Ortsfaktor g"
+      ],
+      "richtig": 0,
+      "id": "u5-1",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "**Masse** beschreibt eine Körpereigenschaft und wird in kg angegeben. Die **Gewichtskraft** ist die Gravitationskraft am jeweiligen Ort und wird in N gemessen. **F_G = m·g**. In den Aufgaben verwenden wir ausdrücklich **g = 10 N/kg** als Schulnäherung."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Berechne F_G für 5 kg mit g = 10 N/kg.",
+      "antwort": 50,
+      "einheit": "N",
+      "toleranz": 0.01,
+      "id": "u5-2",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "**Masse** beschreibt eine Körpereigenschaft und wird in kg angegeben. Die **Gewichtskraft** ist die Gravitationskraft am jeweiligen Ort und wird in N gemessen. **F_G = m·g**. In den Aufgaben verwenden wir ausdrücklich **g = 10 N/kg** als Schulnäherung."
+    },
+    {
+      "id": "u5-3",
+      "typ": "offen",
+      "lernziel": "5",
+      "frage": "Vergleiche Masse und Gewichtskraft eines 2-kg-Körpers auf Erde und Mond.",
+      "musterloesung": "Masse an beiden Orten 2 kg. Gewichtskraft auf der Erde bei g = 10 N/kg: 20 N; auf dem Mond kleiner.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "**Masse** beschreibt eine Körpereigenschaft und wird in kg angegeben. Die **Gewichtskraft** ist die Gravitationskraft am jeweiligen Ort und wird in N gemessen. **F_G = m·g**. In den Aufgaben verwenden wir ausdrücklich **g = 10 N/kg** als Schulnäherung."
+    },
+    {
+      "typ": "mc",
+      "frage": "6 N rechts und 2 N links ergeben ...",
+      "optionen": [
+        "4 N rechts",
+        "8 N rechts",
+        "4 N links"
+      ],
+      "richtig": 0,
+      "id": "u6-1",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Kräfte in derselben Richtung werden addiert. Bei entgegengesetzten Kräften auf derselben Wirkungslinie werden die Beträge subtrahiert. Die **resultierende Kraft** zeigt die Gesamtwirkung. Bei **Kräftegleichgewicht** ist sie null."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Ein Körper erfährt 12 N rechts und 7 N links. Wie gross ist der Betrag der resultierenden Kraft?",
+      "antwort": 5,
+      "einheit": "N",
+      "toleranz": 0.01,
+      "id": "u6-2",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Kräfte in derselben Richtung werden addiert. Bei entgegengesetzten Kräften auf derselben Wirkungslinie werden die Beträge subtrahiert. Die **resultierende Kraft** zeigt die Gesamtwirkung. Bei **Kräftegleichgewicht** ist sie null."
+    },
+    {
+      "id": "u6-3",
+      "typ": "offen",
+      "lernziel": "6",
+      "frage": "Ein Buch liegt ruhig auf einem Tisch. Warum ist das nicht „keine Kraft“?",
+      "musterloesung": "Gewichtskraft nach unten und Stützkraft des Tisches nach oben gleichen sich aus.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "Kräfte in derselben Richtung werden addiert. Bei entgegengesetzten Kräften auf derselben Wirkungslinie werden die Beträge subtrahiert. Die **resultierende Kraft** zeigt die Gesamtwirkung. Bei **Kräftegleichgewicht** ist sie null."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage stimmt?",
+      "optionen": [
+        "Haftreibung kann das Gehen ermöglichen.",
+        "Reibung ist immer nutzlos.",
+        "Reibung wirkt immer in Bewegungsrichtung."
+      ],
+      "richtig": 0,
+      "id": "u7-1",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "**Reibung** wirkt einer relativen Bewegung oder dem drohenden Gleiten zwischen Oberflächen entgegen. Man unterscheidet unter anderem Haft-, Gleit- und Rollreibung. Reibung kann Bewegung ermöglichen, abbremsen und mechanische Energie in innere Energie umwandeln."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne zu.",
+      "paare": [
+        [
+          "Schuh rutscht nicht auf dem Boden",
+          "Haftreibung"
+        ],
+        [
+          "Kiste gleitet über den Boden",
+          "Gleitreibung"
+        ],
+        [
+          "Rad rollt auf einer Bahn",
+          "Rollreibung"
+        ]
+      ],
+      "id": "u7-2",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "**Reibung** wirkt einer relativen Bewegung oder dem drohenden Gleiten zwischen Oberflächen entgegen. Man unterscheidet unter anderem Haft-, Gleit- und Rollreibung. Reibung kann Bewegung ermöglichen, abbremsen und mechanische Energie in innere Energie umwandeln."
+    },
+    {
+      "id": "u7-3",
+      "typ": "offen",
+      "lernziel": "7",
+      "frage": "Nenne je ein Beispiel, bei dem Reibung erwünscht und unerwünscht ist.",
+      "musterloesung": "Erwünscht: Bremsen oder Haftung beim Gehen. Unerwünscht: Widerstand und Erwärmung in beweglichen Maschinenteilen.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "**Reibung** wirkt einer relativen Bewegung oder dem drohenden Gleiten zwischen Oberflächen entgegen. Man unterscheidet unter anderem Haft-, Gleit- und Rollreibung. Reibung kann Bewegung ermöglichen, abbremsen und mechanische Energie in innere Energie umwandeln."
+    },
+    {
+      "typ": "mc",
+      "frage": "Bei gleicher Last kann die nötige Kraft kleiner werden, wenn ...",
+      "optionen": [
+        "der Kraftarm länger wird",
+        "der Kraftarm kürzer wird",
+        "der Drehpunkt verschwindet"
+      ],
+      "richtig": 0,
+      "id": "u8-1",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Ein Hebel dreht sich um einen **Drehpunkt**. Beim waagrechten Hebel mit senkrechten Kräften gilt im Gleichgewicht **F₁·l₁ = F₂·l₂**. Der längere Kraftarm erlaubt eine kleinere Kraft. Allgemein ist der Hebelarm der senkrechte Abstand zur Wirkungslinie."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Hebel ohne Eigengewicht: 10 N wirken an 20 cm. Welche Gegenkraft ist an 40 cm nötig?",
+      "antwort": 5,
+      "einheit": "N",
+      "toleranz": 0.01,
+      "id": "u8-2",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Ein Hebel dreht sich um einen **Drehpunkt**. Beim waagrechten Hebel mit senkrechten Kräften gilt im Gleichgewicht **F₁·l₁ = F₂·l₂**. Der längere Kraftarm erlaubt eine kleinere Kraft. Allgemein ist der Hebelarm der senkrechte Abstand zur Wirkungslinie."
+    },
+    {
+      "id": "u8-3",
+      "typ": "offen",
+      "lernziel": "8",
+      "frage": "Zeichne einen Hebel: 30 N an 10 cm sollen von einer Kraft an 30 cm ausgeglichen werden. Berechne und beschrifte.",
+      "musterloesung": "30·10 = F·30 → F = 10 N. Pfeile an gegenüberliegenden Seiten mit entgegengesetzten Drehsinnen.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": true,
+      "zeilen": 4,
+      "hilfe": "Ein Hebel dreht sich um einen **Drehpunkt**. Beim waagrechten Hebel mit senkrechten Kräften gilt im Gleichgewicht **F₁·l₁ = F₂·l₂**. Der längere Kraftarm erlaubt eine kleinere Kraft. Allgemein ist der Hebelarm der senkrechte Abstand zur Wirkungslinie."
+    }
+  ],
+  "pruefungen": [
+    {
+      "id": "test-32",
+      "titel": "Kräfte und Bewegung - Testprüfung",
+      "richtzeit": 45,
+      "hinweis": "32 Punkte. Grundlagenprüfung zu selbst formulierten Lernzielen; noch kein Abgleich mit den Prüfungszielen der Schule. Zeichnungen auf Papier. Offene Aufgaben anhand der Kriterien selbst bewerten.",
+      "aufgaben": [
+        {
+          "id": "p1",
+          "nr": "1",
+          "typ": "offen",
+          "lernziel": "1",
+          "titel": "Grössen und Einheiten",
+          "frage": "Rechne um: a) 2.5 min in s, b) 500 m in km, c) 54 km/h in m/s. Nenne die Einheit der Kraft.",
+          "punkte": 4,
+          "musterloesung": "150 s\n0.5 km\n15 m/s\nNewton (N)",
+          "kriterien": [
+            {
+              "text": "150 s",
+              "punkte": 1
+            },
+            {
+              "text": "0.5 km",
+              "punkte": 1
+            },
+            {
+              "text": "15 m/s",
+              "punkte": 1
+            },
+            {
+              "text": "Newton (N)",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p2",
+          "nr": "2",
+          "typ": "offen",
+          "lernziel": "2",
+          "titel": "Geschwindigkeit berechnen",
+          "frage": "Ein Fahrrad fährt gleichförmig 180 m in 30 s. Berechne v in m/s und km/h. Welchen Weg legt es bei dieser Geschwindigkeit in weiteren 10 s zurück?",
+          "punkte": 4,
+          "musterloesung": "v = s/t korrekt angesetzt\nv = 6 m/s\nv = 21.6 km/h\nWeiterer Weg = 60 m",
+          "kriterien": [
+            {
+              "text": "v = s/t korrekt angesetzt",
+              "punkte": 1
+            },
+            {
+              "text": "v = 6 m/s",
+              "punkte": 1
+            },
+            {
+              "text": "v = 21.6 km/h",
+              "punkte": 1
+            },
+            {
+              "text": "Weiterer Weg = 60 m",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p3",
+          "nr": "3",
+          "typ": "offen",
+          "lernziel": "3",
+          "titel": "Weg-Zeit-Diagramme",
+          "frage": "Zeichne ein s-t-Diagramm: Von 0 bis 3 s werden gleichförmig 9 m zurückgelegt, danach 2 s Pause. Beschrifte die Achsen und berechne die Geschwindigkeit während der Bewegung.",
+          "punkte": 4,
+          "musterloesung": "Zeitachse in s und Wegachse in m korrekt\nGerade von (0|0) nach (3|9)\nWaagrechte Linie bis (5|9)\nGeschwindigkeit während der Bewegung 3 m/s",
+          "kriterien": [
+            {
+              "text": "Zeitachse in s und Wegachse in m korrekt",
+              "punkte": 1
+            },
+            {
+              "text": "Gerade von (0|0) nach (3|9)",
+              "punkte": 1
+            },
+            {
+              "text": "Waagrechte Linie bis (5|9)",
+              "punkte": 1
+            },
+            {
+              "text": "Geschwindigkeit während der Bewegung 3 m/s",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        },
+        {
+          "id": "p4",
+          "nr": "4",
+          "typ": "offen",
+          "lernziel": "4",
+          "titel": "Kräfte darstellen",
+          "frage": "Nenne zwei Kraftwirkungen. Zeichne 6 N nach links im Massstab 1 cm = 2 N und markiere den Angriffspunkt.",
+          "punkte": 4,
+          "musterloesung": "Eine passende Kraftwirkung\nEine zweite unterschiedliche Kraftwirkung\nPfeil 3 cm lang nach links\nAngriffspunkt korrekt am Pfeilanfang markiert",
+          "kriterien": [
+            {
+              "text": "Eine passende Kraftwirkung",
+              "punkte": 1
+            },
+            {
+              "text": "Eine zweite unterschiedliche Kraftwirkung",
+              "punkte": 1
+            },
+            {
+              "text": "Pfeil 3 cm lang nach links",
+              "punkte": 1
+            },
+            {
+              "text": "Angriffspunkt korrekt am Pfeilanfang markiert",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        },
+        {
+          "id": "p5",
+          "nr": "5",
+          "typ": "offen",
+          "lernziel": "5",
+          "titel": "Masse und Gewichtskraft",
+          "frage": "Ein Körper hat 4 kg. Berechne seine Gewichtskraft bei g = 10 N/kg. Gib beide Einheiten an und erkläre, was sich auf dem Mond verändert.",
+          "punkte": 4,
+          "musterloesung": "Masse 4 kg\nF_G = 4·10 = 40 N\nKrafteinheit N von Masseneinheit kg unterschieden\nAuf dem Mond bleibt die Masse gleich, die Gewichtskraft ist kleiner",
+          "kriterien": [
+            {
+              "text": "Masse 4 kg",
+              "punkte": 1
+            },
+            {
+              "text": "F_G = 4·10 = 40 N",
+              "punkte": 1
+            },
+            {
+              "text": "Krafteinheit N von Masseneinheit kg unterschieden",
+              "punkte": 1
+            },
+            {
+              "text": "Auf dem Mond bleibt die Masse gleich, die Gewichtskraft ist kleiner",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p6",
+          "nr": "6",
+          "typ": "offen",
+          "lernziel": "6",
+          "titel": "Resultierende Kraft und Gleichgewicht",
+          "frage": "Auf einen Körper wirken 8 N nach rechts und 5 N nach links. Bestimme Betrag und Richtung der Resultierenden. Erkläre zusätzlich den Fall 5 N rechts und 5 N links.",
+          "punkte": 4,
+          "musterloesung": "Resultierende 3 N\nRichtung nach rechts\nBeim zweiten Fall resultierend 0 N\nGleichgewicht: Ruhe oder geradlinige Bewegung mit konstanter Geschwindigkeit bleibt erhalten",
+          "kriterien": [
+            {
+              "text": "Resultierende 3 N",
+              "punkte": 1
+            },
+            {
+              "text": "Richtung nach rechts",
+              "punkte": 1
+            },
+            {
+              "text": "Beim zweiten Fall resultierend 0 N",
+              "punkte": 1
+            },
+            {
+              "text": "Gleichgewicht: Ruhe oder geradlinige Bewegung mit konstanter Geschwindigkeit bleibt erhalten",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p7",
+          "nr": "7",
+          "typ": "offen",
+          "lernziel": "7",
+          "titel": "Reibung im Alltag",
+          "frage": "Erkläre die Richtung einer Gleitreibungskraft. Nenne je einen Nutzen, einen Nachteil und eine Möglichkeit, Reibung zu verringern.",
+          "punkte": 4,
+          "musterloesung": "Gleitreibung wirkt entgegen der relativen Gleitbewegung\nPassender Nutzen, z. B. Bremsen\nPassender Nachteil, z. B. Verschleiss oder unnötige Erwärmung\nPassende Verringerung, z. B. Schmieren oder Rollen",
+          "kriterien": [
+            {
+              "text": "Gleitreibung wirkt entgegen der relativen Gleitbewegung",
+              "punkte": 1
+            },
+            {
+              "text": "Passender Nutzen, z. B. Bremsen",
+              "punkte": 1
+            },
+            {
+              "text": "Passender Nachteil, z. B. Verschleiss oder unnötige Erwärmung",
+              "punkte": 1
+            },
+            {
+              "text": "Passende Verringerung, z. B. Schmieren oder Rollen",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p8",
+          "nr": "8",
+          "typ": "offen",
+          "lernziel": "8",
+          "titel": "Hebel und Kraftarm",
+          "frage": "Waagrechter Hebel ohne Eigengewicht, senkrechte Kräfte: Links wirken 12 N in 10 cm Abstand. Rechts ist der Abstand 30 cm. Skizziere den Hebel und berechne die rechte Kraft für Gleichgewicht.",
+          "punkte": 4,
+          "musterloesung": "Drehpunkt und beide Hebelarme korrekt skizziert\nHebelgesetz F₁·l₁ = F₂·l₂\nAnsatz 12·10 = F₂·30\nErgebnis F₂ = 4 N",
+          "kriterien": [
+            {
+              "text": "Drehpunkt und beide Hebelarme korrekt skizziert",
+              "punkte": 1
+            },
+            {
+              "text": "Hebelgesetz F₁·l₁ = F₂·l₂",
+              "punkte": 1
+            },
+            {
+              "text": "Ansatz 12·10 = F₂·30",
+              "punkte": 1
+            },
+            {
+              "text": "Ergebnis F₂ = 4 N",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        }
+      ]
+    }
+  ]
+}
