@@ -108,6 +108,15 @@
         5,
         9
       ]
+    },
+    {
+      "id": "musik",
+      "label": "Musik",
+      "hue": 280,
+      "klassen": [
+        1,
+        9
+      ]
     }
   ],
   "themen": [
@@ -137,6 +146,20 @@
       "angebot": [
         "10 Kapitel",
         "41 Übungen",
+        "1 Prüfung"
+      ]
+    },
+    {
+      "id": "musik-quintenzirkel",
+      "fach": "musik",
+      "klasse": 8,
+      "stufen": [],
+      "titel": "Quintenzirkel",
+      "untertitel": "Tonarten, Vorzeichen, Dur und Moll - verstehen, zeichnen und anwenden",
+      "datei": "themen/musik-quintenzirkel.json",
+      "angebot": [
+        "11 Kapitel",
+        "40 Übungen",
         "1 Prüfung"
       ]
     }

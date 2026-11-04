@@ -1,0 +1,1677 @@
+{
+  "quellen": [
+    {
+      "titel": "Quintenzirkel - Lern- und Prüfungsdossier",
+      "art": "Lernheft mit Skizzen, Übungen, Testprüfung und Lösungen",
+      "seiten": 12,
+      "datei": "material/klasse-8/musik/quintenzirkel/Quintenzirkel_Lerndossier.pdf"
+    }
+  ],
+  "lernziele": [
+    {
+      "id": "1",
+      "nr": "1",
+      "gruppe": "Grundlagen",
+      "kurz": "Tonnamen und Vorzeichen",
+      "text": "Ich kann Stammtöne und die Zeichen ♯, ♭ und ♮ erklären und H von B unterscheiden.",
+      "antwort": "C-D-E-F-G-A-H sind die Stammtöne. ♯ erhöht, ♭ erniedrigt um einen Halbton; ♮ hebt eine Veränderung auf. Deutsch: **H** ist die weisse Taste, **B** ist H einen Halbton tiefer (= englisch B♭).",
+      "frage": "Was bedeuten ♯, ♭ und ♮? Was unterscheidet H und B?"
+    },
+    {
+      "id": "2",
+      "nr": "2",
+      "gruppe": "Grundlagen",
+      "kurz": "Die reine Quinte",
+      "text": "Ich kann eine reine Quinte durch Zählen von Tonstufen und Halbtonschritten bestimmen.",
+      "antwort": "Eine **reine Quinte** umfasst fünf Tonnamen mit Start- und Zielton und **7 Halbtonschritte**: C-D-E-F-G. Nicht jede Strecke über fünf Stammtöne ist rein: H-F hat nur 6 Halbtonschritte.",
+      "frage": "Wie gross ist eine reine Quinte?"
+    },
+    {
+      "id": "3",
+      "nr": "3",
+      "gruppe": "Quintenzirkel",
+      "kurz": "Aufbau und Richtung",
+      "text": "Ich kann den Quintenzirkel zeichnen und Durtonarten mit ihren Vorzeichen eintragen.",
+      "antwort": "C steht oben. Von C rechts: **C-G-D-A-E-H-Fis** (0-6 Kreuze). Von C links: **C-F-B-Es-As-Des-Ges** (0-6 b). Rechts geht es in reinen Quinten aufwärts, links abwärts.",
+      "frage": "Wie baust du den Quintenzirkel von C aus auf?"
+    },
+    {
+      "id": "4",
+      "nr": "4",
+      "gruppe": "Quintenzirkel",
+      "kurz": "Kreuztonarten",
+      "text": "Ich kann die Reihenfolge der Kreuze nennen und die veränderten Töne einer Kreuztonart bestimmen.",
+      "antwort": "Kreuz-Reihenfolge: **Fis-Cis-Gis-Dis-Ais-Eis-His**. Es kommen immer die ersten n Kreuze dazu. D-Dur: Fis, Cis; A-Dur: Fis, Cis, Gis. Alte Vorzeichen bleiben erhalten.",
+      "frage": "Welche Reihenfolge haben die Kreuze?"
+    },
+    {
+      "id": "5",
+      "nr": "5",
+      "gruppe": "Quintenzirkel",
+      "kurz": "b-Tonarten",
+      "text": "Ich kann die Reihenfolge der b-Vorzeichen nennen und die veränderten Töne einer b-Tonart bestimmen.",
+      "antwort": "b-Reihenfolge: **B-Es-As-Des-Ges-Ces-Fes**. F-Dur: B; B-Dur: B, Es; Es-Dur: B, Es, As. Das erste b macht aus H den Ton B.",
+      "frage": "Welche Reihenfolge haben die b-Vorzeichen?"
+    },
+    {
+      "id": "6",
+      "nr": "6",
+      "gruppe": "Tonarten anwenden",
+      "kurz": "Tonarten erkennen",
+      "text": "Ich kann aus Vorzeichen die passende Durtonart bestimmen und die Grenze dieser Zuordnung erklären.",
+      "antwort": "Bei Kreuzen liegt Dur einen Halbton über dem **letzten Kreuz**: Cis → D-Dur. Bei mindestens zwei b heisst Dur wie das **vorletzte b**: B, Es, As → Es-Dur. Ausnahmen: kein Vorzeichen → C-Dur/a-Moll; ein b → F-Dur/d-Moll. Die Vorzeichnung allein unterscheidet Dur und paralleles Moll nicht.",
+      "frage": "Wie erkennst du eine Durtonart an ihren Vorzeichen?"
+    },
+    {
+      "id": "7",
+      "nr": "7",
+      "gruppe": "Tonarten anwenden",
+      "kurz": "Paralleltonarten",
+      "text": "Ich kann zu einer Durtonart die parallele Molltonart finden und Paralleltonarten von gleichnamigen Tonarten unterscheiden.",
+      "antwort": "Paralleltonarten haben **dieselben Vorzeichen**, aber verschiedene Grundtöne. Moll liegt eine kleine Terz (3 Halbtonschritte) unter Dur bzw. auf dessen 6. Stufe: C/a, G/e, D/h, F/d. C-Dur und c-Moll sind gleichnamig, keine Paralleltonarten.",
+      "frage": "Wie findest du die parallele Molltonart?"
+    },
+    {
+      "id": "8",
+      "nr": "8",
+      "gruppe": "Tonarten anwenden",
+      "kurz": "Tonleitern bilden",
+      "text": "Ich kann Durtonleitern und natürliche Molltonleitern mit den richtigen Tonnamen und Vorzeichen aufschreiben.",
+      "antwort": "Dur: **Ganz-Ganz-Halb-Ganz-Ganz-Ganz-Halb**. Natürlich Moll: **Ganz-Halb-Ganz-Ganz-Halb-Ganz-Ganz**. Jeden Stammbuchstaben pro Oktave genau einmal verwenden. D-Dur: D-E-Fis-G-A-H-Cis-D. Natürlich h-Moll: H-Cis-D-E-Fis-G-A-H.",
+      "frage": "Wie baust du eine Dur- oder natürliche Molltonleiter?"
+    },
+    {
+      "id": "9",
+      "nr": "9",
+      "gruppe": "Anwendung und Kontrolle",
+      "kurz": "Nachbartonarten und Hauptakkorde",
+      "text": "Ich kann im Quintenzirkel Tonika, Dominante und Subdominante einer Durtonart finden.",
+      "antwort": "Bei einer Durtonart steht die **Tonika (I)** am Ausgangspunkt. Im Uhrzeigersinn folgt die **Dominante (V)**, gegen den Uhrzeigersinn die **Subdominante (IV)**. In C-Dur sind das C, G, F; in D-Dur D, A, G. Ein Dur-Dreiklang hat vom Grundton aus 4+3 Halbtonschritte.",
+      "frage": "Wo liegen Tonika, Dominante und Subdominante?"
+    },
+    {
+      "id": "10",
+      "nr": "10",
+      "gruppe": "Anwendung und Kontrolle",
+      "kurz": "Fehler und enharmonische Töne",
+      "text": "Ich kann typische Fehler beim Quintenzirkel erkennen und enharmonische Verwechslungen erklären.",
+      "antwort": "Auf dem gleichstufig gestimmten Klavier klingen z. B. **Fis und Ges gleich**, werden aber verschieden geschrieben. Fis-Dur hat 6 ♯, Ges-Dur 6 ♭. Nicht verwechseln: Tonartenfolge ≠ Vorzeichenfolge; H ≠ B; Paralleltonart ≠ gleichnamige Tonart. Der Schlussklang ist ein Hinweis auf die Tonart, kein Beweis.",
+      "frage": "Was ist eine enharmonische Verwechslung, und welche Fehler vermeidest du?"
+    }
+  ],
+  "lernen": [
+    {
+      "id": "lz-1",
+      "titel": "Tonnamen und Vorzeichen",
+      "lernziele": [
+        "1"
+      ],
+      "intro": "Bevor du Tonarten lernst: Tonnamen und Vorzeichen sicher unterscheiden.",
+      "bloecke": [
+        {
+          "t": "bild",
+          "src": "content/img/musik-quintenzirkel/klaviatur.svg",
+          "alt": "Klaviatur mit den deutschen Tonnamen C D E F G A H und schwarzen Tasten"
+        },
+        {
+          "t": "tabelle",
+          "kopf": [
+            "Zeichen",
+            "Wirkung",
+            "Beispiel"
+          ],
+          "zeilen": [
+            [
+              "♯ (Kreuz)",
+              "einen Halbton höher",
+              "F → Fis"
+            ],
+            [
+              "♭ (b)",
+              "einen Halbton tiefer",
+              "E → Es; H → B"
+            ],
+            [
+              "♮ (Auflösung)",
+              "Veränderung aufheben",
+              "Fis → F"
+            ]
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "H und B",
+          "text": "Hier gelten **deutsche Tonnamen**: H = englisch B; B = englisch B♭. Schreibe B-Dur nicht als H-Dur."
+        },
+        {
+          "t": "p",
+          "text": "Die **Tonartvorzeichnung** steht am Anfang des Notensystems und gilt grundsätzlich für alle Oktavlagen. Ein einzelnes Versetzungszeichen verändert einen Ton innerhalb des Taktes nach den üblichen Notationsregeln."
+        }
+      ]
+    },
+    {
+      "id": "lz-2",
+      "titel": "Die reine Quinte",
+      "lernziele": [
+        "2"
+      ],
+      "intro": "Der Name Quinte kommt von fünf Tonstufen. Entscheidend sind auch die Halbtonschritte.",
+      "bloecke": [
+        {
+          "t": "beispiel",
+          "titel": "C → G",
+          "zeilen": [
+            "Tonnamen mit Startton zählen: C (1), D (2), E (3), F (4), G (5).",
+            "Halbtonschritte: C-Cis-D-Dis-E-F-Fis-G = 7 Schritte."
+          ]
+        },
+        {
+          "t": "merke",
+          "text": "**Reine Quinte = 7 Halbtonschritte.** Aufwärts: C → G, G → D, D → A. Abwärts: C → F (in der tieferen Oktave)."
+        },
+        {
+          "t": "achtung",
+          "text": "Fünf Buchstaben allein genügen nicht: **H-F** ist eine verminderte Quinte mit 6 Halbtonschritten. Die reine Quinte über H heisst **Fis**."
+        }
+      ]
+    },
+    {
+      "id": "lz-3",
+      "titel": "Aufbau und Richtung",
+      "lernziele": [
+        "3"
+      ],
+      "intro": "Der Zirkel ist eine Landkarte: Tonarten, Vorzeichen und verwandte Tonarten auf einen Blick.",
+      "bloecke": [
+        {
+          "t": "bild",
+          "src": "content/img/musik-quintenzirkel/quintenzirkel.svg",
+          "alt": "Vollständig beschrifteter Quintenzirkel mit Dur, parallelem Moll und Vorzeichenzahl"
+        },
+        {
+          "t": "schritte",
+          "items": [
+            "C-Dur mit 0 Vorzeichen oben eintragen.",
+            "Nach rechts: C-G-D-A-E-H-Fis; jeder Schritt eine reine Quinte aufwärts.",
+            "Von C nach links: C-F-B-Es-As-Des-Ges; jeder Schritt eine reine Quinte abwärts.",
+            "Vorzeichen von 0 bis 6 zählen. Im Inneren steht jeweils die parallele Molltonart."
+          ]
+        },
+        {
+          "t": "merke",
+          "titel": "Merksätze ab C",
+          "text": "Rechts: **Geh Du Alter Esel Hole Fische** = G-D-A-E-H-Fis.\nLinks: **Frische Brötchen Essen Alle Damen Gern** = F-B-Es-As-Des-Ges."
+        },
+        {
+          "t": "p",
+          "text": "Unten treffen sich Fis-Dur und Ges-Dur: gleiche Klaviertasten, andere Schreibweise. Erweiterung: Cis-Dur hat 7 ♯; Ces-Dur hat 7 ♭."
+        }
+      ]
+    },
+    {
+      "id": "lz-4",
+      "titel": "Kreuztonarten",
+      "lernziele": [
+        "4"
+      ],
+      "intro": "Eine Kreuztonart nimmt immer alle vorangehenden Kreuze mit.",
+      "bloecke": [
+        {
+          "t": "formel",
+          "text": "Fis → Cis → Gis → Dis → Ais → Eis → His"
+        },
+        {
+          "t": "merke",
+          "text": "Für die Stammbuchstaben F-C-G-D-A-E-H: **Frische Croissants Gibt Der Alte Esel Heute**. Danach die Erhöhung ergänzen."
+        },
+        {
+          "t": "tabelle",
+          "kopf": [
+            "Dur",
+            "Parallel-Moll",
+            "Vorzeichen",
+            "veränderte Töne"
+          ],
+          "zeilen": [
+            [
+              "C-Dur",
+              "a-Moll",
+              "0 ",
+              "keine"
+            ],
+            [
+              "G-Dur",
+              "e-Moll",
+              "1 ♯",
+              "Fis"
+            ],
+            [
+              "D-Dur",
+              "h-Moll",
+              "2 ♯",
+              "Fis, Cis"
+            ],
+            [
+              "A-Dur",
+              "fis-Moll",
+              "3 ♯",
+              "Fis, Cis, Gis"
+            ],
+            [
+              "E-Dur",
+              "cis-Moll",
+              "4 ♯",
+              "Fis, Cis, Gis, Dis"
+            ],
+            [
+              "H-Dur",
+              "gis-Moll",
+              "5 ♯",
+              "Fis, Cis, Gis, Dis, Ais"
+            ],
+            [
+              "Fis-Dur",
+              "dis-Moll",
+              "6 ♯",
+              "Fis, Cis, Gis, Dis, Ais, Eis"
+            ],
+            [
+              "Cis-Dur",
+              "ais-Moll",
+              "7 ♯",
+              "Fis, Cis, Gis, Dis, Ais, Eis, His"
+            ]
+          ]
+        },
+        {
+          "t": "beispiel",
+          "titel": "A-Dur",
+          "zeilen": [
+            "3 Kreuze → erste drei Kreuze: Fis, Cis, Gis.",
+            "Tonleiter: A-H-Cis-D-E-Fis-Gis-A."
+          ]
+        },
+        {
+          "t": "achtung",
+          "text": "G-D-A ist die Folge der ersten drei **Tonarten**. Fis-Cis-Gis ist die Folge der ersten drei **Kreuze**."
+        }
+      ]
+    },
+    {
+      "id": "lz-5",
+      "titel": "b-Tonarten",
+      "lernziele": [
+        "5"
+      ],
+      "intro": "Auch b-Vorzeichen werden gesammelt; das erste verändert H zu B.",
+      "bloecke": [
+        {
+          "t": "formel",
+          "text": "B → Es → As → Des → Ges → Ces → Fes"
+        },
+        {
+          "t": "tabelle",
+          "kopf": [
+            "Dur",
+            "Parallel-Moll",
+            "Vorzeichen",
+            "veränderte Töne"
+          ],
+          "zeilen": [
+            [
+              "F-Dur",
+              "d-Moll",
+              "1 ♭",
+              "B"
+            ],
+            [
+              "B-Dur",
+              "g-Moll",
+              "2 ♭",
+              "B, Es"
+            ],
+            [
+              "Es-Dur",
+              "c-Moll",
+              "3 ♭",
+              "B, Es, As"
+            ],
+            [
+              "As-Dur",
+              "f-Moll",
+              "4 ♭",
+              "B, Es, As, Des"
+            ],
+            [
+              "Des-Dur",
+              "b-Moll",
+              "5 ♭",
+              "B, Es, As, Des, Ges"
+            ],
+            [
+              "Ges-Dur",
+              "es-Moll",
+              "6 ♭",
+              "B, Es, As, Des, Ges, Ces"
+            ],
+            [
+              "Ces-Dur",
+              "as-Moll",
+              "7 ♭",
+              "B, Es, As, Des, Ges, Ces, Fes"
+            ]
+          ]
+        },
+        {
+          "t": "beispiel",
+          "titel": "Es-Dur",
+          "zeilen": [
+            "3 b → B, Es, As.",
+            "Tonleiter: Es-F-G-As-B-C-D-Es."
+          ]
+        },
+        {
+          "t": "achtung",
+          "text": "In F-Dur wird **H zu B**, nicht F zu Fes. Fes erscheint erst als siebtes b."
+        }
+      ]
+    },
+    {
+      "id": "lz-6",
+      "titel": "Tonarten erkennen",
+      "lernziele": [
+        "6"
+      ],
+      "intro": "Erst Vorzeichen zählen; danach die Durtonart und die mögliche Molltonart prüfen.",
+      "bloecke": [
+        {
+          "t": "schritte",
+          "items": [
+            "Keine Vorzeichen? C-Dur oder a-Moll.",
+            "Kreuze? Letztes Kreuz suchen und einen Halbton aufwärts: Gis → A-Dur.",
+            "Mindestens zwei b? Das vorletzte b nennt die Durtonart: B-Es-As-Des → As-Dur.",
+            "Nur ein b? Merken: F-Dur oder d-Moll.",
+            "Dur oder paralleles Moll? Grundton, Melodie und Schlussklang prüfen."
+          ]
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zwei Kreuze",
+          "zeilen": [
+            "Kreuze: Fis, Cis. Letztes Kreuz: Cis.",
+            "Einen Halbton höher: D → D-Dur.",
+            "Mit denselben Vorzeichen ist auch h-Moll möglich."
+          ]
+        },
+        {
+          "t": "achtung",
+          "text": "Die Vorzeichnung allein sagt nicht sicher, ob ein Stück in Dur oder in der parallelen Molltonart steht."
+        }
+      ]
+    },
+    {
+      "id": "lz-7",
+      "titel": "Paralleltonarten",
+      "lernziele": [
+        "7"
+      ],
+      "intro": "Paralleltonarten teilen sich die Vorzeichnung, aber nicht ihren Grundton.",
+      "bloecke": [
+        {
+          "t": "formel",
+          "text": "Dur-Grundton → 3 Halbtonschritte abwärts → paralleles Moll"
+        },
+        {
+          "t": "beispiel",
+          "titel": "G-Dur → e-Moll",
+          "zeilen": [
+            "G-Fis-F-E: 3 Halbtonschritte abwärts.",
+            "Beide haben Fis als einziges Vorzeichen.",
+            "Oder: 6. Ton von G-Dur = E."
+          ]
+        },
+        {
+          "t": "tabelle",
+          "kopf": [
+            "Dur",
+            "Parallel-Moll",
+            "Vorzeichen"
+          ],
+          "zeilen": [
+            [
+              "C-Dur",
+              "a-Moll",
+              "0"
+            ],
+            [
+              "D-Dur",
+              "h-Moll",
+              "2 ♯"
+            ],
+            [
+              "B-Dur",
+              "g-Moll",
+              "2 ♭"
+            ],
+            [
+              "Es-Dur",
+              "c-Moll",
+              "3 ♭"
+            ]
+          ]
+        },
+        {
+          "t": "achtung",
+          "text": "C-Dur und **a-Moll** sind parallel. C-Dur und **c-Moll** sind gleichnamig und haben unterschiedliche Vorzeichen. Im Englischen heisst unsere Paralleltonart **relative key**."
+        }
+      ]
+    },
+    {
+      "id": "lz-8",
+      "titel": "Tonleitern bilden",
+      "lernziele": [
+        "8"
+      ],
+      "intro": "Ein Buchstabe pro Tonstufe, dann die Vorzeichen der Tonart anwenden.",
+      "bloecke": [
+        {
+          "t": "formel",
+          "text": "Dur: G-G-H-G-G-G-H\nNatürlich Moll: G-H-G-G-H-G-G",
+          "notiz": "G = Ganzton (2 Halbtonschritte), H = Halbton; hier ist H die Abkürzung, kein Tonname."
+        },
+        {
+          "t": "schritte",
+          "items": [
+            "Grundton und Tonart bestimmen.",
+            "Stammbuchstaben bis zur Oktave aufschreiben.",
+            "Vorzeichen aus dem Quintenzirkel anwenden.",
+            "Halbtonschritte kontrollieren: Dur bei 3-4 und 7-8; natürlich Moll bei 2-3 und 5-6."
+          ]
+        },
+        {
+          "t": "beispiel",
+          "titel": "D-Dur und natürlich h-Moll",
+          "zeilen": [
+            "D-E-Fis-G-A-H-Cis-D",
+            "H-Cis-D-E-Fis-G-A-H",
+            "Beide verwenden Fis und Cis. Die Halbtonschritte liegen relativ zum jeweiligen Grundton anders."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "**Natürlich Moll** ist hier die Grundform. Harmonisch Moll erhöht zusätzlich die 7. Stufe; das gehört nicht zur festen Vorzeichnung. Beispiel harmonisch a-Moll: A-H-C-D-E-F-Gis-A."
+        }
+      ]
+    },
+    {
+      "id": "lz-9",
+      "titel": "Nachbartonarten und Hauptakkorde",
+      "lernziele": [
+        "9"
+      ],
+      "intro": "Mit den direkten Nachbarn findest du wichtige Begleitakkorde.",
+      "bloecke": [
+        {
+          "t": "tabelle",
+          "kopf": [
+            "Funktion",
+            "Position",
+            "in D-Dur"
+          ],
+          "zeilen": [
+            [
+              "Tonika (I)",
+              "Ausgangspunkt",
+              "D-Dur: D-Fis-A"
+            ],
+            [
+              "Dominante (V)",
+              "ein Nachbar im Uhrzeigersinn",
+              "A-Dur: A-Cis-E"
+            ],
+            [
+              "Subdominante (IV)",
+              "ein Nachbar gegen den Uhrzeigersinn",
+              "G-Dur: G-H-D"
+            ]
+          ]
+        },
+        {
+          "t": "formel",
+          "text": "Dur-Dreiklang: Grundton + 4 Halbtonschritte + 3 Halbtonschritte"
+        },
+        {
+          "t": "beispiel",
+          "titel": "Einfache Kadenz in C-Dur",
+          "zeilen": [
+            "I-IV-V-I = C-F-G-C.",
+            "Die Akkorde sind C-E-G, F-A-C und G-H-D."
+          ]
+        },
+        {
+          "t": "achtung",
+          "text": "Hier sind die Funktionen in **Dur** gemeint. Die Dominante in Moll braucht häufig die erhöhte 7. Stufe und wird hier nicht als einfache Nachbarregel geprüft."
+        }
+      ]
+    },
+    {
+      "id": "lz-10",
+      "titel": "Fehler und enharmonische Töne",
+      "lernziele": [
+        "10"
+      ],
+      "intro": "Nutze diese Kontrolle, bevor du eine Aufgabe abgibst.",
+      "bloecke": [
+        {
+          "t": "liste",
+          "items": [
+            "**H und B:** deutsch verschiedene Töne.",
+            "**Tonartenfolge und Vorzeichenfolge:** zwei verschiedene Reihenfolgen.",
+            "**Parallel oder gleichnamig:** C/a parallel, C/c gleichnamig.",
+            "**Fis/Ges:** gleich klingend auf dem gleichstufigen Klavier, aber andere Tonnamen/Vorzeichen.",
+            "**Tonart bestimmen:** Vorzeichnung und musikalischen Zusammenhang prüfen."
+          ]
+        },
+        {
+          "t": "beispiel",
+          "titel": "Enharmonisch, aber anders geschrieben",
+          "zeilen": [
+            "Fis-Dur: Fis-Gis-Ais-H-Cis-Dis-Eis-Fis (6 ♯).",
+            "Ges-Dur: Ges-As-B-Ces-Des-Es-F-Ges (6 ♭).",
+            "Auf dem gleichstufig gestimmten Klavier sind die Tonhöhen gleich."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Fachliche Referenzen: Lehrklänge, «Der Quintenzirkel» (Markus Gorski) und Music Theory Academy, «The Circle of Fifths» (Ben Dunnett). Die vorliegenden Texte, Aufgaben und Zeichnungen wurden neu erstellt; es liegen keine schulischen Original-Lernziele vor."
+        }
+      ]
+    },
+    {
+      "id": "lernspick",
+      "titel": "Lernspick: alles auf einen Blick",
+      "lernziele": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "intro": "Decke die Antworten ab und prüfe dich selbst.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "1. Tonnamen und Vorzeichen",
+          "text": "C-D-E-F-G-A-H sind die Stammtöne. ♯ erhöht, ♭ erniedrigt um einen Halbton; ♮ hebt eine Veränderung auf. Deutsch: **H** ist die weisse Taste, **B** ist H einen Halbton tiefer (= englisch B♭)."
+        },
+        {
+          "t": "merke",
+          "titel": "2. Die reine Quinte",
+          "text": "Eine **reine Quinte** umfasst fünf Tonnamen mit Start- und Zielton und **7 Halbtonschritte**: C-D-E-F-G. Nicht jede Strecke über fünf Stammtöne ist rein: H-F hat nur 6 Halbtonschritte."
+        },
+        {
+          "t": "merke",
+          "titel": "3. Aufbau und Richtung",
+          "text": "C steht oben. Von C rechts: **C-G-D-A-E-H-Fis** (0-6 Kreuze). Von C links: **C-F-B-Es-As-Des-Ges** (0-6 b). Rechts geht es in reinen Quinten aufwärts, links abwärts."
+        },
+        {
+          "t": "merke",
+          "titel": "4. Kreuztonarten",
+          "text": "Kreuz-Reihenfolge: **Fis-Cis-Gis-Dis-Ais-Eis-His**. Es kommen immer die ersten n Kreuze dazu. D-Dur: Fis, Cis; A-Dur: Fis, Cis, Gis. Alte Vorzeichen bleiben erhalten."
+        },
+        {
+          "t": "merke",
+          "titel": "5. b-Tonarten",
+          "text": "b-Reihenfolge: **B-Es-As-Des-Ges-Ces-Fes**. F-Dur: B; B-Dur: B, Es; Es-Dur: B, Es, As. Das erste b macht aus H den Ton B."
+        },
+        {
+          "t": "merke",
+          "titel": "6. Tonarten erkennen",
+          "text": "Bei Kreuzen liegt Dur einen Halbton über dem **letzten Kreuz**: Cis → D-Dur. Bei mindestens zwei b heisst Dur wie das **vorletzte b**: B, Es, As → Es-Dur. Ausnahmen: kein Vorzeichen → C-Dur/a-Moll; ein b → F-Dur/d-Moll. Die Vorzeichnung allein unterscheidet Dur und paralleles Moll nicht."
+        },
+        {
+          "t": "merke",
+          "titel": "7. Paralleltonarten",
+          "text": "Paralleltonarten haben **dieselben Vorzeichen**, aber verschiedene Grundtöne. Moll liegt eine kleine Terz (3 Halbtonschritte) unter Dur bzw. auf dessen 6. Stufe: C/a, G/e, D/h, F/d. C-Dur und c-Moll sind gleichnamig, keine Paralleltonarten."
+        },
+        {
+          "t": "merke",
+          "titel": "8. Tonleitern bilden",
+          "text": "Dur: **Ganz-Ganz-Halb-Ganz-Ganz-Ganz-Halb**. Natürlich Moll: **Ganz-Halb-Ganz-Ganz-Halb-Ganz-Ganz**. Jeden Stammbuchstaben pro Oktave genau einmal verwenden. D-Dur: D-E-Fis-G-A-H-Cis-D. Natürlich h-Moll: H-Cis-D-E-Fis-G-A-H."
+        },
+        {
+          "t": "merke",
+          "titel": "9. Nachbartonarten und Hauptakkorde",
+          "text": "Bei einer Durtonart steht die **Tonika (I)** am Ausgangspunkt. Im Uhrzeigersinn folgt die **Dominante (V)**, gegen den Uhrzeigersinn die **Subdominante (IV)**. In C-Dur sind das C, G, F; in D-Dur D, A, G. Ein Dur-Dreiklang hat vom Grundton aus 4+3 Halbtonschritte."
+        },
+        {
+          "t": "merke",
+          "titel": "10. Fehler und enharmonische Töne",
+          "text": "Auf dem gleichstufig gestimmten Klavier klingen z. B. **Fis und Ges gleich**, werden aber verschieden geschrieben. Fis-Dur hat 6 ♯, Ges-Dur 6 ♭. Nicht verwechseln: Tonartenfolge ≠ Vorzeichenfolge; H ≠ B; Paralleltonart ≠ gleichnamige Tonart. Der Schlussklang ist ein Hinweis auf die Tonart, kein Beweis."
+        }
+      ]
+    }
+  ],
+  "karten": [
+    {
+      "vorne": "Stammtöne",
+      "hinten": "C-D-E-F-G-A-H"
+    },
+    {
+      "vorne": "♯",
+      "hinten": "erhöht einen Ton um einen Halbton"
+    },
+    {
+      "vorne": "♭",
+      "hinten": "erniedrigt einen Ton um einen Halbton"
+    },
+    {
+      "vorne": "♮",
+      "hinten": "hebt eine Veränderung auf"
+    },
+    {
+      "vorne": "H und B",
+      "hinten": "H = englisch B; B = englisch B♭"
+    },
+    {
+      "vorne": "Reine Quinte",
+      "hinten": "7 Halbtonschritte, z. B. C-G"
+    },
+    {
+      "vorne": "Kreuztonarten ab C",
+      "hinten": "C-G-D-A-E-H-Fis"
+    },
+    {
+      "vorne": "b-Tonarten ab C",
+      "hinten": "C-F-B-Es-As-Des-Ges"
+    },
+    {
+      "vorne": "Reihenfolge der Kreuze",
+      "hinten": "Fis-Cis-Gis-Dis-Ais-Eis-His"
+    },
+    {
+      "vorne": "Reihenfolge der b",
+      "hinten": "B-Es-As-Des-Ges-Ces-Fes"
+    },
+    {
+      "vorne": "Ein b",
+      "hinten": "F-Dur oder d-Moll"
+    },
+    {
+      "vorne": "Zwei Kreuze",
+      "hinten": "D-Dur oder h-Moll"
+    },
+    {
+      "vorne": "Dur ohne Vorzeichen",
+      "hinten": "C-Dur; paralleles Moll: a-Moll"
+    },
+    {
+      "vorne": "Paralleles Moll finden",
+      "hinten": "3 Halbtonschritte abwärts oder 6. Stufe der Durtonleiter"
+    },
+    {
+      "vorne": "Tonika / Dominante / Subdominante in G-Dur",
+      "hinten": "G / D / C"
+    },
+    {
+      "vorne": "Enharmonisch",
+      "hinten": "gleiche Tonhöhe, andere Schreibweise auf gleichstufig gestimmtem Klavier: Fis/Ges"
+    }
+  ],
+  "uebungen": [
+    {
+      "id": "u1-1",
+      "typ": "mc",
+      "lernziel": "1",
+      "frage": "Welcher deutsche Ton klingt einen Halbton unter H?",
+      "punkte": 1,
+      "optionen": [
+        "A",
+        "B",
+        "His",
+        "C"
+      ],
+      "richtig": 1,
+      "erklaerung": "Ein b vor H ergibt B."
+    },
+    {
+      "id": "u1-2",
+      "typ": "zuordnen",
+      "lernziel": "1",
+      "frage": "Ordne die Zeichen zu.",
+      "punkte": 1,
+      "paare": [
+        [
+          "♯",
+          "einen Halbton höher"
+        ],
+        [
+          "♭",
+          "einen Halbton tiefer"
+        ],
+        [
+          "♮",
+          "Veränderung aufheben"
+        ]
+      ]
+    },
+    {
+      "id": "u1-3",
+      "typ": "luecke",
+      "lernziel": "1",
+      "frage": "Ergänze die Stammtöne.",
+      "punkte": 1,
+      "text": "C-D-E-F-G-A-{{0}}-C",
+      "luecken": [
+        [
+          "H"
+        ]
+      ],
+      "erklaerung": ""
+    },
+    {
+      "id": "u1-4",
+      "typ": "mc",
+      "lernziel": "1",
+      "frage": "Welche Aussage stimmt?",
+      "punkte": 1,
+      "optionen": [
+        "B und H sind deutsch gleich.",
+        "Deutsch H entspricht englisch B.",
+        "Deutsch B ist englisch C."
+      ],
+      "richtig": 1,
+      "erklaerung": "Deutsch B entspricht englisch B♭."
+    },
+    {
+      "id": "u2-1",
+      "typ": "zahl",
+      "lernziel": "2",
+      "frage": "Wie viele Halbtonschritte hat eine reine Quinte?",
+      "punkte": 1,
+      "antwort": 7,
+      "toleranz": 0
+    },
+    {
+      "id": "u2-2",
+      "typ": "luecke",
+      "lernziel": "2",
+      "frage": "Ergänze reine Quinten aufwärts.",
+      "punkte": 1,
+      "text": "C → {{0}}; G → {{1}}; H → {{2}}",
+      "luecken": [
+        [
+          "G"
+        ],
+        [
+          "D"
+        ],
+        [
+          "Fis"
+        ]
+      ],
+      "erklaerung": ""
+    },
+    {
+      "id": "u2-3",
+      "typ": "mc",
+      "lernziel": "2",
+      "frage": "Warum ist H-F keine reine Quinte?",
+      "punkte": 1,
+      "optionen": [
+        "Sie hat nur 6 Halbtonschritte.",
+        "Sie hat 8 Halbtonschritte.",
+        "Sie umfasst nur vier Tonnamen."
+      ],
+      "richtig": 0,
+      "erklaerung": "H-C-Cis-D-Dis-E-F = 6 Schritte."
+    },
+    {
+      "id": "u2-4",
+      "typ": "luecke",
+      "lernziel": "2",
+      "frage": "Gehe eine reine Quinte abwärts (Zielton in der tieferen Oktave).",
+      "punkte": 1,
+      "text": "C → {{0}}; G → {{1}}",
+      "luecken": [
+        [
+          "F"
+        ],
+        [
+          "C"
+        ]
+      ],
+      "erklaerung": ""
+    },
+    {
+      "id": "u3-1",
+      "typ": "reihenfolge",
+      "lernziel": "3",
+      "frage": "Ordne die Kreuztonarten ab C.",
+      "punkte": 1,
+      "items": [
+        "C",
+        "G",
+        "D",
+        "A",
+        "E",
+        "H",
+        "Fis"
+      ]
+    },
+    {
+      "id": "u3-2",
+      "typ": "reihenfolge",
+      "lernziel": "3",
+      "frage": "Ordne die b-Tonarten ab C.",
+      "punkte": 1,
+      "items": [
+        "C",
+        "F",
+        "B",
+        "Es",
+        "As",
+        "Des",
+        "Ges"
+      ]
+    },
+    {
+      "id": "u3-3",
+      "typ": "zahl",
+      "lernziel": "3",
+      "frage": "Wie viele Kreuze hat E-Dur?",
+      "punkte": 1,
+      "antwort": 4,
+      "toleranz": 0
+    },
+    {
+      "id": "u3-4",
+      "typ": "offen",
+      "lernziel": "3",
+      "frage": "Zeichne den Quintenzirkel mit Durtonarten und Vorzeichenzahlen von 0 bis 6 auf beiden Seiten.",
+      "punkte": 1,
+      "musterloesung": "Siehe Lösungsgrafik. Bei 6 Vorzeichen stehen Fis-Dur und Ges-Dur an derselben Position.",
+      "kriterien": [
+        {
+          "text": "Tonarten stimmen",
+          "punkte": 0.5
+        },
+        {
+          "text": "Vorzeichenzahlen und Richtung stimmen",
+          "punkte": 0.5
+        }
+      ],
+      "skizze": true,
+      "loesungBild": "content/img/musik-quintenzirkel/quintenzirkel.svg",
+      "bild": "content/img/musik-quintenzirkel/quintenzirkel-leer.svg"
+    },
+    {
+      "id": "u4-1",
+      "typ": "reihenfolge",
+      "lernziel": "4",
+      "frage": "Ordne alle sieben Kreuze.",
+      "punkte": 1,
+      "items": [
+        "Fis",
+        "Cis",
+        "Gis",
+        "Dis",
+        "Ais",
+        "Eis",
+        "His"
+      ]
+    },
+    {
+      "id": "u4-2",
+      "typ": "luecke",
+      "lernziel": "4",
+      "frage": "Welche Töne werden in A-Dur verändert? In Vorzeichenreihenfolge.",
+      "punkte": 1,
+      "text": "{{0}}, {{1}}, {{2}}",
+      "luecken": [
+        [
+          "Fis"
+        ],
+        [
+          "Cis"
+        ],
+        [
+          "Gis"
+        ]
+      ],
+      "erklaerung": ""
+    },
+    {
+      "id": "u4-3",
+      "typ": "mc",
+      "lernziel": "4",
+      "frage": "Welche Liste gehört zu D-Dur?",
+      "punkte": 1,
+      "optionen": [
+        "Fis, Cis",
+        "B, Es",
+        "Gis, Dis"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zwei Kreuze sind immer Fis und Cis."
+    },
+    {
+      "id": "u4-4",
+      "typ": "luecke",
+      "lernziel": "4",
+      "frage": "Ergänze den zuletzt hinzugefügten erhöhten Ton.",
+      "punkte": 1,
+      "text": "E-Dur: {{0}}; H-Dur: {{1}}",
+      "luecken": [
+        [
+          "Dis"
+        ],
+        [
+          "Ais"
+        ]
+      ],
+      "erklaerung": ""
+    },
+    {
+      "id": "u5-1",
+      "typ": "reihenfolge",
+      "lernziel": "5",
+      "frage": "Ordne die sieben erniedrigten Töne.",
+      "punkte": 1,
+      "items": [
+        "B",
+        "Es",
+        "As",
+        "Des",
+        "Ges",
+        "Ces",
+        "Fes"
+      ]
+    },
+    {
+      "id": "u5-2",
+      "typ": "luecke",
+      "lernziel": "5",
+      "frage": "Welche Töne werden in Es-Dur verändert? In Vorzeichenreihenfolge.",
+      "punkte": 1,
+      "text": "{{0}}, {{1}}, {{2}}",
+      "luecken": [
+        [
+          "B"
+        ],
+        [
+          "Es"
+        ],
+        [
+          "As"
+        ]
+      ],
+      "erklaerung": ""
+    },
+    {
+      "id": "u5-3",
+      "typ": "mc",
+      "lernziel": "5",
+      "frage": "Welcher Ton wird in F-Dur verändert?",
+      "punkte": 1,
+      "optionen": [
+        "F wird Fes.",
+        "H wird B.",
+        "E wird Es."
+      ],
+      "richtig": 1,
+      "erklaerung": "F-Dur hat ein b: H wird B."
+    },
+    {
+      "id": "u5-4",
+      "typ": "luecke",
+      "lernziel": "5",
+      "frage": "Ergänze den zuletzt hinzugefügten erniedrigten Ton.",
+      "punkte": 1,
+      "text": "As-Dur: {{0}}; Des-Dur: {{1}}",
+      "luecken": [
+        [
+          "Des"
+        ],
+        [
+          "Ges"
+        ]
+      ],
+      "erklaerung": ""
+    },
+    {
+      "id": "u6-1",
+      "typ": "zuordnen",
+      "lernziel": "6",
+      "frage": "Ordne die Vorzeichnung einer Durtonart zu.",
+      "punkte": 1,
+      "paare": [
+        [
+          "2 ♯",
+          "D-Dur"
+        ],
+        [
+          "3 ♭",
+          "Es-Dur"
+        ],
+        [
+          "1 ♭",
+          "F-Dur"
+        ],
+        [
+          "0",
+          "C-Dur"
+        ]
+      ]
+    },
+    {
+      "id": "u6-2",
+      "typ": "luecke",
+      "lernziel": "6",
+      "frage": "Nenne die Durtonart.",
+      "punkte": 1,
+      "text": "Letztes Kreuz Gis → {{0}}; letztes Kreuz Dis → {{1}}",
+      "luecken": [
+        [
+          "A",
+          "A-Dur"
+        ],
+        [
+          "E",
+          "E-Dur"
+        ]
+      ],
+      "erklaerung": ""
+    },
+    {
+      "id": "u6-3",
+      "typ": "mc",
+      "lernziel": "6",
+      "frage": "Drei b: B, Es, As. Welche Durtonart?",
+      "punkte": 1,
+      "optionen": [
+        "As-Dur",
+        "Es-Dur",
+        "B-Dur"
+      ],
+      "richtig": 1,
+      "erklaerung": "Das vorletzte b ist Es."
+    },
+    {
+      "id": "u6-4",
+      "typ": "mc",
+      "lernziel": "6",
+      "frage": "Zwei Kreuze beweisen, dass ein Stück in D-Dur ist.",
+      "punkte": 1,
+      "optionen": [
+        "Richtig.",
+        "Falsch: Auch h-Moll ist möglich."
+      ],
+      "richtig": 1,
+      "erklaerung": "Der Grundton und der musikalische Zusammenhang unterscheiden Dur und Moll."
+    },
+    {
+      "id": "u7-1",
+      "typ": "zuordnen",
+      "lernziel": "7",
+      "frage": "Verbinde Paralleltonarten.",
+      "punkte": 1,
+      "paare": [
+        [
+          "C-Dur",
+          "a-Moll"
+        ],
+        [
+          "G-Dur",
+          "e-Moll"
+        ],
+        [
+          "D-Dur",
+          "h-Moll"
+        ],
+        [
+          "B-Dur",
+          "g-Moll"
+        ]
+      ]
+    },
+    {
+      "id": "u7-2",
+      "typ": "luecke",
+      "lernziel": "7",
+      "frage": "Ergänze paralleles Moll.",
+      "punkte": 1,
+      "text": "F-Dur → {{0}}; A-Dur → {{1}}; Es-Dur → {{2}}",
+      "luecken": [
+        [
+          "d",
+          "d-Moll"
+        ],
+        [
+          "fis",
+          "fis-Moll"
+        ],
+        [
+          "c",
+          "c-Moll"
+        ]
+      ],
+      "erklaerung": ""
+    },
+    {
+      "id": "u7-3",
+      "typ": "zahl",
+      "lernziel": "7",
+      "frage": "Wie viele Halbtonschritte liegt paralleles Moll unter dem Dur-Grundton?",
+      "punkte": 1,
+      "antwort": 3,
+      "toleranz": 0
+    },
+    {
+      "id": "u7-4",
+      "typ": "mc",
+      "lernziel": "7",
+      "frage": "Welches Paar ist gleichnamig, aber nicht parallel?",
+      "punkte": 1,
+      "optionen": [
+        "C-Dur / a-Moll",
+        "G-Dur / e-Moll",
+        "C-Dur / c-Moll"
+      ],
+      "richtig": 2,
+      "erklaerung": "Gleicher Grundton, andere Vorzeichnung."
+    },
+    {
+      "id": "u8-1",
+      "typ": "luecke",
+      "lernziel": "8",
+      "frage": "Ergänze D-Dur.",
+      "punkte": 1,
+      "text": "D-E-{{0}}-G-A-H-{{1}}-D",
+      "luecken": [
+        [
+          "Fis"
+        ],
+        [
+          "Cis"
+        ]
+      ],
+      "erklaerung": ""
+    },
+    {
+      "id": "u8-2",
+      "typ": "luecke",
+      "lernziel": "8",
+      "frage": "Ergänze B-Dur.",
+      "punkte": 1,
+      "text": "B-C-D-{{0}}-F-G-A-B",
+      "luecken": [
+        [
+          "Es"
+        ]
+      ],
+      "erklaerung": ""
+    },
+    {
+      "id": "u8-3",
+      "typ": "luecke",
+      "lernziel": "8",
+      "frage": "Ergänze natürlich e-Moll.",
+      "punkte": 1,
+      "text": "E-{{0}}-G-A-H-C-D-E",
+      "luecken": [
+        [
+          "Fis"
+        ]
+      ],
+      "erklaerung": ""
+    },
+    {
+      "id": "u8-4",
+      "typ": "offen",
+      "lernziel": "8",
+      "frage": "Schreibe D-Dur auf Notenlinien im Violinschlüssel, einschliesslich der Vorzeichnung.",
+      "punkte": 1,
+      "musterloesung": "Vorzeichnung Fis und Cis. D-E-Fis-G-A-H-Cis-D aufsteigend; die Vorzeichnung gilt für beide F und C.",
+      "kriterien": [
+        {
+          "text": "Töne und Tonhöhen richtig",
+          "punkte": 0.5
+        },
+        {
+          "text": "Vorzeichnung mit Fis und Cis richtig",
+          "punkte": 0.5
+        }
+      ],
+      "skizze": true
+    },
+    {
+      "id": "u9-1",
+      "typ": "zuordnen",
+      "lernziel": "9",
+      "frage": "Ordne die Hauptfunktionen in D-Dur zu.",
+      "punkte": 1,
+      "paare": [
+        [
+          "Tonika (I)",
+          "D"
+        ],
+        [
+          "Dominante (V)",
+          "A"
+        ],
+        [
+          "Subdominante (IV)",
+          "G"
+        ]
+      ]
+    },
+    {
+      "id": "u9-2",
+      "typ": "luecke",
+      "lernziel": "9",
+      "frage": "Ergänze die Kadenz in C-Dur (I-IV-V-I).",
+      "punkte": 1,
+      "text": "C-{{0}}-{{1}}-C",
+      "luecken": [
+        [
+          "F"
+        ],
+        [
+          "G"
+        ]
+      ],
+      "erklaerung": ""
+    },
+    {
+      "id": "u9-3",
+      "typ": "luecke",
+      "lernziel": "9",
+      "frage": "Welche Töne bilden den G-Dur-Dreiklang?",
+      "punkte": 1,
+      "text": "G-{{0}}-{{1}}",
+      "luecken": [
+        [
+          "H"
+        ],
+        [
+          "D"
+        ]
+      ],
+      "erklaerung": ""
+    },
+    {
+      "id": "u9-4",
+      "typ": "mc",
+      "lernziel": "9",
+      "frage": "Wo liegt die Dominante einer Durtonart?",
+      "punkte": 1,
+      "optionen": [
+        "Direkter Nachbar im Uhrzeigersinn.",
+        "Direkter Nachbar gegen den Uhrzeigersinn.",
+        "Immer gegenüber."
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Dominante liegt eine reine Quinte über dem Grundton."
+    },
+    {
+      "id": "u10-1",
+      "typ": "mc",
+      "lernziel": "10",
+      "frage": "Welche Aussage zu Fis und Ges stimmt auf dem gleichstufig gestimmten Klavier?",
+      "punkte": 1,
+      "optionen": [
+        "Sie klingen gleich und werden verschieden geschrieben.",
+        "Fis liegt einen Ganzton über Ges.",
+        "Beide Tonarten haben dieselben geschriebenen Vorzeichen."
+      ],
+      "richtig": 0,
+      "erklaerung": "Fis-Dur hat 6 Kreuze, Ges-Dur 6 b."
+    },
+    {
+      "id": "u10-2",
+      "typ": "luecke",
+      "lernziel": "10",
+      "frage": "Ergänze die Vorzeichenzahl.",
+      "punkte": 1,
+      "text": "Fis-Dur: {{0}} Kreuze; Ges-Dur: {{1}} b",
+      "luecken": [
+        [
+          "6"
+        ],
+        [
+          "6"
+        ]
+      ],
+      "erklaerung": ""
+    },
+    {
+      "id": "u10-3",
+      "typ": "offen",
+      "lernziel": "10",
+      "frage": "Korrigiere: «D-Dur hat zwei Kreuze: Dis und Ais.»",
+      "punkte": 1,
+      "musterloesung": "D-Dur hat Fis und Cis. Verwechselt wurden Tonartname und Vorzeichenfolge.",
+      "kriterien": [
+        {
+          "text": "Fis und Cis genannt",
+          "punkte": 1
+        }
+      ]
+    },
+    {
+      "id": "u10-4",
+      "typ": "mc",
+      "lernziel": "10",
+      "frage": "Was hilft zusätzlich zur Vorzeichnung beim Erkennen der Tonart?",
+      "punkte": 1,
+      "optionen": [
+        "Die Farbe des Notenblatts.",
+        "Grundton und Schlussklang im musikalischen Zusammenhang.",
+        "Nur die letzte gedruckte Note, ohne Zusammenhang."
+      ],
+      "richtig": 1,
+      "erklaerung": "Der Schlussklang ist ein Hinweis, kein sicherer Beweis für sich allein."
+    }
+  ],
+  "pruefungen": [
+    {
+      "id": "test-40",
+      "titel": "Quintenzirkel - Testprüfung",
+      "richtzeit": 45,
+      "hinweis": "40 Punkte. Aufgaben in Lernzielreihenfolge. Skizzen auf Papier; offene Antworten mit dem Bewertungsraster selbst prüfen. Deutsche Tonnamen H und B; Molltonleitern sind natürlich, sofern nichts anderes steht.",
+      "aufgaben": [
+        {
+          "id": "p1",
+          "nr": "1",
+          "typ": "offen",
+          "lernziel": "1",
+          "titel": "Tonnamen und Vorzeichen",
+          "frage": "Erkläre ♯ und ♭. Welcher deutsche Ton liegt einen Halbton unter H?",
+          "musterloesung": "♯ erhöht um einen Halbton; ♭ erniedrigt um einen Halbton. Unter H liegt B.",
+          "kriterien": [
+            {
+              "text": "♯ richtig erklärt",
+              "punkte": 1
+            },
+            {
+              "text": "♭ richtig erklärt",
+              "punkte": 1
+            },
+            {
+              "text": "B genannt",
+              "punkte": 1
+            }
+          ],
+          "punkte": 3,
+          "zeilen": 4
+        },
+        {
+          "id": "p2",
+          "nr": "2",
+          "typ": "offen",
+          "lernziel": "2",
+          "titel": "Reine Quinten",
+          "frage": "Wie viele Halbtonschritte umfasst eine reine Quinte? Ergänze die reine Quinte aufwärts von D und von H.",
+          "musterloesung": "7 Halbtonschritte. D → A; H → Fis.",
+          "kriterien": [
+            {
+              "text": "7 Halbtonschritte",
+              "punkte": 1
+            },
+            {
+              "text": "D → A",
+              "punkte": 1
+            },
+            {
+              "text": "H → Fis",
+              "punkte": 1
+            }
+          ],
+          "punkte": 3,
+          "zeilen": 4
+        },
+        {
+          "id": "p3",
+          "nr": "3",
+          "typ": "offen",
+          "lernziel": "3",
+          "titel": "Quintenzirkel selbst zeichnen",
+          "frage": "Zeichne einen Kreis, setze C oben. Trage auf der rechten Seite G, D, A und auf der linken Seite F, B, Es an der richtigen Stelle ein. Schreibe jeweils Art und Zahl der Vorzeichen dazu. Zeichne je einen Richtungspfeil für aufsteigende und absteigende Quinten.",
+          "musterloesung": "Rechts von C: G (1 ♯), D (2 ♯), A (3 ♯). Links: F (1 ♭), B (2 ♭), Es (3 ♭). Aufwärts im Uhrzeigersinn, abwärts gegen den Uhrzeigersinn.",
+          "kriterien": [
+            {
+              "text": "Sechs Tonarten richtig angeordnet: je ½ P",
+              "punkte": 3
+            },
+            {
+              "text": "Sechs Vorzeichnungen richtig: je ¼ P",
+              "punkte": 1.5
+            },
+            {
+              "text": "C mit 0 Vorzeichen oben",
+              "punkte": 0.5
+            },
+            {
+              "text": "Beide Richtungspfeile richtig: je ½ P",
+              "punkte": 1
+            }
+          ],
+          "punkte": 6.0,
+          "zeilen": 4,
+          "skizze": true,
+          "loesungBild": "content/img/musik-quintenzirkel/quintenzirkel.svg"
+        },
+        {
+          "id": "p4",
+          "nr": "4",
+          "typ": "offen",
+          "lernziel": "4",
+          "titel": "Kreuze",
+          "frage": "Nenne die ersten vier erhöhten Töne in der richtigen Reihenfolge. Welche Durtonart hat diese vier Kreuze?",
+          "musterloesung": "Fis-Cis-Gis-Dis; E-Dur.",
+          "kriterien": [
+            {
+              "text": "Fis-Cis",
+              "punkte": 1
+            },
+            {
+              "text": "Gis-Dis",
+              "punkte": 1
+            },
+            {
+              "text": "E-Dur",
+              "punkte": 1
+            }
+          ],
+          "punkte": 3,
+          "zeilen": 4
+        },
+        {
+          "id": "p5",
+          "nr": "5",
+          "typ": "offen",
+          "lernziel": "5",
+          "titel": "b-Vorzeichen",
+          "frage": "Nenne die ersten drei erniedrigten Töne in der richtigen Reihenfolge. Welche Durtonart hat sie?",
+          "musterloesung": "B-Es-As; Es-Dur.",
+          "kriterien": [
+            {
+              "text": "B",
+              "punkte": 0.5
+            },
+            {
+              "text": "Es",
+              "punkte": 0.5
+            },
+            {
+              "text": "As",
+              "punkte": 1
+            },
+            {
+              "text": "Es-Dur",
+              "punkte": 1
+            }
+          ],
+          "punkte": 3.0,
+          "zeilen": 4
+        },
+        {
+          "id": "p6",
+          "nr": "6",
+          "typ": "offen",
+          "lernziel": "6",
+          "titel": "Durtonarten erkennen",
+          "frage": "Bestimme die Durtonart: a) Fis, Cis; b) B, Es; c) ein b; d) keine Vorzeichen.",
+          "musterloesung": "a) D-Dur; b) B-Dur; c) F-Dur; d) C-Dur.",
+          "kriterien": [
+            {
+              "text": "D-Dur",
+              "punkte": 1
+            },
+            {
+              "text": "B-Dur",
+              "punkte": 1
+            },
+            {
+              "text": "F-Dur",
+              "punkte": 1
+            },
+            {
+              "text": "C-Dur",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "zeilen": 4
+        },
+        {
+          "id": "p7",
+          "nr": "7",
+          "typ": "offen",
+          "lernziel": "7",
+          "titel": "Dur und paralleles Moll",
+          "frage": "Nenne paralleles Moll zu a) G-Dur, b) D-Dur, c) F-Dur. Erkläre, was Paralleltonarten gemeinsam haben.",
+          "musterloesung": "a) e-Moll; b) h-Moll; c) d-Moll. Gleiche Vorzeichnung, verschiedene Grundtöne.",
+          "kriterien": [
+            {
+              "text": "e-Moll",
+              "punkte": 1
+            },
+            {
+              "text": "h-Moll",
+              "punkte": 1
+            },
+            {
+              "text": "d-Moll",
+              "punkte": 1
+            },
+            {
+              "text": "Gleiche Vorzeichnung und verschiedene Grundtöne",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "zeilen": 4
+        },
+        {
+          "id": "p8",
+          "nr": "8",
+          "typ": "offen",
+          "lernziel": "8",
+          "titel": "Tonleitern notieren",
+          "frage": "Schreibe a) D-Dur aufwärts auf die Notenlinien mit korrekter Vorzeichnung; b) natürlich h-Moll als Tonnamen. Markiere bei beiden die Halbtonschritte.",
+          "musterloesung": "a) D-E-Fis-G-A-H-Cis-D; Vorzeichnung Fis und Cis; Halbtonschritte Fis-G und Cis-D. b) H-Cis-D-E-Fis-G-A-H; Halbtonschritte Cis-D und Fis-G.",
+          "kriterien": [
+            {
+              "text": "D-Dur: acht Töne richtig",
+              "punkte": 1
+            },
+            {
+              "text": "Fis/Cis korrekt als Vorzeichnung",
+              "punkte": 1
+            },
+            {
+              "text": "Beide Halbtonschritte in D-Dur",
+              "punkte": 1
+            },
+            {
+              "text": "Natürlich h-Moll: acht Töne richtig",
+              "punkte": 2
+            },
+            {
+              "text": "Beide Halbtonschritte in h-Moll",
+              "punkte": 1
+            }
+          ],
+          "punkte": 6,
+          "zeilen": 4,
+          "skizze": true
+        },
+        {
+          "id": "p9",
+          "nr": "9",
+          "typ": "offen",
+          "lernziel": "9",
+          "titel": "Hauptakkorde",
+          "frage": "In G-Dur: Nenne Tonika, Subdominante und Dominante. Schreibe die drei Töne des Dominant-Dreiklangs auf.",
+          "musterloesung": "Tonika G, Subdominante C, Dominante D. D-Dur-Dreiklang: D-Fis-A.",
+          "kriterien": [
+            {
+              "text": "Tonika G",
+              "punkte": 1
+            },
+            {
+              "text": "Subdominante C",
+              "punkte": 1
+            },
+            {
+              "text": "Dominante D",
+              "punkte": 1
+            },
+            {
+              "text": "D-Fis-A",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "zeilen": 4
+        },
+        {
+          "id": "p10",
+          "nr": "10",
+          "typ": "offen",
+          "lernziel": "10",
+          "titel": "Aussagen prüfen",
+          "frage": "Korrigiere: a) «H und B sind deutsch derselbe Ton.» b) «C-Dur und c-Moll sind parallel.» c) «Fis-Dur und Ges-Dur werden gleich geschrieben.» d) «Zwei Kreuze beweisen D-Dur.»",
+          "musterloesung": "a) H und B unterscheiden sich um einen Halbton. b) C-Dur/a-Moll sind parallel, C/c gleichnamig. c) Gleich klingend auf dem gleichstufig gestimmten Klavier, aber Fis-Dur 6 ♯ und Ges-Dur 6 ♭. d) Auch h-Moll ist möglich; den musikalischen Zusammenhang prüfen.",
+          "kriterien": [
+            {
+              "text": "H/B richtig",
+              "punkte": 1
+            },
+            {
+              "text": "Paralleltonart richtig",
+              "punkte": 1
+            },
+            {
+              "text": "Enharmonisch und Vorzeichen richtig",
+              "punkte": 1
+            },
+            {
+              "text": "h-Moll ebenfalls möglich",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "zeilen": 4
+        }
+      ]
+    }
+  ]
+}

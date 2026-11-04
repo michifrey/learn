@@ -49,6 +49,7 @@ python3 -m http.server 8000
 |---|---|---|
 | 8 | Mathematik | Satz des Pythagoras (12 Kapitel, 37 Übungen, Probeprüfung 40 P + Schnelltest 30 P) |
 | 8 | Biologie / NT | Kapitel 8: Wachstum von Pflanzen (14 Lernziele, 41 Übungen, Testprüfung 80 P) |
+| 8 | Musik | Quintenzirkel (10 Lernziele, 11 Kapitel, 40 Übungen, Testprüfung 40 P + 12-seitiges Dossier) |
 
 ## Ideen
 
@@ -56,3 +57,4 @@ python3 -m http.server 8000
 - [ ] Fortschritt exportieren/teilen
 - [ ] Spaced Repetition über mehrere Tage
 - [ ] Hörtexte/Vokabeltrainer für Sprachen
+
