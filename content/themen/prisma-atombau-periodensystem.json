@@ -1,0 +1,1108 @@
+{
+  "lernzielBasis": "selbst-formuliert",
+  "hinweis": "Eigenständig formulierte Lernziele und Inhalte zur Themenübersicht von Prisma 2. Die Lernziele der Schule sind noch nicht abgeglichen.",
+  "quellen": [
+    {
+      "titel": "Atombau und Periodensystem - Lerndossier",
+      "art": "Eigene Erklärungen, Übungsblätter, Testprüfung und Lösungen",
+      "seiten": 12,
+      "datei": "material/klasse-8/prisma/atombau-periodensystem/Prisma2_atombau-periodensystem_Lerndossier.pdf"
+    }
+  ],
+  "referenzen": [
+    {
+      "titel": "Prisma: öffentliche Themenübersicht",
+      "url": "https://downloads.klett.ch/uploads/images/textbooks/Dateien/Klett_Prisma-Prospekt_201119_3_final.pdf?v=1616765520"
+    },
+    {
+      "titel": "Fachliche Referenz",
+      "url": "https://www.leifichemie.de/aufbau-der-materie/periodensystem/grundwissen/atombau-und-periodensystem"
+    }
+  ],
+  "lernziele": [
+    {
+      "id": "1",
+      "nr": "1",
+      "gruppe": "Grundlagen",
+      "kurz": "Bausteine des Atoms",
+      "text": "Ich kann Protonen, Neutronen und Elektronen zuordnen und ein Atommodell beschriften.",
+      "frage": "Wie kannst du Protonen, Neutronen und Elektronen zuordnen und ein Atommodell beschriften?",
+      "antwort": "**Protonen (+)** und **Neutronen (neutral)** bilden den Kern. **Elektronen (-)** bilden die Hülle. Ein neutrales Atom hat gleich viele Protonen und Elektronen. Fast die gesamte Masse steckt im Kern."
+    },
+    {
+      "id": "2",
+      "nr": "2",
+      "gruppe": "Grundlagen",
+      "kurz": "Ordnungszahl und Massenzahl",
+      "text": "Ich kann aus Ordnungszahl und Massenzahl die Teilchenzahlen bestimmen.",
+      "frage": "Wie kannst du aus Ordnungszahl und Massenzahl die Teilchenzahlen bestimmen?",
+      "antwort": "**Ordnungszahl Z = Protonenzahl. Massenzahl A = Protonen + Neutronen.** Daher: Neutronen = A-Z. Beim neutralen Atom gilt Elektronenzahl = Z. Isotope eines Elements haben gleich viele Protonen, aber verschieden viele Neutronen."
+    },
+    {
+      "id": "3",
+      "nr": "3",
+      "gruppe": "Grundlagen",
+      "kurz": "Schalenmodell zeichnen",
+      "text": "Ich kann einfache Schalenmodelle für die ersten 20 Elemente zeichnen und Aussenelektronen erkennen.",
+      "frage": "Wie kannst du einfache Schalenmodelle für die ersten 20 Elemente zeichnen und Aussenelektronen erkennen?",
+      "antwort": "Elektronen werden im vereinfachten Modell von innen nach aussen verteilt. Für die **ersten 20 Elemente** nutzt du die Besetzung 2, 8, 8, 2. Die äusserste besetzte Schale trägt die **Aussenelektronen**."
+    },
+    {
+      "id": "4",
+      "nr": "4",
+      "gruppe": "Anwenden und verstehen",
+      "kurz": "Das Periodensystem lesen",
+      "text": "Ich kann Perioden, Gruppen und wichtige Angaben im Periodensystem erklären.",
+      "frage": "Wie kannst du Perioden, Gruppen und wichtige Angaben im Periodensystem erklären?",
+      "antwort": "Elemente sind nach steigender **Ordnungszahl** geordnet. Eine **Periode** ist eine waagrechte Zeile; bei einfachen Schalenmodellen gibt sie die Zahl besetzter Schalen an. **Gruppen** sind senkrechte Spalten. Hauptgruppenelemente einer Gruppe besitzen ähnlich viele Aussenelektronen und ähnliche Eigenschaften."
+    },
+    {
+      "id": "5",
+      "nr": "5",
+      "gruppe": "Anwenden und verstehen",
+      "kurz": "Elementfamilien und Stoffarten",
+      "text": "Ich kann Metalle, Nichtmetalle und Edelgase mit typischen Eigenschaften vergleichen.",
+      "frage": "Wie kannst du Metalle, Nichtmetalle und Edelgase mit typischen Eigenschaften vergleichen?",
+      "antwort": "**Metalle** leiten meist Strom und Wärme und sind verformbar. **Nichtmetalle** besitzen unterschiedliche Eigenschaften und leiten meist schlecht. **Edelgase** sind unter normalen Bedingungen gasförmig und reagieren wegen ihrer vollen Aussenschale nur sehr wenig."
+    },
+    {
+      "id": "6",
+      "nr": "6",
+      "gruppe": "Anwenden und verstehen",
+      "kurz": "Ionen entstehen",
+      "text": "Ich kann erklären, wie positiv und negativ geladene Ionen entstehen.",
+      "frage": "Wie kannst du erklären, wie positiv und negativ geladene Ionen entstehen?",
+      "antwort": "Ein **Ion** ist ein elektrisch geladenes Atom oder eine geladene Atomgruppe. **Elektronenabgabe → positives Ion**, Elektronenaufnahme → negatives Ion. Bei diesen Vorgängen bleibt die Protonenzahl unverändert."
+    },
+    {
+      "id": "7",
+      "nr": "7",
+      "gruppe": "Zusammenhänge und Kontrolle",
+      "kurz": "Element, Verbindung und Gemisch",
+      "text": "Ich kann Elemente, chemische Verbindungen und Gemische auf Teilchenebene unterscheiden.",
+      "frage": "Wie kannst du Elemente, chemische Verbindungen und Gemische auf Teilchenebene unterscheiden?",
+      "antwort": "Ein **Element** besteht aus einer Atomsorte. Eine **Verbindung** enthält chemisch gebundene Atome verschiedener Elemente in einem festen Verhältnis. Ein **Gemisch** enthält mehrere Stoffe nebeneinander; seine Zusammensetzung kann variieren."
+    },
+    {
+      "id": "8",
+      "nr": "8",
+      "gruppe": "Zusammenhänge und Kontrolle",
+      "kurz": "Modelle und Beobachtungen",
+      "text": "Ich kann erklären, wozu Atommodelle dienen und wo ihre Grenzen liegen.",
+      "frage": "Wie kannst du erklären, wozu Atommodelle dienen und wo ihre Grenzen liegen?",
+      "antwort": "Modelle vereinfachen die Wirklichkeit. Sie machen Unsichtbares erklärbar und helfen bei Vorhersagen. Ein **Teilchenmodell** erklärt Stoffeigenschaften; das **Schalenmodell** beschreibt die Elektronenhülle vereinfacht. Ein Modell ist keine Fotografie und hat einen begrenzten Geltungsbereich."
+    }
+  ],
+  "lernen": [
+    {
+      "id": "lz-1",
+      "titel": "Bausteine des Atoms",
+      "lernziele": [
+        "1"
+      ],
+      "intro": "Ich kann Protonen, Neutronen und Elektronen zuordnen und ein Atommodell beschriften.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "**Protonen (+)** und **Neutronen (neutral)** bilden den Kern. **Elektronen (-)** bilden die Hülle. Ein neutrales Atom hat gleich viele Protonen und Elektronen. Fast die gesamte Masse steckt im Kern."
+        },
+        {
+          "t": "bild",
+          "src": "content/img/prisma/atombau-periodensystem.svg",
+          "alt": "Teilchen, Schalenmodelle, Elemente und Ionen - beschriftete Lernskizze",
+          "caption": "Eigene vereinfachte Skizze; nicht massstabsgetreu."
+        },
+        {
+          "t": "p",
+          "text": "Der Kern ist im Vergleich zur Hülle winzig. Die Elektronen sind keine kleinen Planeten auf festen Bahnen. Im vereinfachten Schalenmodell stellen Kreise verschiedene Energiebereiche dar."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Ein neutrales Natriumatom hat 11 Protonen und 11 Elektronen. Beim Isotop Natrium-23 kommen 12 Neutronen hinzu."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Neutronen sind nicht negativ geladen. Ein Atomkern enthält keine Elektronen."
+        }
+      ]
+    },
+    {
+      "id": "lz-2",
+      "titel": "Ordnungszahl und Massenzahl",
+      "lernziele": [
+        "2"
+      ],
+      "intro": "Ich kann aus Ordnungszahl und Massenzahl die Teilchenzahlen bestimmen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "**Ordnungszahl Z = Protonenzahl. Massenzahl A = Protonen + Neutronen.** Daher: Neutronen = A-Z. Beim neutralen Atom gilt Elektronenzahl = Z. Isotope eines Elements haben gleich viele Protonen, aber verschieden viele Neutronen."
+        },
+        {
+          "t": "p",
+          "text": "Die meist nicht ganzzahlige Atommasse im Periodensystem ist ein Mittelwert über Isotope. Sie darf nicht als genaue Massenzahl eines einzelnen Atoms verwendet werden. In Aufgaben wird A ausdrücklich angegeben."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Kohlenstoff-14: Z = 6, A = 14 → 6 Protonen, 8 Neutronen, im neutralen Atom 6 Elektronen."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Massenzahl und Ordnungszahl sind nicht dasselbe. Isotope sind auch keine verschieden geladenen Ionen."
+        }
+      ]
+    },
+    {
+      "id": "lz-3",
+      "titel": "Schalenmodell zeichnen",
+      "lernziele": [
+        "3"
+      ],
+      "intro": "Ich kann einfache Schalenmodelle für die ersten 20 Elemente zeichnen und Aussenelektronen erkennen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Elektronen werden im vereinfachten Modell von innen nach aussen verteilt. Für die **ersten 20 Elemente** nutzt du die Besetzung 2, 8, 8, 2. Die äusserste besetzte Schale trägt die **Aussenelektronen**."
+        },
+        {
+          "t": "p",
+          "text": "Die Zahlen 2-8-8-2 sind eine Schulregel für die ersten 20 Elemente, keine allgemeine maximale Schalenkapazität. Für schwerere Atome braucht man ein genaueres Modell."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Natrium Z = 11: 2 | 8 | 1. Magnesium Z = 12: 2 | 8 | 2. Calcium Z = 20: 2 | 8 | 8 | 2."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Nicht alle Elektronen auf die äussere Schale setzen. Die Atomgrösse in der Skizze ist nicht massstabsgetreu."
+        }
+      ]
+    },
+    {
+      "id": "lz-4",
+      "titel": "Das Periodensystem lesen",
+      "lernziele": [
+        "4"
+      ],
+      "intro": "Ich kann Perioden, Gruppen und wichtige Angaben im Periodensystem erklären.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Elemente sind nach steigender **Ordnungszahl** geordnet. Eine **Periode** ist eine waagrechte Zeile; bei einfachen Schalenmodellen gibt sie die Zahl besetzter Schalen an. **Gruppen** sind senkrechte Spalten. Hauptgruppenelemente einer Gruppe besitzen ähnlich viele Aussenelektronen und ähnliche Eigenschaften."
+        },
+        {
+          "t": "p",
+          "text": "Das moderne Periodensystem nummeriert Gruppen von 1 bis 18. Bei Hauptgruppen entsprechen 1 und 2 den Aussenelektronenzahlen 1 und 2; bei 13-18 zieht man 10 ab. Helium in Gruppe 18 ist die Ausnahme mit zwei Elektronen."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Chlor: Z = 17, Periode 3, Gruppe 17 → 3 Schalen und 7 Aussenelektronen. Neon: Gruppe 18, volle Aussenschale."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Eine Periode ist keine senkrechte Spalte. Die moderne Gruppennummer 17 bedeutet nicht 17 Aussenelektronen."
+        }
+      ]
+    },
+    {
+      "id": "lz-5",
+      "titel": "Elementfamilien und Stoffarten",
+      "lernziele": [
+        "5"
+      ],
+      "intro": "Ich kann Metalle, Nichtmetalle und Edelgase mit typischen Eigenschaften vergleichen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "**Metalle** leiten meist Strom und Wärme und sind verformbar. **Nichtmetalle** besitzen unterschiedliche Eigenschaften und leiten meist schlecht. **Edelgase** sind unter normalen Bedingungen gasförmig und reagieren wegen ihrer vollen Aussenschale nur sehr wenig."
+        },
+        {
+          "t": "p",
+          "text": "Eigenschaften werden an Stoffen beobachtet. Ein einzelnes Kupferatom ist nicht schon ein sichtbares Metallstück. Typische Merkmale haben Ausnahmen: Graphit leitet elektrischen Strom, obwohl Kohlenstoff ein Nichtmetall ist."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Kupfer als Leiter im Kabel; Sauerstoff als Nichtmetall; Neon als wenig reaktionsfreudiges Edelgas."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Nicht jedes Element ist ein Metall und nicht jedes Nichtmetall ein Gas. Edelgase sind nicht absolut reaktionsunfähig."
+        }
+      ]
+    },
+    {
+      "id": "lz-6",
+      "titel": "Ionen entstehen",
+      "lernziele": [
+        "6"
+      ],
+      "intro": "Ich kann erklären, wie positiv und negativ geladene Ionen entstehen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Ein **Ion** ist ein elektrisch geladenes Atom oder eine geladene Atomgruppe. **Elektronenabgabe → positives Ion**, Elektronenaufnahme → negatives Ion. Bei diesen Vorgängen bleibt die Protonenzahl unverändert."
+        },
+        {
+          "t": "p",
+          "text": "Die Ladung entsteht durch ein Ungleichgewicht von Protonen und Elektronen. Ein Natriumion Na⁺ hat nach der Abgabe eines Elektrons weiterhin 11 Protonen, aber nur noch 10 Elektronen. Ein Chloridion Cl⁻ hat 17 Protonen und 18 Elektronen."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Mg → Mg²⁺ + 2 e⁻: Magnesium gibt zwei Elektronen ab. Cl + e⁻ → Cl⁻: Chlor nimmt ein Elektron auf."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Ein positives Ion hat nicht zusätzliche Elektronen aufgenommen. Die Elektronen sind negativ: Verlust macht positiver."
+        }
+      ]
+    },
+    {
+      "id": "lz-7",
+      "titel": "Element, Verbindung und Gemisch",
+      "lernziele": [
+        "7"
+      ],
+      "intro": "Ich kann Elemente, chemische Verbindungen und Gemische auf Teilchenebene unterscheiden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Ein **Element** besteht aus einer Atomsorte. Eine **Verbindung** enthält chemisch gebundene Atome verschiedener Elemente in einem festen Verhältnis. Ein **Gemisch** enthält mehrere Stoffe nebeneinander; seine Zusammensetzung kann variieren."
+        },
+        {
+          "t": "p",
+          "text": "Ein Molekül besteht aus gebundenen Atomen. O₂ ist ein Molekül aus einem Element, H₂O ein Molekül einer Verbindung. Nicht jede Verbindung besteht aus einzelnen Molekülen: Kochsalz bildet ein Ionengitter."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Sauerstoff O₂: Element. Reines Wasser H₂O: Verbindung. Salzwasser: Gemisch. H₂O bedeutet zwei H-Atome und ein O-Atom pro Wassermolekül."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Molekül ist nicht dasselbe wie Verbindung. O₂ enthält zwei Atome, aber nur eine Atomsorte."
+        }
+      ]
+    },
+    {
+      "id": "lz-8",
+      "titel": "Modelle und Beobachtungen",
+      "lernziele": [
+        "8"
+      ],
+      "intro": "Ich kann erklären, wozu Atommodelle dienen und wo ihre Grenzen liegen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Modelle vereinfachen die Wirklichkeit. Sie machen Unsichtbares erklärbar und helfen bei Vorhersagen. Ein **Teilchenmodell** erklärt Stoffeigenschaften; das **Schalenmodell** beschreibt die Elektronenhülle vereinfacht. Ein Modell ist keine Fotografie und hat einen begrenzten Geltungsbereich."
+        },
+        {
+          "t": "p",
+          "text": "Trenne Beobachtung und Deutung: Man beobachtet etwa die Leitfähigkeit einer Salzlösung. Bewegliche Ionen sind die Erklärung im Modell. Die Elektronenbahnen eines Bohrbildes beobachtet man dabei nicht direkt."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Beobachtung: Ein Stoff löst sich in Wasser. Modell-Deutung: Seine Teilchen verteilen sich zwischen Wasserteilchen. Die Teilchen selbst verschwinden nicht."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Eine grosse Kugel in einer Zeichnung bedeutet nicht, dass man ein Atom mit einer normalen Lupe so sehen kann."
+        }
+      ]
+    },
+    {
+      "id": "lernspick",
+      "titel": "Lernspick: alle Lernziele mit Kurzantwort",
+      "lernziele": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "intro": "Eigene Lernziele: mit den schulischen Vorgaben abgleichen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "1. Bausteine des Atoms",
+          "text": "**Protonen (+)** und **Neutronen (neutral)** bilden den Kern. **Elektronen (-)** bilden die Hülle. Ein neutrales Atom hat gleich viele Protonen und Elektronen. Fast die gesamte Masse steckt im Kern."
+        },
+        {
+          "t": "merke",
+          "titel": "2. Ordnungszahl und Massenzahl",
+          "text": "**Ordnungszahl Z = Protonenzahl. Massenzahl A = Protonen + Neutronen.** Daher: Neutronen = A-Z. Beim neutralen Atom gilt Elektronenzahl = Z. Isotope eines Elements haben gleich viele Protonen, aber verschieden viele Neutronen."
+        },
+        {
+          "t": "merke",
+          "titel": "3. Schalenmodell zeichnen",
+          "text": "Elektronen werden im vereinfachten Modell von innen nach aussen verteilt. Für die **ersten 20 Elemente** nutzt du die Besetzung 2, 8, 8, 2. Die äusserste besetzte Schale trägt die **Aussenelektronen**."
+        },
+        {
+          "t": "merke",
+          "titel": "4. Das Periodensystem lesen",
+          "text": "Elemente sind nach steigender **Ordnungszahl** geordnet. Eine **Periode** ist eine waagrechte Zeile; bei einfachen Schalenmodellen gibt sie die Zahl besetzter Schalen an. **Gruppen** sind senkrechte Spalten. Hauptgruppenelemente einer Gruppe besitzen ähnlich viele Aussenelektronen und ähnliche Eigenschaften."
+        },
+        {
+          "t": "merke",
+          "titel": "5. Elementfamilien und Stoffarten",
+          "text": "**Metalle** leiten meist Strom und Wärme und sind verformbar. **Nichtmetalle** besitzen unterschiedliche Eigenschaften und leiten meist schlecht. **Edelgase** sind unter normalen Bedingungen gasförmig und reagieren wegen ihrer vollen Aussenschale nur sehr wenig."
+        },
+        {
+          "t": "merke",
+          "titel": "6. Ionen entstehen",
+          "text": "Ein **Ion** ist ein elektrisch geladenes Atom oder eine geladene Atomgruppe. **Elektronenabgabe → positives Ion**, Elektronenaufnahme → negatives Ion. Bei diesen Vorgängen bleibt die Protonenzahl unverändert."
+        },
+        {
+          "t": "merke",
+          "titel": "7. Element, Verbindung und Gemisch",
+          "text": "Ein **Element** besteht aus einer Atomsorte. Eine **Verbindung** enthält chemisch gebundene Atome verschiedener Elemente in einem festen Verhältnis. Ein **Gemisch** enthält mehrere Stoffe nebeneinander; seine Zusammensetzung kann variieren."
+        },
+        {
+          "t": "merke",
+          "titel": "8. Modelle und Beobachtungen",
+          "text": "Modelle vereinfachen die Wirklichkeit. Sie machen Unsichtbares erklärbar und helfen bei Vorhersagen. Ein **Teilchenmodell** erklärt Stoffeigenschaften; das **Schalenmodell** beschreibt die Elektronenhülle vereinfacht. Ein Modell ist keine Fotografie und hat einen begrenzten Geltungsbereich."
+        }
+      ]
+    }
+  ],
+  "karten": [
+    {
+      "vorne": "Proton",
+      "hinten": "positiv geladen, im Kern"
+    },
+    {
+      "vorne": "Neutron",
+      "hinten": "elektrisch neutral, im Kern"
+    },
+    {
+      "vorne": "Elektron",
+      "hinten": "negativ geladen, in der Hülle"
+    },
+    {
+      "vorne": "Ordnungszahl",
+      "hinten": "Zahl der Protonen"
+    },
+    {
+      "vorne": "Massenzahl",
+      "hinten": "Protonen + Neutronen"
+    },
+    {
+      "vorne": "Isotope",
+      "hinten": "gleiches Element, verschiedene Neutronenzahl"
+    },
+    {
+      "vorne": "Periode",
+      "hinten": "waagrechte Zeile im PSE"
+    },
+    {
+      "vorne": "Gruppe",
+      "hinten": "senkrechte Spalte im PSE"
+    },
+    {
+      "vorne": "Kation",
+      "hinten": "positiv geladenes Ion"
+    },
+    {
+      "vorne": "Anion",
+      "hinten": "negativ geladenes Ion"
+    },
+    {
+      "vorne": "Molekül",
+      "hinten": "Verbund aus gebundenen Atomen"
+    },
+    {
+      "vorne": "Edelgas",
+      "hinten": "volle Aussenschale; sehr geringe Reaktionsfreude"
+    }
+  ],
+  "uebungen": [
+    {
+      "typ": "mc",
+      "frage": "Welches Teilchen ist negativ geladen?",
+      "optionen": [
+        "Proton",
+        "Neutron",
+        "Elektron"
+      ],
+      "richtig": 2,
+      "id": "u1-1",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "**Protonen (+)** und **Neutronen (neutral)** bilden den Kern. **Elektronen (-)** bilden die Hülle. Ein neutrales Atom hat gleich viele Protonen und Elektronen. Fast die gesamte Masse steckt im Kern."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne Teilchen und Ort/Ladung zu.",
+      "paare": [
+        [
+          "Proton",
+          "Kern, positiv"
+        ],
+        [
+          "Neutron",
+          "Kern, neutral"
+        ],
+        [
+          "Elektron",
+          "Hülle, negativ"
+        ]
+      ],
+      "id": "u1-2",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "**Protonen (+)** und **Neutronen (neutral)** bilden den Kern. **Elektronen (-)** bilden die Hülle. Ein neutrales Atom hat gleich viele Protonen und Elektronen. Fast die gesamte Masse steckt im Kern."
+    },
+    {
+      "id": "u1-3",
+      "typ": "offen",
+      "lernziel": "1",
+      "frage": "Zeichne ein Atom als Kern und Hülle. Trage die drei Teilchenarten mit Ladung ein.",
+      "musterloesung": "Kern: Protonen (+), Neutronen (0). Hülle: Elektronen (-). Beim neutralen Atom: Anzahl Protonen = Anzahl Elektronen.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": true,
+      "zeilen": 4,
+      "hilfe": "**Protonen (+)** und **Neutronen (neutral)** bilden den Kern. **Elektronen (-)** bilden die Hülle. Ein neutrales Atom hat gleich viele Protonen und Elektronen. Fast die gesamte Masse steckt im Kern."
+    },
+    {
+      "typ": "mc",
+      "frage": "Was legt fest, zu welchem Element ein Atom gehört?",
+      "optionen": [
+        "Protonenzahl",
+        "Neutronenzahl",
+        "Anzahl der Schalen"
+      ],
+      "richtig": 0,
+      "id": "u2-1",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "**Ordnungszahl Z = Protonenzahl. Massenzahl A = Protonen + Neutronen.** Daher: Neutronen = A-Z. Beim neutralen Atom gilt Elektronenzahl = Z. Isotope eines Elements haben gleich viele Protonen, aber verschieden viele Neutronen."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Ein Atom hat Z = 12 und A = 24. Wie viele Neutronen enthält es?",
+      "antwort": 12,
+      "einheit": "",
+      "toleranz": 0.01,
+      "id": "u2-2",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "**Ordnungszahl Z = Protonenzahl. Massenzahl A = Protonen + Neutronen.** Daher: Neutronen = A-Z. Beim neutralen Atom gilt Elektronenzahl = Z. Isotope eines Elements haben gleich viele Protonen, aber verschieden viele Neutronen."
+    },
+    {
+      "id": "u2-3",
+      "typ": "offen",
+      "lernziel": "2",
+      "frage": "Bestimme p, n und e für neutrales Chlor-37 mit Z = 17.",
+      "musterloesung": "17 Protonen, 20 Neutronen, 17 Elektronen; 37-17 = 20.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "**Ordnungszahl Z = Protonenzahl. Massenzahl A = Protonen + Neutronen.** Daher: Neutronen = A-Z. Beim neutralen Atom gilt Elektronenzahl = Z. Isotope eines Elements haben gleich viele Protonen, aber verschieden viele Neutronen."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Besetzung passt zu neutralem Natrium (Z = 11)?",
+      "optionen": [
+        "2 | 8 | 1",
+        "2 | 9",
+        "8 | 3"
+      ],
+      "richtig": 0,
+      "id": "u3-1",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Elektronen werden im vereinfachten Modell von innen nach aussen verteilt. Für die **ersten 20 Elemente** nutzt du die Besetzung 2, 8, 8, 2. Die äusserste besetzte Schale trägt die **Aussenelektronen**."
+    },
+    {
+      "typ": "luecke",
+      "frage": "Ergänze Magnesium (Z = 12).",
+      "text": "1. Schale: {{0}}; 2. Schale: {{1}}; 3. Schale: {{2}}.",
+      "luecken": [
+        [
+          "2"
+        ],
+        [
+          "8"
+        ],
+        [
+          "2"
+        ]
+      ],
+      "id": "u3-2",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Elektronen werden im vereinfachten Modell von innen nach aussen verteilt. Für die **ersten 20 Elemente** nutzt du die Besetzung 2, 8, 8, 2. Die äusserste besetzte Schale trägt die **Aussenelektronen**."
+    },
+    {
+      "id": "u3-3",
+      "typ": "offen",
+      "lernziel": "3",
+      "frage": "Zeichne Aluminium (Z = 13) im einfachen Schalenmodell. Markiere die Aussenelektronen.",
+      "musterloesung": "2 | 8 | 3; drei Schalen und drei Aussenelektronen.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": true,
+      "zeilen": 4,
+      "hilfe": "Elektronen werden im vereinfachten Modell von innen nach aussen verteilt. Für die **ersten 20 Elemente** nutzt du die Besetzung 2, 8, 8, 2. Die äusserste besetzte Schale trägt die **Aussenelektronen**."
+    },
+    {
+      "typ": "mc",
+      "frage": "Chlor steht in Periode 3. Was folgt im einfachen Modell?",
+      "optionen": [
+        "Drei besetzte Schalen",
+        "Drei Protonen",
+        "Drei Aussenelektronen"
+      ],
+      "richtig": 0,
+      "id": "u4-1",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Elemente sind nach steigender **Ordnungszahl** geordnet. Eine **Periode** ist eine waagrechte Zeile; bei einfachen Schalenmodellen gibt sie die Zahl besetzter Schalen an. **Gruppen** sind senkrechte Spalten. Hauptgruppenelemente einer Gruppe besitzen ähnlich viele Aussenelektronen und ähnliche Eigenschaften."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne die Begriffe zu.",
+      "paare": [
+        [
+          "Periode",
+          "waagrechte Zeile"
+        ],
+        [
+          "Gruppe",
+          "senkrechte Spalte"
+        ],
+        [
+          "Ordnungszahl",
+          "Protonenzahl"
+        ]
+      ],
+      "id": "u4-2",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Elemente sind nach steigender **Ordnungszahl** geordnet. Eine **Periode** ist eine waagrechte Zeile; bei einfachen Schalenmodellen gibt sie die Zahl besetzter Schalen an. **Gruppen** sind senkrechte Spalten. Hauptgruppenelemente einer Gruppe besitzen ähnlich viele Aussenelektronen und ähnliche Eigenschaften."
+    },
+    {
+      "id": "u4-3",
+      "typ": "offen",
+      "lernziel": "4",
+      "frage": "Aluminium steht in Periode 3 und Gruppe 13. Was verrät das über seine Hülle?",
+      "musterloesung": "Drei besetzte Schalen; drei Aussenelektronen.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "Elemente sind nach steigender **Ordnungszahl** geordnet. Eine **Periode** ist eine waagrechte Zeile; bei einfachen Schalenmodellen gibt sie die Zahl besetzter Schalen an. **Gruppen** sind senkrechte Spalten. Hauptgruppenelemente einer Gruppe besitzen ähnlich viele Aussenelektronen und ähnliche Eigenschaften."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Zuordnung stimmt?",
+      "optionen": [
+        "Kupfer: Metall; Sauerstoff: Nichtmetall; Neon: Edelgas",
+        "Sauerstoff: Metall; Neon: Metall",
+        "Alle gasförmigen Elemente sind Edelgase"
+      ],
+      "richtig": 0,
+      "id": "u5-1",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "**Metalle** leiten meist Strom und Wärme und sind verformbar. **Nichtmetalle** besitzen unterschiedliche Eigenschaften und leiten meist schlecht. **Edelgase** sind unter normalen Bedingungen gasförmig und reagieren wegen ihrer vollen Aussenschale nur sehr wenig."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne Beispiel und Familie zu.",
+      "paare": [
+        [
+          "Natrium",
+          "Alkalimetall"
+        ],
+        [
+          "Chlor",
+          "Halogen"
+        ],
+        [
+          "Argon",
+          "Edelgas"
+        ]
+      ],
+      "id": "u5-2",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "**Metalle** leiten meist Strom und Wärme und sind verformbar. **Nichtmetalle** besitzen unterschiedliche Eigenschaften und leiten meist schlecht. **Edelgase** sind unter normalen Bedingungen gasförmig und reagieren wegen ihrer vollen Aussenschale nur sehr wenig."
+    },
+    {
+      "id": "u5-3",
+      "typ": "offen",
+      "lernziel": "5",
+      "frage": "Begründe, warum Kupfer für Stromkabel geeignet ist. Nenne eine Eigenschaft von Neon.",
+      "musterloesung": "Kupfer leitet elektrischen Strom und ist zu Drähten verformbar. Neon reagiert wenig und ist gasförmig.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "**Metalle** leiten meist Strom und Wärme und sind verformbar. **Nichtmetalle** besitzen unterschiedliche Eigenschaften und leiten meist schlecht. **Edelgase** sind unter normalen Bedingungen gasförmig und reagieren wegen ihrer vollen Aussenschale nur sehr wenig."
+    },
+    {
+      "typ": "mc",
+      "frage": "Ein neutrales Atom gibt ein Elektron ab. Es wird ...",
+      "optionen": [
+        "positiv geladen",
+        "negativ geladen",
+        "zu einem anderen Element"
+      ],
+      "richtig": 0,
+      "id": "u6-1",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Ein **Ion** ist ein elektrisch geladenes Atom oder eine geladene Atomgruppe. **Elektronenabgabe → positives Ion**, Elektronenaufnahme → negatives Ion. Bei diesen Vorgängen bleibt die Protonenzahl unverändert."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Wie viele Elektronen hat Na⁺ bei 11 Protonen?",
+      "antwort": 10,
+      "einheit": "",
+      "toleranz": 0.01,
+      "id": "u6-2",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Ein **Ion** ist ein elektrisch geladenes Atom oder eine geladene Atomgruppe. **Elektronenabgabe → positives Ion**, Elektronenaufnahme → negatives Ion. Bei diesen Vorgängen bleibt die Protonenzahl unverändert."
+    },
+    {
+      "id": "u6-3",
+      "typ": "offen",
+      "lernziel": "6",
+      "frage": "Erkläre, wie aus einem neutralen Chloratom ein Chloridion wird.",
+      "musterloesung": "Ein Elektron wird aufgenommen; aus 17 Elektronen werden 18, bei weiterhin 17 Protonen. Die Ladung ist -1.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "Ein **Ion** ist ein elektrisch geladenes Atom oder eine geladene Atomgruppe. **Elektronenabgabe → positives Ion**, Elektronenaufnahme → negatives Ion. Bei diesen Vorgängen bleibt die Protonenzahl unverändert."
+    },
+    {
+      "typ": "mc",
+      "frage": "Was ist reines Wasser H₂O?",
+      "optionen": [
+        "Eine Verbindung",
+        "Ein Element",
+        "Ein Gemisch"
+      ],
+      "richtig": 0,
+      "id": "u7-1",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Ein **Element** besteht aus einer Atomsorte. Eine **Verbindung** enthält chemisch gebundene Atome verschiedener Elemente in einem festen Verhältnis. Ein **Gemisch** enthält mehrere Stoffe nebeneinander; seine Zusammensetzung kann variieren."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne zu.",
+      "paare": [
+        [
+          "O₂",
+          "Element aus Molekülen"
+        ],
+        [
+          "H₂O",
+          "chemische Verbindung"
+        ],
+        [
+          "Luft",
+          "Gasgemisch"
+        ]
+      ],
+      "id": "u7-2",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Ein **Element** besteht aus einer Atomsorte. Eine **Verbindung** enthält chemisch gebundene Atome verschiedener Elemente in einem festen Verhältnis. Ein **Gemisch** enthält mehrere Stoffe nebeneinander; seine Zusammensetzung kann variieren."
+    },
+    {
+      "id": "u7-3",
+      "typ": "offen",
+      "lernziel": "7",
+      "frage": "Zeichne Teilchenbilder für O₂, H₂O und ein Gemisch aus beiden.",
+      "musterloesung": "O₂: Paare gleicher Atome. H₂O: zwei H und ein O pro Molekül. Gemisch: beide Molekülarten nebeneinander.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": true,
+      "zeilen": 4,
+      "hilfe": "Ein **Element** besteht aus einer Atomsorte. Eine **Verbindung** enthält chemisch gebundene Atome verschiedener Elemente in einem festen Verhältnis. Ein **Gemisch** enthält mehrere Stoffe nebeneinander; seine Zusammensetzung kann variieren."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage ist eine Beobachtung?",
+      "optionen": [
+        "Die Flüssigkeit leitet Strom.",
+        "Die Ionen bewegen sich zur Elektrode.",
+        "Das Modell erklärt die Leitfähigkeit."
+      ],
+      "richtig": 0,
+      "id": "u8-1",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Modelle vereinfachen die Wirklichkeit. Sie machen Unsichtbares erklärbar und helfen bei Vorhersagen. Ein **Teilchenmodell** erklärt Stoffeigenschaften; das **Schalenmodell** beschreibt die Elektronenhülle vereinfacht. Ein Modell ist keine Fotografie und hat einen begrenzten Geltungsbereich."
+    },
+    {
+      "typ": "luecke",
+      "frage": "Ergänze.",
+      "text": "Ein Modell ist eine {{0}} der Wirklichkeit, keine {{1}}.",
+      "luecken": [
+        [
+          "Vereinfachung",
+          "vereinfachte Darstellung"
+        ],
+        [
+          "Fotografie",
+          "Foto"
+        ]
+      ],
+      "id": "u8-2",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Modelle vereinfachen die Wirklichkeit. Sie machen Unsichtbares erklärbar und helfen bei Vorhersagen. Ein **Teilchenmodell** erklärt Stoffeigenschaften; das **Schalenmodell** beschreibt die Elektronenhülle vereinfacht. Ein Modell ist keine Fotografie und hat einen begrenzten Geltungsbereich."
+    },
+    {
+      "id": "u8-3",
+      "typ": "offen",
+      "lernziel": "8",
+      "frage": "Nenne einen Nutzen und eine Grenze des Schalenmodells.",
+      "musterloesung": "Es hilft beim Zählen und Verteilen der Elektronen. Es zeigt keine realen festen Umlaufbahnen und ist für kompliziertere Atome nur begrenzt geeignet.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "Modelle vereinfachen die Wirklichkeit. Sie machen Unsichtbares erklärbar und helfen bei Vorhersagen. Ein **Teilchenmodell** erklärt Stoffeigenschaften; das **Schalenmodell** beschreibt die Elektronenhülle vereinfacht. Ein Modell ist keine Fotografie und hat einen begrenzten Geltungsbereich."
+    }
+  ],
+  "pruefungen": [
+    {
+      "id": "test-32",
+      "titel": "Atombau und Periodensystem - Testprüfung",
+      "richtzeit": 45,
+      "hinweis": "32 Punkte. Grundlagenprüfung zu selbst formulierten Lernzielen; noch kein Abgleich mit den Prüfungszielen der Schule. Zeichnungen auf Papier. Offene Aufgaben anhand der Kriterien selbst bewerten.",
+      "aufgaben": [
+        {
+          "id": "p1",
+          "nr": "1",
+          "typ": "offen",
+          "lernziel": "1",
+          "titel": "Bausteine des Atoms",
+          "frage": "Zeichne ein Atommodell und beschrifte Kern, Hülle, Proton und Elektron. Ergänze die Ladung von Proton und Elektron.",
+          "punkte": 4,
+          "musterloesung": "Kern korrekt abgegrenzt\nHülle um den Kern eingezeichnet\nProton im Kern mit positiver Ladung\nElektron in der Hülle mit negativer Ladung",
+          "kriterien": [
+            {
+              "text": "Kern korrekt abgegrenzt",
+              "punkte": 1
+            },
+            {
+              "text": "Hülle um den Kern eingezeichnet",
+              "punkte": 1
+            },
+            {
+              "text": "Proton im Kern mit positiver Ladung",
+              "punkte": 1
+            },
+            {
+              "text": "Elektron in der Hülle mit negativer Ladung",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        },
+        {
+          "id": "p2",
+          "nr": "2",
+          "typ": "offen",
+          "lernziel": "2",
+          "titel": "Ordnungszahl und Massenzahl",
+          "frage": "Ein neutrales Sauerstoff-18-Atom hat Z = 8 und A = 18. Bestimme Protonen, Neutronen und Elektronen. Erkläre den Unterschied zu Sauerstoff-16.",
+          "punkte": 4,
+          "musterloesung": "8 Protonen\n10 Neutronen\n8 Elektronen\nSauerstoff-16 hat ebenfalls 8 Protonen, aber nur 8 Neutronen",
+          "kriterien": [
+            {
+              "text": "8 Protonen",
+              "punkte": 1
+            },
+            {
+              "text": "10 Neutronen",
+              "punkte": 1
+            },
+            {
+              "text": "8 Elektronen",
+              "punkte": 1
+            },
+            {
+              "text": "Sauerstoff-16 hat ebenfalls 8 Protonen, aber nur 8 Neutronen",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p3",
+          "nr": "3",
+          "typ": "offen",
+          "lernziel": "3",
+          "titel": "Schalenmodell zeichnen",
+          "frage": "Zeichne ein neutrales Magnesiumatom (Z = 12) im Schalenmodell. Gib die Elektronenverteilung an und markiere die Aussenelektronen.",
+          "punkte": 4,
+          "musterloesung": "Drei besetzte Schalen\n2 Elektronen auf der ersten Schale\n8 Elektronen auf der zweiten Schale\n2 Elektronen auf der dritten Schale als Aussenelektronen markiert",
+          "kriterien": [
+            {
+              "text": "Drei besetzte Schalen",
+              "punkte": 1
+            },
+            {
+              "text": "2 Elektronen auf der ersten Schale",
+              "punkte": 1
+            },
+            {
+              "text": "8 Elektronen auf der zweiten Schale",
+              "punkte": 1
+            },
+            {
+              "text": "2 Elektronen auf der dritten Schale als Aussenelektronen markiert",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        },
+        {
+          "id": "p4",
+          "nr": "4",
+          "typ": "offen",
+          "lernziel": "4",
+          "titel": "Das Periodensystem lesen",
+          "frage": "Erkläre Periode und Gruppe. Bestimme für Natrium (Periode 3, Gruppe 1) die Zahl der besetzten Schalen und der Aussenelektronen.",
+          "punkte": 4,
+          "musterloesung": "Periode = waagrechte Zeile\nGruppe = senkrechte Spalte\nNatrium hat drei besetzte Schalen\nNatrium hat ein Aussenelektron",
+          "kriterien": [
+            {
+              "text": "Periode = waagrechte Zeile",
+              "punkte": 1
+            },
+            {
+              "text": "Gruppe = senkrechte Spalte",
+              "punkte": 1
+            },
+            {
+              "text": "Natrium hat drei besetzte Schalen",
+              "punkte": 1
+            },
+            {
+              "text": "Natrium hat ein Aussenelektron",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p5",
+          "nr": "5",
+          "typ": "offen",
+          "lernziel": "5",
+          "titel": "Elementfamilien und Stoffarten",
+          "frage": "Nenne zwei typische Metalleigenschaften. Ordne Sauerstoff den Nichtmetallen zu und begründe die geringe Reaktionsfreude von Edelgasen im einfachen Modell.",
+          "punkte": 4,
+          "musterloesung": "Metalle leiten elektrischen Strom gut\nMetalle sind meist gut verformbar\nSauerstoff ist ein Nichtmetall\nEdelgase besitzen eine volle Aussenschale",
+          "kriterien": [
+            {
+              "text": "Metalle leiten elektrischen Strom gut",
+              "punkte": 1
+            },
+            {
+              "text": "Metalle sind meist gut verformbar",
+              "punkte": 1
+            },
+            {
+              "text": "Sauerstoff ist ein Nichtmetall",
+              "punkte": 1
+            },
+            {
+              "text": "Edelgase besitzen eine volle Aussenschale",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p6",
+          "nr": "6",
+          "typ": "offen",
+          "lernziel": "6",
+          "titel": "Ionen entstehen",
+          "frage": "Ein neutrales Magnesiumatom (12 Protonen, 12 Elektronen) gibt zwei Elektronen ab. Nenne die neue Elektronenzahl, die Ladung, das Ionensymbol und die unveränderte Teilchenzahl.",
+          "punkte": 4,
+          "musterloesung": "10 Elektronen\nLadung +2\nIonensymbol Mg²⁺\nProtonenzahl bleibt 12",
+          "kriterien": [
+            {
+              "text": "10 Elektronen",
+              "punkte": 1
+            },
+            {
+              "text": "Ladung +2",
+              "punkte": 1
+            },
+            {
+              "text": "Ionensymbol Mg²⁺",
+              "punkte": 1
+            },
+            {
+              "text": "Protonenzahl bleibt 12",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p7",
+          "nr": "7",
+          "typ": "offen",
+          "lernziel": "7",
+          "titel": "Element, Verbindung und Gemisch",
+          "frage": "Ordne O₂, H₂O und Salzwasser als Element, Verbindung oder Gemisch ein. Erkläre zusätzlich, warum O₂ trotz zweier Atome keine Verbindung ist.",
+          "punkte": 4,
+          "musterloesung": "O₂ ist ein Element\nH₂O ist eine Verbindung\nSalzwasser ist ein Gemisch\nO₂ enthält nur eine Atomsorte",
+          "kriterien": [
+            {
+              "text": "O₂ ist ein Element",
+              "punkte": 1
+            },
+            {
+              "text": "H₂O ist eine Verbindung",
+              "punkte": 1
+            },
+            {
+              "text": "Salzwasser ist ein Gemisch",
+              "punkte": 1
+            },
+            {
+              "text": "O₂ enthält nur eine Atomsorte",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p8",
+          "nr": "8",
+          "typ": "offen",
+          "lernziel": "8",
+          "titel": "Modelle und Beobachtungen",
+          "frage": "Nenne zwei Vorteile eines Atommodells und zwei Grenzen einer Schalenzeichnung.",
+          "punkte": 4,
+          "musterloesung": "Unsichtbare Strukturen werden anschaulich\nTeilchenzahlen oder einfache Zusammenhänge lassen sich erklären\nZeichnung ist nicht massstabsgetreu\nElektronen bewegen sich nicht wie Planeten auf gezeichneten festen Kreisbahnen",
+          "kriterien": [
+            {
+              "text": "Unsichtbare Strukturen werden anschaulich",
+              "punkte": 1
+            },
+            {
+              "text": "Teilchenzahlen oder einfache Zusammenhänge lassen sich erklären",
+              "punkte": 1
+            },
+            {
+              "text": "Zeichnung ist nicht massstabsgetreu",
+              "punkte": 1
+            },
+            {
+              "text": "Elektronen bewegen sich nicht wie Planeten auf gezeichneten festen Kreisbahnen",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        }
+      ]
+    }
+  ]
+}

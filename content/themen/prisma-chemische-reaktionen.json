@@ -1,0 +1,1116 @@
+{
+  "lernzielBasis": "selbst-formuliert",
+  "hinweis": "Eigenständig formulierte Lernziele und Inhalte zur Themenübersicht von Prisma 2. Die Lernziele der Schule sind noch nicht abgeglichen.",
+  "quellen": [
+    {
+      "titel": "Chemische Reaktionen - Lerndossier",
+      "art": "Eigene Erklärungen, Übungsblätter, Testprüfung und Lösungen",
+      "seiten": 12,
+      "datei": "material/klasse-8/prisma/chemische-reaktionen/Prisma2_chemische-reaktionen_Lerndossier.pdf"
+    }
+  ],
+  "referenzen": [
+    {
+      "titel": "Prisma: öffentliche Themenübersicht",
+      "url": "https://downloads.klett.ch/uploads/images/textbooks/Dateien/Klett_Prisma-Prospekt_201119_3_final.pdf?v=1616765520"
+    },
+    {
+      "titel": "Fachliche Referenz",
+      "url": "https://www.leifichemie.de/einfuehrung-die-chemie/einfuehrung-chemische-reaktion"
+    },
+    {
+      "titel": "Fachliche Referenz",
+      "url": "https://www.leifichemie.de/aufbau-der-materie/periodensystem/grundwissen/atombau-und-periodensystem"
+    }
+  ],
+  "lernziele": [
+    {
+      "id": "1",
+      "nr": "1",
+      "gruppe": "Grundlagen",
+      "kurz": "Neue Stoffe erkennen",
+      "text": "Ich kann chemische Reaktionen von physikalischen Veränderungen unterscheiden.",
+      "frage": "Wie kannst du chemische Reaktionen von physikalischen Veränderungen unterscheiden?",
+      "antwort": "Bei einer **chemischen Reaktion entstehen neue Stoffe** mit neuen Eigenschaften. Beim Schmelzen, Verdampfen oder Zerkleinern bleibt die Stoffart erhalten. Gasbildung, Farbänderung oder Wärme können Hinweise auf eine Reaktion sein, sind allein aber kein Beweis."
+    },
+    {
+      "id": "2",
+      "nr": "2",
+      "gruppe": "Grundlagen",
+      "kurz": "Edukte und Produkte",
+      "text": "Ich kann Reaktionen als Wortgleichung und einfache Formelgleichung darstellen.",
+      "frage": "Wie kannst du Reaktionen als Wortgleichung und einfache Formelgleichung darstellen?",
+      "antwort": "**Edukte** sind Ausgangsstoffe, **Produkte** die entstandenen Stoffe. Der Reaktionspfeil bedeutet „reagieren zu“. In einer Formelgleichung werden **Koeffizienten vor die Formeln** gesetzt, damit von jeder Atomsorte links und rechts gleich viele Atome vorkommen."
+    },
+    {
+      "id": "3",
+      "nr": "3",
+      "gruppe": "Grundlagen",
+      "kurz": "Atome und Masse bleiben erhalten",
+      "text": "Ich kann die Massenerhaltung bei Reaktionen erklären und berechnen.",
+      "frage": "Wie kannst du die Massenerhaltung bei Reaktionen erklären und berechnen?",
+      "antwort": "Bei gewöhnlichen chemischen Reaktionen werden Atome **neu angeordnet**, nicht erzeugt oder vernichtet. In einem **geschlossenen System** bleibt deshalb die Gesamtmasse gleich: Masse der Edukte = Masse der Produkte."
+    },
+    {
+      "id": "4",
+      "nr": "4",
+      "gruppe": "Anwenden und verstehen",
+      "kurz": "Verbrennung und Oxidation",
+      "text": "Ich kann eine Verbrennung mit Sauerstoff erklären und Bedingungen für Feuer nennen.",
+      "frage": "Wie kannst du eine Verbrennung mit Sauerstoff erklären und Bedingungen für Feuer nennen?",
+      "antwort": "Eine **Verbrennung** ist eine rasch ablaufende Reaktion mit einem Oxidationsmittel, im Alltag meist **Sauerstoff**, bei der Energie frei wird. Für ein Feuer braucht es einen Brennstoff, ausreichend Sauerstoff und genügend hohe Temperatur."
+    },
+    {
+      "id": "5",
+      "nr": "5",
+      "gruppe": "Anwenden und verstehen",
+      "kurz": "Energie bei Reaktionen",
+      "text": "Ich kann exotherme und endotherme Reaktionen unterscheiden.",
+      "frage": "Wie kannst du exotherme und endotherme Reaktionen unterscheiden?",
+      "antwort": "**Exotherm:** Eine Reaktion gibt insgesamt Energie an die Umgebung ab. **Endotherm:** Sie nimmt insgesamt Energie aus der Umgebung auf. Energie wird umgewandelt; sie entsteht nicht aus dem Nichts."
+    },
+    {
+      "id": "6",
+      "nr": "6",
+      "gruppe": "Anwenden und verstehen",
+      "kurz": "Aktivierungsenergie und Katalysator",
+      "text": "Ich kann Aktivierungsenergie und die Wirkung eines Katalysators erklären.",
+      "frage": "Wie kannst du Aktivierungsenergie und die Wirkung eines Katalysators erklären?",
+      "antwort": "**Aktivierungsenergie** ist die Energiebarriere zum Start einer Reaktion. Ein **Katalysator** ermöglicht einen Reaktionsweg mit geringerer Aktivierungsenergie. Er kann die Reaktion beschleunigen und wird im Gesamtprozess nicht verbraucht."
+    },
+    {
+      "id": "7",
+      "nr": "7",
+      "gruppe": "Zusammenhänge und Kontrolle",
+      "kurz": "Saure und basische Lösungen",
+      "text": "Ich kann saure, neutrale und basische wässrige Lösungen mit der pH-Skala einordnen.",
+      "frage": "Wie kannst du saure, neutrale und basische wässrige Lösungen mit der pH-Skala einordnen?",
+      "antwort": "Für gewöhnliche verdünnte wässrige Lösungen bei Raumtemperatur gilt: **pH < 7 sauer**, **pH = 7 neutral**, **pH > 7 basisch**. Ein Indikator zeigt je nach pH-Wert unterschiedliche Farben. Die Farbe muss mit der passenden Farbskala verglichen werden."
+    },
+    {
+      "id": "8",
+      "nr": "8",
+      "gruppe": "Zusammenhänge und Kontrolle",
+      "kurz": "Versuche planen und auswerten",
+      "text": "Ich kann einen fairen Reaktionsversuch beschreiben und Beobachtung von Deutung trennen.",
+      "frage": "Wie kannst du einen fairen Reaktionsversuch beschreiben und Beobachtung von Deutung trennen?",
+      "antwort": "Ein Versuchsprotokoll enthält **Fragestellung, Vermutung, Material, Durchführung, Beobachtung und Auswertung**. Für einen fairen Vergleich wird möglichst nur eine Einflussgrösse verändert; die anderen Bedingungen bleiben gleich. Messungen werden wiederholt."
+    }
+  ],
+  "lernen": [
+    {
+      "id": "lz-1",
+      "titel": "Neue Stoffe erkennen",
+      "lernziele": [
+        "1"
+      ],
+      "intro": "Ich kann chemische Reaktionen von physikalischen Veränderungen unterscheiden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Bei einer **chemischen Reaktion entstehen neue Stoffe** mit neuen Eigenschaften. Beim Schmelzen, Verdampfen oder Zerkleinern bleibt die Stoffart erhalten. Gasbildung, Farbänderung oder Wärme können Hinweise auf eine Reaktion sein, sind allein aber kein Beweis."
+        },
+        {
+          "t": "p",
+          "text": "Um eine Reaktion nachzuweisen, vergleicht man Eigenschaften vor und nach dem Vorgang. Bläschen beim Kochen sind Wasserdampf; bei einer Reaktion können Bläschen dagegen von einem neu gebildeten Gas stammen."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Eis schmilzt zu Wasser: physikalisch. Eisen rostet: neue eisenhaltige Verbindungen entstehen, also chemisch."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Jede sichtbare Veränderung als chemische Reaktion zu bezeichnen ist falsch."
+        }
+      ]
+    },
+    {
+      "id": "lz-2",
+      "titel": "Edukte und Produkte",
+      "lernziele": [
+        "2"
+      ],
+      "intro": "Ich kann Reaktionen als Wortgleichung und einfache Formelgleichung darstellen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "**Edukte** sind Ausgangsstoffe, **Produkte** die entstandenen Stoffe. Der Reaktionspfeil bedeutet „reagieren zu“. In einer Formelgleichung werden **Koeffizienten vor die Formeln** gesetzt, damit von jeder Atomsorte links und rechts gleich viele Atome vorkommen."
+        },
+        {
+          "t": "bild",
+          "src": "content/img/prisma/chemische-reaktionen.svg",
+          "alt": "Stoffumwandlung, Reaktionsgleichung, Energie und Versuche - beschriftete Lernskizze",
+          "caption": "Eigene vereinfachte Skizze; nicht massstabsgetreu."
+        },
+        {
+          "t": "p",
+          "text": "Die tiefgestellten Zahlen in einer Formel gehören zum Stoff: H₂O bleibt H₂O. Beim Ausgleichen verändert man die Zahl der Moleküle, nicht deren Zusammensetzung. Die Gleichung beschreibt Stoffe und Mengenverhältnisse, keine Geschwindigkeit."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Wasserstoff + Sauerstoff → Wasser. Ausgeglichen: 2 H₂ + O₂ → 2 H₂O. Links und rechts stehen 4 H-Atome und 2 O-Atome."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Zum Ausgleichen nicht H₂O in H₂O₂ ändern: Wasserstoffperoxid wäre ein anderer Stoff."
+        }
+      ]
+    },
+    {
+      "id": "lz-3",
+      "titel": "Atome und Masse bleiben erhalten",
+      "lernziele": [
+        "3"
+      ],
+      "intro": "Ich kann die Massenerhaltung bei Reaktionen erklären und berechnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Bei gewöhnlichen chemischen Reaktionen werden Atome **neu angeordnet**, nicht erzeugt oder vernichtet. In einem **geschlossenen System** bleibt deshalb die Gesamtmasse gleich: Masse der Edukte = Masse der Produkte."
+        },
+        {
+          "t": "p",
+          "text": "In einem offenen Gefäss kann Gas entweichen oder aus der Umgebung aufgenommen werden. Dann ändert sich die Masse des gewogenen Gefässinhalts, obwohl die Gesamtmasse aller beteiligten Stoffe erhalten bleibt."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "12 g Kohlenstoff reagieren vollständig mit 32 g Sauerstoff zu 44 g Kohlenstoffdioxid. Die Masse des Sauerstoffs muss mitgezählt werden."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Eine leichtere Rückstandsmasse bedeutet nicht, dass Masse vernichtet wurde. Ein Gas kann das Gefäss verlassen haben."
+        }
+      ]
+    },
+    {
+      "id": "lz-4",
+      "titel": "Verbrennung und Oxidation",
+      "lernziele": [
+        "4"
+      ],
+      "intro": "Ich kann eine Verbrennung mit Sauerstoff erklären und Bedingungen für Feuer nennen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Eine **Verbrennung** ist eine rasch ablaufende Reaktion mit einem Oxidationsmittel, im Alltag meist **Sauerstoff**, bei der Energie frei wird. Für ein Feuer braucht es einen Brennstoff, ausreichend Sauerstoff und genügend hohe Temperatur."
+        },
+        {
+          "t": "p",
+          "text": "Bei vollständiger Verbrennung kohlenstoffhaltiger Stoffe entsteht CO₂; wasserstoffhaltige Brennstoffe bilden auch Wasser. Bei Sauerstoffmangel kann giftiges Kohlenstoffmonoxid entstehen. Rosten ist eine langsamere Oxidation."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Kohlenstoff + Sauerstoff → Kohlenstoffdioxid. Ein Löschprinzip ist Kühlen; ein anderes ist das Unterbrechen der Sauerstoffzufuhr."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Sauerstoff brennt nicht selbst, sondern ermöglicht die Verbrennung vieler Stoffe. Ein brennendes Gas wird nicht einfach „zu nichts“."
+        }
+      ]
+    },
+    {
+      "id": "lz-5",
+      "titel": "Energie bei Reaktionen",
+      "lernziele": [
+        "5"
+      ],
+      "intro": "Ich kann exotherme und endotherme Reaktionen unterscheiden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "**Exotherm:** Eine Reaktion gibt insgesamt Energie an die Umgebung ab. **Endotherm:** Sie nimmt insgesamt Energie aus der Umgebung auf. Energie wird umgewandelt; sie entsteht nicht aus dem Nichts."
+        },
+        {
+          "t": "p",
+          "text": "Auch eine exotherme Reaktion kann zunächst einen Startimpuls benötigen. Ein Energieschema vergleicht die chemische Energie der Ausgangs- und Endstoffe. Bei exothermen Vorgängen liegen die Produkte energetisch tiefer."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Verbrennung: exotherm, die Umgebung wird wärmer. Fotosynthese benötigt Lichtenergie und speichert Energie in aufgebauten Stoffen."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Exotherm heisst nicht „ohne Startenergie“. Heiss allein ist kein eindeutiger Reaktionsnachweis."
+        }
+      ]
+    },
+    {
+      "id": "lz-6",
+      "titel": "Aktivierungsenergie und Katalysator",
+      "lernziele": [
+        "6"
+      ],
+      "intro": "Ich kann Aktivierungsenergie und die Wirkung eines Katalysators erklären.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "**Aktivierungsenergie** ist die Energiebarriere zum Start einer Reaktion. Ein **Katalysator** ermöglicht einen Reaktionsweg mit geringerer Aktivierungsenergie. Er kann die Reaktion beschleunigen und wird im Gesamtprozess nicht verbraucht."
+        },
+        {
+          "t": "p",
+          "text": "Ein Katalysator verändert die insgesamt abgegebene oder aufgenommene Reaktionsenergie nicht. Mehr Teilchen können die niedrigere Barriere überwinden. Enzyme sind biologische Katalysatoren."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Ein Streichholz wird durch Reibungswärme gezündet. Ein Enzym ermöglicht eine Reaktion im Körper unter geeigneten Bedingungen schneller."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Ein Katalysator liefert keine zusätzliche Reaktionsenergie und macht eine endotherme Reaktion nicht automatisch exotherm."
+        }
+      ]
+    },
+    {
+      "id": "lz-7",
+      "titel": "Saure und basische Lösungen",
+      "lernziele": [
+        "7"
+      ],
+      "intro": "Ich kann saure, neutrale und basische wässrige Lösungen mit der pH-Skala einordnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Für gewöhnliche verdünnte wässrige Lösungen bei Raumtemperatur gilt: **pH < 7 sauer**, **pH = 7 neutral**, **pH > 7 basisch**. Ein Indikator zeigt je nach pH-Wert unterschiedliche Farben. Die Farbe muss mit der passenden Farbskala verglichen werden."
+        },
+        {
+          "t": "p",
+          "text": "Ein kleiner pH-Wert bedeutet stark sauer, ein grosser stark basisch. Die pH-Skala ist nicht linear. Neutralisation kann beim Zusammengeben passender Mengen einer sauren und einer basischen Lösung auftreten; das Ergebnis hängt von den Mengen ab."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Zitronensaft ist sauer, reines Wasser bei etwa 25 °C neutral, viele Seifenlösungen basisch. Prüfen geschieht mit geeigneten Indikatoren, nicht durch Probieren."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Neutral bedeutet nicht automatisch trinkbar. Auch basische Lösungen können gefährlich sein."
+        }
+      ]
+    },
+    {
+      "id": "lz-8",
+      "titel": "Versuche planen und auswerten",
+      "lernziele": [
+        "8"
+      ],
+      "intro": "Ich kann einen fairen Reaktionsversuch beschreiben und Beobachtung von Deutung trennen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Ein Versuchsprotokoll enthält **Fragestellung, Vermutung, Material, Durchführung, Beobachtung und Auswertung**. Für einen fairen Vergleich wird möglichst nur eine Einflussgrösse verändert; die anderen Bedingungen bleiben gleich. Messungen werden wiederholt."
+        },
+        {
+          "t": "p",
+          "text": "Eine Beobachtung beschreibt Wahrnehmbares oder Messbares. Eine Deutung erklärt die Beobachtung mit Fachwissen. Bei Schulversuchen gehören die vorgegebene Schutzkleidung und freigegebene Stoffe zur Durchführung."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Frage: Reagiert eine gleiche Masse fein oder grob zerteilten Feststoffs schneller? Masse, Flüssigkeitsmenge und Temperatur bleiben gleich; die Teilchengrösse wird verändert."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Aus einer einzigen Beobachtung ohne Kontrollbedingungen folgt noch keine sichere allgemeine Regel."
+        }
+      ]
+    },
+    {
+      "id": "lernspick",
+      "titel": "Lernspick: alle Lernziele mit Kurzantwort",
+      "lernziele": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "intro": "Eigene Lernziele: mit den schulischen Vorgaben abgleichen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "1. Neue Stoffe erkennen",
+          "text": "Bei einer **chemischen Reaktion entstehen neue Stoffe** mit neuen Eigenschaften. Beim Schmelzen, Verdampfen oder Zerkleinern bleibt die Stoffart erhalten. Gasbildung, Farbänderung oder Wärme können Hinweise auf eine Reaktion sein, sind allein aber kein Beweis."
+        },
+        {
+          "t": "merke",
+          "titel": "2. Edukte und Produkte",
+          "text": "**Edukte** sind Ausgangsstoffe, **Produkte** die entstandenen Stoffe. Der Reaktionspfeil bedeutet „reagieren zu“. In einer Formelgleichung werden **Koeffizienten vor die Formeln** gesetzt, damit von jeder Atomsorte links und rechts gleich viele Atome vorkommen."
+        },
+        {
+          "t": "merke",
+          "titel": "3. Atome und Masse bleiben erhalten",
+          "text": "Bei gewöhnlichen chemischen Reaktionen werden Atome **neu angeordnet**, nicht erzeugt oder vernichtet. In einem **geschlossenen System** bleibt deshalb die Gesamtmasse gleich: Masse der Edukte = Masse der Produkte."
+        },
+        {
+          "t": "merke",
+          "titel": "4. Verbrennung und Oxidation",
+          "text": "Eine **Verbrennung** ist eine rasch ablaufende Reaktion mit einem Oxidationsmittel, im Alltag meist **Sauerstoff**, bei der Energie frei wird. Für ein Feuer braucht es einen Brennstoff, ausreichend Sauerstoff und genügend hohe Temperatur."
+        },
+        {
+          "t": "merke",
+          "titel": "5. Energie bei Reaktionen",
+          "text": "**Exotherm:** Eine Reaktion gibt insgesamt Energie an die Umgebung ab. **Endotherm:** Sie nimmt insgesamt Energie aus der Umgebung auf. Energie wird umgewandelt; sie entsteht nicht aus dem Nichts."
+        },
+        {
+          "t": "merke",
+          "titel": "6. Aktivierungsenergie und Katalysator",
+          "text": "**Aktivierungsenergie** ist die Energiebarriere zum Start einer Reaktion. Ein **Katalysator** ermöglicht einen Reaktionsweg mit geringerer Aktivierungsenergie. Er kann die Reaktion beschleunigen und wird im Gesamtprozess nicht verbraucht."
+        },
+        {
+          "t": "merke",
+          "titel": "7. Saure und basische Lösungen",
+          "text": "Für gewöhnliche verdünnte wässrige Lösungen bei Raumtemperatur gilt: **pH < 7 sauer**, **pH = 7 neutral**, **pH > 7 basisch**. Ein Indikator zeigt je nach pH-Wert unterschiedliche Farben. Die Farbe muss mit der passenden Farbskala verglichen werden."
+        },
+        {
+          "t": "merke",
+          "titel": "8. Versuche planen und auswerten",
+          "text": "Ein Versuchsprotokoll enthält **Fragestellung, Vermutung, Material, Durchführung, Beobachtung und Auswertung**. Für einen fairen Vergleich wird möglichst nur eine Einflussgrösse verändert; die anderen Bedingungen bleiben gleich. Messungen werden wiederholt."
+        }
+      ]
+    }
+  ],
+  "karten": [
+    {
+      "vorne": "Edukte",
+      "hinten": "Ausgangsstoffe"
+    },
+    {
+      "vorne": "Produkte",
+      "hinten": "entstandene Stoffe"
+    },
+    {
+      "vorne": "Reaktionspfeil",
+      "hinten": "reagieren zu"
+    },
+    {
+      "vorne": "Koeffizient",
+      "hinten": "Zahl vor der chemischen Formel"
+    },
+    {
+      "vorne": "Massenerhaltung",
+      "hinten": "Gesamtmasse bleibt in einem geschlossenen System gleich"
+    },
+    {
+      "vorne": "Exotherm",
+      "hinten": "gibt insgesamt Energie ab"
+    },
+    {
+      "vorne": "Endotherm",
+      "hinten": "nimmt insgesamt Energie auf"
+    },
+    {
+      "vorne": "Aktivierungsenergie",
+      "hinten": "Energiebarriere zum Reaktionsstart"
+    },
+    {
+      "vorne": "Katalysator",
+      "hinten": "senkt die Aktivierungsenergie"
+    },
+    {
+      "vorne": "Verbrennung",
+      "hinten": "rasche Reaktion, im Alltag meist mit Sauerstoff"
+    },
+    {
+      "vorne": "Indikator",
+      "hinten": "zeigt durch Farbe eine Eigenschaft wie den pH-Bereich"
+    },
+    {
+      "vorne": "Beobachtung",
+      "hinten": "messbare oder wahrnehmbare Beschreibung"
+    }
+  ],
+  "uebungen": [
+    {
+      "typ": "mc",
+      "frage": "Welcher Vorgang ist chemisch?",
+      "optionen": [
+        "Eisen rostet",
+        "Eis schmilzt",
+        "Glas zerbricht"
+      ],
+      "richtig": 0,
+      "id": "u1-1",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Bei einer **chemischen Reaktion entstehen neue Stoffe** mit neuen Eigenschaften. Beim Schmelzen, Verdampfen oder Zerkleinern bleibt die Stoffart erhalten. Gasbildung, Farbänderung oder Wärme können Hinweise auf eine Reaktion sein, sind allein aber kein Beweis."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne den Vorgang zu.",
+      "paare": [
+        [
+          "Wasser verdampft",
+          "physikalisch"
+        ],
+        [
+          "Holz verbrennt",
+          "chemisch"
+        ],
+        [
+          "Papier wird zerrissen",
+          "physikalisch"
+        ]
+      ],
+      "id": "u1-2",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Bei einer **chemischen Reaktion entstehen neue Stoffe** mit neuen Eigenschaften. Beim Schmelzen, Verdampfen oder Zerkleinern bleibt die Stoffart erhalten. Gasbildung, Farbänderung oder Wärme können Hinweise auf eine Reaktion sein, sind allein aber kein Beweis."
+    },
+    {
+      "id": "u1-3",
+      "typ": "offen",
+      "lernziel": "1",
+      "frage": "Vergleiche das Schmelzen und das Verbrennen einer Kerze.",
+      "musterloesung": "Wachs schmelzen: Stoff bleibt Wachs. Wachs verbrennen: neue Stoffe, unter anderem CO₂ und Wasser, entstehen.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "Bei einer **chemischen Reaktion entstehen neue Stoffe** mit neuen Eigenschaften. Beim Schmelzen, Verdampfen oder Zerkleinern bleibt die Stoffart erhalten. Gasbildung, Farbänderung oder Wärme können Hinweise auf eine Reaktion sein, sind allein aber kein Beweis."
+    },
+    {
+      "typ": "mc",
+      "frage": "Was darfst du zum Ausgleichen verändern?",
+      "optionen": [
+        "Koeffizienten vor den Formeln",
+        "Tiefgestellte Zahlen in den Formeln",
+        "Elementsymbole"
+      ],
+      "richtig": 0,
+      "id": "u2-1",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "**Edukte** sind Ausgangsstoffe, **Produkte** die entstandenen Stoffe. Der Reaktionspfeil bedeutet „reagieren zu“. In einer Formelgleichung werden **Koeffizienten vor die Formeln** gesetzt, damit von jeder Atomsorte links und rechts gleich viele Atome vorkommen."
+    },
+    {
+      "typ": "luecke",
+      "frage": "Gleiche die Gleichung aus.",
+      "text": "{{0}} H₂ + {{1}} O₂ → {{2}} H₂O",
+      "luecken": [
+        [
+          "2"
+        ],
+        [
+          "1"
+        ],
+        [
+          "2"
+        ]
+      ],
+      "id": "u2-2",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "**Edukte** sind Ausgangsstoffe, **Produkte** die entstandenen Stoffe. Der Reaktionspfeil bedeutet „reagieren zu“. In einer Formelgleichung werden **Koeffizienten vor die Formeln** gesetzt, damit von jeder Atomsorte links und rechts gleich viele Atome vorkommen."
+    },
+    {
+      "id": "u2-3",
+      "typ": "offen",
+      "lernziel": "2",
+      "frage": "Schreibe zur Bildung von Magnesiumoxid die Wortgleichung und gleiche  Mg + O₂ → MgO aus.",
+      "musterloesung": "Magnesium + Sauerstoff → Magnesiumoxid; 2 Mg + O₂ → 2 MgO.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "**Edukte** sind Ausgangsstoffe, **Produkte** die entstandenen Stoffe. Der Reaktionspfeil bedeutet „reagieren zu“. In einer Formelgleichung werden **Koeffizienten vor die Formeln** gesetzt, damit von jeder Atomsorte links und rechts gleich viele Atome vorkommen."
+    },
+    {
+      "typ": "mc",
+      "frage": "Warum bleibt in einer geschlossenen Reaktionsapparatur die Gesamtmasse gleich?",
+      "optionen": [
+        "Die Atome bleiben erhalten.",
+        "Alle Stoffe sind unverändert.",
+        "Produkte haben grundsätzlich keine Masse."
+      ],
+      "richtig": 0,
+      "id": "u3-1",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Bei gewöhnlichen chemischen Reaktionen werden Atome **neu angeordnet**, nicht erzeugt oder vernichtet. In einem **geschlossenen System** bleibt deshalb die Gesamtmasse gleich: Masse der Edukte = Masse der Produkte."
+    },
+    {
+      "typ": "zahl",
+      "frage": "5 g Stoff A reagieren vollständig mit 8 g Stoff B zu nur einem Produkt. Welche Produktmasse entsteht?",
+      "antwort": 13,
+      "einheit": "g",
+      "toleranz": 0.01,
+      "id": "u3-2",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Bei gewöhnlichen chemischen Reaktionen werden Atome **neu angeordnet**, nicht erzeugt oder vernichtet. In einem **geschlossenen System** bleibt deshalb die Gesamtmasse gleich: Masse der Edukte = Masse der Produkte."
+    },
+    {
+      "id": "u3-3",
+      "typ": "offen",
+      "lernziel": "3",
+      "frage": "Nach einer Gas entwickelnden Reaktion ist ein offenes Becherglas leichter. Erkläre.",
+      "musterloesung": "Gas ist aus dem gewogenen System entwichen. Einschliesslich des Gases bleibt die Gesamtmasse erhalten.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "Bei gewöhnlichen chemischen Reaktionen werden Atome **neu angeordnet**, nicht erzeugt oder vernichtet. In einem **geschlossenen System** bleibt deshalb die Gesamtmasse gleich: Masse der Edukte = Masse der Produkte."
+    },
+    {
+      "typ": "mc",
+      "frage": "Was fehlt im Satz: Brennstoff + Sauerstoff + ... ermöglichen Feuer?",
+      "optionen": [
+        "ausreichend hohe Temperatur",
+        "Salz",
+        "Wasser"
+      ],
+      "richtig": 0,
+      "id": "u4-1",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Eine **Verbrennung** ist eine rasch ablaufende Reaktion mit einem Oxidationsmittel, im Alltag meist **Sauerstoff**, bei der Energie frei wird. Für ein Feuer braucht es einen Brennstoff, ausreichend Sauerstoff und genügend hohe Temperatur."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne das Löschprinzip zu.",
+      "paare": [
+        [
+          "Kühlen",
+          "Temperatur senken"
+        ],
+        [
+          "Ersticken",
+          "Sauerstoffzufuhr unterbrechen"
+        ],
+        [
+          "Brennstoff entfernen",
+          "brennbares Material entziehen"
+        ]
+      ],
+      "id": "u4-2",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Eine **Verbrennung** ist eine rasch ablaufende Reaktion mit einem Oxidationsmittel, im Alltag meist **Sauerstoff**, bei der Energie frei wird. Für ein Feuer braucht es einen Brennstoff, ausreichend Sauerstoff und genügend hohe Temperatur."
+    },
+    {
+      "id": "u4-3",
+      "typ": "offen",
+      "lernziel": "4",
+      "frage": "Erkläre am Feuerdreieck, warum eine Kerze unter einem begrenzten Luftvorrat erlischt.",
+      "musterloesung": "Wenn nicht mehr genügend Sauerstoff für die Verbrennung vorhanden ist, läuft sie nicht weiter. Es braucht Brennstoff, Sauerstoff und ausreichende Temperatur.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "Eine **Verbrennung** ist eine rasch ablaufende Reaktion mit einem Oxidationsmittel, im Alltag meist **Sauerstoff**, bei der Energie frei wird. Für ein Feuer braucht es einen Brennstoff, ausreichend Sauerstoff und genügend hohe Temperatur."
+    },
+    {
+      "typ": "mc",
+      "frage": "Eine Reaktion gibt insgesamt Wärme an die Umgebung ab. Sie ist ...",
+      "optionen": [
+        "exotherm",
+        "endotherm",
+        "keine Reaktion"
+      ],
+      "richtig": 0,
+      "id": "u5-1",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "**Exotherm:** Eine Reaktion gibt insgesamt Energie an die Umgebung ab. **Endotherm:** Sie nimmt insgesamt Energie aus der Umgebung auf. Energie wird umgewandelt; sie entsteht nicht aus dem Nichts."
+    },
+    {
+      "typ": "luecke",
+      "frage": "Ergänze die Energie-Richtung.",
+      "text": "Exotherm: Energie wird {{0}}. Endotherm: Energie wird {{1}}.",
+      "luecken": [
+        [
+          "abgegeben",
+          "frei"
+        ],
+        [
+          "aufgenommen",
+          "zugeführt"
+        ]
+      ],
+      "id": "u5-2",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "**Exotherm:** Eine Reaktion gibt insgesamt Energie an die Umgebung ab. **Endotherm:** Sie nimmt insgesamt Energie aus der Umgebung auf. Energie wird umgewandelt; sie entsteht nicht aus dem Nichts."
+    },
+    {
+      "id": "u5-3",
+      "typ": "offen",
+      "lernziel": "5",
+      "frage": "Zeichne für eine exotherme Reaktion das Energieniveau von Edukten und Produkten. Markiere die abgegebene Energie.",
+      "musterloesung": "Edukte liegen höher, Produkte tiefer; Energiedifferenz zeigt die an die Umgebung abgegebene Energie.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": true,
+      "zeilen": 4,
+      "hilfe": "**Exotherm:** Eine Reaktion gibt insgesamt Energie an die Umgebung ab. **Endotherm:** Sie nimmt insgesamt Energie aus der Umgebung auf. Energie wird umgewandelt; sie entsteht nicht aus dem Nichts."
+    },
+    {
+      "typ": "mc",
+      "frage": "Was verändert ein Katalysator direkt?",
+      "optionen": [
+        "Die Aktivierungsenergie",
+        "Die Gesamtzahl der Atome",
+        "Die Reaktionsenergie zwischen Edukten und Produkten"
+      ],
+      "richtig": 0,
+      "id": "u6-1",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "**Aktivierungsenergie** ist die Energiebarriere zum Start einer Reaktion. Ein **Katalysator** ermöglicht einen Reaktionsweg mit geringerer Aktivierungsenergie. Er kann die Reaktion beschleunigen und wird im Gesamtprozess nicht verbraucht."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne zu.",
+      "paare": [
+        [
+          "Aktivierungsenergie",
+          "Startbarriere"
+        ],
+        [
+          "Katalysator",
+          "senkt die Startbarriere"
+        ],
+        [
+          "Enzym",
+          "biologischer Katalysator"
+        ]
+      ],
+      "id": "u6-2",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "**Aktivierungsenergie** ist die Energiebarriere zum Start einer Reaktion. Ein **Katalysator** ermöglicht einen Reaktionsweg mit geringerer Aktivierungsenergie. Er kann die Reaktion beschleunigen und wird im Gesamtprozess nicht verbraucht."
+    },
+    {
+      "id": "u6-3",
+      "typ": "offen",
+      "lernziel": "6",
+      "frage": "Beschreibe zwei Energiekurven derselben Reaktion mit und ohne Katalysator.",
+      "musterloesung": "Gleiche Anfangs- und Endniveaus; die Kurve mit Katalysator hat eine niedrigere Barriere.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "**Aktivierungsenergie** ist die Energiebarriere zum Start einer Reaktion. Ein **Katalysator** ermöglicht einen Reaktionsweg mit geringerer Aktivierungsenergie. Er kann die Reaktion beschleunigen und wird im Gesamtprozess nicht verbraucht."
+    },
+    {
+      "typ": "mc",
+      "frage": "Eine wässrige Lösung mit pH 10 ist ...",
+      "optionen": [
+        "sauer",
+        "neutral",
+        "basisch"
+      ],
+      "richtig": 2,
+      "id": "u7-1",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Für gewöhnliche verdünnte wässrige Lösungen bei Raumtemperatur gilt: **pH < 7 sauer**, **pH = 7 neutral**, **pH > 7 basisch**. Ein Indikator zeigt je nach pH-Wert unterschiedliche Farben. Die Farbe muss mit der passenden Farbskala verglichen werden."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne die pH-Werte ein.",
+      "paare": [
+        [
+          "pH 3",
+          "sauer"
+        ],
+        [
+          "pH 7",
+          "neutral"
+        ],
+        [
+          "pH 11",
+          "basisch"
+        ]
+      ],
+      "id": "u7-2",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Für gewöhnliche verdünnte wässrige Lösungen bei Raumtemperatur gilt: **pH < 7 sauer**, **pH = 7 neutral**, **pH > 7 basisch**. Ein Indikator zeigt je nach pH-Wert unterschiedliche Farben. Die Farbe muss mit der passenden Farbskala verglichen werden."
+    },
+    {
+      "id": "u7-3",
+      "typ": "offen",
+      "lernziel": "7",
+      "frage": "Ordne pH 2, 7 und 9 ein. Erkläre, was du für eine Indikatorfarbe zusätzlich brauchst.",
+      "musterloesung": "2 sauer; 7 neutral; 9 basisch. Benötigt wird die zum Indikator gehörende Farbskala.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "Für gewöhnliche verdünnte wässrige Lösungen bei Raumtemperatur gilt: **pH < 7 sauer**, **pH = 7 neutral**, **pH > 7 basisch**. Ein Indikator zeigt je nach pH-Wert unterschiedliche Farben. Die Farbe muss mit der passenden Farbskala verglichen werden."
+    },
+    {
+      "typ": "mc",
+      "frage": "Was darf bei einem fairen Vergleich möglichst verändert werden?",
+      "optionen": [
+        "Nur die untersuchte Einflussgrösse",
+        "Alle Bedingungen gleichzeitig",
+        "Gar nichts, auch nicht die untersuchte Grösse"
+      ],
+      "richtig": 0,
+      "id": "u8-1",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Ein Versuchsprotokoll enthält **Fragestellung, Vermutung, Material, Durchführung, Beobachtung und Auswertung**. Für einen fairen Vergleich wird möglichst nur eine Einflussgrösse verändert; die anderen Bedingungen bleiben gleich. Messungen werden wiederholt."
+    },
+    {
+      "typ": "reihenfolge",
+      "frage": "Ordne den Ablauf.",
+      "items": [
+        "Fragestellung formulieren",
+        "Vermutung aufstellen",
+        "Versuch durchführen",
+        "Beobachtungen festhalten",
+        "Auswerten"
+      ],
+      "id": "u8-2",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Ein Versuchsprotokoll enthält **Fragestellung, Vermutung, Material, Durchführung, Beobachtung und Auswertung**. Für einen fairen Vergleich wird möglichst nur eine Einflussgrösse verändert; die anderen Bedingungen bleiben gleich. Messungen werden wiederholt."
+    },
+    {
+      "id": "u8-3",
+      "typ": "offen",
+      "lernziel": "8",
+      "frage": "Plane einen Vergleich der Reaktionsdauer bei zwei Temperaturen. Nenne veränderte und gleichbleibende Grössen.",
+      "musterloesung": "Verändert: Temperatur. Gleich: beteiligte Stoffe, Mengen, Konzentration und Zerteilungsgrad. Gleichen Endpunkt messen und wiederholen.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "Ein Versuchsprotokoll enthält **Fragestellung, Vermutung, Material, Durchführung, Beobachtung und Auswertung**. Für einen fairen Vergleich wird möglichst nur eine Einflussgrösse verändert; die anderen Bedingungen bleiben gleich. Messungen werden wiederholt."
+    }
+  ],
+  "pruefungen": [
+    {
+      "id": "test-32",
+      "titel": "Chemische Reaktionen - Testprüfung",
+      "richtzeit": 45,
+      "hinweis": "32 Punkte. Grundlagenprüfung zu selbst formulierten Lernzielen; noch kein Abgleich mit den Prüfungszielen der Schule. Zeichnungen auf Papier. Offene Aufgaben anhand der Kriterien selbst bewerten.",
+      "aufgaben": [
+        {
+          "id": "p1",
+          "nr": "1",
+          "typ": "offen",
+          "lernziel": "1",
+          "titel": "Neue Stoffe erkennen",
+          "frage": "Entscheide und begründe: a) Eis schmilzt, b) Eisen rostet. Nenne das entscheidende Merkmal einer chemischen Reaktion.",
+          "punkte": 4,
+          "musterloesung": "Schmelzen ist physikalisch\nBeim Schmelzen bleibt die Stoffart Wasser erhalten\nRosten ist chemisch\nBeim Rosten entstehen neue Stoffe",
+          "kriterien": [
+            {
+              "text": "Schmelzen ist physikalisch",
+              "punkte": 1
+            },
+            {
+              "text": "Beim Schmelzen bleibt die Stoffart Wasser erhalten",
+              "punkte": 1
+            },
+            {
+              "text": "Rosten ist chemisch",
+              "punkte": 1
+            },
+            {
+              "text": "Beim Rosten entstehen neue Stoffe",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p2",
+          "nr": "2",
+          "typ": "offen",
+          "lernziel": "2",
+          "titel": "Edukte und Produkte",
+          "frage": "Schreibe die Wortgleichung für die Wasserbildung. Gleiche H₂ + O₂ → H₂O aus und kontrolliere die Atome.",
+          "punkte": 4,
+          "musterloesung": "Wasserstoff + Sauerstoff → Wasser\n2 H₂ + O₂ → 2 H₂O\nLinks und rechts je 4 H-Atome\nLinks und rechts je 2 O-Atome",
+          "kriterien": [
+            {
+              "text": "Wasserstoff + Sauerstoff → Wasser",
+              "punkte": 1
+            },
+            {
+              "text": "2 H₂ + O₂ → 2 H₂O",
+              "punkte": 1
+            },
+            {
+              "text": "Links und rechts je 4 H-Atome",
+              "punkte": 1
+            },
+            {
+              "text": "Links und rechts je 2 O-Atome",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p3",
+          "nr": "3",
+          "typ": "offen",
+          "lernziel": "3",
+          "titel": "Atome und Masse bleiben erhalten",
+          "frage": "7 g eines Stoffes reagieren in einem geschlossenen System mit 4 g eines zweiten Stoffes zu einem Produkt. Berechne dessen Masse und erkläre einen scheinbaren Masseverlust im offenen Gefäss.",
+          "punkte": 4,
+          "musterloesung": "Produktmasse 11 g\nGesamtmasse bleibt im geschlossenen System erhalten\nAtome werden neu angeordnet, nicht vernichtet\nIm offenen Gefäss kann ein gasförmiges Produkt entweichen",
+          "kriterien": [
+            {
+              "text": "Produktmasse 11 g",
+              "punkte": 1
+            },
+            {
+              "text": "Gesamtmasse bleibt im geschlossenen System erhalten",
+              "punkte": 1
+            },
+            {
+              "text": "Atome werden neu angeordnet, nicht vernichtet",
+              "punkte": 1
+            },
+            {
+              "text": "Im offenen Gefäss kann ein gasförmiges Produkt entweichen",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p4",
+          "nr": "4",
+          "typ": "offen",
+          "lernziel": "4",
+          "titel": "Verbrennung und Oxidation",
+          "frage": "Nenne die drei Bedingungen des Feuerdreiecks und erkläre ein daraus abgeleitetes Löschprinzip.",
+          "punkte": 4,
+          "musterloesung": "Brennstoff\nGenügend Sauerstoff\nAusreichend hohe Temperatur\nPassendes Löschprinzip erklärt, z. B. Kühlen senkt die Temperatur",
+          "kriterien": [
+            {
+              "text": "Brennstoff",
+              "punkte": 1
+            },
+            {
+              "text": "Genügend Sauerstoff",
+              "punkte": 1
+            },
+            {
+              "text": "Ausreichend hohe Temperatur",
+              "punkte": 1
+            },
+            {
+              "text": "Passendes Löschprinzip erklärt, z. B. Kühlen senkt die Temperatur",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p5",
+          "nr": "5",
+          "typ": "offen",
+          "lernziel": "5",
+          "titel": "Energie bei Reaktionen",
+          "frage": "Vergleiche exotherme und endotherme Reaktionen hinsichtlich Energieaustausch und Energieniveau der Produkte.",
+          "punkte": 4,
+          "musterloesung": "Exotherm gibt insgesamt Energie ab\nExotherme Produkte liegen energetisch tiefer\nEndotherm nimmt insgesamt Energie auf\nEndotherme Produkte liegen energetisch höher",
+          "kriterien": [
+            {
+              "text": "Exotherm gibt insgesamt Energie ab",
+              "punkte": 1
+            },
+            {
+              "text": "Exotherme Produkte liegen energetisch tiefer",
+              "punkte": 1
+            },
+            {
+              "text": "Endotherm nimmt insgesamt Energie auf",
+              "punkte": 1
+            },
+            {
+              "text": "Endotherme Produkte liegen energetisch höher",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p6",
+          "nr": "6",
+          "typ": "offen",
+          "lernziel": "6",
+          "titel": "Aktivierungsenergie und Katalysator",
+          "frage": "Erkläre Aktivierungsenergie und nenne drei Merkmale eines Katalysators.",
+          "punkte": 4,
+          "musterloesung": "Aktivierungsenergie = Energiebarriere zum Reaktionsstart\nKatalysator senkt die Aktivierungsenergie\nWird im Gesamtprozess nicht verbraucht\nVerändert die gesamte Reaktionsenergie nicht",
+          "kriterien": [
+            {
+              "text": "Aktivierungsenergie = Energiebarriere zum Reaktionsstart",
+              "punkte": 1
+            },
+            {
+              "text": "Katalysator senkt die Aktivierungsenergie",
+              "punkte": 1
+            },
+            {
+              "text": "Wird im Gesamtprozess nicht verbraucht",
+              "punkte": 1
+            },
+            {
+              "text": "Verändert die gesamte Reaktionsenergie nicht",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p7",
+          "nr": "7",
+          "typ": "offen",
+          "lernziel": "7",
+          "titel": "Saure und basische Lösungen",
+          "frage": "Ordne pH 2, 7 und 10 ein. Beschreibe, wie ein Indikator zur Bestimmung genutzt wird.",
+          "punkte": 4,
+          "musterloesung": "pH 2 sauer\npH 7 neutral\npH 10 basisch\nIndikatorfarbe mit zugehöriger Farbskala vergleichen",
+          "kriterien": [
+            {
+              "text": "pH 2 sauer",
+              "punkte": 1
+            },
+            {
+              "text": "pH 7 neutral",
+              "punkte": 1
+            },
+            {
+              "text": "pH 10 basisch",
+              "punkte": 1
+            },
+            {
+              "text": "Indikatorfarbe mit zugehöriger Farbskala vergleichen",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p8",
+          "nr": "8",
+          "typ": "offen",
+          "lernziel": "8",
+          "titel": "Versuche planen und auswerten",
+          "frage": "Vergleiche die Reaktionsdauer bei zwei Temperaturen. Nenne die veränderte Grösse, zwei konstant zu haltende Grössen und die Messgrösse.",
+          "punkte": 4,
+          "musterloesung": "Temperatur wird verändert\nGleiche Stoffmengen\nGleiche Konzentration oder gleicher Zerteilungsgrad\nReaktionsdauer bis zu einem festgelegten Endpunkt wird gemessen",
+          "kriterien": [
+            {
+              "text": "Temperatur wird verändert",
+              "punkte": 1
+            },
+            {
+              "text": "Gleiche Stoffmengen",
+              "punkte": 1
+            },
+            {
+              "text": "Gleiche Konzentration oder gleicher Zerteilungsgrad",
+              "punkte": 1
+            },
+            {
+              "text": "Reaktionsdauer bis zu einem festgelegten Endpunkt wird gemessen",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1115 @@
+{
+  "lernzielBasis": "selbst-formuliert",
+  "hinweis": "Eigenständig formulierte Lernziele und Inhalte zur Themenübersicht von Prisma 2. Die Lernziele der Schule sind noch nicht abgeglichen.",
+  "quellen": [
+    {
+      "titel": "Ernährung und Verdauung - Lerndossier",
+      "art": "Eigene Erklärungen, Übungsblätter, Testprüfung und Lösungen",
+      "seiten": 12,
+      "datei": "material/klasse-8/prisma/ernaehrung-verdauung/Prisma2_ernaehrung-verdauung_Lerndossier.pdf"
+    }
+  ],
+  "referenzen": [
+    {
+      "titel": "Prisma: öffentliche Themenübersicht",
+      "url": "https://downloads.klett.ch/uploads/images/textbooks/Dateien/Klett_Prisma-Prospekt_201119_3_final.pdf?v=1616765520"
+    },
+    {
+      "titel": "Fachliche Referenz",
+      "url": "https://www.gesundheitsinformation.de/wie-funktioniert-der-darm.html"
+    },
+    {
+      "titel": "Fachliche Referenz",
+      "url": "https://www.gesundheit.gv.at/krankheiten/verdauung/info/magen-darm.html"
+    },
+    {
+      "titel": "Fachliche Referenz",
+      "url": "https://www.bzfe.de/essen-und-gesundheit/naehrstoffe/ballaststoffe"
+    }
+  ],
+  "lernziele": [
+    {
+      "id": "1",
+      "nr": "1",
+      "gruppe": "Grundlagen",
+      "kurz": "Nährstoffe und Aufgaben",
+      "text": "Ich kann Kohlenhydrate, Fette, Proteine sowie weitere Nahrungsbestandteile nach ihren Aufgaben unterscheiden.",
+      "frage": "Wie kannst du Kohlenhydrate, Fette, Proteine sowie weitere Nahrungsbestandteile nach ihren Aufgaben unterscheiden?",
+      "antwort": "**Kohlenhydrate** liefern vor allem Energie. **Fette** liefern und speichern Energie und sind unter anderem Bestandteil von Zellmembranen. **Proteine** sind wichtige Baustoffe und bilden unter anderem Enzyme. Wasser, Vitamine und Mineralstoffe erfüllen weitere lebenswichtige Aufgaben."
+    },
+    {
+      "id": "2",
+      "nr": "2",
+      "gruppe": "Grundlagen",
+      "kurz": "Enzyme und Zerlegung",
+      "text": "Ich kann erklären, warum Nahrung verdaut werden muss und wie Enzyme wirken.",
+      "frage": "Wie kannst du erklären, warum Nahrung verdaut werden muss und wie Enzyme wirken?",
+      "antwort": "Viele Nährstoffe sind zu gross, um durch die Darmwand aufgenommen zu werden. **Verdauungsenzyme** zerlegen sie in kleinere Bausteine. Enzyme sind biologische Katalysatoren: Sie beschleunigen passende Reaktionen und werden im Gesamtprozess nicht verbraucht."
+    },
+    {
+      "id": "3",
+      "nr": "3",
+      "gruppe": "Grundlagen",
+      "kurz": "Weg der Nahrung",
+      "text": "Ich kann die Organe des Verdauungskanals in Reihenfolge beschriften.",
+      "frage": "Wie kannst du die Organe des Verdauungskanals in Reihenfolge beschriften?",
+      "antwort": "Die Nahrung durchläuft **Mund → Rachen → Speiseröhre → Magen → Dünndarm → Dickdarm → Mastdarm → After**. Leber, Gallenblase und Bauchspeicheldrüse geben Stoffe für die Verdauung ab; der Nahrungsbrei durchläuft diese Organe nicht."
+    },
+    {
+      "id": "4",
+      "nr": "4",
+      "gruppe": "Anwenden und verstehen",
+      "kurz": "Mund und Magen",
+      "text": "Ich kann mechanische und chemische Verdauung in Mund und Magen erklären.",
+      "frage": "Wie kannst du mechanische und chemische Verdauung in Mund und Magen erklären?",
+      "antwort": "**Zähne** zerkleinern die Nahrung mechanisch. Speichel befeuchtet sie und enthält Amylase, die den Stärkeabbau beginnt. Im **Magen** wird der Brei durchmischt; Magensäure schafft ein saures Milieu. Dort beginnt auch der enzymatische Abbau von Proteinen."
+    },
+    {
+      "id": "5",
+      "nr": "5",
+      "gruppe": "Anwenden und verstehen",
+      "kurz": "Leber, Galle und Bauchspeicheldrüse",
+      "text": "Ich kann die Rolle der unterstützenden Verdauungsorgane erklären.",
+      "frage": "Wie kannst du die Rolle der unterstützenden Verdauungsorgane erklären?",
+      "antwort": "Die **Leber bildet Galle**; die **Gallenblase speichert und konzentriert** sie. Galle verteilt grosse Fettmengen in kleine Tröpfchen (**Emulgierung**). Die **Bauchspeicheldrüse** liefert Verdauungsenzyme und eine basische Flüssigkeit in den Dünndarm."
+    },
+    {
+      "id": "6",
+      "nr": "6",
+      "gruppe": "Anwenden und verstehen",
+      "kurz": "Dünndarm und Stoffaufnahme",
+      "text": "Ich kann die Oberflächenvergrösserung des Dünndarms und die Aufnahme von Nährstoffen erklären.",
+      "frage": "Wie kannst du die Oberflächenvergrösserung des Dünndarms und die Aufnahme von Nährstoffen erklären?",
+      "antwort": "Im **Dünndarm** werden viele Nährstoffe fertig zerlegt und ihre Bausteine aufgenommen. Falten, **Zotten** und Mikrovilli vergrössern die Oberfläche. Glukose und Aminosäuren gelangen vor allem ins Blut. Ein grosser Teil der aufgenommenen Nahrungsfette wird zunächst über die Lymphe transportiert."
+    },
+    {
+      "id": "7",
+      "nr": "7",
+      "gruppe": "Zusammenhänge und Kontrolle",
+      "kurz": "Dickdarm und Ausscheidung",
+      "text": "Ich kann die Aufgaben von Dickdarm, Mastdarm und Darmmikroorganismen nennen.",
+      "frage": "Wie kannst du die Aufgaben von Dickdarm, Mastdarm und Darmmikroorganismen nennen?",
+      "antwort": "Im **Dickdarm** werden aus dem Restbrei unter anderem Wasser und Salze aufgenommen. Darmmikroorganismen können bestimmte Ballaststoffe abbauen. Der Stuhl wird eingedickt, im **Mastdarm** gesammelt und über den **After** abgegeben."
+    },
+    {
+      "id": "8",
+      "nr": "8",
+      "gruppe": "Zusammenhänge und Kontrolle",
+      "kurz": "Energie und ausgewogene Auswahl",
+      "text": "Ich kann Energieangaben auf Lebensmitteln berechnen und eine abwechslungsreiche Auswahl begründen.",
+      "frage": "Wie kannst du Energieangaben auf Lebensmitteln berechnen und eine abwechslungsreiche Auswahl begründen?",
+      "antwort": "Nahrungsenergie wird in **kJ** und **kcal** angegeben; 1 kcal entspricht etwa 4.2 kJ. Der Energiebedarf hängt unter anderem von Wachstum, Körpergrösse und Aktivität ab. Abwechslungsreiche Nahrung liefert unterschiedliche Nährstoffe, Wasser und Ballaststoffe."
+    }
+  ],
+  "lernen": [
+    {
+      "id": "lz-1",
+      "titel": "Nährstoffe und Aufgaben",
+      "lernziele": [
+        "1"
+      ],
+      "intro": "Ich kann Kohlenhydrate, Fette, Proteine sowie weitere Nahrungsbestandteile nach ihren Aufgaben unterscheiden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "**Kohlenhydrate** liefern vor allem Energie. **Fette** liefern und speichern Energie und sind unter anderem Bestandteil von Zellmembranen. **Proteine** sind wichtige Baustoffe und bilden unter anderem Enzyme. Wasser, Vitamine und Mineralstoffe erfüllen weitere lebenswichtige Aufgaben."
+        },
+        {
+          "t": "p",
+          "text": "Nahrung enthält meist mehrere Bestandteile. Ballaststoffe werden von unseren Verdauungsenzymen kaum abgebaut und unterstützen unter anderem die Darmfunktion. Vitamine und Wasser liefern selbst keine nutzbare Nahrungsenergie."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Brot liefert viel Stärke; Öl vor allem Fett; Hülsenfrüchte liefern unter anderem Proteine und Ballaststoffe. Diese Beispiele sind keine vollständigen Zusammensetzungslisten."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "„Eiweiss“ meint nicht nur das Weisse im Hühnerei. Auch pflanzliche Lebensmittel enthalten Proteine."
+        }
+      ]
+    },
+    {
+      "id": "lz-2",
+      "titel": "Enzyme und Zerlegung",
+      "lernziele": [
+        "2"
+      ],
+      "intro": "Ich kann erklären, warum Nahrung verdaut werden muss und wie Enzyme wirken.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Viele Nährstoffe sind zu gross, um durch die Darmwand aufgenommen zu werden. **Verdauungsenzyme** zerlegen sie in kleinere Bausteine. Enzyme sind biologische Katalysatoren: Sie beschleunigen passende Reaktionen und werden im Gesamtprozess nicht verbraucht."
+        },
+        {
+          "t": "p",
+          "text": "Ein Enzym passt nur zu bestimmten Ausgangsstoffen und Reaktionen. Temperatur und pH-Wert beeinflussen die Wirkung. Starke Hitze kann die räumliche Struktur verändern, sodass ein Enzym nicht mehr passend arbeitet."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Stärke wird schrittweise zu kleineren Zuckern und schliesslich Glukose zerlegt. Proteine werden zu Aminosäuren abgebaut. Fette werden unter anderem in Fettsäuren und Monoglyceride zerlegt."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Nicht jedes Enzym verdaut jeden Nährstoff. Enzyme sind keine Lebewesen und „sterben“ bei Hitze nicht, sondern können denaturieren."
+        }
+      ]
+    },
+    {
+      "id": "lz-3",
+      "titel": "Weg der Nahrung",
+      "lernziele": [
+        "3"
+      ],
+      "intro": "Ich kann die Organe des Verdauungskanals in Reihenfolge beschriften.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Die Nahrung durchläuft **Mund → Rachen → Speiseröhre → Magen → Dünndarm → Dickdarm → Mastdarm → After**. Leber, Gallenblase und Bauchspeicheldrüse geben Stoffe für die Verdauung ab; der Nahrungsbrei durchläuft diese Organe nicht."
+        },
+        {
+          "t": "bild",
+          "src": "content/img/prisma/ernaehrung-verdauung.svg",
+          "alt": "Nährstoffe, Enzyme, Verdauungsweg und Stoffaufnahme - beschriftete Lernskizze",
+          "caption": "Eigene vereinfachte Skizze; nicht massstabsgetreu."
+        },
+        {
+          "t": "p",
+          "text": "Muskelbewegungen der Verdauungsorgane, die Peristaltik, transportieren den Inhalt. Die Speiseröhre ist deshalb keine blosse Rutschbahn. Die Luftröhre gehört zum Atmungssystem, nicht zum Nahrungsweg."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Beim Schlucken gelangt der Bissen über den Rachen in die Speiseröhre. Danach erreicht er den Magen. Verdauungssäfte kommen später auch aus weiteren Organen hinzu."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Die Nahrung fliesst nicht durch die Leber. Speiseröhre und Luftröhre dürfen nicht verwechselt werden."
+        }
+      ]
+    },
+    {
+      "id": "lz-4",
+      "titel": "Mund und Magen",
+      "lernziele": [
+        "4"
+      ],
+      "intro": "Ich kann mechanische und chemische Verdauung in Mund und Magen erklären.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "**Zähne** zerkleinern die Nahrung mechanisch. Speichel befeuchtet sie und enthält Amylase, die den Stärkeabbau beginnt. Im **Magen** wird der Brei durchmischt; Magensäure schafft ein saures Milieu. Dort beginnt auch der enzymatische Abbau von Proteinen."
+        },
+        {
+          "t": "p",
+          "text": "Zerkleinern vergrössert die Oberfläche, auf der Enzyme wirken können. Die saure Umgebung erschwert vielen Mikroorganismen das Überleben. Eine schützende Schleimschicht hilft, die Magenwand vor Säure und Enzymen zu schützen."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Beim längeren Kauen von Brot können durch Stärkeabbau süss schmeckende Zucker entstehen. Der Magen ist nicht der Hauptort der Nährstoffaufnahme."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Zähne sind keine Enzyme. Magensäure und Verdauungsenzym haben unterschiedliche Aufgaben."
+        }
+      ]
+    },
+    {
+      "id": "lz-5",
+      "titel": "Leber, Galle und Bauchspeicheldrüse",
+      "lernziele": [
+        "5"
+      ],
+      "intro": "Ich kann die Rolle der unterstützenden Verdauungsorgane erklären.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Die **Leber bildet Galle**; die **Gallenblase speichert und konzentriert** sie. Galle verteilt grosse Fettmengen in kleine Tröpfchen (**Emulgierung**). Die **Bauchspeicheldrüse** liefert Verdauungsenzyme und eine basische Flüssigkeit in den Dünndarm."
+        },
+        {
+          "t": "p",
+          "text": "Kleinere Fetttröpfchen haben eine grössere Gesamtoberfläche für fettspaltende Enzyme. Die basische Flüssigkeit hilft, den sauren Mageninhalt im Dünndarm zu neutralisieren. Die Bauchspeicheldrüse bildet zusätzlich Hormone; diese Aufgabe gehört zum Stoffwechsel."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Galle wirkt ähnlich wie eine Verteilungshilfe: Die Fettmoleküle selbst werden durch das Emulgieren nicht in ihre Bausteine gespalten. Das leisten anschliessend Enzyme."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Galle ist kein Verdauungsenzym. Sie wird nicht erst in der Gallenblase hergestellt."
+        }
+      ]
+    },
+    {
+      "id": "lz-6",
+      "titel": "Dünndarm und Stoffaufnahme",
+      "lernziele": [
+        "6"
+      ],
+      "intro": "Ich kann die Oberflächenvergrösserung des Dünndarms und die Aufnahme von Nährstoffen erklären.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Im **Dünndarm** werden viele Nährstoffe fertig zerlegt und ihre Bausteine aufgenommen. Falten, **Zotten** und Mikrovilli vergrössern die Oberfläche. Glukose und Aminosäuren gelangen vor allem ins Blut. Ein grosser Teil der aufgenommenen Nahrungsfette wird zunächst über die Lymphe transportiert."
+        },
+        {
+          "t": "p",
+          "text": "Eine grosse Oberfläche ermöglicht viel Austausch auf engem Raum. Die Wand trennt Darminhalt und Körperinneres; passende Stoffe passieren sie über Aufnahmevorgänge. Grosse unzerlegte Nährstoffe können nicht einfach unverändert in grossen Mengen hindurchgehen."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Viele Falten eines Tuchs bieten auf gleichem Grundriss mehr Oberfläche. Ähnlich vergrössern Darmzotten die Austauschfläche. Blutgefässe und Lymphgefässe transportieren aufgenommene Stoffe weiter."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Zotten sind keine Zähne und dienen nicht dem mechanischen Zerkauen. Nicht alle Fettbestandteile werden zunächst direkt in Blutkapillaren transportiert."
+        }
+      ]
+    },
+    {
+      "id": "lz-7",
+      "titel": "Dickdarm und Ausscheidung",
+      "lernziele": [
+        "7"
+      ],
+      "intro": "Ich kann die Aufgaben von Dickdarm, Mastdarm und Darmmikroorganismen nennen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Im **Dickdarm** werden aus dem Restbrei unter anderem Wasser und Salze aufgenommen. Darmmikroorganismen können bestimmte Ballaststoffe abbauen. Der Stuhl wird eingedickt, im **Mastdarm** gesammelt und über den **After** abgegeben."
+        },
+        {
+          "t": "p",
+          "text": "Ein grosser Teil der Wasseraufnahme findet bereits im Dünndarm statt; der Dickdarm nimmt weitere Flüssigkeit auf. Im Stuhl sind neben unverdaulichen Resten auch Wasser, Mikroorganismen und abgestossene Zellen enthalten."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Ballaststoffe gelangen weitgehend unverdaut bis in den Dickdarm. Ein Teil wird dort von Mikroorganismen weiterverarbeitet. Nicht alles wird vollständig abgebaut."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Der Dickdarm ist nicht der Hauptort der Nährstoffaufnahme. Der Stuhl besteht auch nicht nur aus „ungenutztem Essen“."
+        }
+      ]
+    },
+    {
+      "id": "lz-8",
+      "titel": "Energie und ausgewogene Auswahl",
+      "lernziele": [
+        "8"
+      ],
+      "intro": "Ich kann Energieangaben auf Lebensmitteln berechnen und eine abwechslungsreiche Auswahl begründen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Das Wesentliche",
+          "text": "Nahrungsenergie wird in **kJ** und **kcal** angegeben; 1 kcal entspricht etwa 4.2 kJ. Der Energiebedarf hängt unter anderem von Wachstum, Körpergrösse und Aktivität ab. Abwechslungsreiche Nahrung liefert unterschiedliche Nährstoffe, Wasser und Ballaststoffe."
+        },
+        {
+          "t": "p",
+          "text": "Eine einzelne Zahl beschreibt nicht die gesamte Qualität eines Lebensmittels. Für eine Berechnung braucht man die angegebene Bezugsmenge, zum Beispiel pro 100 g. Die Schulaufgaben dienen dem Rechnen und sind keine persönlichen Ernährungsvorgaben."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Beispiel",
+          "zeilen": [
+            "Ein Lebensmittel liefert 800 kJ pro 100 g. Für 50 g: 800 × 50/100 = 400 kJ. Gemüse, Vollkornprodukte, verschiedene Proteinquellen und Wasser können zu einer abwechslungsreichen Auswahl beitragen."
+          ]
+        },
+        {
+          "t": "achtung",
+          "titel": "Häufiger Fehler",
+          "text": "Energiegehalt ist nicht gleich Vitamin- oder Mineralstoffgehalt. Nicht alle Menschen brauchen dieselbe Energiemenge."
+        }
+      ]
+    },
+    {
+      "id": "lernspick",
+      "titel": "Lernspick: alle Lernziele mit Kurzantwort",
+      "lernziele": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "intro": "Eigene Lernziele: mit den schulischen Vorgaben abgleichen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "1. Nährstoffe und Aufgaben",
+          "text": "**Kohlenhydrate** liefern vor allem Energie. **Fette** liefern und speichern Energie und sind unter anderem Bestandteil von Zellmembranen. **Proteine** sind wichtige Baustoffe und bilden unter anderem Enzyme. Wasser, Vitamine und Mineralstoffe erfüllen weitere lebenswichtige Aufgaben."
+        },
+        {
+          "t": "merke",
+          "titel": "2. Enzyme und Zerlegung",
+          "text": "Viele Nährstoffe sind zu gross, um durch die Darmwand aufgenommen zu werden. **Verdauungsenzyme** zerlegen sie in kleinere Bausteine. Enzyme sind biologische Katalysatoren: Sie beschleunigen passende Reaktionen und werden im Gesamtprozess nicht verbraucht."
+        },
+        {
+          "t": "merke",
+          "titel": "3. Weg der Nahrung",
+          "text": "Die Nahrung durchläuft **Mund → Rachen → Speiseröhre → Magen → Dünndarm → Dickdarm → Mastdarm → After**. Leber, Gallenblase und Bauchspeicheldrüse geben Stoffe für die Verdauung ab; der Nahrungsbrei durchläuft diese Organe nicht."
+        },
+        {
+          "t": "merke",
+          "titel": "4. Mund und Magen",
+          "text": "**Zähne** zerkleinern die Nahrung mechanisch. Speichel befeuchtet sie und enthält Amylase, die den Stärkeabbau beginnt. Im **Magen** wird der Brei durchmischt; Magensäure schafft ein saures Milieu. Dort beginnt auch der enzymatische Abbau von Proteinen."
+        },
+        {
+          "t": "merke",
+          "titel": "5. Leber, Galle und Bauchspeicheldrüse",
+          "text": "Die **Leber bildet Galle**; die **Gallenblase speichert und konzentriert** sie. Galle verteilt grosse Fettmengen in kleine Tröpfchen (**Emulgierung**). Die **Bauchspeicheldrüse** liefert Verdauungsenzyme und eine basische Flüssigkeit in den Dünndarm."
+        },
+        {
+          "t": "merke",
+          "titel": "6. Dünndarm und Stoffaufnahme",
+          "text": "Im **Dünndarm** werden viele Nährstoffe fertig zerlegt und ihre Bausteine aufgenommen. Falten, **Zotten** und Mikrovilli vergrössern die Oberfläche. Glukose und Aminosäuren gelangen vor allem ins Blut. Ein grosser Teil der aufgenommenen Nahrungsfette wird zunächst über die Lymphe transportiert."
+        },
+        {
+          "t": "merke",
+          "titel": "7. Dickdarm und Ausscheidung",
+          "text": "Im **Dickdarm** werden aus dem Restbrei unter anderem Wasser und Salze aufgenommen. Darmmikroorganismen können bestimmte Ballaststoffe abbauen. Der Stuhl wird eingedickt, im **Mastdarm** gesammelt und über den **After** abgegeben."
+        },
+        {
+          "t": "merke",
+          "titel": "8. Energie und ausgewogene Auswahl",
+          "text": "Nahrungsenergie wird in **kJ** und **kcal** angegeben; 1 kcal entspricht etwa 4.2 kJ. Der Energiebedarf hängt unter anderem von Wachstum, Körpergrösse und Aktivität ab. Abwechslungsreiche Nahrung liefert unterschiedliche Nährstoffe, Wasser und Ballaststoffe."
+        }
+      ]
+    }
+  ],
+  "karten": [
+    {
+      "vorne": "Kohlenhydrate",
+      "hinten": "wichtige Energielieferanten"
+    },
+    {
+      "vorne": "Proteine",
+      "hinten": "Baustoffe und zum Beispiel Enzyme"
+    },
+    {
+      "vorne": "Fette",
+      "hinten": "Energie, Speicher und Membranbestandteile"
+    },
+    {
+      "vorne": "Amylase",
+      "hinten": "Enzym für Stärkeabbau"
+    },
+    {
+      "vorne": "Peristaltik",
+      "hinten": "Muskelbewegungen zum Transport des Darminhalts"
+    },
+    {
+      "vorne": "Galle",
+      "hinten": "emulgiert Fette, kein Enzym"
+    },
+    {
+      "vorne": "Leber",
+      "hinten": "bildet unter anderem Galle"
+    },
+    {
+      "vorne": "Bauchspeicheldrüse",
+      "hinten": "liefert Verdauungsenzyme und basische Flüssigkeit"
+    },
+    {
+      "vorne": "Dünndarmzotten",
+      "hinten": "vergrössern die Aufnahmefläche"
+    },
+    {
+      "vorne": "Resorption",
+      "hinten": "Aufnahme von Stoffen ins Körperinnere"
+    },
+    {
+      "vorne": "Dickdarm",
+      "hinten": "unter anderem weitere Wasseraufnahme und Eindickung"
+    },
+    {
+      "vorne": "Ballaststoffe",
+      "hinten": "von eigenen Verdauungsenzymen kaum abbaubare Nahrungsbestandteile"
+    }
+  ],
+  "uebungen": [
+    {
+      "typ": "mc",
+      "frage": "Welche Stoffgruppe besteht aus Aminosäurebausteinen?",
+      "optionen": [
+        "Proteine",
+        "Fette",
+        "Wasser"
+      ],
+      "richtig": 0,
+      "id": "u1-1",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "**Kohlenhydrate** liefern vor allem Energie. **Fette** liefern und speichern Energie und sind unter anderem Bestandteil von Zellmembranen. **Proteine** sind wichtige Baustoffe und bilden unter anderem Enzyme. Wasser, Vitamine und Mineralstoffe erfüllen weitere lebenswichtige Aufgaben."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne die Hauptaufgabe zu.",
+      "paare": [
+        [
+          "Kohlenhydrate",
+          "vor allem Energielieferanten"
+        ],
+        [
+          "Proteine",
+          "wichtige Baustoffe und Enzyme"
+        ],
+        [
+          "Wasser",
+          "Lösungs- und Transportmittel"
+        ]
+      ],
+      "id": "u1-2",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "**Kohlenhydrate** liefern vor allem Energie. **Fette** liefern und speichern Energie und sind unter anderem Bestandteil von Zellmembranen. **Proteine** sind wichtige Baustoffe und bilden unter anderem Enzyme. Wasser, Vitamine und Mineralstoffe erfüllen weitere lebenswichtige Aufgaben."
+    },
+    {
+      "id": "u1-3",
+      "typ": "offen",
+      "lernziel": "1",
+      "frage": "Nenne drei Nährstoffgruppen und je eine Aufgabe.",
+      "musterloesung": "Kohlenhydrate: Energie; Fette: Energie und Speicherung; Proteine: Baustoffe beziehungsweise Enzyme.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "**Kohlenhydrate** liefern vor allem Energie. **Fette** liefern und speichern Energie und sind unter anderem Bestandteil von Zellmembranen. **Proteine** sind wichtige Baustoffe und bilden unter anderem Enzyme. Wasser, Vitamine und Mineralstoffe erfüllen weitere lebenswichtige Aufgaben."
+    },
+    {
+      "typ": "mc",
+      "frage": "Warum werden viele Nährstoffe zerlegt?",
+      "optionen": [
+        "Damit ihre Bausteine aufgenommen werden können",
+        "Damit alle Stoffe verschwinden",
+        "Damit alle Stoffe gleich schwer werden"
+      ],
+      "richtig": 0,
+      "id": "u2-1",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "Viele Nährstoffe sind zu gross, um durch die Darmwand aufgenommen zu werden. **Verdauungsenzyme** zerlegen sie in kleinere Bausteine. Enzyme sind biologische Katalysatoren: Sie beschleunigen passende Reaktionen und werden im Gesamtprozess nicht verbraucht."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne Ausgangsstoff und typischen Baustein zu.",
+      "paare": [
+        [
+          "Stärke",
+          "Glukose"
+        ],
+        [
+          "Protein",
+          "Aminosäuren"
+        ],
+        [
+          "Fett",
+          "unter anderem Fettsäuren"
+        ]
+      ],
+      "id": "u2-2",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "Viele Nährstoffe sind zu gross, um durch die Darmwand aufgenommen zu werden. **Verdauungsenzyme** zerlegen sie in kleinere Bausteine. Enzyme sind biologische Katalysatoren: Sie beschleunigen passende Reaktionen und werden im Gesamtprozess nicht verbraucht."
+    },
+    {
+      "id": "u2-3",
+      "typ": "offen",
+      "lernziel": "2",
+      "frage": "Erkläre die Spezifität eines Enzyms mit einem einfachen Formmodell.",
+      "musterloesung": "Die passende Form und chemische Beschaffenheit des Enzyms bindet bestimmte Stoffe; andere Stoffe passen nicht zur jeweiligen Reaktion.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "Viele Nährstoffe sind zu gross, um durch die Darmwand aufgenommen zu werden. **Verdauungsenzyme** zerlegen sie in kleinere Bausteine. Enzyme sind biologische Katalysatoren: Sie beschleunigen passende Reaktionen und werden im Gesamtprozess nicht verbraucht."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welches Organ folgt im Nahrungsweg direkt auf den Magen?",
+      "optionen": [
+        "Dünndarm",
+        "Leber",
+        "Dickdarm"
+      ],
+      "richtig": 0,
+      "id": "u3-1",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Die Nahrung durchläuft **Mund → Rachen → Speiseröhre → Magen → Dünndarm → Dickdarm → Mastdarm → After**. Leber, Gallenblase und Bauchspeicheldrüse geben Stoffe für die Verdauung ab; der Nahrungsbrei durchläuft diese Organe nicht."
+    },
+    {
+      "typ": "reihenfolge",
+      "frage": "Ordne den vereinfachten Nahrungsweg.",
+      "items": [
+        "Mund",
+        "Speiseröhre",
+        "Magen",
+        "Dünndarm",
+        "Dickdarm",
+        "After"
+      ],
+      "id": "u3-2",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Die Nahrung durchläuft **Mund → Rachen → Speiseröhre → Magen → Dünndarm → Dickdarm → Mastdarm → After**. Leber, Gallenblase und Bauchspeicheldrüse geben Stoffe für die Verdauung ab; der Nahrungsbrei durchläuft diese Organe nicht."
+    },
+    {
+      "id": "u3-3",
+      "typ": "offen",
+      "lernziel": "3",
+      "frage": "Zeichne den Nahrungsweg als Organkette. Setze die Leber daneben und zeige, dass Nahrung sie nicht durchläuft.",
+      "musterloesung": "Mund → Speiseröhre → Magen → Dünndarm → Dickdarm → After; Leber als unterstützendes Organ seitlich.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": true,
+      "zeilen": 4,
+      "hilfe": "Die Nahrung durchläuft **Mund → Rachen → Speiseröhre → Magen → Dünndarm → Dickdarm → Mastdarm → After**. Leber, Gallenblase und Bauchspeicheldrüse geben Stoffe für die Verdauung ab; der Nahrungsbrei durchläuft diese Organe nicht."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welcher Vorgang beginnt schon im Mund?",
+      "optionen": [
+        "Stärkeabbau durch Speichelamylase",
+        "Vollständige Aufnahme aller Fette",
+        "Bildung der Galle"
+      ],
+      "richtig": 0,
+      "id": "u4-1",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "**Zähne** zerkleinern die Nahrung mechanisch. Speichel befeuchtet sie und enthält Amylase, die den Stärkeabbau beginnt. Im **Magen** wird der Brei durchmischt; Magensäure schafft ein saures Milieu. Dort beginnt auch der enzymatische Abbau von Proteinen."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne zu.",
+      "paare": [
+        [
+          "Zähne",
+          "mechanische Zerkleinerung"
+        ],
+        [
+          "Speichelamylase",
+          "beginnender Stärkeabbau"
+        ],
+        [
+          "Magensäure",
+          "saures Milieu"
+        ]
+      ],
+      "id": "u4-2",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "**Zähne** zerkleinern die Nahrung mechanisch. Speichel befeuchtet sie und enthält Amylase, die den Stärkeabbau beginnt. Im **Magen** wird der Brei durchmischt; Magensäure schafft ein saures Milieu. Dort beginnt auch der enzymatische Abbau von Proteinen."
+    },
+    {
+      "id": "u4-3",
+      "typ": "offen",
+      "lernziel": "4",
+      "frage": "Vergleiche mechanische und chemische Verdauung mit je einem Beispiel.",
+      "musterloesung": "Mechanisch: Zähne zerkleinern oder Magen durchmischt. Chemisch: Enzyme spalten Stärke beziehungsweise Proteine.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "**Zähne** zerkleinern die Nahrung mechanisch. Speichel befeuchtet sie und enthält Amylase, die den Stärkeabbau beginnt. Im **Magen** wird der Brei durchmischt; Magensäure schafft ein saures Milieu. Dort beginnt auch der enzymatische Abbau von Proteinen."
+    },
+    {
+      "typ": "mc",
+      "frage": "Wo wird Galle gebildet?",
+      "optionen": [
+        "In der Leber",
+        "In der Gallenblase",
+        "Im Dickdarm"
+      ],
+      "richtig": 0,
+      "id": "u5-1",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Die **Leber bildet Galle**; die **Gallenblase speichert und konzentriert** sie. Galle verteilt grosse Fettmengen in kleine Tröpfchen (**Emulgierung**). Die **Bauchspeicheldrüse** liefert Verdauungsenzyme und eine basische Flüssigkeit in den Dünndarm."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne zu.",
+      "paare": [
+        [
+          "Leber",
+          "Galle bilden"
+        ],
+        [
+          "Gallenblase",
+          "Galle speichern"
+        ],
+        [
+          "Bauchspeicheldrüse",
+          "Verdauungsenzyme abgeben"
+        ]
+      ],
+      "id": "u5-2",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Die **Leber bildet Galle**; die **Gallenblase speichert und konzentriert** sie. Galle verteilt grosse Fettmengen in kleine Tröpfchen (**Emulgierung**). Die **Bauchspeicheldrüse** liefert Verdauungsenzyme und eine basische Flüssigkeit in den Dünndarm."
+    },
+    {
+      "id": "u5-3",
+      "typ": "offen",
+      "lernziel": "5",
+      "frage": "Warum erleichtert Emulgierung die Fettverdauung, obwohl noch keine Fettmoleküle gespalten werden?",
+      "musterloesung": "Viele kleine Tröpfchen bieten mehr Oberfläche. Fettspaltende Enzyme können besser angreifen.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "Die **Leber bildet Galle**; die **Gallenblase speichert und konzentriert** sie. Galle verteilt grosse Fettmengen in kleine Tröpfchen (**Emulgierung**). Die **Bauchspeicheldrüse** liefert Verdauungsenzyme und eine basische Flüssigkeit in den Dünndarm."
+    },
+    {
+      "typ": "mc",
+      "frage": "Warum hat der Dünndarm Zotten?",
+      "optionen": [
+        "Zur Oberflächenvergrösserung",
+        "Zum Kauen",
+        "Zur Galleherstellung"
+      ],
+      "richtig": 0,
+      "id": "u6-1",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Im **Dünndarm** werden viele Nährstoffe fertig zerlegt und ihre Bausteine aufgenommen. Falten, **Zotten** und Mikrovilli vergrössern die Oberfläche. Glukose und Aminosäuren gelangen vor allem ins Blut. Ein grosser Teil der aufgenommenen Nahrungsfette wird zunächst über die Lymphe transportiert."
+    },
+    {
+      "typ": "luecke",
+      "frage": "Ergänze.",
+      "text": "Glukose und Aminosäuren gelangen vor allem ins {{0}}. Ein grosser Teil der aufgenommenen Fette gelangt zunächst in die {{1}}.",
+      "luecken": [
+        [
+          "Blut",
+          "Blutgefässe"
+        ],
+        [
+          "Lymphe",
+          "Lymphgefässe"
+        ]
+      ],
+      "id": "u6-2",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Im **Dünndarm** werden viele Nährstoffe fertig zerlegt und ihre Bausteine aufgenommen. Falten, **Zotten** und Mikrovilli vergrössern die Oberfläche. Glukose und Aminosäuren gelangen vor allem ins Blut. Ein grosser Teil der aufgenommenen Nahrungsfette wird zunächst über die Lymphe transportiert."
+    },
+    {
+      "id": "u6-3",
+      "typ": "offen",
+      "lernziel": "6",
+      "frage": "Skizziere eine Darmwand mit Zotten und erkläre den Vorteil.",
+      "musterloesung": "Zotten ragen in den Darminnenraum, vergrössern die Oberfläche und ermöglichen dadurch viel Stoffaufnahme.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": true,
+      "zeilen": 4,
+      "hilfe": "Im **Dünndarm** werden viele Nährstoffe fertig zerlegt und ihre Bausteine aufgenommen. Falten, **Zotten** und Mikrovilli vergrössern die Oberfläche. Glukose und Aminosäuren gelangen vor allem ins Blut. Ein grosser Teil der aufgenommenen Nahrungsfette wird zunächst über die Lymphe transportiert."
+    },
+    {
+      "typ": "mc",
+      "frage": "Was ist eine wichtige Aufgabe des Dickdarms?",
+      "optionen": [
+        "Weitere Wasseraufnahme und Eindickung",
+        "Beginn des Stärkeabbaus im Speichel",
+        "Galle herstellen"
+      ],
+      "richtig": 0,
+      "id": "u7-1",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Im **Dickdarm** werden aus dem Restbrei unter anderem Wasser und Salze aufgenommen. Darmmikroorganismen können bestimmte Ballaststoffe abbauen. Der Stuhl wird eingedickt, im **Mastdarm** gesammelt und über den **After** abgegeben."
+    },
+    {
+      "typ": "reihenfolge",
+      "frage": "Ordne den letzten Abschnitt des Weges.",
+      "items": [
+        "Dünndarm",
+        "Dickdarm",
+        "Mastdarm",
+        "After"
+      ],
+      "id": "u7-2",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Im **Dickdarm** werden aus dem Restbrei unter anderem Wasser und Salze aufgenommen. Darmmikroorganismen können bestimmte Ballaststoffe abbauen. Der Stuhl wird eingedickt, im **Mastdarm** gesammelt und über den **After** abgegeben."
+    },
+    {
+      "id": "u7-3",
+      "typ": "offen",
+      "lernziel": "7",
+      "frage": "Korrigiere: «Alle Nährstoffe werden erst im Dickdarm aufgenommen.»",
+      "musterloesung": "Die meisten Nährstoffbausteine werden im Dünndarm aufgenommen. Im Dickdarm erfolgen unter anderem weitere Wasser- und Salzaufnahme.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "Im **Dickdarm** werden aus dem Restbrei unter anderem Wasser und Salze aufgenommen. Darmmikroorganismen können bestimmte Ballaststoffe abbauen. Der Stuhl wird eingedickt, im **Mastdarm** gesammelt und über den **After** abgegeben."
+    },
+    {
+      "typ": "mc",
+      "frage": "Eine Angabe „pro 100 g“ bedeutet ...",
+      "optionen": [
+        "Die Energiemenge bezieht sich auf 100 g",
+        "Jede Packung wiegt 100 g",
+        "Jede Portion enthält 100 kcal"
+      ],
+      "richtig": 0,
+      "id": "u8-1",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Nahrungsenergie wird in **kJ** und **kcal** angegeben; 1 kcal entspricht etwa 4.2 kJ. Der Energiebedarf hängt unter anderem von Wachstum, Körpergrösse und Aktivität ab. Abwechslungsreiche Nahrung liefert unterschiedliche Nährstoffe, Wasser und Ballaststoffe."
+    },
+    {
+      "typ": "zahl",
+      "frage": "Ein Lebensmittel liefert 600 kJ pro 100 g. Wie viele kJ liefern 50 g?",
+      "antwort": 300,
+      "einheit": "kJ",
+      "toleranz": 0.01,
+      "id": "u8-2",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Nahrungsenergie wird in **kJ** und **kcal** angegeben; 1 kcal entspricht etwa 4.2 kJ. Der Energiebedarf hängt unter anderem von Wachstum, Körpergrösse und Aktivität ab. Abwechslungsreiche Nahrung liefert unterschiedliche Nährstoffe, Wasser und Ballaststoffe."
+    },
+    {
+      "id": "u8-3",
+      "typ": "offen",
+      "lernziel": "8",
+      "frage": "Ein Produkt hat 1200 kJ pro 100 g. Berechne den Wert für 25 g und nenne eine Grenze dieser einzelnen Zahl.",
+      "musterloesung": "300 kJ. Die Zahl sagt nicht aus, welche Vitamine, Mineralstoffe oder anderen Bestandteile enthalten sind.",
+      "kriterien": [
+        {
+          "text": "Antwort beziehungsweise Zeichnung stimmt inhaltlich mit der Musterlösung überein.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 1,
+      "skizze": false,
+      "zeilen": 4,
+      "hilfe": "Nahrungsenergie wird in **kJ** und **kcal** angegeben; 1 kcal entspricht etwa 4.2 kJ. Der Energiebedarf hängt unter anderem von Wachstum, Körpergrösse und Aktivität ab. Abwechslungsreiche Nahrung liefert unterschiedliche Nährstoffe, Wasser und Ballaststoffe."
+    }
+  ],
+  "pruefungen": [
+    {
+      "id": "test-32",
+      "titel": "Ernährung und Verdauung - Testprüfung",
+      "richtzeit": 45,
+      "hinweis": "32 Punkte. Grundlagenprüfung zu selbst formulierten Lernzielen; noch kein Abgleich mit den Prüfungszielen der Schule. Zeichnungen auf Papier. Offene Aufgaben anhand der Kriterien selbst bewerten.",
+      "aufgaben": [
+        {
+          "id": "p1",
+          "nr": "1",
+          "typ": "offen",
+          "lernziel": "1",
+          "titel": "Nährstoffe und Aufgaben",
+          "frage": "Nenne je eine Aufgabe von Kohlenhydraten, Fetten, Proteinen und Wasser.",
+          "punkte": 4,
+          "musterloesung": "Kohlenhydrate liefern Energie\nFette liefern oder speichern Energie beziehungsweise bilden Membranen\nProteine sind Baustoffe oder Enzyme\nWasser dient als Lösungs- oder Transportmittel",
+          "kriterien": [
+            {
+              "text": "Kohlenhydrate liefern Energie",
+              "punkte": 1
+            },
+            {
+              "text": "Fette liefern oder speichern Energie beziehungsweise bilden Membranen",
+              "punkte": 1
+            },
+            {
+              "text": "Proteine sind Baustoffe oder Enzyme",
+              "punkte": 1
+            },
+            {
+              "text": "Wasser dient als Lösungs- oder Transportmittel",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p2",
+          "nr": "2",
+          "typ": "offen",
+          "lernziel": "2",
+          "titel": "Enzyme und Zerlegung",
+          "frage": "Erkläre die Aufgabe der Verdauungsenzyme, ihre Spezifität und den Einfluss starker Hitze. Nenne einen passenden Abbau zu Bausteinen.",
+          "punkte": 4,
+          "musterloesung": "Enzyme beschleunigen die Zerlegung grosser Nährstoffe\nSie wirken nur für bestimmte Stoffe beziehungsweise Reaktionen\nStarke Hitze kann die Form und Funktion verändern\nPassendes Beispiel, z. B. Protein → Aminosäuren",
+          "kriterien": [
+            {
+              "text": "Enzyme beschleunigen die Zerlegung grosser Nährstoffe",
+              "punkte": 1
+            },
+            {
+              "text": "Sie wirken nur für bestimmte Stoffe beziehungsweise Reaktionen",
+              "punkte": 1
+            },
+            {
+              "text": "Starke Hitze kann die Form und Funktion verändern",
+              "punkte": 1
+            },
+            {
+              "text": "Passendes Beispiel, z. B. Protein → Aminosäuren",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p3",
+          "nr": "3",
+          "typ": "offen",
+          "lernziel": "3",
+          "titel": "Weg der Nahrung",
+          "frage": "Beschrifte in einer eigenen vereinfachten Skizze Speiseröhre, Magen, Dünndarm und Dickdarm. Verbinde sie in der richtigen Reihenfolge.",
+          "punkte": 4,
+          "musterloesung": "Speiseröhre vor dem Magen\nMagen korrekt beschriftet\nDünndarm nach dem Magen\nDickdarm nach dem Dünndarm",
+          "kriterien": [
+            {
+              "text": "Speiseröhre vor dem Magen",
+              "punkte": 1
+            },
+            {
+              "text": "Magen korrekt beschriftet",
+              "punkte": 1
+            },
+            {
+              "text": "Dünndarm nach dem Magen",
+              "punkte": 1
+            },
+            {
+              "text": "Dickdarm nach dem Dünndarm",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        },
+        {
+          "id": "p4",
+          "nr": "4",
+          "typ": "offen",
+          "lernziel": "4",
+          "titel": "Mund und Magen",
+          "frage": "Nenne die Aufgaben der Zähne, der Speichelamylase, der Magensäure und eines proteinspaltenden Magenenzyms.",
+          "punkte": 4,
+          "musterloesung": "Zähne zerkleinern mechanisch\nSpeichelamylase beginnt den Stärkeabbau\nMagensäure schafft saures Milieu und erschwert vielen Keimen das Überleben\nMagenenzym beginnt den Proteinabbau",
+          "kriterien": [
+            {
+              "text": "Zähne zerkleinern mechanisch",
+              "punkte": 1
+            },
+            {
+              "text": "Speichelamylase beginnt den Stärkeabbau",
+              "punkte": 1
+            },
+            {
+              "text": "Magensäure schafft saures Milieu und erschwert vielen Keimen das Überleben",
+              "punkte": 1
+            },
+            {
+              "text": "Magenenzym beginnt den Proteinabbau",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p5",
+          "nr": "5",
+          "typ": "offen",
+          "lernziel": "5",
+          "titel": "Leber, Galle und Bauchspeicheldrüse",
+          "frage": "Erkläre die Aufgaben von Leber, Gallenblase, Galle und Bauchspeicheldrüse bei der Verdauung.",
+          "punkte": 4,
+          "musterloesung": "Leber bildet Galle\nGallenblase speichert Galle\nGalle emulgiert Fett zu kleinen Tröpfchen\nBauchspeicheldrüse liefert Enzyme und basische Flüssigkeit",
+          "kriterien": [
+            {
+              "text": "Leber bildet Galle",
+              "punkte": 1
+            },
+            {
+              "text": "Gallenblase speichert Galle",
+              "punkte": 1
+            },
+            {
+              "text": "Galle emulgiert Fett zu kleinen Tröpfchen",
+              "punkte": 1
+            },
+            {
+              "text": "Bauchspeicheldrüse liefert Enzyme und basische Flüssigkeit",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p6",
+          "nr": "6",
+          "typ": "offen",
+          "lernziel": "6",
+          "titel": "Dünndarm und Stoffaufnahme",
+          "frage": "Zeichne eine vereinfachte Dünndarmwand mit Zotten. Beschreibe deren Vorteil und die Weiterleitung von Glukose und vielen Fettbestandteilen.",
+          "punkte": 4,
+          "musterloesung": "Mehrere Zotten in den Darminnenraum gezeichnet\nOberflächenvergrösserung für Stoffaufnahme erklärt\nGlukose gelangt vor allem ins Blut\nViele Fettbestandteile werden zunächst über die Lymphe transportiert",
+          "kriterien": [
+            {
+              "text": "Mehrere Zotten in den Darminnenraum gezeichnet",
+              "punkte": 1
+            },
+            {
+              "text": "Oberflächenvergrösserung für Stoffaufnahme erklärt",
+              "punkte": 1
+            },
+            {
+              "text": "Glukose gelangt vor allem ins Blut",
+              "punkte": 1
+            },
+            {
+              "text": "Viele Fettbestandteile werden zunächst über die Lymphe transportiert",
+              "punkte": 1
+            }
+          ],
+          "skizze": true,
+          "zeilen": 6
+        },
+        {
+          "id": "p7",
+          "nr": "7",
+          "typ": "offen",
+          "lernziel": "7",
+          "titel": "Dickdarm und Ausscheidung",
+          "frage": "Nenne je eine Aufgabe des Dickdarms, des Mastdarms und des Afters. Erkläre eine Rolle der Darmmikroorganismen.",
+          "punkte": 4,
+          "musterloesung": "Dickdarm nimmt unter anderem weiteres Wasser auf und dickt ein\nMastdarm speichert Stuhl vor der Entleerung\nAfter dient der Abgabe\nMikroorganismen verarbeiten bestimmte unverdaute Bestandteile beziehungsweise Ballaststoffe",
+          "kriterien": [
+            {
+              "text": "Dickdarm nimmt unter anderem weiteres Wasser auf und dickt ein",
+              "punkte": 1
+            },
+            {
+              "text": "Mastdarm speichert Stuhl vor der Entleerung",
+              "punkte": 1
+            },
+            {
+              "text": "After dient der Abgabe",
+              "punkte": 1
+            },
+            {
+              "text": "Mikroorganismen verarbeiten bestimmte unverdaute Bestandteile beziehungsweise Ballaststoffe",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        },
+        {
+          "id": "p8",
+          "nr": "8",
+          "typ": "offen",
+          "lernziel": "8",
+          "titel": "Energie und ausgewogene Auswahl",
+          "frage": "Ein Lebensmittel hat 1000 kJ pro 100 g. Berechne den Energiegehalt von 30 g. Erkläre, warum der Energiebedarf variiert und weshalb abwechslungsreiche Nahrung sinnvoll ist.",
+          "punkte": 4,
+          "musterloesung": "Rechnung 1000·30/100\nErgebnis 300 kJ\nBedarf variiert zum Beispiel mit Wachstum oder Aktivität\nAbwechslung liefert unterschiedliche benötigte Nährstoffe",
+          "kriterien": [
+            {
+              "text": "Rechnung 1000·30/100",
+              "punkte": 1
+            },
+            {
+              "text": "Ergebnis 300 kJ",
+              "punkte": 1
+            },
+            {
+              "text": "Bedarf variiert zum Beispiel mit Wachstum oder Aktivität",
+              "punkte": 1
+            },
+            {
+              "text": "Abwechslung liefert unterschiedliche benötigte Nährstoffe",
+              "punkte": 1
+            }
+          ],
+          "skizze": false,
+          "zeilen": 4
+        }
+      ]
+    }
+  ]
+}
