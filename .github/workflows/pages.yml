@@ -19,7 +19,7 @@ jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Validate content
         run: python3 tools/validate.py
 
@@ -31,7 +31,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Stamp asset versions (cache busting)
         run: sed -i "s/__VERSION__/${GITHUB_SHA::7}/g" index.html
       - uses: actions/configure-pages@v5
