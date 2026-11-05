@@ -1,0 +1,1449 @@
+{
+  "lernzielBasis": "selbst-formuliert",
+  "hinweis": "Eigene Lernziele und neue Aufgaben zu den hochgeladenen Unterlagen. Für die 3. Klasse: Schwerpunkt direkte Rede. Indirekte Rede als einfacher Einstieg mit dass-Sätzen. Konjunktivformen sind Zusatzwissen. Schweizer Anführungszeichen «…»; korrekt gesetzte deutsche „…“ sind bei offenen Aufgaben ebenfalls erlaubt.",
+  "quellen": [
+    {
+      "titel": "Direkte und indirekte Rede - eigenes Lerndossier",
+      "art": "Erklärungen, Lernspick, Übungen, Test und Lösungen",
+      "seiten": 12,
+      "datei": "material/klasse-3/deutsch/direkte-indirekte-rede/Deutsch_direkte-indirekte-rede_Lerndossier.pdf"
+    }
+  ],
+  "herkunft": {
+    "dateien": [
+      "was-ist-die-direkte-rede.doc",
+      "formen-der-direkten-rede.doc",
+      "wortfeld-zur-direkten-rede-gehen.doc",
+      "klassenarbeit-direkte-rede.doc",
+      "1_direkte_indirekte_rede.pdf",
+      "1_direkte_indirekte_rede_loesung.pdf",
+      "2_direkte_indirekte_rede.pdf",
+      "2_direkte_indirekte_rede_loesung.pdf"
+    ],
+    "hinweis": "Vom Nutzer bereitgestellte Unterlagen als Themenbasis. Neu formulierte Inhalte; Originaldateien werden hier nicht veröffentlicht."
+  },
+  "lernziele": [
+    {
+      "id": "1",
+      "nr": "1",
+      "gruppe": "Direkte und indirekte Rede",
+      "kurz": "Direkte und indirekte Rede unterscheiden",
+      "text": "Ich kann direkte und indirekte Rede unterscheiden.",
+      "frage": "Direkte und indirekte Rede unterscheiden - wie geht das?",
+      "antwort": "Direkte Rede gibt den Wortlaut wieder und steht in Anführungszeichen. Indirekte Rede erzählt den Inhalt weiter."
+    },
+    {
+      "id": "2",
+      "nr": "2",
+      "gruppe": "Direkte und indirekte Rede",
+      "kurz": "Den Begleitsatz erkennen",
+      "text": "Ich kann den Begleitsatz finden und erklären.",
+      "frage": "Den Begleitsatz erkennen - wie geht das?",
+      "antwort": "Der Begleitsatz zeigt, wer spricht. Häufig zeigt er auch, wie gesprochen wird."
+    },
+    {
+      "id": "3",
+      "nr": "3",
+      "gruppe": "Direkte und indirekte Rede",
+      "kurz": "Einen Begleitsatz voranstellen",
+      "text": "Ich kann Satzzeichen bei einem vorangestellten Begleitsatz setzen.",
+      "frage": "Einen Begleitsatz voranstellen - wie geht das?",
+      "antwort": "Begleitsatz: «Direkte Rede.» Nach dem Begleitsatz steht ein Doppelpunkt. Das Satzzeichen der Rede steht vor »."
+    },
+    {
+      "id": "4",
+      "nr": "4",
+      "gruppe": "Direkte und indirekte Rede",
+      "kurz": "Einen Begleitsatz nachstellen",
+      "text": "Ich kann Satzzeichen bei einem nachgestellten Begleitsatz setzen.",
+      "frage": "Einen Begleitsatz nachstellen - wie geht das?",
+      "antwort": "«Direkte Rede», sagt jemand. Vor dem nachgestellten Begleitsatz steht nach » ein Komma. Der Punkt der Aussage entfällt dort."
+    },
+    {
+      "id": "5",
+      "nr": "5",
+      "gruppe": "Direkte und indirekte Rede",
+      "kurz": "Einen Begleitsatz einschieben",
+      "text": "Ich kann einen eingeschobenen Begleitsatz richtig abtrennen.",
+      "frage": "Einen Begleitsatz einschieben - wie geht das?",
+      "antwort": "Wenn der Begleitsatz einen Satz unterbricht: «Teil 1», sagt jemand, «Teil 2.» Zwei Kommas trennen ihn ab."
+    },
+    {
+      "id": "6",
+      "nr": "6",
+      "gruppe": "Direkte und indirekte Rede",
+      "kurz": "Fragen und Ausrufe richtig schreiben",
+      "text": "Ich kann Fragezeichen und Ausrufezeichen in der direkten Rede setzen.",
+      "frage": "Fragen und Ausrufe richtig schreiben - wie geht das?",
+      "antwort": "? und ! bleiben in der direkten Rede vor » stehen. Folgt ein Begleitsatz, kommt danach trotzdem ein Komma."
+    },
+    {
+      "id": "7",
+      "nr": "7",
+      "gruppe": "Direkte und indirekte Rede",
+      "kurz": "Treffende Verben auswählen",
+      "text": "Ich kann passende Verben statt sagen und gehen verwenden.",
+      "frage": "Treffende Verben auswählen - wie geht das?",
+      "antwort": "Wähle Wörter, die zur Situation passen. Fragen, flüstern und rufen sagen Verschiedenes aus."
+    },
+    {
+      "id": "8",
+      "nr": "8",
+      "gruppe": "Direkte und indirekte Rede",
+      "kurz": "Einfache Rede umformen und Dialoge schreiben",
+      "text": "Ich kann direkte Rede in einen einfachen dass-Satz umformen.",
+      "frage": "Einfache Rede umformen und Dialoge schreiben - wie geht das?",
+      "antwort": "Mit dass gibst du den Inhalt weiter. Achte auf die Person: aus ich wird je nach Sprecher er oder sie. Das gebeugte Verb steht am Ende."
+    }
+  ],
+  "lernen": [
+    {
+      "id": "lz-1",
+      "titel": "Direkte und indirekte Rede unterscheiden",
+      "lernziele": [
+        "1"
+      ],
+      "intro": "Ich kann direkte und indirekte Rede unterscheiden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Direkte Rede gibt den Wortlaut wieder und steht in Anführungszeichen. Indirekte Rede erzählt den Inhalt weiter."
+        },
+        {
+          "t": "bild",
+          "src": "content/img/deutsch-primar/direkte-indirekte-rede.svg",
+          "alt": "Lernbild Direkte und indirekte Rede",
+          "caption": "Eigene Lernskizze."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Direkt: Lea sagt: «Ich male.» Indirekt: Lea sagt, dass sie malt."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Bei indirekter Rede setzt du um die Wiedergabe keine Anführungszeichen."
+        }
+      ]
+    },
+    {
+      "id": "lz-2",
+      "titel": "Den Begleitsatz erkennen",
+      "lernziele": [
+        "2"
+      ],
+      "intro": "Ich kann den Begleitsatz finden und erklären.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Der Begleitsatz zeigt, wer spricht. Häufig zeigt er auch, wie gesprochen wird."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "«Komm mit!», ruft Amir. Begleitsatz: ruft Amir."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Der Begleitsatz kann vorne, hinten oder mitten in der direkten Rede stehen."
+        }
+      ]
+    },
+    {
+      "id": "lz-3",
+      "titel": "Einen Begleitsatz voranstellen",
+      "lernziele": [
+        "3"
+      ],
+      "intro": "Ich kann Satzzeichen bei einem vorangestellten Begleitsatz setzen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Begleitsatz: «Direkte Rede.» Nach dem Begleitsatz steht ein Doppelpunkt. Das Satzzeichen der Rede steht vor »."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Noah sagt: «Ich komme mit.»"
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Das erste Wort der direkten Rede beginnt gross."
+        }
+      ]
+    },
+    {
+      "id": "lz-4",
+      "titel": "Einen Begleitsatz nachstellen",
+      "lernziele": [
+        "4"
+      ],
+      "intro": "Ich kann Satzzeichen bei einem nachgestellten Begleitsatz setzen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "«Direkte Rede», sagt jemand. Vor dem nachgestellten Begleitsatz steht nach » ein Komma. Der Punkt der Aussage entfällt dort."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "«Ich bin bereit», sagt Nora."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Der ganze Satz endet erst nach dem Begleitsatz mit einem Punkt."
+        }
+      ]
+    },
+    {
+      "id": "lz-5",
+      "titel": "Einen Begleitsatz einschieben",
+      "lernziele": [
+        "5"
+      ],
+      "intro": "Ich kann einen eingeschobenen Begleitsatz richtig abtrennen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Wenn der Begleitsatz einen Satz unterbricht: «Teil 1», sagt jemand, «Teil 2.» Zwei Kommas trennen ihn ab."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "«Wir», sagt Nora, «treffen uns im Park.»"
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Nach dem eingeschobenen Begleitsatz geht derselbe Satz meistens klein weiter."
+        }
+      ]
+    },
+    {
+      "id": "lz-6",
+      "titel": "Fragen und Ausrufe richtig schreiben",
+      "lernziele": [
+        "6"
+      ],
+      "intro": "Ich kann Fragezeichen und Ausrufezeichen in der direkten Rede setzen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "? und ! bleiben in der direkten Rede vor » stehen. Folgt ein Begleitsatz, kommt danach trotzdem ein Komma."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "«Kommst du?», fragt Mia. «Stopp!», ruft Lio."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Vergiss das Komma nach » nicht."
+        }
+      ]
+    },
+    {
+      "id": "lz-7",
+      "titel": "Treffende Verben auswählen",
+      "lernziele": [
+        "7"
+      ],
+      "intro": "Ich kann passende Verben statt sagen und gehen verwenden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Wähle Wörter, die zur Situation passen. Fragen, flüstern und rufen sagen Verschiedenes aus."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "In der Bibliothek flüstert Lina. Auf dem Wanderweg wandern die Kinder."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Ein Wort aus demselben Wortfeld passt nicht in jedem Satz."
+        },
+        {
+          "t": "p",
+          "text": "Für die zusätzliche Klassenarbeit: Mit Vorsilben entstehen neue Verben, zum Beispiel ausgehen, mitgehen, weggehen; ansehen, zusehen, wegsehen; ansprechen, aussprechen, mitsprechen. Achte auf ihre Bedeutung."
+        }
+      ]
+    },
+    {
+      "id": "lz-8",
+      "titel": "Einfache Rede umformen und Dialoge schreiben",
+      "lernziele": [
+        "8"
+      ],
+      "intro": "Ich kann direkte Rede in einen einfachen dass-Satz umformen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Mit dass gibst du den Inhalt weiter. Achte auf die Person: aus ich wird je nach Sprecher er oder sie. Das gebeugte Verb steht am Ende."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Mia sagt: «Ich bin müde.» → Mia sagt, dass sie müde ist."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: In diesem Einstieg verwenden wir einfache dass-Sätze. Formen wie «sie sei» sind eine Vertiefung."
+        },
+        {
+          "t": "p",
+          "text": "Zusatzwissen: In der indirekten Rede wird häufig der Konjunktiv verwendet: Mia sagt, sie sei müde. Auch «Mia sagt, dass sie müde sei» ist möglich. In diesem Einstieg üben wir einfache dass-Sätze. Welche Verbformen an einer Schulprüfung verlangt sind, entscheidet die Lernziel-Liste der Schule. Eine Aufforderung kannst du so wiedergeben: Nico fordert seine Schwester auf, stehen zu bleiben."
+        }
+      ]
+    },
+    {
+      "id": "lernspick",
+      "titel": "Lernspick",
+      "lernziele": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "intro": "Das Wichtigste kurz zusammengefasst. Decke die Antworten ab.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Direkte und indirekte Rede unterscheiden",
+          "text": "Direkte Rede gibt den Wortlaut wieder und steht in Anführungszeichen. Indirekte Rede erzählt den Inhalt weiter."
+        },
+        {
+          "t": "merke",
+          "titel": "Den Begleitsatz erkennen",
+          "text": "Der Begleitsatz zeigt, wer spricht. Häufig zeigt er auch, wie gesprochen wird."
+        },
+        {
+          "t": "merke",
+          "titel": "Einen Begleitsatz voranstellen",
+          "text": "Begleitsatz: «Direkte Rede.» Nach dem Begleitsatz steht ein Doppelpunkt. Das Satzzeichen der Rede steht vor »."
+        },
+        {
+          "t": "merke",
+          "titel": "Einen Begleitsatz nachstellen",
+          "text": "«Direkte Rede», sagt jemand. Vor dem nachgestellten Begleitsatz steht nach » ein Komma. Der Punkt der Aussage entfällt dort."
+        },
+        {
+          "t": "merke",
+          "titel": "Einen Begleitsatz einschieben",
+          "text": "Wenn der Begleitsatz einen Satz unterbricht: «Teil 1», sagt jemand, «Teil 2.» Zwei Kommas trennen ihn ab."
+        },
+        {
+          "t": "merke",
+          "titel": "Fragen und Ausrufe richtig schreiben",
+          "text": "? und ! bleiben in der direkten Rede vor » stehen. Folgt ein Begleitsatz, kommt danach trotzdem ein Komma."
+        },
+        {
+          "t": "merke",
+          "titel": "Treffende Verben auswählen",
+          "text": "Wähle Wörter, die zur Situation passen. Fragen, flüstern und rufen sagen Verschiedenes aus."
+        },
+        {
+          "t": "merke",
+          "titel": "Einfache Rede umformen und Dialoge schreiben",
+          "text": "Mit dass gibst du den Inhalt weiter. Achte auf die Person: aus ich wird je nach Sprecher er oder sie. Das gebeugte Verb steht am Ende."
+        }
+      ]
+    }
+  ],
+  "karten": [
+    {
+      "vorne": "Direkte Rede",
+      "hinten": "Der genaue Wortlaut: Lea sagt: «Ich komme.»"
+    },
+    {
+      "vorne": "Indirekte Rede",
+      "hinten": "Wiedergabe: Lea sagt, dass sie kommt."
+    },
+    {
+      "vorne": "Begleitsatz",
+      "hinten": "Er sagt, wer spricht, oft auch wie jemand spricht."
+    },
+    {
+      "vorne": "Doppelpunkt",
+      "hinten": "Nach einem vorangestellten Begleitsatz."
+    },
+    {
+      "vorne": "Anführungszeichen",
+      "hinten": "In diesem Dossier: « am Anfang und » am Ende."
+    },
+    {
+      "vorne": "Nachgestellter Begleitsatz",
+      "hinten": "«Ich komme», sagt Lea."
+    },
+    {
+      "vorne": "Fragezeichen",
+      "hinten": "Bleibt innerhalb der direkten Rede: «Kommst du?»"
+    },
+    {
+      "vorne": "Ausrufezeichen",
+      "hinten": "Bleibt innerhalb der direkten Rede: «Stopp!»"
+    },
+    {
+      "vorne": "Eingeschobener Begleitsatz",
+      "hinten": "«Ich», sagt Lea, «komme gleich.»"
+    },
+    {
+      "vorne": "Wörter für sagen",
+      "hinten": "Zum Beispiel flüstern, fragen, rufen, erklären."
+    },
+    {
+      "vorne": "Wörter für gehen",
+      "hinten": "Zum Beispiel wandern, rennen, schlendern."
+    },
+    {
+      "vorne": "dass-Satz",
+      "hinten": "Vor dass steht ein Komma; das gebeugte Verb steht am Ende."
+    }
+  ],
+  "uebungen": [
+    {
+      "typ": "mc",
+      "frage": "Welcher Satz enthält direkte Rede?",
+      "optionen": [
+        "Lio sagt: «Ich singe.»",
+        "Lio sagt, dass er singt.",
+        "Lio singt leise."
+      ],
+      "richtig": 0,
+      "id": "u1-1",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Direkte Rede gibt den Wortlaut wieder und steht in Anführungszeichen. Indirekte Rede erzählt den Inhalt weiter."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne zu.",
+      "paare": [
+        [
+          "Mia sagt: «Ich lese.»",
+          "direkte Rede"
+        ],
+        [
+          "Mia sagt, dass sie liest.",
+          "indirekte Rede"
+        ]
+      ],
+      "id": "u1-2",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Direkte Rede gibt den Wortlaut wieder und steht in Anführungszeichen. Indirekte Rede erzählt den Inhalt weiter."
+    },
+    {
+      "id": "u1-3",
+      "typ": "offen",
+      "lernziel": "1",
+      "frage": "Erkläre den Unterschied. Schreibe zu «Lena sagt, dass sie schwimmt.» die direkte Rede.",
+      "musterloesung": "Direkt: Wortlaut in Anführungszeichen. Indirekt: Inhalt weitergeben. Lena sagt: «Ich schwimme.»",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "1",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Bei indirekter Rede setzt du um die Wiedergabe keine Anführungszeichen."
+    },
+    {
+      "typ": "mc",
+      "frage": "Was ist der Begleitsatz in Mila flüstert: «Ich bin hier.»?",
+      "optionen": [
+        "Mila flüstert",
+        "Ich bin hier",
+        "hier"
+      ],
+      "richtig": 0,
+      "id": "u2-1",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "Der Begleitsatz zeigt, wer spricht. Häufig zeigt er auch, wie gesprochen wird."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Was sagt der Begleitsatz?",
+      "text": "Er zeigt, {{0}} spricht.",
+      "luecken": [
+        [
+          "wer",
+          "welche Person"
+        ]
+      ],
+      "id": "u2-2",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "Der Begleitsatz zeigt, wer spricht. Häufig zeigt er auch, wie gesprochen wird."
+    },
+    {
+      "id": "u2-3",
+      "typ": "offen",
+      "lernziel": "2",
+      "frage": "Markiere den Begleitsatz: «Ist jemand da?», fragt Nino. Was erfährst du dadurch?",
+      "musterloesung": "Begleitsatz: fragt Nino. Nino spricht; er fragt.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "2",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Der Begleitsatz kann vorne, hinten oder mitten in der direkten Rede stehen."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Setze das Zeichen vor der direkten Rede ein.",
+      "text": "Noah sagt{{0}} «Ich komme.»",
+      "luecken": [
+        [
+          ":"
+        ]
+      ],
+      "id": "u3-1",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Begleitsatz: «Direkte Rede.» Nach dem Begleitsatz steht ein Doppelpunkt. Das Satzzeichen der Rede steht vor »."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welcher Satz ist richtig?",
+      "optionen": [
+        "Ella sagt: «Ich bin müde.»",
+        "Ella sagt, «Ich bin müde».",
+        "Ella sagt «ich bin müde.»"
+      ],
+      "richtig": 0,
+      "id": "u3-2",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Begleitsatz: «Direkte Rede.» Nach dem Begleitsatz steht ein Doppelpunkt. Das Satzzeichen der Rede steht vor »."
+    },
+    {
+      "id": "u3-3",
+      "typ": "offen",
+      "lernziel": "3",
+      "frage": "Setze alle Zeichen: Ella sagt Ich suche meinen Hund",
+      "musterloesung": "Ella sagt: «Ich suche meinen Hund.»",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "3",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Das erste Wort der direkten Rede beginnt gross."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Welches Zeichen steht nach »?",
+      "text": "«Ich male»{{0}} sagt Mia.",
+      "luecken": [
+        [
+          ","
+        ]
+      ],
+      "id": "u4-1",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "«Direkte Rede», sagt jemand. Vor dem nachgestellten Begleitsatz steht nach » ein Komma. Der Punkt der Aussage entfällt dort."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aussage mit Begleitsatz hinten ist richtig?",
+      "optionen": [
+        "«Ich lese», sagt Ben.",
+        "«Ich lese.», sagt Ben.",
+        "«Ich lese» sagt Ben."
+      ],
+      "richtig": 0,
+      "id": "u4-2",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "«Direkte Rede», sagt jemand. Vor dem nachgestellten Begleitsatz steht nach » ein Komma. Der Punkt der Aussage entfällt dort."
+    },
+    {
+      "id": "u4-3",
+      "typ": "offen",
+      "lernziel": "4",
+      "frage": "Setze alle Zeichen: Ich freue mich sagt Leon",
+      "musterloesung": "«Ich freue mich», sagt Leon.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "4",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Der ganze Satz endet erst nach dem Begleitsatz mit einem Punkt."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze beide Kommas.",
+      "text": "«Ich»{{0}} sagt Lio{{1}} «komme später.»",
+      "luecken": [
+        [
+          ","
+        ],
+        [
+          ","
+        ]
+      ],
+      "id": "u5-1",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Wenn der Begleitsatz einen Satz unterbricht: «Teil 1», sagt jemand, «Teil 2.» Zwei Kommas trennen ihn ab."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welcher Satz ist richtig?",
+      "optionen": [
+        "«Morgen», sagt Mia, «gehe ich baden.»",
+        "«Morgen» sagt Mia «Gehe ich baden».",
+        "«Morgen», sagt Mia: «gehe ich baden.»"
+      ],
+      "richtig": 0,
+      "id": "u5-2",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Wenn der Begleitsatz einen Satz unterbricht: «Teil 1», sagt jemand, «Teil 2.» Zwei Kommas trennen ihn ab."
+    },
+    {
+      "id": "u5-3",
+      "typ": "offen",
+      "lernziel": "5",
+      "frage": "Schiebe «sagt Mia» nach «Heute» ein: «Heute lese ich ein Buch.»",
+      "musterloesung": "«Heute», sagt Mia, «lese ich ein Buch.»",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "5",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Nach dem eingeschobenen Begleitsatz geht derselbe Satz meistens klein weiter."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze die Zeichen.",
+      "text": "«Wo bist du{{0}}», fragt Ben. «Stopp{{1}}», ruft Mia.",
+      "luecken": [
+        [
+          "?"
+        ],
+        [
+          "!"
+        ]
+      ],
+      "id": "u6-1",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "? und ! bleiben in der direkten Rede vor » stehen. Folgt ein Begleitsatz, kommt danach trotzdem ein Komma."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Frage ist richtig geschrieben?",
+      "optionen": [
+        "«Hast du Zeit?», fragt Lea.",
+        "«Hast du Zeit», fragt Lea?",
+        "«Hast du Zeit?» fragt Lea."
+      ],
+      "richtig": 0,
+      "id": "u6-2",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "? und ! bleiben in der direkten Rede vor » stehen. Folgt ein Begleitsatz, kommt danach trotzdem ein Komma."
+    },
+    {
+      "id": "u6-3",
+      "typ": "offen",
+      "lernziel": "6",
+      "frage": "Setze alle Zeichen: Wo ist mein Ball fragt Mia / Halt ruft Ben",
+      "musterloesung": "«Wo ist mein Ball?», fragt Mia. «Halt!», ruft Ben.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "6",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Vergiss das Komma nach » nicht."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne das passende Verb zu.",
+      "paare": [
+        [
+          "leise sprechen",
+          "flüstern"
+        ],
+        [
+          "laut warnen",
+          "rufen"
+        ],
+        [
+          "langsam spazieren",
+          "schlendern"
+        ]
+      ],
+      "id": "u7-1",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Wähle Wörter, die zur Situation passen. Fragen, flüstern und rufen sagen Verschiedenes aus."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze: flüstert oder ruft.",
+      "text": "In der stillen Bibliothek {{0}} Lina.",
+      "luecken": [
+        [
+          "flüstert"
+        ]
+      ],
+      "id": "u7-2",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Wähle Wörter, die zur Situation passen. Fragen, flüstern und rufen sagen Verschiedenes aus."
+    },
+    {
+      "id": "u7-3",
+      "typ": "offen",
+      "lernziel": "7",
+      "frage": "Nenne drei andere Wörter für sagen und zwei für gehen. Schreibe mit einem Wort einen Satz.",
+      "musterloesung": "Zum Beispiel fragen, rufen, flüstern; wandern, schlendern. «Leise!», flüstert Lina.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "7",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Ein Wort aus demselben Wortfeld passt nicht in jedem Satz."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze die Person. Lina sagt: «Ich male.»",
+      "text": "Lina sagt, dass {{0}} malt.",
+      "luecken": [
+        [
+          "sie"
+        ]
+      ],
+      "id": "u8-1",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Mit dass gibst du den Inhalt weiter. Achte auf die Person: aus ich wird je nach Sprecher er oder sie. Das gebeugte Verb steht am Ende."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Wiedergabe passt zu Ben sagt: «Ich bin müde.»?",
+      "optionen": [
+        "Ben sagt, dass er müde ist.",
+        "Ben sagt, dass ich müde bin.",
+        "Ben sagt: dass er müde ist."
+      ],
+      "richtig": 0,
+      "id": "u8-2",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Mit dass gibst du den Inhalt weiter. Achte auf die Person: aus ich wird je nach Sprecher er oder sie. Das gebeugte Verb steht am Ende."
+    },
+    {
+      "id": "u8-3",
+      "typ": "offen",
+      "lernziel": "8",
+      "frage": "Forme um: Nino sagt: «Ich spiele Fussball.» Schreibe dann einen kurzen Dialog mit Frage und Antwort.",
+      "musterloesung": "Nino sagt, dass er Fussball spielt. Zum Beispiel: Mia fragt: «Kommst du mit?» Nino antwortet: «Ja, gleich.»",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "8",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "In diesem Einstieg verwenden wir einfache dass-Sätze. Formen wie «sie sei» sind eine Vertiefung."
+    }
+  ],
+  "pruefungen": [
+    {
+      "id": "eigener-test",
+      "titel": "Direkte und indirekte Rede - Lernkontrolle",
+      "richtzeit": 35,
+      "hinweis": "Für die 3. Klasse: Schwerpunkt direkte Rede. Indirekte Rede als einfacher Einstieg mit dass-Sätzen. Konjunktivformen sind Zusatzwissen. Schweizer Anführungszeichen «…»; korrekt gesetzte deutsche „…“ sind bei offenen Aufgaben ebenfalls erlaubt. Offene Aufgaben anhand der Kriterien selbst bewerten. Bei Blitzlesen hört eine Begleitperson zu; die App misst kein Lesetempo.",
+      "aufgaben": [
+        {
+          "id": "test-1",
+          "typ": "offen",
+          "lernziel": "1",
+          "frage": "Erkläre direkte und indirekte Rede. Schreibe je ein eigenes Beispiel.",
+          "musterloesung": "Direkte Rede als genauer Wortlaut erklärt.\nIndirekte Rede als Wiedergabe des Inhalts erklärt.\nEigenes direktes Beispiel mit Anführungszeichen.\nEigenes indirektes Beispiel ohne Anführungszeichen.",
+          "kriterien": [
+            {
+              "text": "Direkte Rede als genauer Wortlaut erklärt.",
+              "punkte": 1
+            },
+            {
+              "text": "Indirekte Rede als Wiedergabe des Inhalts erklärt.",
+              "punkte": 1
+            },
+            {
+              "text": "Eigenes direktes Beispiel mit Anführungszeichen.",
+              "punkte": 1
+            },
+            {
+              "text": "Eigenes indirektes Beispiel ohne Anführungszeichen.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "1",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Direkte und indirekte Rede unterscheiden"
+        },
+        {
+          "id": "test-2",
+          "typ": "offen",
+          "lernziel": "2",
+          "frage": "Markiere den Begleitsatz: «Ich habe gewonnen!», jubelt Tia. Was erfährst du?",
+          "musterloesung": "jubelt Tia als Begleitsatz markiert.\nTia als Sprecherin erkannt.\njubelt beschreibt die Art des Sprechens.\nBegleitsatz kann nach der direkten Rede stehen.",
+          "kriterien": [
+            {
+              "text": "jubelt Tia als Begleitsatz markiert.",
+              "punkte": 1
+            },
+            {
+              "text": "Tia als Sprecherin erkannt.",
+              "punkte": 1
+            },
+            {
+              "text": "jubelt beschreibt die Art des Sprechens.",
+              "punkte": 1
+            },
+            {
+              "text": "Begleitsatz kann nach der direkten Rede stehen.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "2",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Den Begleitsatz erkennen"
+        },
+        {
+          "id": "test-3",
+          "typ": "offen",
+          "lernziel": "3",
+          "frage": "Setze alle Zeichen: Timo sagt Ich hole mein Heft",
+          "musterloesung": "Doppelpunkt nach sagt.\n« vor Ich.\nPunkt nach Heft innerhalb der Rede.\n» nach dem Punkt; Satz lautet: Timo sagt: «Ich hole mein Heft.»",
+          "kriterien": [
+            {
+              "text": "Doppelpunkt nach sagt.",
+              "punkte": 1
+            },
+            {
+              "text": "« vor Ich.",
+              "punkte": 1
+            },
+            {
+              "text": "Punkt nach Heft innerhalb der Rede.",
+              "punkte": 1
+            },
+            {
+              "text": "» nach dem Punkt; Satz lautet: Timo sagt: «Ich hole mein Heft.»",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "3",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Einen Begleitsatz voranstellen"
+        },
+        {
+          "id": "test-4",
+          "typ": "offen",
+          "lernziel": "4",
+          "frage": "Setze alle Zeichen: Ich lese heute sagt Sara",
+          "musterloesung": "« vor Ich.\n» nach heute ohne Punkt innerhalb der Rede.\nKomma nach ».\nBegleitsatz und Schlusspunkt: sagt Sara.",
+          "kriterien": [
+            {
+              "text": "« vor Ich.",
+              "punkte": 1
+            },
+            {
+              "text": "» nach heute ohne Punkt innerhalb der Rede.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma nach ».",
+              "punkte": 1
+            },
+            {
+              "text": "Begleitsatz und Schlusspunkt: sagt Sara.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "4",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Einen Begleitsatz nachstellen"
+        },
+        {
+          "id": "test-5",
+          "typ": "offen",
+          "lernziel": "5",
+          "frage": "Schiebe «sagt Ben» nach «Heute» ein: «Heute spiele ich draussen.»",
+          "musterloesung": "Erster Teil «Heute».\nKomma vor sagt Ben.\nKomma nach sagt Ben.\nFortsetzung «spiele ich draussen.» mit kleinem spiele.",
+          "kriterien": [
+            {
+              "text": "Erster Teil «Heute».",
+              "punkte": 1
+            },
+            {
+              "text": "Komma vor sagt Ben.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma nach sagt Ben.",
+              "punkte": 1
+            },
+            {
+              "text": "Fortsetzung «spiele ich draussen.» mit kleinem spiele.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "5",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Einen Begleitsatz einschieben"
+        },
+        {
+          "id": "test-6",
+          "typ": "offen",
+          "lernziel": "6",
+          "frage": "Setze alle Zeichen: Kommst du mit fragt Leo / Vorsicht ruft Ella",
+          "musterloesung": "Frage: «Kommst du mit?»\nKomma und Begleitsatz: , fragt Leo.\nAusruf: «Vorsicht!»\nKomma und Begleitsatz: , ruft Ella.",
+          "kriterien": [
+            {
+              "text": "Frage: «Kommst du mit?»",
+              "punkte": 1
+            },
+            {
+              "text": "Komma und Begleitsatz: , fragt Leo.",
+              "punkte": 1
+            },
+            {
+              "text": "Ausruf: «Vorsicht!»",
+              "punkte": 1
+            },
+            {
+              "text": "Komma und Begleitsatz: , ruft Ella.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "6",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Fragen und Ausrufe richtig schreiben"
+        },
+        {
+          "id": "test-7",
+          "typ": "offen",
+          "lernziel": "7",
+          "frage": "Nenne zwei treffende Wörter für sagen und eines für gehen. Schreibe mit einem Wort einen eigenen Satz.",
+          "musterloesung": "Erstes passendes Verb für sagen.\nZweites anderes Verb für sagen.\nPassendes Verb für gehen.\nEigener sinnvoller Satz mit einem gewählten Verb.",
+          "kriterien": [
+            {
+              "text": "Erstes passendes Verb für sagen.",
+              "punkte": 1
+            },
+            {
+              "text": "Zweites anderes Verb für sagen.",
+              "punkte": 1
+            },
+            {
+              "text": "Passendes Verb für gehen.",
+              "punkte": 1
+            },
+            {
+              "text": "Eigener sinnvoller Satz mit einem gewählten Verb.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "7",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Treffende Verben auswählen"
+        },
+        {
+          "id": "test-8",
+          "typ": "offen",
+          "lernziel": "8",
+          "frage": "Forme um: Lina sagt: «Ich lese ein Buch.» Schreibe danach zwei passende direkte Redesätze als kleinen Dialog.",
+          "musterloesung": "Lina sagt, dass sie ein Buch liest. (Auch passende Konjunktivform erlaubt.)\nKomma vor dass und gebeugtes Verb am Ende.\nErster eigener Dialogsatz mit passenden Redezeichen.\nZweiter passender Dialogsatz mit Redezeichen.",
+          "kriterien": [
+            {
+              "text": "Lina sagt, dass sie ein Buch liest. (Auch passende Konjunktivform erlaubt.)",
+              "punkte": 1
+            },
+            {
+              "text": "Komma vor dass und gebeugtes Verb am Ende.",
+              "punkte": 1
+            },
+            {
+              "text": "Erster eigener Dialogsatz mit passenden Redezeichen.",
+              "punkte": 1
+            },
+            {
+              "text": "Zweiter passender Dialogsatz mit Redezeichen.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "8",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Einfache Rede umformen und Dialoge schreiben"
+        }
+      ]
+    },
+    {
+      "id": "klassenarbeit-vorlage",
+      "titel": "Klassenarbeit nach deiner Vorlage - überarbeitet",
+      "richtzeit": 60,
+      "hinweis": "Zusätzliche Vertiefung nach den zehn Aufgabengruppen der hochgeladenen Klassenarbeit. Neues Wortgitter, gekürzter Dialog, korrigierte Zeichen und Musterlösungen. 45 Punkte. Nicht identisch mit der Originaldatei. Schwierige Umformungen dürfen begleitet werden.",
+      "aufgaben": [
+        {
+          "id": "vorlage-1",
+          "typ": "offen",
+          "lernziel": "1",
+          "frage": "Erkläre mit eigenen Worten, was direkte Rede und was indirekte Rede ist.",
+          "musterloesung": "Direkte Rede: genauer Wortlaut in Anführungszeichen. Indirekte Rede: Inhalt weitergeben, ohne den Wortlaut als direkte Rede zu kennzeichnen.",
+          "kriterien": [
+            {
+              "text": "Genauer Wortlaut bei direkter Rede.",
+              "punkte": 1
+            },
+            {
+              "text": "Anführungszeichen bei direkter Rede.",
+              "punkte": 1
+            },
+            {
+              "text": "Indirekte Rede gibt den Inhalt weiter.",
+              "punkte": 1
+            },
+            {
+              "text": "Wiedergabe ohne direkte Redezeichen.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "1",
+          "zeilen": 5
+        },
+        {
+          "id": "vorlage-2",
+          "typ": "offen",
+          "lernziel": "7",
+          "frage": "Finde im Gitter sechs Wörter aus dem Wortfeld machen. Die Wörter stehen waagrecht.",
+          "musterloesung": "tun, verrichten, ausüben, handhaben, handeln, durchführen",
+          "kriterien": [
+            {
+              "text": "tun gefunden.",
+              "punkte": 1
+            },
+            {
+              "text": "verrichten gefunden.",
+              "punkte": 1
+            },
+            {
+              "text": "ausüben gefunden.",
+              "punkte": 1
+            },
+            {
+              "text": "handhaben gefunden.",
+              "punkte": 1
+            },
+            {
+              "text": "handeln gefunden.",
+              "punkte": 1
+            },
+            {
+              "text": "durchführen gefunden.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 6,
+          "nr": "2",
+          "zeilen": 5,
+          "bild": "content/img/deutsch-primar/wortgitter-machen.svg"
+        },
+        {
+          "id": "vorlage-3",
+          "typ": "offen",
+          "lernziel": "2",
+          "frage": "Welche Funktion hat der Begleitsatz?",
+          "musterloesung": "Er zeigt, wer spricht, und oft auch, wie etwas gesagt wird.",
+          "kriterien": [
+            {
+              "text": "Sprechende Person genannt.",
+              "punkte": 1
+            },
+            {
+              "text": "Art des Sprechens als mögliche Zusatzinformation genannt.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 2,
+          "nr": "3",
+          "zeilen": 5
+        },
+        {
+          "id": "vorlage-4a",
+          "nr": "4a",
+          "typ": "mc",
+          "lernziel": "2",
+          "frage": "Welche Art des Begleitsatzes gibt es nicht?",
+          "optionen": [
+            "vorangestellt",
+            "darübergestellt",
+            "nachgestellt"
+          ],
+          "richtig": 1,
+          "punkte": 1
+        },
+        {
+          "id": "vorlage-4b",
+          "nr": "4b",
+          "typ": "mc",
+          "lernziel": "1",
+          "frage": "Wie wird direkte Rede noch genannt?",
+          "optionen": [
+            "wörtliche Rede",
+            "abstrakte Rede",
+            "indirekte Rede"
+          ],
+          "richtig": 0,
+          "punkte": 1
+        },
+        {
+          "id": "vorlage-4c",
+          "nr": "4c",
+          "typ": "mc",
+          "lernziel": "2",
+          "frage": "Welche Aussage über den Begleitsatz stimmt?",
+          "optionen": [
+            "Er muss nicht immer vorhanden sein.",
+            "Er steht immer vor der direkten Rede.",
+            "Er endet immer mit Doppelpunkt."
+          ],
+          "richtig": 0,
+          "punkte": 1
+        },
+        {
+          "id": "vorlage-5",
+          "typ": "offen",
+          "lernziel": "8",
+          "frage": "Gib die Äusserungen indirekt wieder: a) «Halt! Stopp!», ruft Nico seiner Schwester zu. b) «Du hast doch gesagt, ich soll den Ball holen!», antwortet sie.",
+          "musterloesung": "a) Nico fordert seine Schwester auf, stehen zu bleiben. b) Seine Schwester antwortet, dass er doch gesagt hat, sie soll den Ball holen. Auch passende Konjunktivformen sind möglich.",
+          "kriterien": [
+            {
+              "text": "Aufforderung von Nico sinngemäss wiedergegeben.",
+              "punkte": 1
+            },
+            {
+              "text": "Keine direkte Rede mit Anführungszeichen in a.",
+              "punkte": 1
+            },
+            {
+              "text": "Inhalt der Antwort und Personenwechsel richtig.",
+              "punkte": 1
+            },
+            {
+              "text": "Keine direkte Rede in b; verständlicher Satz.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "5",
+          "zeilen": 5
+        },
+        {
+          "id": "vorlage-6",
+          "typ": "offen",
+          "lernziel": [
+            "3",
+            "4",
+            "6"
+          ],
+          "frage": "Setze alle fehlenden Redezeichen: Gloria liegt im Bett und fragt Mama bist du da / Die Mutter antwortet Ja mein Schatz / Lass bitte die Tür auf sagt Gloria / Natürlich sagt Mama",
+          "musterloesung": "Gloria liegt im Bett und fragt: «Mama, bist du da?» Die Mutter antwortet: «Ja, mein Schatz.» «Lass bitte die Tür auf», sagt Gloria. «Natürlich», sagt Mama.",
+          "kriterien": [
+            {
+              "text": "Doppelpunkt nach fragt.",
+              "punkte": 1
+            },
+            {
+              "text": "Anführungszeichen um Mama, bist du da?",
+              "punkte": 1
+            },
+            {
+              "text": "Fragezeichen in der ersten Rede.",
+              "punkte": 1
+            },
+            {
+              "text": "Doppelpunkt und Redezeichen nach antwortet.",
+              "punkte": 1
+            },
+            {
+              "text": "Punkt in «Ja, mein Schatz.»",
+              "punkte": 1
+            },
+            {
+              "text": "«Lass bitte die Tür auf» ohne inneren Schlusspunkt.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma vor sagt Gloria und Schlusspunkt.",
+              "punkte": 1
+            },
+            {
+              "text": "«Natürlich», sagt Mama. korrekt.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 8,
+          "nr": "6",
+          "zeilen": 5
+        },
+        {
+          "id": "vorlage-7",
+          "typ": "offen",
+          "lernziel": "7",
+          "frage": "Nenne vier treffende Verben, die in einem Begleitsatz statt sagen stehen können.",
+          "musterloesung": "Zum Beispiel fragen, flüstern, rufen, erklären.",
+          "kriterien": [
+            {
+              "text": "Erstes passendes Verb.",
+              "punkte": 1
+            },
+            {
+              "text": "Zweites anderes Verb.",
+              "punkte": 1
+            },
+            {
+              "text": "Drittes anderes Verb.",
+              "punkte": 1
+            },
+            {
+              "text": "Viertes anderes Verb.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "7",
+          "zeilen": 5
+        },
+        {
+          "id": "vorlage-8",
+          "typ": "offen",
+          "lernziel": "3",
+          "frage": "Schreibe einen Satz mit vorangestelltem Begleitsatz.",
+          "musterloesung": "Lea sagt: «Ich lese.»",
+          "kriterien": [
+            {
+              "text": "Begleitsatz vor der direkten Rede.",
+              "punkte": 1
+            },
+            {
+              "text": "Doppelpunkt, Redezeichen und Satzende richtig.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 2,
+          "nr": "8",
+          "zeilen": 5
+        },
+        {
+          "id": "vorlage-9",
+          "typ": "offen",
+          "lernziel": "5",
+          "frage": "Schreibe einen Satz mit eingeschobenem Begleitsatz, der einen einzigen gesprochenen Satz unterbricht.",
+          "musterloesung": "«Heute», sagt Lea, «lese ich.»",
+          "kriterien": [
+            {
+              "text": "Begleitsatz zwischen zwei Teilen derselben Rede.",
+              "punkte": 1
+            },
+            {
+              "text": "Beide Kommas richtig.",
+              "punkte": 1
+            },
+            {
+              "text": "Anführungszeichen und Satzende richtig.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 3,
+          "nr": "9",
+          "zeilen": 5
+        },
+        {
+          "id": "vorlage-10",
+          "typ": "offen",
+          "lernziel": "7",
+          "frage": "Bilde je drei Wörter mit Vorsilben: gehen, sehen, sprechen.",
+          "musterloesung": "Zum Beispiel ausgehen, mitgehen, weggehen; ansehen, zusehen, wegsehen; ansprechen, aussprechen, mitsprechen.",
+          "kriterien": [
+            {
+              "text": "gehen: erstes gültiges Wort.",
+              "punkte": 1
+            },
+            {
+              "text": "gehen: zweites anderes Wort.",
+              "punkte": 1
+            },
+            {
+              "text": "gehen: drittes anderes Wort.",
+              "punkte": 1
+            },
+            {
+              "text": "sehen: erstes gültiges Wort.",
+              "punkte": 1
+            },
+            {
+              "text": "sehen: zweites anderes Wort.",
+              "punkte": 1
+            },
+            {
+              "text": "sehen: drittes anderes Wort.",
+              "punkte": 1
+            },
+            {
+              "text": "sprechen: erstes gültiges Wort.",
+              "punkte": 1
+            },
+            {
+              "text": "sprechen: zweites anderes Wort.",
+              "punkte": 1
+            },
+            {
+              "text": "sprechen: drittes anderes Wort.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 9,
+          "nr": "10",
+          "zeilen": 5
+        }
+      ]
+    }
+  ],
+  "referenzen": [
+    {
+      "titel": "Duden: Satzzeichen bei direkter Rede",
+      "url": "https://www.duden.de/sprachwissen/rechtschreibregeln/anfuehrungszeichen"
+    },
+    {
+      "titel": "Landesbildungsserver: indirekte Rede im dass-Satz",
+      "url": "https://www.schule-bw.de/faecher-und-schularten/sprachen-und-literatur/deutsch/sprache/grammatik/redewiedergabe/dass.html"
+    }
+  ]
+}

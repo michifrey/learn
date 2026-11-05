@@ -1,0 +1,1531 @@
+{
+  "lernzielBasis": "selbst-formuliert",
+  "hinweis": "Eigene Lernziele und neue Aufgaben zu den hochgeladenen Unterlagen. Wiederholung ausgewählter Grundlagen aus der Arbeitsblattsammlung. Teile die Aufgaben auf mehrere kurze Lernrunden auf. Die Probe kann in zwei Teilen gelöst werden.",
+  "quellen": [
+    {
+      "titel": "Deutsch Grundlagen - eigenes Lerndossier",
+      "art": "Erklärungen, Lernspick, Übungen, Test und Lösungen",
+      "seiten": 14,
+      "datei": "material/klasse-2/deutsch/grundlagen-klasse2/Deutsch_grundlagen-klasse2_Lerndossier.pdf"
+    }
+  ],
+  "herkunft": {
+    "dateien": [
+      "d_2_feriensammlung_2_pdf_03.pdf",
+      "d_2_feriensammlung_2_pdf_lsg_03.pdf"
+    ],
+    "hinweis": "Vom Nutzer bereitgestellte Unterlagen als Themenbasis. Neu formulierte Inhalte; Originaldateien werden hier nicht veröffentlicht."
+  },
+  "lernziele": [
+    {
+      "id": "1",
+      "nr": "1",
+      "gruppe": "Deutsch Grundlagen",
+      "kurz": "Nach dem ABC ordnen",
+      "text": "Ich kann Wörter nach dem ABC ordnen.",
+      "frage": "Nach dem ABC ordnen - wie geht das?",
+      "antwort": "Vergleiche die ersten Buchstaben. Sind sie gleich, vergleiche die nächsten."
+    },
+    {
+      "id": "2",
+      "nr": "2",
+      "gruppe": "Deutsch Grundlagen",
+      "kurz": "Nomen mit Artikeln und Mehrzahl schreiben",
+      "text": "Ich kann Nomen mit Artikel und in der Mehrzahl schreiben.",
+      "frage": "Nomen mit Artikeln und Mehrzahl schreiben - wie geht das?",
+      "antwort": "Nomen schreibt man gross. Viele haben die Begleiter der, die oder das. Die Mehrzahl muss man mitlernen."
+    },
+    {
+      "id": "3",
+      "nr": "3",
+      "gruppe": "Deutsch Grundlagen",
+      "kurz": "Verben in Personalformen setzen",
+      "text": "Ich kann Verben in die passende Personalform setzen.",
+      "frage": "Verben in Personalformen setzen - wie geht das?",
+      "antwort": "Die Verbform passt zur Person: ich spiele, du spielst, wir spielen. Verben schreibt man meistens klein."
+    },
+    {
+      "id": "4",
+      "nr": "4",
+      "gruppe": "Deutsch Grundlagen",
+      "kurz": "Mit Adjektiven beschreiben",
+      "text": "Ich kann Dinge mit passenden Adjektiven beschreiben.",
+      "frage": "Mit Adjektiven beschreiben - wie geht das?",
+      "antwort": "Adjektive sagen, wie etwas ist. Du fragst: Wie ist es?"
+    },
+    {
+      "id": "5",
+      "nr": "5",
+      "gruppe": "Deutsch Grundlagen",
+      "kurz": "Wörter in Silben zerlegen",
+      "text": "Ich kann Wörter in Silben zerlegen.",
+      "frage": "Wörter in Silben zerlegen - wie geht das?",
+      "antwort": "Sprich das Wort langsam und klatsche die Silben. In jeder Silbe hörst du einen Silbenkern, meist einen Vokal."
+    },
+    {
+      "id": "6",
+      "nr": "6",
+      "gruppe": "Deutsch Grundlagen",
+      "kurz": "Lange und kurze Selbstlaute hören",
+      "text": "Ich kann lange und kurze Selbstlaute unterscheiden.",
+      "frage": "Lange und kurze Selbstlaute hören - wie geht das?",
+      "antwort": "Höre auf den betonten Selbstlaut: Hut hat ein langes u, Hund ein kurzes u. Langes i wird oft ie geschrieben."
+    },
+    {
+      "id": "7",
+      "nr": "7",
+      "gruppe": "Deutsch Grundlagen",
+      "kurz": "Wortfamilien und Wortstamm erkennen",
+      "text": "Ich kann verwandte Wörter an ihrem Wortstamm erkennen.",
+      "frage": "Wortfamilien und Wortstamm erkennen - wie geht das?",
+      "antwort": "Wörter einer Wortfamilie sind verwandt und haben einen gemeinsamen Kern."
+    },
+    {
+      "id": "8",
+      "nr": "8",
+      "gruppe": "Deutsch Grundlagen",
+      "kurz": "Wortfelder und Reimwörter finden",
+      "text": "Ich kann Wörter zu Wortfeldern ordnen und Reimwörter finden.",
+      "frage": "Wortfelder und Reimwörter finden - wie geht das?",
+      "antwort": "Wortfelder verbinden Wörter nach ihrer Bedeutung. Reimwörter klingen am Ende gleich oder ähnlich."
+    },
+    {
+      "id": "9",
+      "nr": "9",
+      "gruppe": "Deutsch Grundlagen",
+      "kurz": "Satzarten und Satzzeichen erkennen",
+      "text": "Ich kann Aussagen, Fragen und Ausrufe unterscheiden.",
+      "frage": "Satzarten und Satzzeichen erkennen - wie geht das?",
+      "antwort": "Eine Aussage endet meist mit Punkt. Eine Frage hat ein Fragezeichen. Ein Ausruf oder starker Zuruf hat ein Ausrufezeichen."
+    },
+    {
+      "id": "10",
+      "nr": "10",
+      "gruppe": "Deutsch Grundlagen",
+      "kurz": "Orte und Richtungen beschreiben",
+      "text": "Ich kann Orte und Richtungen mit passenden Wörtern beschreiben.",
+      "frage": "Orte und Richtungen beschreiben - wie geht das?",
+      "antwort": "Wörter wie auf, unter, neben, vor und hinter helfen, einen Ort genau zu beschreiben."
+    },
+    {
+      "id": "11",
+      "nr": "11",
+      "gruppe": "Deutsch Grundlagen",
+      "kurz": "Wochentage und Monate ordnen",
+      "text": "Ich kann Wochentage und Monate in die richtige Reihenfolge bringen.",
+      "frage": "Wochentage und Monate ordnen - wie geht das?",
+      "antwort": "Eine Woche hat sieben Tage. Das Jahr hat zwölf Monate. Lerne ihre Reihenfolge."
+    },
+    {
+      "id": "12",
+      "nr": "12",
+      "gruppe": "Deutsch Grundlagen",
+      "kurz": "Texte verstehen und sorgfältig abschreiben",
+      "text": "Ich kann einen kurzen Text verstehen und sorgfältig abschreiben.",
+      "frage": "Texte verstehen und sorgfältig abschreiben - wie geht das?",
+      "antwort": "Lies zuerst. Schreibe Wortgruppen ab. Vergleiche danach jedes Wort, die Grossschreibung und die Satzzeichen."
+    }
+  ],
+  "lernen": [
+    {
+      "id": "lz-1",
+      "titel": "Nach dem ABC ordnen",
+      "lernziele": [
+        "1"
+      ],
+      "intro": "Ich kann Wörter nach dem ABC ordnen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Vergleiche die ersten Buchstaben. Sind sie gleich, vergleiche die nächsten."
+        },
+        {
+          "t": "bild",
+          "src": "content/img/deutsch-primar/grundlagen-klasse2.svg",
+          "alt": "Lernbild Deutsch Grundlagen",
+          "caption": "Eigene Lernskizze."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Ball - Bett - Brot. Alle beginnen mit B. Danach entscheiden a, e und r."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Sprich das ABC langsam mit."
+        }
+      ]
+    },
+    {
+      "id": "lz-2",
+      "titel": "Nomen mit Artikeln und Mehrzahl schreiben",
+      "lernziele": [
+        "2"
+      ],
+      "intro": "Ich kann Nomen mit Artikel und in der Mehrzahl schreiben.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Nomen schreibt man gross. Viele haben die Begleiter der, die oder das. Die Mehrzahl muss man mitlernen."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "das Buch - die Bücher; der Baum - die Bäume."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Ein unbestimmter Begleiter lautet im Grundfall ein oder eine: ein Ball, eine Uhr."
+        }
+      ]
+    },
+    {
+      "id": "lz-3",
+      "titel": "Verben in Personalformen setzen",
+      "lernziele": [
+        "3"
+      ],
+      "intro": "Ich kann Verben in die passende Personalform setzen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Die Verbform passt zur Person: ich spiele, du spielst, wir spielen. Verben schreibt man meistens klein."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Bei spielen bleibt der Stamm spiel- gleich: ich spiele, du spielst."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Es gibt Ausnahmen: ich lese, du liest. Achte auf den ganzen Satz."
+        }
+      ]
+    },
+    {
+      "id": "lz-4",
+      "titel": "Mit Adjektiven beschreiben",
+      "lernziele": [
+        "4"
+      ],
+      "intro": "Ich kann Dinge mit passenden Adjektiven beschreiben.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Adjektive sagen, wie etwas ist. Du fragst: Wie ist es?"
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Das Kissen ist weich. Die Zitrone ist sauer."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Mehrere Beschreibungen können passen."
+        }
+      ]
+    },
+    {
+      "id": "lz-5",
+      "titel": "Wörter in Silben zerlegen",
+      "lernziele": [
+        "5"
+      ],
+      "intro": "Ich kann Wörter in Silben zerlegen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Sprich das Wort langsam und klatsche die Silben. In jeder Silbe hörst du einen Silbenkern, meist einen Vokal."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Ba-na-ne hat drei Silben; Ta-fel hat zwei."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Zum Trennen beim Schreiben gibt es Zusatzregeln. Hier üben wir einfache Beispiele."
+        }
+      ]
+    },
+    {
+      "id": "lz-6",
+      "titel": "Lange und kurze Selbstlaute hören",
+      "lernziele": [
+        "6"
+      ],
+      "intro": "Ich kann lange und kurze Selbstlaute unterscheiden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Höre auf den betonten Selbstlaut: Hut hat ein langes u, Hund ein kurzes u. Langes i wird oft ie geschrieben."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Biene: langes i, geschrieben ie. Kiste: kurzes i."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: «Oft» bedeutet nicht «immer»: Tiger hat ein langes i ohne ie."
+        }
+      ]
+    },
+    {
+      "id": "lz-7",
+      "titel": "Wortfamilien und Wortstamm erkennen",
+      "lernziele": [
+        "7"
+      ],
+      "intro": "Ich kann verwandte Wörter an ihrem Wortstamm erkennen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Wörter einer Wortfamilie sind verwandt und haben einen gemeinsamen Kern."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "spielen, Spieler, Spiel: gemeinsamer Stamm spiel-."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Nur ein ähnlicher Anfang reicht nicht. Spielen und Spinne gehören nicht zur selben Wortfamilie."
+        }
+      ]
+    },
+    {
+      "id": "lz-8",
+      "titel": "Wortfelder und Reimwörter finden",
+      "lernziele": [
+        "8"
+      ],
+      "intro": "Ich kann Wörter zu Wortfeldern ordnen und Reimwörter finden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Wortfelder verbinden Wörter nach ihrer Bedeutung. Reimwörter klingen am Ende gleich oder ähnlich."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "gehen, laufen, rennen: Bewegung. Hut - Mut: Reim."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Wortfamilie und Wortfeld sind verschieden: gehen und rennen haben verschiedene Stämme."
+        }
+      ]
+    },
+    {
+      "id": "lz-9",
+      "titel": "Satzarten und Satzzeichen erkennen",
+      "lernziele": [
+        "9"
+      ],
+      "intro": "Ich kann Aussagen, Fragen und Ausrufe unterscheiden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Eine Aussage endet meist mit Punkt. Eine Frage hat ein Fragezeichen. Ein Ausruf oder starker Zuruf hat ein Ausrufezeichen."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Du kommst. Kommst du? Pass auf!"
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Am Satzanfang schreibt man gross."
+        }
+      ]
+    },
+    {
+      "id": "lz-10",
+      "titel": "Orte und Richtungen beschreiben",
+      "lernziele": [
+        "10"
+      ],
+      "intro": "Ich kann Orte und Richtungen mit passenden Wörtern beschreiben.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Wörter wie auf, unter, neben, vor und hinter helfen, einen Ort genau zu beschreiben."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Der Ball liegt unter dem Tisch. Die Katze läuft zum Baum."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Achte darauf, aus welcher Richtung du auf das Bild schaust."
+        }
+      ]
+    },
+    {
+      "id": "lz-11",
+      "titel": "Wochentage und Monate ordnen",
+      "lernziele": [
+        "11"
+      ],
+      "intro": "Ich kann Wochentage und Monate in die richtige Reihenfolge bringen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Eine Woche hat sieben Tage. Das Jahr hat zwölf Monate. Lerne ihre Reihenfolge."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Auf Montag folgt Dienstag. Auf April folgt Mai."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Bei Februar endet das Jahr nicht: Nach Dezember kommt wieder Januar."
+        }
+      ]
+    },
+    {
+      "id": "lz-12",
+      "titel": "Texte verstehen und sorgfältig abschreiben",
+      "lernziele": [
+        "12"
+      ],
+      "intro": "Ich kann einen kurzen Text verstehen und sorgfältig abschreiben.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Lies zuerst. Schreibe Wortgruppen ab. Vergleiche danach jedes Wort, die Grossschreibung und die Satzzeichen."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Aus «der hund rennt.» wird «Der Hund rennt.»"
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Beantworte Textfragen mit Angaben aus dem Text."
+        }
+      ]
+    },
+    {
+      "id": "lernspick",
+      "titel": "Lernspick",
+      "lernziele": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "intro": "Das Wichtigste kurz zusammengefasst. Decke die Antworten ab.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Nach dem ABC ordnen",
+          "text": "Vergleiche die ersten Buchstaben. Sind sie gleich, vergleiche die nächsten."
+        },
+        {
+          "t": "merke",
+          "titel": "Nomen mit Artikeln und Mehrzahl schreiben",
+          "text": "Nomen schreibt man gross. Viele haben die Begleiter der, die oder das. Die Mehrzahl muss man mitlernen."
+        },
+        {
+          "t": "merke",
+          "titel": "Verben in Personalformen setzen",
+          "text": "Die Verbform passt zur Person: ich spiele, du spielst, wir spielen. Verben schreibt man meistens klein."
+        },
+        {
+          "t": "merke",
+          "titel": "Mit Adjektiven beschreiben",
+          "text": "Adjektive sagen, wie etwas ist. Du fragst: Wie ist es?"
+        },
+        {
+          "t": "merke",
+          "titel": "Wörter in Silben zerlegen",
+          "text": "Sprich das Wort langsam und klatsche die Silben. In jeder Silbe hörst du einen Silbenkern, meist einen Vokal."
+        },
+        {
+          "t": "merke",
+          "titel": "Lange und kurze Selbstlaute hören",
+          "text": "Höre auf den betonten Selbstlaut: Hut hat ein langes u, Hund ein kurzes u. Langes i wird oft ie geschrieben."
+        },
+        {
+          "t": "merke",
+          "titel": "Wortfamilien und Wortstamm erkennen",
+          "text": "Wörter einer Wortfamilie sind verwandt und haben einen gemeinsamen Kern."
+        },
+        {
+          "t": "merke",
+          "titel": "Wortfelder und Reimwörter finden",
+          "text": "Wortfelder verbinden Wörter nach ihrer Bedeutung. Reimwörter klingen am Ende gleich oder ähnlich."
+        },
+        {
+          "t": "merke",
+          "titel": "Satzarten und Satzzeichen erkennen",
+          "text": "Eine Aussage endet meist mit Punkt. Eine Frage hat ein Fragezeichen. Ein Ausruf oder starker Zuruf hat ein Ausrufezeichen."
+        },
+        {
+          "t": "merke",
+          "titel": "Orte und Richtungen beschreiben",
+          "text": "Wörter wie auf, unter, neben, vor und hinter helfen, einen Ort genau zu beschreiben."
+        },
+        {
+          "t": "merke",
+          "titel": "Wochentage und Monate ordnen",
+          "text": "Eine Woche hat sieben Tage. Das Jahr hat zwölf Monate. Lerne ihre Reihenfolge."
+        },
+        {
+          "t": "merke",
+          "titel": "Texte verstehen und sorgfältig abschreiben",
+          "text": "Lies zuerst. Schreibe Wortgruppen ab. Vergleiche danach jedes Wort, die Grossschreibung und die Satzzeichen."
+        }
+      ]
+    }
+  ],
+  "karten": [
+    {
+      "vorne": "Nomen",
+      "hinten": "Namenwörter: der Baum, die Freude, das Kind."
+    },
+    {
+      "vorne": "Artikel",
+      "hinten": "Begleiter: der, die, das; ein, eine."
+    },
+    {
+      "vorne": "Verb",
+      "hinten": "Tunwort: malen, spielen, schlafen."
+    },
+    {
+      "vorne": "Adjektiv",
+      "hinten": "Wiewort: Wie ist etwas? rot, leise, weich."
+    },
+    {
+      "vorne": "Einzahl",
+      "hinten": "Ein Ding: das Buch."
+    },
+    {
+      "vorne": "Mehrzahl",
+      "hinten": "Mehrere Dinge: die Bücher."
+    },
+    {
+      "vorne": "Wortstamm",
+      "hinten": "Gemeinsamer Kern verwandter Wörter: spiel-."
+    },
+    {
+      "vorne": "Wortfamilie",
+      "hinten": "Verwandte Wörter: spielen, Spiel, Spieler."
+    },
+    {
+      "vorne": "Wortfeld",
+      "hinten": "Wörter zu einem Thema: rennen, gehen, wandern."
+    },
+    {
+      "vorne": "Vokale",
+      "hinten": "Selbstlaute: a, e, i, o, u; dazu Umlaute ä, ö, ü."
+    },
+    {
+      "vorne": "Satzanfang",
+      "hinten": "Das erste Wort eines Satzes wird grossgeschrieben."
+    },
+    {
+      "vorne": "Kontrollieren",
+      "hinten": "Lies nochmals und prüfe Abstände, Nomen und Satzzeichen."
+    }
+  ],
+  "uebungen": [
+    {
+      "typ": "reihenfolge",
+      "frage": "Ordne nach dem ABC.",
+      "items": [
+        "Affe",
+        "Bär",
+        "Ente",
+        "Zebra"
+      ],
+      "id": "u1-1",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Vergleiche die ersten Buchstaben. Sind sie gleich, vergleiche die nächsten."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Welcher Buchstabe kommt zwischen m und o?",
+      "text": "m - {{0}} - o",
+      "luecken": [
+        [
+          "n"
+        ]
+      ],
+      "id": "u1-2",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Vergleiche die ersten Buchstaben. Sind sie gleich, vergleiche die nächsten."
+    },
+    {
+      "id": "u1-3",
+      "typ": "offen",
+      "lernziel": "1",
+      "frage": "Ordne nach dem ABC: Tor, Ball, Auto, Sonne.",
+      "musterloesung": "Auto, Ball, Sonne, Tor.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "1",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Sprich das ABC langsam mit."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne die Begleiter zu.",
+      "paare": [
+        [
+          "Baum",
+          "der"
+        ],
+        [
+          "Uhr",
+          "die"
+        ],
+        [
+          "Heft",
+          "das"
+        ]
+      ],
+      "id": "u2-1",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "Nomen schreibt man gross. Viele haben die Begleiter der, die oder das. Die Mehrzahl muss man mitlernen."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze die Mehrzahl.",
+      "text": "das Buch - die {{0}}; das Kind - die {{1}}",
+      "luecken": [
+        [
+          "Bücher"
+        ],
+        [
+          "Kinder"
+        ]
+      ],
+      "id": "u2-2",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "Nomen schreibt man gross. Viele haben die Begleiter der, die oder das. Die Mehrzahl muss man mitlernen."
+    },
+    {
+      "id": "u2-3",
+      "typ": "offen",
+      "lernziel": "2",
+      "frage": "Schreibe mit bestimmtem und unbestimmtem Artikel: Hund, Blume. Ergänze die Mehrzahl von Haus.",
+      "musterloesung": "der Hund / ein Hund; die Blume / eine Blume; das Haus - die Häuser.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "2",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Ein unbestimmter Begleiter lautet im Grundfall ein oder eine: ein Ball, eine Uhr."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze spielen.",
+      "text": "Ich {{0}}. Du {{1}}.",
+      "luecken": [
+        [
+          "spiele"
+        ],
+        [
+          "spielst"
+        ]
+      ],
+      "id": "u3-1",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Die Verbform passt zur Person: ich spiele, du spielst, wir spielen. Verben schreibt man meistens klein."
+    },
+    {
+      "typ": "mc",
+      "frage": "Was ist die Grundform von «sie rennt»?",
+      "optionen": [
+        "rennen",
+        "rennt",
+        "rannte"
+      ],
+      "richtig": 0,
+      "id": "u3-2",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Die Verbform passt zur Person: ich spiele, du spielst, wir spielen. Verben schreibt man meistens klein."
+    },
+    {
+      "id": "u3-3",
+      "typ": "offen",
+      "lernziel": "3",
+      "frage": "Ergänze malen: ich ___, du ___, wir ___. Markiere den Stamm.",
+      "musterloesung": "ich male, du malst, wir malen; Stamm mal-.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "3",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Es gibt Ausnahmen: ich lese, du liest. Achte auf den ganzen Satz."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welches Wort ist ein Adjektiv?",
+      "optionen": [
+        "weich",
+        "laufen",
+        "Tisch"
+      ],
+      "richtig": 0,
+      "id": "u4-1",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Adjektive sagen, wie etwas ist. Du fragst: Wie ist es?"
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne eine passende Eigenschaft zu.",
+      "paare": [
+        [
+          "Zitrone",
+          "sauer"
+        ],
+        [
+          "Feder",
+          "leicht"
+        ],
+        [
+          "Eis",
+          "kalt"
+        ]
+      ],
+      "id": "u4-2",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Adjektive sagen, wie etwas ist. Du fragst: Wie ist es?"
+    },
+    {
+      "id": "u4-3",
+      "typ": "offen",
+      "lernziel": "4",
+      "frage": "Beschreibe einen Ball und eine Blume mit je zwei Adjektiven.",
+      "musterloesung": "Zum Beispiel: Ball rund und rot; Blume gelb und duftend.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "4",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Mehrere Beschreibungen können passen."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne die Silbenzahl zu.",
+      "paare": [
+        [
+          "Haus",
+          "1"
+        ],
+        [
+          "Tafel",
+          "2"
+        ],
+        [
+          "Banane",
+          "3"
+        ]
+      ],
+      "id": "u5-1",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Sprich das Wort langsam und klatsche die Silben. In jeder Silbe hörst du einen Silbenkern, meist einen Vokal."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze die letzte Silbe.",
+      "text": "Ba-na-{{0}}",
+      "luecken": [
+        [
+          "ne"
+        ]
+      ],
+      "id": "u5-2",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Sprich das Wort langsam und klatsche die Silben. In jeder Silbe hörst du einen Silbenkern, meist einen Vokal."
+    },
+    {
+      "id": "u5-3",
+      "typ": "offen",
+      "lernziel": "5",
+      "frage": "Trenne mit Strichen: Rose, Banane, Tomate.",
+      "musterloesung": "Ro-se; Ba-na-ne; To-ma-te.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "5",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Zum Trennen beim Schreiben gibt es Zusatzregeln. Hier üben wir einfache Beispiele."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne den betonten Selbstlaut zu.",
+      "paare": [
+        [
+          "Hut",
+          "langes u"
+        ],
+        [
+          "Hund",
+          "kurzes u"
+        ],
+        [
+          "Biene",
+          "langes i"
+        ]
+      ],
+      "id": "u6-1",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Höre auf den betonten Selbstlaut: Hut hat ein langes u, Hund ein kurzes u. Langes i wird oft ie geschrieben."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze i oder ie.",
+      "text": "B{{0}}ne; K{{1}}ste",
+      "luecken": [
+        [
+          "ie"
+        ],
+        [
+          "i"
+        ]
+      ],
+      "id": "u6-2",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Höre auf den betonten Selbstlaut: Hut hat ein langes u, Hund ein kurzes u. Langes i wird oft ie geschrieben."
+    },
+    {
+      "id": "u6-3",
+      "typ": "offen",
+      "lernziel": "6",
+      "frage": "Sprich Hut und Hund. Markiere lang oder kurz. Ergänze: B_ne und K_ste.",
+      "musterloesung": "Hut: lang; Hund: kurz; Biene und Kiste.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "6",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "«Oft» bedeutet nicht «immer»: Tiger hat ein langes i ohne ie."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welches Wort gehört zur Wortfamilie spielen?",
+      "optionen": [
+        "Spieler",
+        "Spinne",
+        "Spiegel"
+      ],
+      "richtig": 0,
+      "id": "u7-1",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Wörter einer Wortfamilie sind verwandt und haben einen gemeinsamen Kern."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze den gemeinsamen Wortstamm.",
+      "text": "malen, Maler, Malbuch: {{0}}-",
+      "luecken": [
+        [
+          "mal"
+        ]
+      ],
+      "id": "u7-2",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Wörter einer Wortfamilie sind verwandt und haben einen gemeinsamen Kern."
+    },
+    {
+      "id": "u7-3",
+      "typ": "offen",
+      "lernziel": "7",
+      "frage": "Schreibe zwei Wörter aus der Wortfamilie spielen auf. Unterstreiche den Wortstamm.",
+      "musterloesung": "Zum Beispiel spielen und Spielplatz; spiel- beziehungsweise Spiel- unterstreichen.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "7",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Nur ein ähnlicher Anfang reicht nicht. Spielen und Spinne gehören nicht zur selben Wortfamilie."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welches Wort passt zum Wortfeld gehen?",
+      "optionen": [
+        "schlendern",
+        "kochen",
+        "singen"
+      ],
+      "richtig": 0,
+      "id": "u8-1",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Wortfelder verbinden Wörter nach ihrer Bedeutung. Reimwörter klingen am Ende gleich oder ähnlich."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Verbinde Reimwörter.",
+      "paare": [
+        [
+          "Hut",
+          "Mut"
+        ],
+        [
+          "Brot",
+          "rot"
+        ],
+        [
+          "Tisch",
+          "Fisch"
+        ]
+      ],
+      "id": "u8-2",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Wortfelder verbinden Wörter nach ihrer Bedeutung. Reimwörter klingen am Ende gleich oder ähnlich."
+    },
+    {
+      "id": "u8-3",
+      "typ": "offen",
+      "lernziel": "8",
+      "frage": "Nenne zwei Wörter für gehen. Finde ein Reimwort zu Haus.",
+      "musterloesung": "Zum Beispiel laufen und wandern; Haus - Maus.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "8",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Wortfamilie und Wortfeld sind verschieden: gehen und rennen haben verschiedene Stämme."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne zu.",
+      "paare": [
+        [
+          "Wo bist du?",
+          "Frage"
+        ],
+        [
+          "Es regnet.",
+          "Aussage"
+        ],
+        [
+          "Vorsicht!",
+          "Ausruf"
+        ]
+      ],
+      "id": "u9-1",
+      "lernziel": "9",
+      "punkte": 1,
+      "erklaerung": "Eine Aussage endet meist mit Punkt. Eine Frage hat ein Fragezeichen. Ein Ausruf oder starker Zuruf hat ein Ausrufezeichen."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze die Satzzeichen.",
+      "text": "Wo ist mein Ball{{0}} Ich bin hier{{1}}",
+      "luecken": [
+        [
+          "?"
+        ],
+        [
+          "."
+        ]
+      ],
+      "id": "u9-2",
+      "lernziel": "9",
+      "punkte": 1,
+      "erklaerung": "Eine Aussage endet meist mit Punkt. Eine Frage hat ein Fragezeichen. Ein Ausruf oder starker Zuruf hat ein Ausrufezeichen."
+    },
+    {
+      "id": "u9-3",
+      "typ": "offen",
+      "lernziel": "9",
+      "frage": "Setze Satzzeichen und benenne die Satzart: Wo ist Leo / Leo liest / Achtung.",
+      "musterloesung": "Wo ist Leo? Frage; Leo liest. Aussage; Achtung! Ausruf.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "9",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Am Satzanfang schreibt man gross."
+    },
+    {
+      "typ": "mc",
+      "frage": "Der Ball liegt tiefer als die Tischplatte, zwischen den Tischbeinen. Wo liegt er?",
+      "optionen": [
+        "unter dem Tisch",
+        "auf dem Tisch",
+        "über dem Tisch"
+      ],
+      "richtig": 0,
+      "id": "u10-1",
+      "lernziel": "10",
+      "punkte": 1,
+      "erklaerung": "Wörter wie auf, unter, neben, vor und hinter helfen, einen Ort genau zu beschreiben."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Schreibe kürzer.",
+      "text": "in + das = {{0}}; an + das = {{1}}",
+      "luecken": [
+        [
+          "ins"
+        ],
+        [
+          "ans"
+        ]
+      ],
+      "id": "u10-2",
+      "lernziel": "10",
+      "punkte": 1,
+      "erklaerung": "Wörter wie auf, unter, neben, vor und hinter helfen, einen Ort genau zu beschreiben."
+    },
+    {
+      "id": "u10-3",
+      "typ": "offen",
+      "lernziel": "10",
+      "frage": "Zeichne einen Tisch. Zeichne darunter einen Ball und darauf ein Buch.",
+      "musterloesung": "Ball unter der Tischplatte; Buch auf dem Tisch.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "10",
+      "zeilen": 5,
+      "skizze": true,
+      "hilfe": "Achte darauf, aus welcher Richtung du auf das Bild schaust."
+    },
+    {
+      "typ": "reihenfolge",
+      "frage": "Ordne die ersten vier Wochentage.",
+      "items": [
+        "Montag",
+        "Dienstag",
+        "Mittwoch",
+        "Donnerstag"
+      ],
+      "id": "u11-1",
+      "lernziel": "11",
+      "punkte": 1,
+      "erklaerung": "Eine Woche hat sieben Tage. Das Jahr hat zwölf Monate. Lerne ihre Reihenfolge."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze die Monate.",
+      "text": "März - {{0}} - Mai; Dezember - {{1}} - Februar",
+      "luecken": [
+        [
+          "April"
+        ],
+        [
+          "Januar"
+        ]
+      ],
+      "id": "u11-2",
+      "lernziel": "11",
+      "punkte": 1,
+      "erklaerung": "Eine Woche hat sieben Tage. Das Jahr hat zwölf Monate. Lerne ihre Reihenfolge."
+    },
+    {
+      "id": "u11-3",
+      "typ": "offen",
+      "lernziel": "11",
+      "frage": "Schreibe den Tag nach Freitag und den Monat vor Juli auf.",
+      "musterloesung": "Samstag; Juni.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "11",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Bei Februar endet das Jahr nicht: Nach Dezember kommt wieder Januar."
+    },
+    {
+      "typ": "mc",
+      "frage": "«Lena trägt eine gelbe Tasche zur Schule.» Welche Farbe hat die Tasche?",
+      "optionen": [
+        "gelb",
+        "blau",
+        "grün"
+      ],
+      "richtig": 0,
+      "id": "u12-1",
+      "lernziel": "12",
+      "punkte": 1,
+      "erklaerung": "Lies zuerst. Schreibe Wortgruppen ab. Vergleiche danach jedes Wort, die Grossschreibung und die Satzzeichen."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welcher Satz ist richtig geschrieben?",
+      "optionen": [
+        "Der Hund rennt.",
+        "der hund rennt.",
+        "Der hund Rennt."
+      ],
+      "richtig": 0,
+      "id": "u12-2",
+      "lernziel": "12",
+      "punkte": 1,
+      "erklaerung": "Lies zuerst. Schreibe Wortgruppen ab. Vergleiche danach jedes Wort, die Grossschreibung und die Satzzeichen."
+    },
+    {
+      "id": "u12-3",
+      "typ": "offen",
+      "lernziel": "12",
+      "frage": "Lies: «Mila pflanzt eine Blume. Sie giesst sie mit Wasser.» Was pflanzt Mila? Schreibe den zweiten Satz genau ab.",
+      "musterloesung": "Mila pflanzt eine Blume. Abschrift: Sie giesst sie mit Wasser.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "12",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Beantworte Textfragen mit Angaben aus dem Text."
+    }
+  ],
+  "pruefungen": [
+    {
+      "id": "eigener-test",
+      "titel": "Deutsch Grundlagen - Lernkontrolle",
+      "richtzeit": 40,
+      "hinweis": "Wiederholung ausgewählter Grundlagen aus der Arbeitsblattsammlung. Teile die Aufgaben auf mehrere kurze Lernrunden auf. Die Probe kann in zwei Teilen gelöst werden. Offene Aufgaben anhand der Kriterien selbst bewerten. Bei Blitzlesen hört eine Begleitperson zu; die App misst kein Lesetempo.",
+      "aufgaben": [
+        {
+          "id": "test-1",
+          "typ": "offen",
+          "lernziel": "1",
+          "frage": "Ordne nach dem ABC: Baum, Apfel, Blume.",
+          "musterloesung": "Apfel zuerst.\nBaum vor Blume; ganze Reihenfolge: Apfel, Baum, Blume.",
+          "kriterien": [
+            {
+              "text": "Apfel zuerst.",
+              "punkte": 1
+            },
+            {
+              "text": "Baum vor Blume; ganze Reihenfolge: Apfel, Baum, Blume.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 2,
+          "nr": "1",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Nach dem ABC ordnen"
+        },
+        {
+          "id": "test-2",
+          "typ": "offen",
+          "lernziel": "2",
+          "frage": "Schreibe mit richtigem Artikel: Baum, Blume. Ergänze: das Buch - die ___.",
+          "musterloesung": "der Baum und die Blume.\ndie Bücher.",
+          "kriterien": [
+            {
+              "text": "der Baum und die Blume.",
+              "punkte": 1
+            },
+            {
+              "text": "die Bücher.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 2,
+          "nr": "2",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Nomen mit Artikeln und Mehrzahl schreiben"
+        },
+        {
+          "id": "test-3",
+          "typ": "offen",
+          "lernziel": "3",
+          "frage": "Ergänze spielen: ich ___, du ___, wir ___. Markiere den Stamm.",
+          "musterloesung": "spiele, spielst, spielen.\nStamm spiel- in allen Formen markiert.",
+          "kriterien": [
+            {
+              "text": "spiele, spielst, spielen.",
+              "punkte": 1
+            },
+            {
+              "text": "Stamm spiel- in allen Formen markiert.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 2,
+          "nr": "3",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Verben in Personalformen setzen"
+        },
+        {
+          "id": "test-4",
+          "typ": "offen",
+          "lernziel": "4",
+          "frage": "Schreibe je ein passendes Adjektiv: Das Eis ist ___. Die Feder ist ___.",
+          "musterloesung": "Zum Eis passt zum Beispiel kalt.\nZur Feder passt zum Beispiel leicht.",
+          "kriterien": [
+            {
+              "text": "Zum Eis passt zum Beispiel kalt.",
+              "punkte": 1
+            },
+            {
+              "text": "Zur Feder passt zum Beispiel leicht.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 2,
+          "nr": "4",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Mit Adjektiven beschreiben"
+        },
+        {
+          "id": "test-5",
+          "typ": "offen",
+          "lernziel": "5",
+          "frage": "Trenne in Silben: Rose und Banane.",
+          "musterloesung": "Ro-se.\nBa-na-ne.",
+          "kriterien": [
+            {
+              "text": "Ro-se.",
+              "punkte": 1
+            },
+            {
+              "text": "Ba-na-ne.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 2,
+          "nr": "5",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Wörter in Silben zerlegen"
+        },
+        {
+          "id": "test-6",
+          "typ": "offen",
+          "lernziel": "6",
+          "frage": "Ordne zu: Hut / Hund (langes oder kurzes u). Ergänze: B_ne.",
+          "musterloesung": "Hut lang, Hund kurz.\nBiene mit ie.",
+          "kriterien": [
+            {
+              "text": "Hut lang, Hund kurz.",
+              "punkte": 1
+            },
+            {
+              "text": "Biene mit ie.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 2,
+          "nr": "6",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Lange und kurze Selbstlaute hören"
+        },
+        {
+          "id": "test-7",
+          "typ": "offen",
+          "lernziel": "7",
+          "frage": "Finde den Wortstamm von malen, Maler, Malbuch. Schreibe ein weiteres verwandtes Wort.",
+          "musterloesung": "Stamm mal-/Mal-.\nZum Beispiel ausmalen oder Malstift.",
+          "kriterien": [
+            {
+              "text": "Stamm mal-/Mal-.",
+              "punkte": 1
+            },
+            {
+              "text": "Zum Beispiel ausmalen oder Malstift.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 2,
+          "nr": "7",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Wortfamilien und Wortstamm erkennen"
+        },
+        {
+          "id": "test-8",
+          "typ": "offen",
+          "lernziel": "8",
+          "frage": "Schreibe ein anderes Wort für gehen und ein Reimwort zu Haus.",
+          "musterloesung": "Zum Beispiel laufen, rennen, wandern oder schlendern.\nMaus (auch ein anderes passendes Reimwort ist erlaubt).",
+          "kriterien": [
+            {
+              "text": "Zum Beispiel laufen, rennen, wandern oder schlendern.",
+              "punkte": 1
+            },
+            {
+              "text": "Maus (auch ein anderes passendes Reimwort ist erlaubt).",
+              "punkte": 1
+            }
+          ],
+          "punkte": 2,
+          "nr": "8",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Wortfelder und Reimwörter finden"
+        },
+        {
+          "id": "test-9",
+          "typ": "offen",
+          "lernziel": "9",
+          "frage": "Ergänze Punkt, Fragezeichen oder Ausrufezeichen: Wo ist Mia / Mia liest / Stopp.",
+          "musterloesung": "Wo ist Mia?\nMia liest. und Stopp!",
+          "kriterien": [
+            {
+              "text": "Wo ist Mia?",
+              "punkte": 1
+            },
+            {
+              "text": "Mia liest. und Stopp!",
+              "punkte": 1
+            }
+          ],
+          "punkte": 2,
+          "nr": "9",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Satzarten und Satzzeichen erkennen"
+        },
+        {
+          "id": "test-10",
+          "typ": "offen",
+          "lernziel": "10",
+          "frage": "Zeichne einen Tisch. Darunter liegt ein Ball. Darauf liegt ein Buch.",
+          "musterloesung": "Ball unter dem Tisch.\nBuch auf dem Tisch.",
+          "kriterien": [
+            {
+              "text": "Ball unter dem Tisch.",
+              "punkte": 1
+            },
+            {
+              "text": "Buch auf dem Tisch.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 2,
+          "nr": "10",
+          "zeilen": 5,
+          "skizze": true,
+          "titel": "Orte und Richtungen beschreiben"
+        },
+        {
+          "id": "test-11",
+          "typ": "offen",
+          "lernziel": "11",
+          "frage": "Schreibe den Tag nach Donnerstag und den Monat nach Mai auf.",
+          "musterloesung": "Freitag.\nJuni.",
+          "kriterien": [
+            {
+              "text": "Freitag.",
+              "punkte": 1
+            },
+            {
+              "text": "Juni.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 2,
+          "nr": "11",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Wochentage und Monate ordnen"
+        },
+        {
+          "id": "test-12",
+          "typ": "offen",
+          "lernziel": "12",
+          "frage": "Lies: «Nora nimmt ein Buch. Sie setzt sich ans Fenster.» Was nimmt Nora? Schreibe den zweiten Satz genau ab.",
+          "musterloesung": "Ein Buch.\nSie setzt sich ans Fenster. mit Grossbuchstabe und Punkt.",
+          "kriterien": [
+            {
+              "text": "Ein Buch.",
+              "punkte": 1
+            },
+            {
+              "text": "Sie setzt sich ans Fenster. mit Grossbuchstabe und Punkt.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 2,
+          "nr": "12",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Texte verstehen und sorgfältig abschreiben"
+        }
+      ]
+    }
+  ]
+}

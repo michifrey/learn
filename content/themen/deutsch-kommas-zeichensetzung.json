@@ -1,0 +1,2036 @@
+{
+  "lernzielBasis": "selbst-formuliert",
+  "hinweis": "Eigene Lernziele und neue Aufgaben zu den hochgeladenen Unterlagen. Gemeinsames Paket für Klasse 5 und 6. Grundlagen zuerst, Infinitiv- und Partizipgruppen als anspruchsvollere Vertiefung. Freiwillige Kommas werden in offenen Aufgaben nicht als Fehler gewertet. Eigene Lernziele; schulische Vorgaben ergänzen.",
+  "quellen": [
+    {
+      "titel": "Kommas und Zeichensetzung - eigenes Lerndossier",
+      "art": "Erklärungen, Lernspick, Übungen, Test und Lösungen",
+      "seiten": 15,
+      "datei": "material/klasse-5/deutsch/kommas-zeichensetzung/Deutsch_kommas-zeichensetzung_Lerndossier.pdf"
+    }
+  ],
+  "herkunft": {
+    "dateien": [
+      "d_5_kp_kommasetzung_+.pdf",
+      "d_5_kp_kommasetzung_lsg+.pdf",
+      "d_5_kp_zeichensetzung.pdf",
+      "d_5_kp_zeichensetzung_lsg.pdf"
+    ],
+    "hinweis": "Vom Nutzer bereitgestellte Unterlagen als Themenbasis. Neu formulierte Inhalte; Originaldateien werden hier nicht veröffentlicht."
+  },
+  "lernziele": [
+    {
+      "id": "1",
+      "nr": "1",
+      "gruppe": "Deutsch 5-6",
+      "kurz": "Satzenden markieren",
+      "text": "Ich kann Satzenden und Satzarten bestimmen.",
+      "frage": "Satzenden markieren - wie geht das?",
+      "antwort": "Aussagen enden meist mit Punkt, Fragen mit Fragezeichen, Ausrufe mit Ausrufezeichen. Aufforderungen können je nach Nachdruck mit Punkt oder ! enden."
+    },
+    {
+      "id": "2",
+      "nr": "2",
+      "gruppe": "Deutsch 5-6",
+      "kurz": "Wörtliche Rede korrekt schreiben",
+      "text": "Ich kann alle drei Begleitsatzformen richtig schreiben.",
+      "frage": "Wörtliche Rede korrekt schreiben - wie geht das?",
+      "antwort": "Vorne: Doppelpunkt. Hinten und eingeschoben: Komma nach der schliessenden Anführung. ? und ! bleiben in der Rede."
+    },
+    {
+      "id": "3",
+      "nr": "3",
+      "gruppe": "Deutsch 5-6",
+      "kurz": "Aufzählungen trennen",
+      "text": "Ich kann Kommas in Aufzählungen setzen.",
+      "frage": "Aufzählungen trennen - wie geht das?",
+      "antwort": "Gleichrangige Glieder stehen mit Komma. Vor und, oder und sowie steht bei einer einfachen Aufzählung kein zusätzliches Komma."
+    },
+    {
+      "id": "4",
+      "nr": "4",
+      "gruppe": "Deutsch 5-6",
+      "kurz": "Gleichrangige Adjektive erkennen",
+      "text": "Ich kann gleichrangige Adjektive durch Kommas trennen.",
+      "frage": "Gleichrangige Adjektive erkennen - wie geht das?",
+      "antwort": "Gleichrangige Adjektive kannst du mit und verbinden. Beschreibt ein Adjektiv eine feste Verbindung näher, steht kein Aufzählungskomma."
+    },
+    {
+      "id": "5",
+      "nr": "5",
+      "gruppe": "Deutsch 5-6",
+      "kurz": "Hauptsätze verbinden",
+      "text": "Ich kann Hauptsätze in einer Satzreihe verbinden.",
+      "frage": "Hauptsätze verbinden - wie geht das?",
+      "antwort": "Hauptsätze ohne Bindewort werden durch Komma getrennt. Vor aber, sondern und denn steht ein Komma. Vor und/oder ist es zwischen selbstständigen Sätzen oft freiwillig."
+    },
+    {
+      "id": "6",
+      "nr": "6",
+      "gruppe": "Deutsch 5-6",
+      "kurz": "Konjunktionale Nebensätze abtrennen",
+      "text": "Ich kann Haupt- und Nebensätze mit Kommas trennen.",
+      "frage": "Konjunktionale Nebensätze abtrennen - wie geht das?",
+      "antwort": "Nebensätze mit weil, dass, obwohl, wenn oder damit werden durch Komma abgetrennt. Eingeschoben stehen sie zwischen zwei Kommas."
+    },
+    {
+      "id": "7",
+      "nr": "7",
+      "gruppe": "Deutsch 5-6",
+      "kurz": "Relativsätze einschliessen",
+      "text": "Ich kann Relativsätze erkennen und mit Kommas abtrennen.",
+      "frage": "Relativsätze einschliessen - wie geht das?",
+      "antwort": "Ein Relativsatz erklärt ein Bezugswort. Er beginnt oft mit der, die oder das. Ist er eingeschoben, braucht er zwei Kommas."
+    },
+    {
+      "id": "8",
+      "nr": "8",
+      "gruppe": "Deutsch 5-6",
+      "kurz": "Satzwertige Infinitivgruppen abtrennen",
+      "text": "Ich kann satzwertige Infinitivgruppen mit Kommas abtrennen.",
+      "frage": "Satzwertige Infinitivgruppen abtrennen - wie geht das?",
+      "antwort": "Satzwertige Gruppen mit zu-Infinitiv werden nach dem Regelwerk 2024 durch Komma getrennt, besonders deutlich bei um … zu oder ohne … zu."
+    },
+    {
+      "id": "9",
+      "nr": "9",
+      "gruppe": "Deutsch 5-6",
+      "kurz": "Partizipgruppen als Zusätze erkennen",
+      "text": "Ich kann eine Partizipgruppe als Zusatz markieren.",
+      "frage": "Partizipgruppen als Zusätze erkennen - wie geht das?",
+      "antwort": "Partizipgruppen enthalten zum Beispiel lachend oder erschöpft. Als ausdrücklich gemeinte Zusätze werden sie mit Kommas abgegrenzt."
+    },
+    {
+      "id": "10",
+      "nr": "10",
+      "gruppe": "Deutsch 5-6",
+      "kurz": "Appositionen und Nachträge kennzeichnen",
+      "text": "Ich kann erklärende Zusätze mit Kommas abgrenzen.",
+      "frage": "Appositionen und Nachträge kennzeichnen - wie geht das?",
+      "antwort": "Eine Apposition benennt ein Nomen genauer. Als Zusatz wird sie abgetrennt. Eingeschobene Zusätze haben zwei Kommas."
+    },
+    {
+      "id": "11",
+      "nr": "11",
+      "gruppe": "Deutsch 5-6",
+      "kurz": "Anreden und Ausrufe abtrennen",
+      "text": "Ich kann Anreden und selbstständige Ausrufe durch Kommas trennen.",
+      "frage": "Anreden und Ausrufe abtrennen - wie geht das?",
+      "antwort": "Anreden wie Lea und Ausrufe wie Ach werden vom restlichen Satz abgetrennt, wenn sie als Zusätze stehen."
+    },
+    {
+      "id": "12",
+      "nr": "12",
+      "gruppe": "Deutsch 5-6",
+      "kurz": "Gemischte Texte kontrollieren",
+      "text": "Ich kann Satzzeichen im Text mit einer Regel begründen.",
+      "frage": "Gemischte Texte kontrollieren - wie geht das?",
+      "antwort": "Suche zuerst Satzenden und Verben. Markiere Nebensätze und Zusätze. Prüfe dann Aufzählungen und direkte Rede."
+    }
+  ],
+  "lernen": [
+    {
+      "id": "lz-1",
+      "titel": "Satzenden markieren",
+      "lernziele": [
+        "1"
+      ],
+      "intro": "Ich kann Satzenden und Satzarten bestimmen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Aussagen enden meist mit Punkt, Fragen mit Fragezeichen, Ausrufe mit Ausrufezeichen. Aufforderungen können je nach Nachdruck mit Punkt oder ! enden."
+        },
+        {
+          "t": "bild",
+          "src": "content/img/deutsch-56/kommas-zeichensetzung.svg",
+          "alt": "Lernbild Kommas und Zeichensetzung",
+          "caption": "Eigene Lernskizze."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Ist es spät? Es ist spät. Halt!"
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Nicht jede Aufforderung muss laut sein."
+        }
+      ]
+    },
+    {
+      "id": "lz-2",
+      "titel": "Wörtliche Rede korrekt schreiben",
+      "lernziele": [
+        "2"
+      ],
+      "intro": "Ich kann alle drei Begleitsatzformen richtig schreiben.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Vorne: Doppelpunkt. Hinten und eingeschoben: Komma nach der schliessenden Anführung. ? und ! bleiben in der Rede."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "«Warte!», ruft Lea. «Heute», sagt Ben, «lese ich.»"
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: In der Schweiz sind «…» üblich."
+        }
+      ]
+    },
+    {
+      "id": "lz-3",
+      "titel": "Aufzählungen trennen",
+      "lernziele": [
+        "3"
+      ],
+      "intro": "Ich kann Kommas in Aufzählungen setzen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Gleichrangige Glieder stehen mit Komma. Vor und, oder und sowie steht bei einer einfachen Aufzählung kein zusätzliches Komma."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Im Korb liegen Äpfel, Birnen und Nüsse."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Ein anderes Satzgefüge kann trotzdem ein Komma direkt vor und enthalten."
+        }
+      ]
+    },
+    {
+      "id": "lz-4",
+      "titel": "Gleichrangige Adjektive erkennen",
+      "lernziele": [
+        "4"
+      ],
+      "intro": "Ich kann gleichrangige Adjektive durch Kommas trennen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Gleichrangige Adjektive kannst du mit und verbinden. Beschreibt ein Adjektiv eine feste Verbindung näher, steht kein Aufzählungskomma."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "ein heller, freundlicher Raum; die bequeme blaue Hose."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Entscheidend ist die Bedeutung, nicht allein die Zahl der Adjektive."
+        }
+      ]
+    },
+    {
+      "id": "lz-5",
+      "titel": "Hauptsätze verbinden",
+      "lernziele": [
+        "5"
+      ],
+      "intro": "Ich kann Hauptsätze in einer Satzreihe verbinden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Hauptsätze ohne Bindewort werden durch Komma getrennt. Vor aber, sondern und denn steht ein Komma. Vor und/oder ist es zwischen selbstständigen Sätzen oft freiwillig."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Es regnet, wir bleiben drinnen. Es regnet, aber wir gehen hinaus."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Mit sondern brauchst du in der Regel eine passende Verneinung im ersten Teil."
+        }
+      ]
+    },
+    {
+      "id": "lz-6",
+      "titel": "Konjunktionale Nebensätze abtrennen",
+      "lernziele": [
+        "6"
+      ],
+      "intro": "Ich kann Haupt- und Nebensätze mit Kommas trennen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Nebensätze mit weil, dass, obwohl, wenn oder damit werden durch Komma abgetrennt. Eingeschoben stehen sie zwischen zwei Kommas."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Weil es regnet, bleiben wir hier. Wir bleiben hier, weil es regnet."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Suche das gebeugte Verb und das Bindewort."
+        }
+      ]
+    },
+    {
+      "id": "lz-7",
+      "titel": "Relativsätze einschliessen",
+      "lernziele": [
+        "7"
+      ],
+      "intro": "Ich kann Relativsätze erkennen und mit Kommas abtrennen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Ein Relativsatz erklärt ein Bezugswort. Er beginnt oft mit der, die oder das. Ist er eingeschoben, braucht er zwei Kommas."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Das Buch, das du suchst, liegt hier."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Ein Relativpronomen kann gebeugt sein: den, dem, dessen."
+        }
+      ]
+    },
+    {
+      "id": "lz-8",
+      "titel": "Satzwertige Infinitivgruppen abtrennen",
+      "lernziele": [
+        "8"
+      ],
+      "intro": "Ich kann satzwertige Infinitivgruppen mit Kommas abtrennen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Satzwertige Gruppen mit zu-Infinitiv werden nach dem Regelwerk 2024 durch Komma getrennt, besonders deutlich bei um … zu oder ohne … zu."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Wir gehen hinaus, um Luft zu schnappen."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Kein pauschales Komma vor jedes zu: Es kann auch zu einem mehrteiligen Prädikat gehören, etwa Sie scheint zu schlafen."
+        }
+      ]
+    },
+    {
+      "id": "lz-9",
+      "titel": "Partizipgruppen als Zusätze erkennen",
+      "lernziele": [
+        "9"
+      ],
+      "intro": "Ich kann eine Partizipgruppe als Zusatz markieren.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Partizipgruppen enthalten zum Beispiel lachend oder erschöpft. Als ausdrücklich gemeinte Zusätze werden sie mit Kommas abgegrenzt."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Mia, leise summend, räumt auf."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Am Satzanfang kann das Komma bei einer erweiterten Partizipgruppe auch freiwillig sein: Leise summend(,) räumt Mia auf."
+        }
+      ]
+    },
+    {
+      "id": "lz-10",
+      "titel": "Appositionen und Nachträge kennzeichnen",
+      "lernziele": [
+        "10"
+      ],
+      "intro": "Ich kann erklärende Zusätze mit Kommas abgrenzen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Eine Apposition benennt ein Nomen genauer. Als Zusatz wird sie abgetrennt. Eingeschobene Zusätze haben zwei Kommas."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Bern, die Schweizer Bundesstadt, liegt an der Aare."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Nicht jede Wortgruppe neben einem Namen ist ein Zusatz: meine Freundin Lea steht meist ohne Komma."
+        }
+      ]
+    },
+    {
+      "id": "lz-11",
+      "titel": "Anreden und Ausrufe abtrennen",
+      "lernziele": [
+        "11"
+      ],
+      "intro": "Ich kann Anreden und selbstständige Ausrufe durch Kommas trennen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Anreden wie Lea und Ausrufe wie Ach werden vom restlichen Satz abgetrennt, wenn sie als Zusätze stehen."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Lea, kommst du mit? Ach, das ist schade!"
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Wörter wie ja oder bitte brauchen als normaler Satzteil nicht automatisch Kommas."
+        }
+      ]
+    },
+    {
+      "id": "lz-12",
+      "titel": "Gemischte Texte kontrollieren",
+      "lernziele": [
+        "12"
+      ],
+      "intro": "Ich kann Satzzeichen im Text mit einer Regel begründen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Suche zuerst Satzenden und Verben. Markiere Nebensätze und Zusätze. Prüfe dann Aufzählungen und direkte Rede."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Der Bus, der gerade kommt, ist voll. Zwei Kommas begrenzen den Relativsatz."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Eine Pause beim Sprechen ist nur ein Hinweis, kein Beweis."
+        }
+      ]
+    },
+    {
+      "id": "lernspick",
+      "titel": "Lernspick",
+      "lernziele": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "intro": "Das Wichtigste kurz zusammengefasst. Decke die Antworten ab.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Satzenden markieren",
+          "text": "Aussagen enden meist mit Punkt, Fragen mit Fragezeichen, Ausrufe mit Ausrufezeichen. Aufforderungen können je nach Nachdruck mit Punkt oder ! enden."
+        },
+        {
+          "t": "merke",
+          "titel": "Wörtliche Rede korrekt schreiben",
+          "text": "Vorne: Doppelpunkt. Hinten und eingeschoben: Komma nach der schliessenden Anführung. ? und ! bleiben in der Rede."
+        },
+        {
+          "t": "merke",
+          "titel": "Aufzählungen trennen",
+          "text": "Gleichrangige Glieder stehen mit Komma. Vor und, oder und sowie steht bei einer einfachen Aufzählung kein zusätzliches Komma."
+        },
+        {
+          "t": "merke",
+          "titel": "Gleichrangige Adjektive erkennen",
+          "text": "Gleichrangige Adjektive kannst du mit und verbinden. Beschreibt ein Adjektiv eine feste Verbindung näher, steht kein Aufzählungskomma."
+        },
+        {
+          "t": "merke",
+          "titel": "Hauptsätze verbinden",
+          "text": "Hauptsätze ohne Bindewort werden durch Komma getrennt. Vor aber, sondern und denn steht ein Komma. Vor und/oder ist es zwischen selbstständigen Sätzen oft freiwillig."
+        },
+        {
+          "t": "merke",
+          "titel": "Konjunktionale Nebensätze abtrennen",
+          "text": "Nebensätze mit weil, dass, obwohl, wenn oder damit werden durch Komma abgetrennt. Eingeschoben stehen sie zwischen zwei Kommas."
+        },
+        {
+          "t": "merke",
+          "titel": "Relativsätze einschliessen",
+          "text": "Ein Relativsatz erklärt ein Bezugswort. Er beginnt oft mit der, die oder das. Ist er eingeschoben, braucht er zwei Kommas."
+        },
+        {
+          "t": "merke",
+          "titel": "Satzwertige Infinitivgruppen abtrennen",
+          "text": "Satzwertige Gruppen mit zu-Infinitiv werden nach dem Regelwerk 2024 durch Komma getrennt, besonders deutlich bei um … zu oder ohne … zu."
+        },
+        {
+          "t": "merke",
+          "titel": "Partizipgruppen als Zusätze erkennen",
+          "text": "Partizipgruppen enthalten zum Beispiel lachend oder erschöpft. Als ausdrücklich gemeinte Zusätze werden sie mit Kommas abgegrenzt."
+        },
+        {
+          "t": "merke",
+          "titel": "Appositionen und Nachträge kennzeichnen",
+          "text": "Eine Apposition benennt ein Nomen genauer. Als Zusatz wird sie abgetrennt. Eingeschobene Zusätze haben zwei Kommas."
+        },
+        {
+          "t": "merke",
+          "titel": "Anreden und Ausrufe abtrennen",
+          "text": "Anreden wie Lea und Ausrufe wie Ach werden vom restlichen Satz abgetrennt, wenn sie als Zusätze stehen."
+        },
+        {
+          "t": "merke",
+          "titel": "Gemischte Texte kontrollieren",
+          "text": "Suche zuerst Satzenden und Verben. Markiere Nebensätze und Zusätze. Prüfe dann Aufzählungen und direkte Rede."
+        }
+      ]
+    }
+  ],
+  "karten": [
+    {
+      "vorne": "Hauptsatz",
+      "hinten": "Kann selbstständig stehen; gebeugtes Verb im Aussagesatz meist an zweiter Satzgliedstelle."
+    },
+    {
+      "vorne": "Nebensatz",
+      "hinten": "Ist untergeordnet; das gebeugte Verb steht in den hier geübten Sätzen am Ende."
+    },
+    {
+      "vorne": "Satzreihe",
+      "hinten": "Verbindung von Hauptsätzen."
+    },
+    {
+      "vorne": "Satzgefüge",
+      "hinten": "Verbindung von Hauptsatz und mindestens einem Nebensatz."
+    },
+    {
+      "vorne": "Konjunktion",
+      "hinten": "Bindewort, zum Beispiel aber, weil, obwohl."
+    },
+    {
+      "vorne": "Relativsatz",
+      "hinten": "Beschreibt ein Bezugswort genauer."
+    },
+    {
+      "vorne": "Infinitivgruppe",
+      "hinten": "Wortgruppe mit zu-Infinitiv, zum Beispiel um Zeit zu sparen."
+    },
+    {
+      "vorne": "Partizipgruppe",
+      "hinten": "Wortgruppe mit Partizip, zum Beispiel leise summend."
+    },
+    {
+      "vorne": "Apposition",
+      "hinten": "Beifügung zu einem Nomen, oft als Zusatz mit Kommas."
+    },
+    {
+      "vorne": "Einschub",
+      "hinten": "Wird bei den hier geübten Zusätzen von zwei Kommas eingeschlossen."
+    },
+    {
+      "vorne": "Anrede",
+      "hinten": "Lea, komm bitte her! Der Name wird vom Satz abgetrennt."
+    },
+    {
+      "vorne": "Kommaprobe",
+      "hinten": "Bestimme die Satzstruktur. Eine Sprechpause allein ist keine sichere Regel."
+    }
+  ],
+  "uebungen": [
+    {
+      "typ": "mc",
+      "frage": "Welcher Satz ist eine Frage?",
+      "optionen": [
+        "Wann beginnt der Film?",
+        "Der Film beginnt.",
+        "Ruhe!"
+      ],
+      "richtig": 0,
+      "id": "u1-1",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Aussagen enden meist mit Punkt, Fragen mit Fragezeichen, Ausrufe mit Ausrufezeichen. Aufforderungen können je nach Nachdruck mit Punkt oder ! enden."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze das Fragezeichen.",
+      "text": "Wo ist mein Heft{{0}}",
+      "luecken": [
+        [
+          "?"
+        ]
+      ],
+      "id": "u1-2",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Aussagen enden meist mit Punkt, Fragen mit Fragezeichen, Ausrufe mit Ausrufezeichen. Aufforderungen können je nach Nachdruck mit Punkt oder ! enden."
+    },
+    {
+      "id": "u1-3",
+      "typ": "offen",
+      "lernziel": "1",
+      "frage": "Setze passende Schlusszeichen: Wo liegt Bern / Bern liegt in der Schweiz / Hilfe.",
+      "musterloesung": "Wo liegt Bern? Bern liegt in der Schweiz. Hilfe!",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "1",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Nicht jede Aufforderung muss laut sein."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welcher Satz stimmt?",
+      "optionen": [
+        "«Kommst du?», fragt Mia.",
+        "«Kommst du», fragt Mia?",
+        "«Kommst du?» fragt Mia."
+      ],
+      "richtig": 0,
+      "id": "u2-1",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "Vorne: Doppelpunkt. Hinten und eingeschoben: Komma nach der schliessenden Anführung. ? und ! bleiben in der Rede."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze beide Kommas.",
+      "text": "«Heute»{{0}} sagt Leo{{1}} «bleibe ich hier.»",
+      "luecken": [
+        [
+          ","
+        ],
+        [
+          ","
+        ]
+      ],
+      "id": "u2-2",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "Vorne: Doppelpunkt. Hinten und eingeschoben: Komma nach der schliessenden Anführung. ? und ! bleiben in der Rede."
+    },
+    {
+      "id": "u2-3",
+      "typ": "offen",
+      "lernziel": "2",
+      "frage": "Setze alle Zeichen: Wo ist mein Heft fragt Ella",
+      "musterloesung": "«Wo ist mein Heft?», fragt Ella.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "2",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "In der Schweiz sind «…» üblich."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Aufzählung ist richtig?",
+      "optionen": [
+        "Wir kaufen Brot, Käse und Milch.",
+        "Wir kaufen Brot Käse, und Milch.",
+        "Wir kaufen, Brot, Käse und Milch."
+      ],
+      "richtig": 0,
+      "id": "u3-1",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Gleichrangige Glieder stehen mit Komma. Vor und, oder und sowie steht bei einer einfachen Aufzählung kein zusätzliches Komma."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze das Komma.",
+      "text": "Wir brauchen Stifte{{0}} Hefte und Bücher.",
+      "luecken": [
+        [
+          ","
+        ]
+      ],
+      "id": "u3-2",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Gleichrangige Glieder stehen mit Komma. Vor und, oder und sowie steht bei einer einfachen Aufzählung kein zusätzliches Komma."
+    },
+    {
+      "id": "u3-3",
+      "typ": "offen",
+      "lernziel": "3",
+      "frage": "Setze die Kommas: Sie malt liest spielt und singt.",
+      "musterloesung": "Sie malt, liest, spielt und singt.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "3",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Ein anderes Satzgefüge kann trotzdem ein Komma direkt vor und enthalten."
+    },
+    {
+      "typ": "mc",
+      "frage": "Wo ist das Komma passend?",
+      "optionen": [
+        "ein nasser, kalter Tag",
+        "eine, blaue Hose",
+        "ein, kalter Tag"
+      ],
+      "richtig": 0,
+      "id": "u4-1",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Gleichrangige Adjektive kannst du mit und verbinden. Beschreibt ein Adjektiv eine feste Verbindung näher, steht kein Aufzählungskomma."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Beide Eigenschaften sind gleichrangig.",
+      "text": "ein heller{{0}} freundlicher Raum",
+      "luecken": [
+        [
+          ","
+        ]
+      ],
+      "id": "u4-2",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Gleichrangige Adjektive kannst du mit und verbinden. Beschreibt ein Adjektiv eine feste Verbindung näher, steht kein Aufzählungskomma."
+    },
+    {
+      "id": "u4-3",
+      "typ": "offen",
+      "lernziel": "4",
+      "frage": "Setze nötige Kommas: ein langes spannendes Buch (beides gleichrangig); die bequeme blaue Hose.",
+      "musterloesung": "ein langes, spannendes Buch; die bequeme blaue Hose.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "4",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Entscheidend ist die Bedeutung, nicht allein die Zahl der Adjektive."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Verbindung ist richtig?",
+      "optionen": [
+        "Ich bin müde, aber ich lese weiter.",
+        "Ich bin müde aber, ich lese weiter.",
+        "Ich bin, müde aber ich lese weiter."
+      ],
+      "richtig": 0,
+      "id": "u5-1",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Hauptsätze ohne Bindewort werden durch Komma getrennt. Vor aber, sondern und denn steht ein Komma. Vor und/oder ist es zwischen selbstständigen Sätzen oft freiwillig."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Setze das Komma.",
+      "text": "Ich bleibe hier{{0}} denn es regnet.",
+      "luecken": [
+        [
+          ","
+        ]
+      ],
+      "id": "u5-2",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Hauptsätze ohne Bindewort werden durch Komma getrennt. Vor aber, sondern und denn steht ein Komma. Vor und/oder ist es zwischen selbstständigen Sätzen oft freiwillig."
+    },
+    {
+      "id": "u5-3",
+      "typ": "offen",
+      "lernziel": "5",
+      "frage": "Verbinde mit aber: Ich möchte spielen. Ich muss noch lernen.",
+      "musterloesung": "Ich möchte spielen, aber ich muss noch lernen.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "5",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Mit sondern brauchst du in der Regel eine passende Verneinung im ersten Teil."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze beide Grenzen.",
+      "text": "Mia{{0}} weil sie müde ist{{1}} geht nach Hause.",
+      "luecken": [
+        [
+          ","
+        ],
+        [
+          ","
+        ]
+      ],
+      "id": "u6-1",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Nebensätze mit weil, dass, obwohl, wenn oder damit werden durch Komma abgetrennt. Eingeschoben stehen sie zwischen zwei Kommas."
+    },
+    {
+      "typ": "mc",
+      "frage": "Was ist der Nebensatz? «Ich bleibe, weil es regnet.»",
+      "optionen": [
+        "weil es regnet",
+        "Ich bleibe",
+        "Ich bleibe weil"
+      ],
+      "richtig": 0,
+      "id": "u6-2",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Nebensätze mit weil, dass, obwohl, wenn oder damit werden durch Komma abgetrennt. Eingeschoben stehen sie zwischen zwei Kommas."
+    },
+    {
+      "id": "u6-3",
+      "typ": "offen",
+      "lernziel": "6",
+      "frage": "Setze das Komma und markiere den Nebensatz: Obwohl es kalt ist spielen wir draussen.",
+      "musterloesung": "Obwohl es kalt ist, spielen wir draussen. Nebensatz: Obwohl es kalt ist.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "6",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Suche das gebeugte Verb und das Bindewort."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze die Kommas.",
+      "text": "Der Hund{{0}} der dort schläft{{1}} gehört Mia.",
+      "luecken": [
+        [
+          ","
+        ],
+        [
+          ","
+        ]
+      ],
+      "id": "u7-1",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Ein Relativsatz erklärt ein Bezugswort. Er beginnt oft mit der, die oder das. Ist er eingeschoben, braucht er zwei Kommas."
+    },
+    {
+      "typ": "mc",
+      "frage": "Worauf bezieht sich «das»? «Das Heft, das ich suche, ist blau.»",
+      "optionen": [
+        "auf Heft",
+        "auf blau",
+        "auf ich"
+      ],
+      "richtig": 0,
+      "id": "u7-2",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Ein Relativsatz erklärt ein Bezugswort. Er beginnt oft mit der, die oder das. Ist er eingeschoben, braucht er zwei Kommas."
+    },
+    {
+      "id": "u7-3",
+      "typ": "offen",
+      "lernziel": "7",
+      "frage": "Setze alle Kommas: Die Frau die nebenan wohnt heisst Anna.",
+      "musterloesung": "Die Frau, die nebenan wohnt, heisst Anna.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "7",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Ein Relativpronomen kann gebeugt sein: den, dem, dessen."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Setze das Komma.",
+      "text": "Wir üben{{0}} um sicherer zu werden.",
+      "luecken": [
+        [
+          ","
+        ]
+      ],
+      "id": "u8-1",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Satzwertige Gruppen mit zu-Infinitiv werden nach dem Regelwerk 2024 durch Komma getrennt, besonders deutlich bei um … zu oder ohne … zu."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welcher Satz ist richtig?",
+      "optionen": [
+        "Er spart, um ein Velo zu kaufen.",
+        "Er spart um, ein Velo zu kaufen.",
+        "Er, spart um ein Velo zu kaufen."
+      ],
+      "richtig": 0,
+      "id": "u8-2",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Satzwertige Gruppen mit zu-Infinitiv werden nach dem Regelwerk 2024 durch Komma getrennt, besonders deutlich bei um … zu oder ohne … zu."
+    },
+    {
+      "id": "u8-3",
+      "typ": "offen",
+      "lernziel": "8",
+      "frage": "Setze die Kommas: Um pünktlich zu sein fahre ich früh los.",
+      "musterloesung": "Um pünktlich zu sein, fahre ich früh los.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "8",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Kein pauschales Komma vor jedes zu: Es kann auch zu einem mehrteiligen Prädikat gehören, etwa Sie scheint zu schlafen."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Wortgruppe enthält ein Partizip?",
+      "optionen": [
+        "leise singend",
+        "leise singen",
+        "leiser Gesang"
+      ],
+      "richtig": 0,
+      "id": "u9-1",
+      "lernziel": "9",
+      "punkte": 1,
+      "erklaerung": "Partizipgruppen enthalten zum Beispiel lachend oder erschöpft. Als ausdrücklich gemeinte Zusätze werden sie mit Kommas abgegrenzt."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Die Gruppe ist hier ausdrücklich ein Zusatz.",
+      "text": "Ben{{0}} vor Freude strahlend{{1}} kommt herein.",
+      "luecken": [
+        [
+          ","
+        ],
+        [
+          ","
+        ]
+      ],
+      "id": "u9-2",
+      "lernziel": "9",
+      "punkte": 1,
+      "erklaerung": "Partizipgruppen enthalten zum Beispiel lachend oder erschöpft. Als ausdrücklich gemeinte Zusätze werden sie mit Kommas abgegrenzt."
+    },
+    {
+      "id": "u9-3",
+      "typ": "offen",
+      "lernziel": "9",
+      "frage": "Füge «leise summend» als Zusatz ein: Mia räumt auf.",
+      "musterloesung": "Mia, leise summend, räumt auf.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "9",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Am Satzanfang kann das Komma bei einer erweiterten Partizipgruppe auch freiwillig sein: Leise summend(,) räumt Mia auf."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Setze die Kommas.",
+      "text": "Lea{{0}} meine Schwester{{1}} kommt mit.",
+      "luecken": [
+        [
+          ","
+        ],
+        [
+          ","
+        ]
+      ],
+      "id": "u10-1",
+      "lernziel": "10",
+      "punkte": 1,
+      "erklaerung": "Eine Apposition benennt ein Nomen genauer. Als Zusatz wird sie abgetrennt. Eingeschobene Zusätze haben zwei Kommas."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welcher Satz enthält einen erklärenden Zusatz?",
+      "optionen": [
+        "Hier wohnt Lea, meine Schwester.",
+        "Meine Schwester Lea wohnt hier.",
+        "Lea wohnt hier."
+      ],
+      "richtig": 0,
+      "id": "u10-2",
+      "lernziel": "10",
+      "punkte": 1,
+      "erklaerung": "Eine Apposition benennt ein Nomen genauer. Als Zusatz wird sie abgetrennt. Eingeschobene Zusätze haben zwei Kommas."
+    },
+    {
+      "id": "u10-3",
+      "typ": "offen",
+      "lernziel": "10",
+      "frage": "Setze die Kommas: Tom unser Nachbar hilft uns. Gemeint: unser Nachbar ist ein Zusatz.",
+      "musterloesung": "Tom, unser Nachbar, hilft uns.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "10",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Nicht jede Wortgruppe neben einem Namen ist ein Zusatz: meine Freundin Lea steht meist ohne Komma."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze die Kommas.",
+      "text": "Danke{{0}} das hilft mir. Kommst du mit{{1}} Lea?",
+      "luecken": [
+        [
+          ","
+        ],
+        [
+          ","
+        ]
+      ],
+      "id": "u11-1",
+      "lernziel": "11",
+      "punkte": 1,
+      "erklaerung": "Anreden wie Lea und Ausrufe wie Ach werden vom restlichen Satz abgetrennt, wenn sie als Zusätze stehen."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welcher Satz stimmt?",
+      "optionen": [
+        "Mia, hilf mir bitte!",
+        "Mia hilf, mir bitte!",
+        "Mia hilf mir, bitte! (Komma soll die Anrede abtrennen.)"
+      ],
+      "richtig": 0,
+      "id": "u11-2",
+      "lernziel": "11",
+      "punkte": 1,
+      "erklaerung": "Anreden wie Lea und Ausrufe wie Ach werden vom restlichen Satz abgetrennt, wenn sie als Zusätze stehen."
+    },
+    {
+      "id": "u11-3",
+      "typ": "offen",
+      "lernziel": "11",
+      "frage": "Setze Kommas: Ja das stimmt. Hilf mir bitte Leo.",
+      "musterloesung": "Ja, das stimmt. Hilf mir bitte, Leo.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "11",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Wörter wie ja oder bitte brauchen als normaler Satzteil nicht automatisch Kommas."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne die Regel zu.",
+      "paare": [
+        [
+          "Brot, Käse und Obst",
+          "Aufzählung"
+        ],
+        [
+          "weil es regnet",
+          "Nebensatz"
+        ],
+        [
+          "Lea, komm her!",
+          "Anrede"
+        ]
+      ],
+      "id": "u12-1",
+      "lernziel": "12",
+      "punkte": 1,
+      "erklaerung": "Suche zuerst Satzenden und Verben. Markiere Nebensätze und Zusätze. Prüfe dann Aufzählungen und direkte Rede."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Setze beide Grenzen.",
+      "text": "Das Buch{{0}} das du suchst{{1}} liegt hier.",
+      "luecken": [
+        [
+          ","
+        ],
+        [
+          ","
+        ]
+      ],
+      "id": "u12-2",
+      "lernziel": "12",
+      "punkte": 1,
+      "erklaerung": "Suche zuerst Satzenden und Verben. Markiere Nebensätze und Zusätze. Prüfe dann Aufzählungen und direkte Rede."
+    },
+    {
+      "id": "u12-3",
+      "typ": "offen",
+      "lernziel": "12",
+      "frage": "Setze Kommas und begründe: Mia die heute Geburtstag hat lädt Leo Nora und Ben ein.",
+      "musterloesung": "Mia, die heute Geburtstag hat, lädt Leo, Nora und Ben ein. Relativsatz mit zwei Kommas; Aufzählung mit Komma nach Leo.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "12",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Eine Pause beim Sprechen ist nur ein Hinweis, kein Beweis."
+    }
+  ],
+  "pruefungen": [
+    {
+      "id": "eigener-test",
+      "titel": "Kommas und Zeichensetzung - Lernkontrolle",
+      "richtzeit": 50,
+      "hinweis": "Gemeinsames Paket für Klasse 5 und 6. Grundlagen zuerst, Infinitiv- und Partizipgruppen als anspruchsvollere Vertiefung. Freiwillige Kommas werden in offenen Aufgaben nicht als Fehler gewertet. Eigene Lernziele; schulische Vorgaben ergänzen. Offene Aufgaben anhand der Kriterien selbst bewerten. Bei Blitzlesen hört eine Begleitperson zu; die App misst kein Lesetempo.",
+      "aufgaben": [
+        {
+          "id": "test-1",
+          "typ": "offen",
+          "lernziel": "1",
+          "frage": "Setze Zeichen und nenne die Satzart: Wo wohnt Leo / Leo wohnt hier / Vorsicht.",
+          "musterloesung": "Wo wohnt Leo?\nFragesatz erkannt.\nLeo wohnt hier. als Aussage.\nVorsicht! als Ausruf.",
+          "kriterien": [
+            {
+              "text": "Wo wohnt Leo?",
+              "punkte": 1
+            },
+            {
+              "text": "Fragesatz erkannt.",
+              "punkte": 1
+            },
+            {
+              "text": "Leo wohnt hier. als Aussage.",
+              "punkte": 1
+            },
+            {
+              "text": "Vorsicht! als Ausruf.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "1",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Satzenden markieren"
+        },
+        {
+          "id": "test-2",
+          "typ": "offen",
+          "lernziel": "2",
+          "frage": "Setze alle Zeichen: Ich komme ruft Ben / Morgen sagt Lea spiele ich",
+          "musterloesung": "«Ich komme», ruft Ben. (Auch ! innerhalb der Rede ist möglich.)\nRedezeichen, Komma und Schlusspunkt in Satz 1.\n«Morgen», sagt Lea, «spiele ich.»\nZwei Kommas, zweite Rede beginnt klein.",
+          "kriterien": [
+            {
+              "text": "«Ich komme», ruft Ben. (Auch ! innerhalb der Rede ist möglich.)",
+              "punkte": 1
+            },
+            {
+              "text": "Redezeichen, Komma und Schlusspunkt in Satz 1.",
+              "punkte": 1
+            },
+            {
+              "text": "«Morgen», sagt Lea, «spiele ich.»",
+              "punkte": 1
+            },
+            {
+              "text": "Zwei Kommas, zweite Rede beginnt klein.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "2",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Wörtliche Rede korrekt schreiben"
+        },
+        {
+          "id": "test-3",
+          "typ": "offen",
+          "lernziel": "3",
+          "frage": "Setze die Kommas: Wir brauchen Wasser Brot Obst und Nüsse. Begründe.",
+          "musterloesung": "Komma nach Wasser.\nKomma nach Brot.\nKein Aufzählungskomma vor und.\nGleichrangige Glieder der Aufzählung erkannt.",
+          "kriterien": [
+            {
+              "text": "Komma nach Wasser.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma nach Brot.",
+              "punkte": 1
+            },
+            {
+              "text": "Kein Aufzählungskomma vor und.",
+              "punkte": 1
+            },
+            {
+              "text": "Gleichrangige Glieder der Aufzählung erkannt.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "3",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Aufzählungen trennen"
+        },
+        {
+          "id": "test-4",
+          "typ": "offen",
+          "lernziel": "4",
+          "frage": "Setze nötige Kommas und begründe: ein warmer sonniger Tag (gleichrangig); die neue rote Jacke (gemeint: die rote Jacke ist neu).",
+          "musterloesung": "warmer, sonniger Tag.\nUnd-Probe erklärt.\nneue rote Jacke ohne Komma.\nFeste Verbindung rote Jacke wird näher beschrieben.",
+          "kriterien": [
+            {
+              "text": "warmer, sonniger Tag.",
+              "punkte": 1
+            },
+            {
+              "text": "Und-Probe erklärt.",
+              "punkte": 1
+            },
+            {
+              "text": "neue rote Jacke ohne Komma.",
+              "punkte": 1
+            },
+            {
+              "text": "Feste Verbindung rote Jacke wird näher beschrieben.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "4",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Gleichrangige Adjektive erkennen"
+        },
+        {
+          "id": "test-5",
+          "typ": "offen",
+          "lernziel": "5",
+          "frage": "Verbinde mit denn: Wir gehen hinein. Es regnet. Markiere die Verben.",
+          "musterloesung": "Wir gehen hinein, denn es regnet.\nKomma vor denn.\ngehen und regnet als gebeugte Verben markiert.\nZwei Hauptsätze / Satzreihe erkannt.",
+          "kriterien": [
+            {
+              "text": "Wir gehen hinein, denn es regnet.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma vor denn.",
+              "punkte": 1
+            },
+            {
+              "text": "gehen und regnet als gebeugte Verben markiert.",
+              "punkte": 1
+            },
+            {
+              "text": "Zwei Hauptsätze / Satzreihe erkannt.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "5",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Hauptsätze verbinden"
+        },
+        {
+          "id": "test-6",
+          "typ": "offen",
+          "lernziel": "6",
+          "frage": "Setze die Kommas und markiere den Nebensatz: Leo weil er Hunger hat kocht Nudeln.",
+          "musterloesung": "Leo, weil er Hunger hat, kocht Nudeln.\nBeide Grenzen durch Komma markiert.\nNebensatz weil er Hunger hat.\nhat steht am Ende des Nebensatzes.",
+          "kriterien": [
+            {
+              "text": "Leo, weil er Hunger hat, kocht Nudeln.",
+              "punkte": 1
+            },
+            {
+              "text": "Beide Grenzen durch Komma markiert.",
+              "punkte": 1
+            },
+            {
+              "text": "Nebensatz weil er Hunger hat.",
+              "punkte": 1
+            },
+            {
+              "text": "hat steht am Ende des Nebensatzes.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "6",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Konjunktionale Nebensätze abtrennen"
+        },
+        {
+          "id": "test-7",
+          "typ": "offen",
+          "lernziel": "7",
+          "frage": "Setze alle Kommas: Das Bild das du gemalt hast gefällt mir. Nenne das Bezugswort.",
+          "musterloesung": "Komma nach Bild.\nKomma nach hast.\nRelativsatz das du gemalt hast erkannt.\nBezugswort Bild.",
+          "kriterien": [
+            {
+              "text": "Komma nach Bild.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma nach hast.",
+              "punkte": 1
+            },
+            {
+              "text": "Relativsatz das du gemalt hast erkannt.",
+              "punkte": 1
+            },
+            {
+              "text": "Bezugswort Bild.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "7",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Relativsätze einschliessen"
+        },
+        {
+          "id": "test-8",
+          "typ": "offen",
+          "lernziel": "8",
+          "frage": "Setze Kommas und markiere die Infinitivgruppe: Lea trainiert um schneller zu schwimmen.",
+          "musterloesung": "Lea trainiert, um schneller zu schwimmen.\nKomma vor um.\nInfinitivgruppe um schneller zu schwimmen.\nzu schwimmen als zu-Infinitiv erkannt.",
+          "kriterien": [
+            {
+              "text": "Lea trainiert, um schneller zu schwimmen.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma vor um.",
+              "punkte": 1
+            },
+            {
+              "text": "Infinitivgruppe um schneller zu schwimmen.",
+              "punkte": 1
+            },
+            {
+              "text": "zu schwimmen als zu-Infinitiv erkannt.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "8",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Satzwertige Infinitivgruppen abtrennen"
+        },
+        {
+          "id": "test-9",
+          "typ": "offen",
+          "lernziel": "9",
+          "frage": "Füge «vor Freude strahlend» ausdrücklich als Zusatz ein: Ben kommt herein. Markiere das Partizip.",
+          "musterloesung": "Ben, vor Freude strahlend, kommt herein.\nKomma am Anfang des Zusatzes.\nKomma am Ende des Zusatzes.\nstrahlend als Partizip erkannt.",
+          "kriterien": [
+            {
+              "text": "Ben, vor Freude strahlend, kommt herein.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma am Anfang des Zusatzes.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma am Ende des Zusatzes.",
+              "punkte": 1
+            },
+            {
+              "text": "strahlend als Partizip erkannt.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "9",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Partizipgruppen als Zusätze erkennen"
+        },
+        {
+          "id": "test-10",
+          "typ": "offen",
+          "lernziel": "10",
+          "frage": "Setze die Kommas: Lea meine Schwester kommt mit. Markiere die Apposition.",
+          "musterloesung": "Lea, meine Schwester, kommt mit.\nErstes Komma nach Lea.\nZweites Komma nach Schwester.\nApposition meine Schwester markiert.",
+          "kriterien": [
+            {
+              "text": "Lea, meine Schwester, kommt mit.",
+              "punkte": 1
+            },
+            {
+              "text": "Erstes Komma nach Lea.",
+              "punkte": 1
+            },
+            {
+              "text": "Zweites Komma nach Schwester.",
+              "punkte": 1
+            },
+            {
+              "text": "Apposition meine Schwester markiert.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "10",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Appositionen und Nachträge kennzeichnen"
+        },
+        {
+          "id": "test-11",
+          "typ": "offen",
+          "lernziel": "11",
+          "frage": "Setze Kommas: Oh das ist schade. Kommst du mit Nora?",
+          "musterloesung": "Oh, das ist schade.\nOh als Ausruf / Zusatz erkannt.\nKommst du mit, Nora?\nNora als Anrede erkannt.",
+          "kriterien": [
+            {
+              "text": "Oh, das ist schade.",
+              "punkte": 1
+            },
+            {
+              "text": "Oh als Ausruf / Zusatz erkannt.",
+              "punkte": 1
+            },
+            {
+              "text": "Kommst du mit, Nora?",
+              "punkte": 1
+            },
+            {
+              "text": "Nora als Anrede erkannt.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "11",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Anreden und Ausrufe abtrennen"
+        },
+        {
+          "id": "test-12",
+          "typ": "offen",
+          "lernziel": "12",
+          "frage": "Setze alle Kommas: Lea die müde ist trinkt Tee Wasser und Saft. Nenne zwei Regeln.",
+          "musterloesung": "Komma nach Lea.\nKomma nach ist.\nKomma nach Tee.\nRelativsatz und Aufzählung als Regeln genannt.",
+          "kriterien": [
+            {
+              "text": "Komma nach Lea.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma nach ist.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma nach Tee.",
+              "punkte": 1
+            },
+            {
+              "text": "Relativsatz und Aufzählung als Regeln genannt.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "12",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Gemischte Texte kontrollieren"
+        }
+      ]
+    },
+    {
+      "id": "vorlage-kommas",
+      "titel": "Kommaregeln - Test nach deiner Vorlage",
+      "richtzeit": 45,
+      "hinweis": "Fünf Aufgabengruppen nach der hochgeladenen Vorlage, Text gekürzt und schweizerisch geschrieben. Aktueller Regelstand: das Komma nach «nicht» im letzten Text wird verlangt. Deshalb 25 statt 24 Punkte. Nicht identisch mit der Originalseite.",
+      "aufgaben": [
+        {
+          "id": "k1a",
+          "nr": "1a",
+          "typ": "mc",
+          "lernziel": "3",
+          "frage": "Kommas trennen gleichrangige Glieder einer Aufzählung, die nicht mit und/oder verbunden sind.",
+          "optionen": [
+            "Wahr",
+            "Falsch"
+          ],
+          "richtig": 0,
+          "punkte": 1
+        },
+        {
+          "id": "k1b",
+          "nr": "1b",
+          "typ": "mc",
+          "lernziel": "5",
+          "frage": "Vor aber und sondern steht in einer Satzreihe kein Komma.",
+          "optionen": [
+            "Wahr",
+            "Falsch"
+          ],
+          "richtig": 1,
+          "punkte": 1
+        },
+        {
+          "id": "k1c",
+          "nr": "1c",
+          "typ": "mc",
+          "lernziel": "6",
+          "frage": "Hauptsatz und Nebensatz werden durch Komma getrennt.",
+          "optionen": [
+            "Wahr",
+            "Falsch"
+          ],
+          "richtig": 0,
+          "punkte": 1
+        },
+        {
+          "id": "k1d",
+          "nr": "1d",
+          "typ": "mc",
+          "lernziel": "3",
+          "frage": "In einer einfachen Aufzählung ist vor und oder sowie kein Komma nötig.",
+          "optionen": [
+            "Wahr",
+            "Falsch"
+          ],
+          "richtig": 0,
+          "punkte": 1
+        },
+        {
+          "id": "k2",
+          "nr": "2",
+          "typ": "offen",
+          "lernziel": "3",
+          "frage": "Setze fehlende Kommas: Timo will lernen Tennis spielen und ins Kino gehen. Er trägt gerne Jeans Shirts Turnschuhe.",
+          "musterloesung": "Timo will lernen, Tennis spielen und ins Kino gehen. Er trägt gerne Jeans, Shirts, Turnschuhe.",
+          "kriterien": [
+            {
+              "text": "Komma nach lernen.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma nach Jeans.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma nach Shirts.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 3,
+          "zeilen": 6
+        },
+        {
+          "id": "k3",
+          "nr": "3",
+          "typ": "offen",
+          "lernziel": "2",
+          "frage": "Setze die Kommas: «Wollen wir zum Skaterpark gehen?» fragt Alessa. «Ich bin unsicher» sage ich «ob ich Zeit habe.»",
+          "musterloesung": "«Wollen wir zum Skaterpark gehen?», fragt Alessa. «Ich bin unsicher», sage ich, «ob ich Zeit habe.»",
+          "kriterien": [
+            {
+              "text": "Komma nach der ersten schliessenden Anführung.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma vor sage ich.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma nach sage ich.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 3,
+          "zeilen": 6
+        },
+        {
+          "id": "k4",
+          "nr": "4",
+          "typ": "offen",
+          "lernziel": [
+            "5",
+            "6",
+            "3"
+          ],
+          "frage": "Setze die Kommas: Der Wind weht die Wellen schlagen hoch. An der Kasse merkt sie dass ihr Geld fehlt. Sie öffnet die Tür tritt ein und legt die Tasche ab.",
+          "musterloesung": "Der Wind weht, die Wellen schlagen hoch. An der Kasse merkt sie, dass ihr Geld fehlt. Sie öffnet die Tür, tritt ein und legt die Tasche ab.",
+          "kriterien": [
+            {
+              "text": "Komma nach weht.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma vor dass.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma nach Tür.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 3,
+          "zeilen": 6
+        },
+        {
+          "id": "k5",
+          "nr": "5",
+          "typ": "offen",
+          "lernziel": [
+            "2",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "frage": "Setze alle fehlenden Kommas. Verwende die aktuellen Regeln.\nSturm tobte über dem Meer Wellen peitschten gegen die grauen schroffen Felsen. Ein alter Mann dessen Frau vor wenigen Wochen verstorben war stand am Ufer. Die Absicht seiner Kinder war es ihn auf das Festland zu holen. «Was soll ich nur tun?» murmelte er. «Manchmal müssen wir loslassen um neue Wege zu finden» sagte eine Frau die weise lächelte. Sie erklärte: «Mut bedeutet nicht keine Angst zu haben sondern trotz der Angst voranzugehen.» Dann verschwand sie wie sie gekommen war.",
+          "musterloesung": "Sturm tobte über dem Meer, Wellen peitschten gegen die grauen, schroffen Felsen. Ein alter Mann, dessen Frau vor wenigen Wochen verstorben war, stand am Ufer. Die Absicht seiner Kinder war es, ihn auf das Festland zu holen. «Was soll ich nur tun?», murmelte er. «Manchmal müssen wir loslassen, um neue Wege zu finden», sagte eine Frau, die weise lächelte. Sie erklärte: «Mut bedeutet nicht, keine Angst zu haben, sondern trotz der Angst voranzugehen.» Dann verschwand sie, wie sie gekommen war.",
+          "kriterien": [
+            {
+              "text": "Komma nach Meer (Satzreihe).",
+              "punkte": 1
+            },
+            {
+              "text": "Komma zwischen grauen und schroffen.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma nach Mann.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma nach war (Ende Relativsatz).",
+              "punkte": 1
+            },
+            {
+              "text": "Komma nach es.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma nach «Was soll ich nur tun?»",
+              "punkte": 1
+            },
+            {
+              "text": "Komma vor um.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma nach «…finden».",
+              "punkte": 1
+            },
+            {
+              "text": "Komma nach Frau.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma nach nicht vor der satzwertigen Infinitivgruppe.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma vor sondern.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma vor wie.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 12,
+          "zeilen": 6
+        }
+      ]
+    },
+    {
+      "id": "vorlage-zeichen",
+      "titel": "Zeichensetzung - Test nach deiner Vorlage",
+      "richtzeit": 45,
+      "hinweis": "Sechs Aufgabengruppen nach der hochgeladenen Vorlage mit 28 Punkten. Umformulierte Wahr/Falsch-Aussagen und kleine Textkürzungen; Schweizer Schreibweise. Freiwillige zusätzliche Kommas vor und in Satzreihen sind erlaubt.",
+      "aufgaben": [
+        {
+          "id": "z1a",
+          "nr": "1a",
+          "typ": "mc",
+          "lernziel": "3",
+          "frage": "Bei einer Aufzählung gleichrangiger Wörter können Kommas stehen.",
+          "optionen": [
+            "Wahr",
+            "Falsch"
+          ],
+          "richtig": 0,
+          "punkte": 1
+        },
+        {
+          "id": "z1b",
+          "nr": "1b",
+          "typ": "mc",
+          "lernziel": "2",
+          "frage": "Die wörtliche Rede wird mit Anführungszeichen gekennzeichnet.",
+          "optionen": [
+            "Wahr",
+            "Falsch"
+          ],
+          "richtig": 0,
+          "punkte": 1
+        },
+        {
+          "id": "z1c",
+          "nr": "1c",
+          "typ": "mc",
+          "lernziel": "1",
+          "frage": "Ein gewöhnlicher Aussagesatz muss mit einem Ausrufezeichen enden.",
+          "optionen": [
+            "Wahr",
+            "Falsch"
+          ],
+          "richtig": 1,
+          "punkte": 1
+        },
+        {
+          "id": "z1d",
+          "nr": "1d",
+          "typ": "mc",
+          "lernziel": "6",
+          "frage": "Ein Satzgefüge besteht ausschliesslich aus zwei Hauptsätzen.",
+          "optionen": [
+            "Wahr",
+            "Falsch"
+          ],
+          "richtig": 1,
+          "punkte": 1
+        },
+        {
+          "id": "z2",
+          "nr": "2",
+          "typ": "offen",
+          "lernziel": "1",
+          "frage": "Setze Schlusszeichen und nenne die Satzart: Was hatten wir zuletzt besprochen / Wir hängen das Vogelhaus auf / Wisch bitte die Tafel sauber",
+          "musterloesung": "Was hatten wir zuletzt besprochen? (Frage) Wir hängen das Vogelhaus auf. (Aussage) Wisch bitte die Tafel sauber! oder . (Aufforderung)",
+          "kriterien": [
+            {
+              "text": "Frage mit ? und richtiger Satzart.",
+              "punkte": 1
+            },
+            {
+              "text": "Aussage mit Punkt und richtiger Satzart.",
+              "punkte": 1
+            },
+            {
+              "text": "Aufforderung mit ! oder Punkt und richtiger Satzart.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 3,
+          "zeilen": 6
+        },
+        {
+          "id": "z3",
+          "nr": "3",
+          "typ": "offen",
+          "lernziel": [
+            "5",
+            "6"
+          ],
+          "frage": "Bestimme Satzreihe/Satzgefüge und markiere alle Hauptsätze: Obwohl es geregnet hat, sind wir spazieren gegangen. Sie sang ein Lied, er spielte Gitarre.",
+          "musterloesung": "Satzgefüge: Obwohl es geregnet hat (NS), sind wir spazieren gegangen (HS). Satzreihe: Sie sang ein Lied (HS), er spielte Gitarre (HS).",
+          "kriterien": [
+            {
+              "text": "Erster Satz als Satzgefüge.",
+              "punkte": 1
+            },
+            {
+              "text": "Hauptsatz sind wir spazieren gegangen markiert.",
+              "punkte": 1
+            },
+            {
+              "text": "Zweiter Satz als Satzreihe.",
+              "punkte": 1
+            },
+            {
+              "text": "Sie sang ein Lied als HS markiert.",
+              "punkte": 1
+            },
+            {
+              "text": "er spielte Gitarre als HS markiert.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 5,
+          "zeilen": 6
+        },
+        {
+          "id": "z4",
+          "nr": "4",
+          "typ": "offen",
+          "lernziel": [
+            "5",
+            "6"
+          ],
+          "frage": "Verbinde sinnvoll mit einem Bindewort: Nina las ein Buch. Alex sah fern. / Sie verpasste den Zug. Sie kam zu spät.",
+          "musterloesung": "Zum Beispiel Nina las ein Buch, während Alex fernsah. Sie kam zu spät, weil sie den Zug verpasst hatte. Auch andere sinnvolle Verbindungen sind möglich.",
+          "kriterien": [
+            {
+              "text": "Erste Verbindung inhaltlich und grammatisch richtig.",
+              "punkte": 1
+            },
+            {
+              "text": "Zweite Verbindung inhaltlich und grammatisch richtig.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 2,
+          "zeilen": 6
+        },
+        {
+          "id": "z5",
+          "nr": "5",
+          "typ": "offen",
+          "lernziel": "2",
+          "frage": "Schreibe als wörtliche Rede mit eingeschobenem Begleitsatz: Der Lehrer informiert darüber, dass der Test um eine Woche verschoben wird.",
+          "musterloesung": "«Der Test», erklärt der Lehrer, «wird um eine Woche verschoben.»",
+          "kriterien": [
+            {
+              "text": "Inhalt der Mitteilung richtig.",
+              "punkte": 1
+            },
+            {
+              "text": "Begleitsatz eingeschoben.",
+              "punkte": 1
+            },
+            {
+              "text": "Beide Kommas korrekt.",
+              "punkte": 1
+            },
+            {
+              "text": "Anführungszeichen, Fortsetzung und Satzende korrekt.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "zeilen": 6
+        },
+        {
+          "id": "z6",
+          "nr": "6",
+          "typ": "offen",
+          "lernziel": [
+            "3",
+            "5",
+            "6",
+            "7",
+            "9"
+          ],
+          "frage": "Setze alle fehlenden Kommas. Behandle die Partizipgruppe als Zusatz.\nFrühmorgens wenn die Sonnenstrahlen das Land erreichen erwacht die Natur. Vögel die die Nacht an ihren Schlafplätzen verbracht haben beginnen zu singen. Der Nebel sich langsam vom Boden erhebend schwindet Tau glitzert auf Blättern und Blumen öffnen ihre Blüten. Die Menschen bereiten sich auf den neuen Tag vor frühstücken lesen Zeitung gehen zu ihren Arbeitsplätzen.",
+          "musterloesung": "Frühmorgens, wenn die Sonnenstrahlen das Land erreichen, erwacht die Natur. Vögel, die die Nacht an ihren Schlafplätzen verbracht haben, beginnen zu singen. Der Nebel, sich langsam vom Boden erhebend, schwindet, Tau glitzert auf Blättern und Blumen öffnen ihre Blüten. Die Menschen bereiten sich auf den neuen Tag vor, frühstücken, lesen Zeitung, gehen zu ihren Arbeitsplätzen.",
+          "kriterien": [
+            {
+              "text": "Komma nach Frühmorgens.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma nach erreichen.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma nach Vögel.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma nach haben.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma nach Nebel.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma nach erhebend.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma nach schwindet.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma nach vor.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma nach frühstücken.",
+              "punkte": 1
+            },
+            {
+              "text": "Komma nach Zeitung.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 10,
+          "zeilen": 6
+        }
+      ]
+    }
+  ],
+  "referenzen": [
+    {
+      "titel": "Amtliches Regelwerk: Nebensätze und Infinitivgruppen",
+      "url": "https://grammis.ids-mannheim.de/rechtschreibung/6203"
+    },
+    {
+      "titel": "Amtliches Regelwerk: Zusätze und Partizipgruppen",
+      "url": "https://grammis.ids-mannheim.de/rechtschreibung/6202"
+    }
+  ]
+}
