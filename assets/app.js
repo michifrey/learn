@@ -271,11 +271,17 @@ function renderHome() {
   const topics = INDEX.themen.filter((t) => topicMatches(t, p.klasse, p.stufe));
   const planned = topics.filter((t) => t.status === "geplant").length;
   const ready = topics.length - planned;
-  const byFach = new Map();
-  for (const t of topics) byFach.set(t.fach, [...(byFach.get(t.fach) ?? []), t]);
   const faecher = INDEX.faecher.filter((f) => (f.klassen ?? [1, 9]).length === 2 && p.klasse >= f.klassen[0] && p.klasse <= f.klassen[1]);
-  const withTopics = faecher.filter((f) => byFach.has(f.id));
-  const without = faecher.filter((f) => !byFach.has(f.id));
+  const fachIds = new Set(topics.map((t) => t.fach));
+  const withTopics = faecher.filter((f) => fachIds.has(f.id));
+  const without = faecher.filter((f) => !fachIds.has(f.id));
+  const countIn = (fid) => topics.filter((t) => t.fach === fid && t.status !== "geplant").length;
+
+  // Filterzustand bleibt im Browser gespeichert (Suche nicht)
+  const flt = { fach: "", stand: "alle", ansicht: "karten", geplant: false, ...store.get("homeFilter", {}), q: "" };
+  if (flt.fach && !fachIds.has(flt.fach)) flt.fach = "";
+  if (!ready) flt.geplant = true; // nur Geplantes vorhanden → trotzdem zeigen
+  const save = () => store.set("homeFilter", { fach: flt.fach, stand: flt.stand, ansicht: flt.ansicht, geplant: flt.geplant });
 
   view.innerHTML = `
     <section class="hero hero--compact">
@@ -283,11 +289,28 @@ function renderHome() {
       <h1>Was lernst du heute?</h1>
       <p class="lead">${topics.length ? `${ready} ${ready === 1 ? "Thema" : "Themen"} zum Lernen${planned ? ` · ${planned} weitere geplant` : ""}.` : "Für deine Klasse gibt es noch keine Themen."} Neues Material? <a href="#/material">So kommt es in die App.</a></p>
     </section>
-    ${withTopics.map((f) => `
-      <section class="fach" style="--h:${f.hue}">
-        <h2 class="fach__title"><span class="fach__icon">${icon(f.icon ?? f.id)}</span>${esc(f.label)}</h2>
-        <div class="topic-grid">${byFach.get(f.id).map(topicCard).join("")}</div>
-      </section>`).join("")}
+    ${topics.length ? `
+    <div class="filters" role="search">
+      <label class="search">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="f-q" type="search" placeholder="Thema suchen, z. B. Kreis, Zelle, Rabatt …" autocomplete="off" aria-label="Thema suchen">
+      </label>
+      <div class="chips chips--scroll" role="group" aria-label="Fach">
+        <button type="button" class="chip" data-fach="">Alle Fächer <span class="chip__n">${ready}</span></button>
+        ${withTopics.map((f) => `<button type="button" class="chip chip--fach" style="--h:${f.hue}" data-fach="${f.id}">${icon(f.icon ?? f.id)} ${esc(f.label)} <span class="chip__n">${countIn(f.id)}</span></button>`).join("")}
+      </div>
+      <div class="filters__row">
+        <div class="segmented" role="group" aria-label="Lernstand">
+          ${[["alle", "Alle"], ["neu", "Noch nicht begonnen"], ["angefangen", "Angefangen"]].map(([v, l]) => `<button type="button" data-stand="${v}">${l}</button>`).join("")}
+        </div>
+        ${planned ? `<label class="toggle"><input type="checkbox" id="f-geplant"> Geplante zeigen (${planned})</label>` : ""}
+        <div class="segmented filters__view" role="group" aria-label="Ansicht">
+          <button type="button" data-ansicht="karten">Karten</button>
+          <button type="button" data-ansicht="liste">Liste</button>
+        </div>
+      </div>
+    </div>` : ""}
+    <div id="home-results"></div>
     ${without.length ? `
       <section class="fach fach--empty">
         <h2 class="fach__title small">Weitere Fächer</h2>
@@ -295,6 +318,65 @@ function renderHome() {
         <p class="muted small">Noch kein Material. Lade Unterlagen hoch, dann entstehen hier Lerninhalte und Prüfungen.</p>
       </section>` : ""}
     <p class="center"><a class="link" href="#/alle">Alle Themen aller Klassen ansehen</a></p>`;
+
+  const started = (t) => {
+    const prog = getProgress(t.id);
+    return ["aufgaben", "karten", "pruefungen"].some((k) => Object.keys(prog[k] ?? {}).length > 0);
+  };
+  const hay = (t) => norm([t.titel, t.untertitel, t.kapitel, fachById(t.fach).label, ...(t.tags ?? [])].join(" "));
+
+  const draw = () => {
+    $$("[data-fach]").forEach((b) => b.classList.toggle("is-on", b.dataset.fach === flt.fach));
+    $$("[data-stand]").forEach((b) => b.setAttribute("aria-pressed", b.dataset.stand === flt.stand));
+    $$("[data-ansicht]").forEach((b) => b.setAttribute("aria-pressed", b.dataset.ansicht === flt.ansicht));
+    const terms = norm(flt.q).split(" ").filter(Boolean);
+    const list = topics.filter((t) =>
+      (!flt.fach || t.fach === flt.fach) &&
+      (flt.geplant || t.status !== "geplant") &&
+      (flt.stand === "alle" || t.status === "geplant" || (flt.stand === "angefangen") === started(t)) &&
+      terms.every((w) => hay(t).includes(w)));
+    const groups = withTopics.map((f) => [f, list.filter((t) => t.fach === f.id)]).filter(([, l]) => l.length);
+    const out = $("#home-results");
+    if (!out) return;
+    out.innerHTML = list.length
+      ? groups.map(([f, l]) => `
+        <section class="fach" style="--h:${f.hue}">
+          <h2 class="fach__title"><span class="fach__icon">${icon(f.icon ?? f.id)}</span>${esc(f.label)} <span class="fach__n">${l.length}</span></h2>
+          ${flt.ansicht === "liste"
+            ? `<div class="topic-list">${l.map(topicRow).join("")}</div>`
+            : `<div class="topic-grid">${l.map(topicCard).join("")}</div>`}
+        </section>`).join("")
+      : topics.length ? `<div class="empty card"><h2>Nichts gefunden</h2><p class="muted">Kein Thema passt zu diesen Filtern.</p><button class="btn btn--ghost" id="f-reset">Filter zurücksetzen</button></div>` : "";
+    $("#f-reset")?.addEventListener("click", () => {
+      Object.assign(flt, { fach: "", q: "", stand: "alle" });
+      if ($("#f-q")) $("#f-q").value = "";
+      save(); draw();
+    });
+  };
+
+  $("#f-q")?.addEventListener("input", (e) => { flt.q = e.target.value; draw(); });
+  $$("[data-fach]").forEach((b) => b.addEventListener("click", () => { flt.fach = flt.fach === b.dataset.fach ? "" : b.dataset.fach; save(); draw(); }));
+  $$("[data-stand]").forEach((b) => b.addEventListener("click", () => { flt.stand = b.dataset.stand; save(); draw(); }));
+  $$("[data-ansicht]").forEach((b) => b.addEventListener("click", () => { flt.ansicht = b.dataset.ansicht; save(); draw(); }));
+  const g = $("#f-geplant");
+  if (g) { g.checked = flt.geplant; g.addEventListener("change", () => { flt.geplant = g.checked; save(); draw(); }); }
+  draw();
+}
+
+function topicRow(t) {
+  const f = fachById(t.fach);
+  const cached = topicCache.get(t.id);
+  const s = cached ? topicSummary(cached) : null;
+  const pct = s && s.ueb ? Math.round((100 * s.ok) / s.ueb) : null;
+  return `
+    <a class="topic-row" href="#/t/${esc(t.id)}" style="--h:${f.hue}">
+      <span class="topic-row__icon">${icon(f.icon ?? f.id)}</span>
+      <span class="topic-row__main"><strong>${esc(t.titel)}</strong><small>${esc(t.untertitel ?? "")}</small></span>
+      ${t.status === "geplant" ? `<span class="pill">Geplant</span>` : ""}
+      ${pct ? `<span class="topic-row__pct" title="Übungen richtig">${pct} %</span>` : ""}
+      ${s?.best ? `<span class="note note--${noteClass(s.best)}" title="Beste Note">${fmtNum(s.best)}</span>` : ""}
+      ${icon("next")}
+    </a>`;
 }
 
 function topicCard(t) {
