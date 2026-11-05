@@ -102,3 +102,17 @@ Je Thema: **8 Lernziele, 9 Lernkapitel mit Lernspick, 12 Zusatzkarten, 24 Übung
 Das bisherige Pythagoras-Thema mit 37 Übungen und zwei Prüfungen bleibt als zusätzliches Thema erhalten. Steuersätze und Wechselkurse sind ausdrücklich vorgegebene Rechenbeispiele. Für Kreise wird mit der π-Taste gerechnet; Ergebnisse werden erst am Schluss gerundet.
 
 Zusätzliche Prüfung: `node tools/test_mathematik2.cjs` (Rechnungen unabhängig nachgerechnet, Korrektur positiver/falscher Eingaben, Dezimalkomma und offene Punkteraster).
+
+## Deutsch Primarschule
+
+Drei eigene Pakete zu den hochgeladenen Unterlagen: Blitzlesen für Klasse 1 und 2 (gleicher Inhalt in zwei Klassenansichten; 8 Ziele, 24 Übungen, Lernkontrolle 16 P, Dossier 12 Seiten), Deutsch Grundlagen für Klasse 2 (12 Ziele, 36 Übungen, Lernkontrolle 24 P, Dossier 14 Seiten) und direkte/indirekte Rede für Klasse 3 (8 Ziele, 24 Übungen, eigener Test 32 P und überarbeitete Klassenarbeit nach der Vorlage 45 P, Dossier 12 Seiten mit dem eigenen Test).
+
+Alle Pakete enthalten Erklärungen, Lernspick, Arbeitsblätter und Lösungen. Die Lernziele wurden selbst formuliert. Bei Blitzlesen hat Genauigkeit Vorrang vor Tempo; eine Begleitperson hört bei der Lesekontrolle zu. Die App misst keine Lesegeschwindigkeit. Indirekte Rede wird mit einfachen dass-Sätzen eingeführt; Konjunktiv ist Zusatzwissen. Die bearbeitete Klassenarbeit folgt den zehn Aufgabengruppen der Vorlage, mit neuem Gitter, gekürztem Dialog und korrigierten Lösungen. Originalsammlungen werden nicht im öffentlichen Repository veröffentlicht; ihre Dateinamen stehen in herkunft.dateien, quellen verlinkt die eigenen Dossiers.
+
+Lückentexte mit `exakt: true` prüfen Gross-/Kleinschreibung, Umlaute und Satzzeichen. Äussere Leerzeichen und Unicode-Normalform werden vereinheitlicht. Ohne Flag bleibt die bisherige tolerante Korrektur erhalten. Prüfung: `node tools/test_deutsch_primar.cjs`.
+
+## Deutsch Klasse 5 und 6
+
+Zwei weitere eigene Pakete, jeweils für Klasse 5 und Klasse 6 sichtbar, mit 12 Lernzielen, 13 Lernkapiteln, 12 Zusatzkarten, 36 Übungen, eigenem Test (48 P) und 15-seitigem Dossier. Kommas und Zeichensetzung bündelt die überlappenden Königspakete und ergänzt zwei überarbeitete Vorlagentests (25 P und 28 P) in der App. Rechtschreibung bündelt die Sammlung 2: als/wie, Apostroph, das/dass, Dehnung/Schärfung, getrennt/zusammen, Grossschreibung, im/ihm/in/ihn, seit/seid, wen/wenn, wieder/wider und Wortproben. Kommaübungen aus dieser Sammlung werden im gemeinsamen Zeichenpaket behandelt.
+
+Regelabgleich mit dem Amtlichen Regelwerk 2024 (grammis/IDS). Satzwertige Infinitivgruppen werden als Nebensätze abgetrennt; nicht erweiterte Infinitive und mehrteilige Prädikate haben Ausnahmen. Partizipgruppen sind nicht pauschal kommapflichtig. Der nachgebildete Kommatest erhält wegen des nun verlangten Kommas nach nicht vor keine Angst zu haben 25 statt 24 Punkte. Die Vorlagentests stehen in der App; die PDFs enthalten den eigenen Test. Beide Jahrgänge teilen denselben Inhalt; Kapitel zu Infinitiven und Partizipien sind anspruchsvollere Vertiefung.

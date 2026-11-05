@@ -121,6 +121,134 @@
   ],
   "themen": [
     {
+      "id": "deutsch-blitzlesen-1",
+      "fach": "deutsch",
+      "klasse": 1,
+      "stufen": [],
+      "titel": "Blitzlesen",
+      "untertitel": "Kurze Wörter sicher lesen und Texte verstehen · Klasse 1-2",
+      "datei": "themen/deutsch-blitzlesen.json",
+      "deutschPrimarPaket": "blitzlesen",
+      "lernzielBasis": "selbst-formuliert",
+      "angebot": [
+        "9 Kapitel",
+        "24 Übungen",
+        "1 Prüfung"
+      ]
+    },
+    {
+      "id": "deutsch-blitzlesen-2",
+      "fach": "deutsch",
+      "klasse": 2,
+      "stufen": [],
+      "titel": "Blitzlesen",
+      "untertitel": "Kurze Wörter sicher lesen und Texte verstehen · Klasse 1-2",
+      "datei": "themen/deutsch-blitzlesen.json",
+      "deutschPrimarPaket": "blitzlesen",
+      "lernzielBasis": "selbst-formuliert",
+      "angebot": [
+        "9 Kapitel",
+        "24 Übungen",
+        "1 Prüfung"
+      ]
+    },
+    {
+      "id": "deutsch-grundlagen-klasse2",
+      "fach": "deutsch",
+      "klasse": 2,
+      "stufen": [],
+      "titel": "Deutsch Grundlagen",
+      "untertitel": "Wiederholen und sicherer werden in der 2. Klasse",
+      "datei": "themen/deutsch-grundlagen-klasse2.json",
+      "deutschPrimarPaket": "grundlagen-klasse2",
+      "lernzielBasis": "selbst-formuliert",
+      "angebot": [
+        "13 Kapitel",
+        "36 Übungen",
+        "1 Prüfung"
+      ]
+    },
+    {
+      "id": "deutsch-direkte-indirekte-rede",
+      "fach": "deutsch",
+      "klasse": 3,
+      "stufen": [],
+      "titel": "Direkte und indirekte Rede",
+      "untertitel": "Wörtliche Rede erkennen und Satzzeichen sicher setzen",
+      "datei": "themen/deutsch-direkte-indirekte-rede.json",
+      "deutschPrimarPaket": "direkte-indirekte-rede",
+      "lernzielBasis": "selbst-formuliert",
+      "angebot": [
+        "9 Kapitel",
+        "24 Übungen",
+        "2 Prüfungen"
+      ]
+    },
+    {
+      "id": "deutsch-kommas-zeichensetzung-5",
+      "fach": "deutsch",
+      "klasse": 5,
+      "stufen": [],
+      "titel": "Kommas und Zeichensetzung",
+      "untertitel": "Regeln verstehen und sicher im Text anwenden",
+      "datei": "themen/deutsch-kommas-zeichensetzung.json",
+      "deutsch56Paket": "kommas-zeichensetzung",
+      "lernzielBasis": "selbst-formuliert",
+      "angebot": [
+        "13 Kapitel",
+        "36 Übungen",
+        "3 Prüfungen"
+      ]
+    },
+    {
+      "id": "deutsch-rechtschreibung-56-5",
+      "fach": "deutsch",
+      "klasse": 5,
+      "stufen": [],
+      "titel": "Rechtschreibung",
+      "untertitel": "Typische Zweifelsfälle verstehen und richtig schreiben",
+      "datei": "themen/deutsch-rechtschreibung-56.json",
+      "deutsch56Paket": "rechtschreibung-56",
+      "lernzielBasis": "selbst-formuliert",
+      "angebot": [
+        "13 Kapitel",
+        "36 Übungen",
+        "1 Prüfung"
+      ]
+    },
+    {
+      "id": "deutsch-kommas-zeichensetzung-6",
+      "fach": "deutsch",
+      "klasse": 6,
+      "stufen": [],
+      "titel": "Kommas und Zeichensetzung",
+      "untertitel": "Regeln verstehen und sicher im Text anwenden",
+      "datei": "themen/deutsch-kommas-zeichensetzung.json",
+      "deutsch56Paket": "kommas-zeichensetzung",
+      "lernzielBasis": "selbst-formuliert",
+      "angebot": [
+        "13 Kapitel",
+        "36 Übungen",
+        "3 Prüfungen"
+      ]
+    },
+    {
+      "id": "deutsch-rechtschreibung-56-6",
+      "fach": "deutsch",
+      "klasse": 6,
+      "stufen": [],
+      "titel": "Rechtschreibung",
+      "untertitel": "Typische Zweifelsfälle verstehen und richtig schreiben",
+      "datei": "themen/deutsch-rechtschreibung-56.json",
+      "deutsch56Paket": "rechtschreibung-56",
+      "lernzielBasis": "selbst-formuliert",
+      "angebot": [
+        "13 Kapitel",
+        "36 Übungen",
+        "1 Prüfung"
+      ]
+    },
+    {
       "id": "prisma-arbeiten-forschen",
       "fach": "bio",
       "klasse": 7,

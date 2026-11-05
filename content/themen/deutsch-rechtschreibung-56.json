@@ -1,0 +1,1619 @@
+{
+  "lernzielBasis": "selbst-formuliert",
+  "hinweis": "Eigene Lernziele und neue Aufgaben zu den hochgeladenen Unterlagen. Gemeinsames Paket für Klasse 5 und 6. Schweizer Hochdeutsch mit ss. Bei Lückentexten zählen Gross-/Kleinschreibung und Umlaute. Die verwendeten Aufgaben haben eindeutige Lösungen oder erlaubte Varianten. Eigene Lernziele; schulische Vorgaben ergänzen.",
+  "quellen": [
+    {
+      "titel": "Rechtschreibung - eigenes Lerndossier",
+      "art": "Erklärungen, Lernspick, Übungen, Test und Lösungen",
+      "seiten": 15,
+      "datei": "material/klasse-5/deutsch/rechtschreibung-56/Deutsch_rechtschreibung-56_Lerndossier.pdf"
+    }
+  ],
+  "herkunft": {
+    "dateien": [
+      "d_5-6_rechtschreibung_2_pdf_02.pdf",
+      "d_5-6_rechtschreibung_2_pdf_loesung_02.pdf"
+    ],
+    "hinweis": "Vom Nutzer bereitgestellte Unterlagen als Themenbasis. Neu formulierte Inhalte; Originaldateien werden hier nicht veröffentlicht."
+  },
+  "lernziele": [
+    {
+      "id": "1",
+      "nr": "1",
+      "gruppe": "Deutsch 5-6",
+      "kurz": "Als und wie unterscheiden",
+      "text": "Ich kann als und wie in Vergleichen richtig verwenden.",
+      "frage": "Als und wie unterscheiden - wie geht das?",
+      "antwort": "Gleichheit: so … wie. Ungleichheit nach einer Steigerung: … als. Folgt ein ganzer Nebensatz, trennst du ihn mit Komma ab."
+    },
+    {
+      "id": "2",
+      "nr": "2",
+      "gruppe": "Deutsch 5-6",
+      "kurz": "Apostrophe gezielt setzen",
+      "text": "Ich kann Apostrophe bei Namen und Auslassungen richtig setzen.",
+      "frage": "Apostrophe gezielt setzen - wie geht das?",
+      "antwort": "Normalfall: Toms Buch. Endet ein Name auf einen s-Laut, folgt im Genitiv ohne Artikel ein Apostroph: Max’ Buch. Für normale Mehrzahlen steht kein Apostroph."
+    },
+    {
+      "id": "3",
+      "nr": "3",
+      "gruppe": "Deutsch 5-6",
+      "kurz": "Das und dass mit einer Probe prüfen",
+      "text": "Ich kann das und dass unterscheiden.",
+      "frage": "Das und dass mit einer Probe prüfen - wie geht das?",
+      "antwort": "Das ist Artikel oder Pronomen. Probiere ein, dieses oder welches. Dass ist ein Bindewort und lässt sich so nicht ersetzen."
+    },
+    {
+      "id": "4",
+      "nr": "4",
+      "gruppe": "Deutsch 5-6",
+      "kurz": "Doppelkonsonanten und ck oder tz prüfen",
+      "text": "Ich kann kurze betonte Vokale beim Schreiben berücksichtigen.",
+      "frage": "Doppelkonsonanten und ck oder tz prüfen - wie geht das?",
+      "antwort": "Nach einem kurzen betonten Vokal steht bei vielen Grundwörtern ein Doppelkonsonant: rennen. Für k und z schreibt man oft ck und tz: Jacke, Katze."
+    },
+    {
+      "id": "5",
+      "nr": "5",
+      "gruppe": "Deutsch 5-6",
+      "kurz": "Lange Vokale und ie erkennen",
+      "text": "Ich kann häufige Schreibungen langer Vokale und Ausnahmen nennen.",
+      "frage": "Lange Vokale und ie erkennen - wie geht das?",
+      "antwort": "Ein langes i wird oft ie geschrieben. Einige Wörter haben nur i: Tiger, Kino, Biber. Langes Sprechen bedeutet nicht automatisch Dehnungs-h."
+    },
+    {
+      "id": "6",
+      "nr": "6",
+      "gruppe": "Deutsch 5-6",
+      "kurz": "Getrennt- und Zusammenschreibung prüfen",
+      "text": "Ich kann häufige Verbindungen richtig schreiben.",
+      "frage": "Getrennt- und Zusammenschreibung prüfen - wie geht das?",
+      "antwort": "Zwei Verben stehen meistens getrennt: spazieren gehen. Feste Verben wie teilnehmen stehen zusammen. Als Nomen schreibt man das Spazierengehen zusammen und gross."
+    },
+    {
+      "id": "7",
+      "nr": "7",
+      "gruppe": "Deutsch 5-6",
+      "kurz": "Nominalisierungen grossschreiben",
+      "text": "Ich kann nominalisierte Verben und Adjektive erkennen.",
+      "frage": "Nominalisierungen grossschreiben - wie geht das?",
+      "antwort": "Werden Verben oder Adjektive wie Nomen gebraucht, schreibt man sie gross: das Lesen, etwas Neues. Artikel und Mengenwörter sind Hinweise."
+    },
+    {
+      "id": "8",
+      "nr": "8",
+      "gruppe": "Deutsch 5-6",
+      "kurz": "Im und ihm sowie in und ihn unterscheiden",
+      "text": "Ich kann im/ihm und in/ihn passend einsetzen.",
+      "frage": "Im und ihm sowie in und ihn unterscheiden - wie geht das?",
+      "antwort": "Im bedeutet in dem. Ihm bezeichnet eine Person oder ein Tier im Dativ. In bezeichnet eine Lage oder Richtung. Ihn ersetzt eine Person, ein Tier oder ein Ding im Akkusativ."
+    },
+    {
+      "id": "9",
+      "nr": "9",
+      "gruppe": "Deutsch 5-6",
+      "kurz": "Seit und seid unterscheiden",
+      "text": "Ich kann seit und seid richtig verwenden.",
+      "frage": "Seit und seid unterscheiden - wie geht das?",
+      "antwort": "Seit zeigt einen Zeitbezug. Seid ist die Verbform zu ihr: ihr seid."
+    },
+    {
+      "id": "10",
+      "nr": "10",
+      "gruppe": "Deutsch 5-6",
+      "kurz": "Wen und wenn unterscheiden",
+      "text": "Ich kann wen und wenn passend einsetzen.",
+      "frage": "Wen und wenn unterscheiden - wie geht das?",
+      "antwort": "Wen fragt nach einer Person oder ersetzt sie im Akkusativ. Wenn leitet einen Bedingungs- oder Zeitsatz ein."
+    },
+    {
+      "id": "11",
+      "nr": "11",
+      "gruppe": "Deutsch 5-6",
+      "kurz": "Wieder und wider unterscheiden",
+      "text": "Ich kann wieder und wider nach ihrer Bedeutung unterscheiden.",
+      "frage": "Wieder und wider unterscheiden - wie geht das?",
+      "antwort": "Wieder bedeutet erneut oder zurück. Wider bedeutet gegen. Bei festen Wörtern hilft ihre Bedeutung."
+    },
+    {
+      "id": "12",
+      "nr": "12",
+      "gruppe": "Deutsch 5-6",
+      "kurz": "Mit Wortproben und Kontrolle verbessern",
+      "text": "Ich kann Rechtschreibfehler mithilfe von Proben verbessern.",
+      "frage": "Mit Wortproben und Kontrolle verbessern - wie geht das?",
+      "antwort": "Verlängere: Hund → Hunde. Leite ab: Hände → Hand. Prüfe Wortarten und feste Schreibungen, zum Beispiel Gross und Klein, aber von nah und fern."
+    }
+  ],
+  "lernen": [
+    {
+      "id": "lz-1",
+      "titel": "Als und wie unterscheiden",
+      "lernziele": [
+        "1"
+      ],
+      "intro": "Ich kann als und wie in Vergleichen richtig verwenden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Gleichheit: so … wie. Ungleichheit nach einer Steigerung: … als. Folgt ein ganzer Nebensatz, trennst du ihn mit Komma ab."
+        },
+        {
+          "t": "bild",
+          "src": "content/img/deutsch-56/rechtschreibung-56.svg",
+          "alt": "Lernbild Rechtschreibung",
+          "caption": "Eigene Lernskizze."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "so schnell wie du; schneller als du; schneller, als ich dachte."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Achte darauf, ob du gleiche oder verschiedene Ausprägungen vergleichst."
+        }
+      ]
+    },
+    {
+      "id": "lz-2",
+      "titel": "Apostrophe gezielt setzen",
+      "lernziele": [
+        "2"
+      ],
+      "intro": "Ich kann Apostrophe bei Namen und Auslassungen richtig setzen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Normalfall: Toms Buch. Endet ein Name auf einen s-Laut, folgt im Genitiv ohne Artikel ein Apostroph: Max’ Buch. Für normale Mehrzahlen steht kein Apostroph."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Leas Heft; Max’ Heft; zwei Velos."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Ein Apostroph kann ausgelassene Buchstaben zeigen: Wie geht’s? Auch Wie gehts? ist möglich."
+        }
+      ]
+    },
+    {
+      "id": "lz-3",
+      "titel": "Das und dass mit einer Probe prüfen",
+      "lernziele": [
+        "3"
+      ],
+      "intro": "Ich kann das und dass unterscheiden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Das ist Artikel oder Pronomen. Probiere ein, dieses oder welches. Dass ist ein Bindewort und lässt sich so nicht ersetzen."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Das Buch, das ich lese, ist gut. Ich weiss, dass du liest."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Nicht jedes das nach einem Komma wird zu dass."
+        }
+      ]
+    },
+    {
+      "id": "lz-4",
+      "titel": "Doppelkonsonanten und ck oder tz prüfen",
+      "lernziele": [
+        "4"
+      ],
+      "intro": "Ich kann kurze betonte Vokale beim Schreiben berücksichtigen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Nach einem kurzen betonten Vokal steht bei vielen Grundwörtern ein Doppelkonsonant: rennen. Für k und z schreibt man oft ck und tz: Jacke, Katze."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "ren-nen; Ja-cke; Kat-ze."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Nicht nach jedem kurzen Vokal verdoppeln: In Kante folgen bereits verschiedene Konsonanten."
+        }
+      ]
+    },
+    {
+      "id": "lz-5",
+      "titel": "Lange Vokale und ie erkennen",
+      "lernziele": [
+        "5"
+      ],
+      "intro": "Ich kann häufige Schreibungen langer Vokale und Ausnahmen nennen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Ein langes i wird oft ie geschrieben. Einige Wörter haben nur i: Tiger, Kino, Biber. Langes Sprechen bedeutet nicht automatisch Dehnungs-h."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Brief mit ie; Tiger mit i; Zahl mit h; Tal ohne h."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Nutze ein verwandtes Wort oder schlage nach."
+        }
+      ]
+    },
+    {
+      "id": "lz-6",
+      "titel": "Getrennt- und Zusammenschreibung prüfen",
+      "lernziele": [
+        "6"
+      ],
+      "intro": "Ich kann häufige Verbindungen richtig schreiben.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Zwei Verben stehen meistens getrennt: spazieren gehen. Feste Verben wie teilnehmen stehen zusammen. Als Nomen schreibt man das Spazierengehen zusammen und gross."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Wir gehen spazieren. Beim Spazierengehen reden wir. Sie darf teilnehmen."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Es gibt erlaubte Varianten. Im Zweifel hilft ein Wörterbuch."
+        }
+      ]
+    },
+    {
+      "id": "lz-7",
+      "titel": "Nominalisierungen grossschreiben",
+      "lernziele": [
+        "7"
+      ],
+      "intro": "Ich kann nominalisierte Verben und Adjektive erkennen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Werden Verben oder Adjektive wie Nomen gebraucht, schreibt man sie gross: das Lesen, etwas Neues. Artikel und Mengenwörter sind Hinweise."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Wir lesen. Das Lesen macht Freude. Sie erzählt etwas Spannendes."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Ein Artikel kann sich auch auf ein späteres Nomen beziehen: das spannende Buch."
+        }
+      ]
+    },
+    {
+      "id": "lz-8",
+      "titel": "Im und ihm sowie in und ihn unterscheiden",
+      "lernziele": [
+        "8"
+      ],
+      "intro": "Ich kann im/ihm und in/ihn passend einsetzen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Im bedeutet in dem. Ihm bezeichnet eine Person oder ein Tier im Dativ. In bezeichnet eine Lage oder Richtung. Ihn ersetzt eine Person, ein Tier oder ein Ding im Akkusativ."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Ich gebe ihm das Heft im Zimmer. Ich lege es in die Tasche und hole ihn ab."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Probiere bei im die Erweiterung in dem."
+        }
+      ]
+    },
+    {
+      "id": "lz-9",
+      "titel": "Seit und seid unterscheiden",
+      "lernziele": [
+        "9"
+      ],
+      "intro": "Ich kann seit und seid richtig verwenden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Seit zeigt einen Zeitbezug. Seid ist die Verbform zu ihr: ihr seid."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Seit Montag seid ihr hier."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Frage bei seit: Seit wann?"
+        }
+      ]
+    },
+    {
+      "id": "lz-10",
+      "titel": "Wen und wenn unterscheiden",
+      "lernziele": [
+        "10"
+      ],
+      "intro": "Ich kann wen und wenn passend einsetzen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Wen fragt nach einer Person oder ersetzt sie im Akkusativ. Wenn leitet einen Bedingungs- oder Zeitsatz ein."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Wen siehst du? Wenn du kommst, freue ich mich."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Bei wenn hörst du einen kurzen Vokal."
+        }
+      ]
+    },
+    {
+      "id": "lz-11",
+      "titel": "Wieder und wider unterscheiden",
+      "lernziele": [
+        "11"
+      ],
+      "intro": "Ich kann wieder und wider nach ihrer Bedeutung unterscheiden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Wieder bedeutet erneut oder zurück. Wider bedeutet gegen. Bei festen Wörtern hilft ihre Bedeutung."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "wiederkommen: zurückkommen; widersprechen: dagegen sprechen."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Nicht nur nach dem Klang entscheiden."
+        }
+      ]
+    },
+    {
+      "id": "lz-12",
+      "titel": "Mit Wortproben und Kontrolle verbessern",
+      "lernziele": [
+        "12"
+      ],
+      "intro": "Ich kann Rechtschreibfehler mithilfe von Proben verbessern.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Verlängere: Hund → Hunde. Leite ab: Hände → Hand. Prüfe Wortarten und feste Schreibungen, zum Beispiel Gross und Klein, aber von nah und fern."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "der Hund wegen Hunde; die Hände wegen Hand."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Schweizer Hochdeutsch schreibt ss statt ß. Bei offenen Aufgaben gelten passende Schweizer Schreibweisen."
+        }
+      ]
+    },
+    {
+      "id": "lernspick",
+      "titel": "Lernspick",
+      "lernziele": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "intro": "Das Wichtigste kurz zusammengefasst. Decke die Antworten ab.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Als und wie unterscheiden",
+          "text": "Gleichheit: so … wie. Ungleichheit nach einer Steigerung: … als. Folgt ein ganzer Nebensatz, trennst du ihn mit Komma ab."
+        },
+        {
+          "t": "merke",
+          "titel": "Apostrophe gezielt setzen",
+          "text": "Normalfall: Toms Buch. Endet ein Name auf einen s-Laut, folgt im Genitiv ohne Artikel ein Apostroph: Max’ Buch. Für normale Mehrzahlen steht kein Apostroph."
+        },
+        {
+          "t": "merke",
+          "titel": "Das und dass mit einer Probe prüfen",
+          "text": "Das ist Artikel oder Pronomen. Probiere ein, dieses oder welches. Dass ist ein Bindewort und lässt sich so nicht ersetzen."
+        },
+        {
+          "t": "merke",
+          "titel": "Doppelkonsonanten und ck oder tz prüfen",
+          "text": "Nach einem kurzen betonten Vokal steht bei vielen Grundwörtern ein Doppelkonsonant: rennen. Für k und z schreibt man oft ck und tz: Jacke, Katze."
+        },
+        {
+          "t": "merke",
+          "titel": "Lange Vokale und ie erkennen",
+          "text": "Ein langes i wird oft ie geschrieben. Einige Wörter haben nur i: Tiger, Kino, Biber. Langes Sprechen bedeutet nicht automatisch Dehnungs-h."
+        },
+        {
+          "t": "merke",
+          "titel": "Getrennt- und Zusammenschreibung prüfen",
+          "text": "Zwei Verben stehen meistens getrennt: spazieren gehen. Feste Verben wie teilnehmen stehen zusammen. Als Nomen schreibt man das Spazierengehen zusammen und gross."
+        },
+        {
+          "t": "merke",
+          "titel": "Nominalisierungen grossschreiben",
+          "text": "Werden Verben oder Adjektive wie Nomen gebraucht, schreibt man sie gross: das Lesen, etwas Neues. Artikel und Mengenwörter sind Hinweise."
+        },
+        {
+          "t": "merke",
+          "titel": "Im und ihm sowie in und ihn unterscheiden",
+          "text": "Im bedeutet in dem. Ihm bezeichnet eine Person oder ein Tier im Dativ. In bezeichnet eine Lage oder Richtung. Ihn ersetzt eine Person, ein Tier oder ein Ding im Akkusativ."
+        },
+        {
+          "t": "merke",
+          "titel": "Seit und seid unterscheiden",
+          "text": "Seit zeigt einen Zeitbezug. Seid ist die Verbform zu ihr: ihr seid."
+        },
+        {
+          "t": "merke",
+          "titel": "Wen und wenn unterscheiden",
+          "text": "Wen fragt nach einer Person oder ersetzt sie im Akkusativ. Wenn leitet einen Bedingungs- oder Zeitsatz ein."
+        },
+        {
+          "t": "merke",
+          "titel": "Wieder und wider unterscheiden",
+          "text": "Wieder bedeutet erneut oder zurück. Wider bedeutet gegen. Bei festen Wörtern hilft ihre Bedeutung."
+        },
+        {
+          "t": "merke",
+          "titel": "Mit Wortproben und Kontrolle verbessern",
+          "text": "Verlängere: Hund → Hunde. Leite ab: Hände → Hand. Prüfe Wortarten und feste Schreibungen, zum Beispiel Gross und Klein, aber von nah und fern."
+        }
+      ]
+    }
+  ],
+  "karten": [
+    {
+      "vorne": "als",
+      "hinten": "Vergleich bei Ungleichheit: grösser als."
+    },
+    {
+      "vorne": "wie",
+      "hinten": "Vergleich bei Gleichheit: so gross wie."
+    },
+    {
+      "vorne": "dass",
+      "hinten": "Bindewort; nicht durch dieses, jenes oder welches ersetzbar."
+    },
+    {
+      "vorne": "das",
+      "hinten": "Artikel oder Pronomen; oft mit ein, dieses oder welches austauschbar."
+    },
+    {
+      "vorne": "seit",
+      "hinten": "Zeit: seit gestern, seit zwei Wochen."
+    },
+    {
+      "vorne": "seid",
+      "hinten": "Verbform zu ihr: ihr seid."
+    },
+    {
+      "vorne": "wen",
+      "hinten": "Fragt nach einer Person im Akkusativ: Wen siehst du?"
+    },
+    {
+      "vorne": "wenn",
+      "hinten": "Bindewort für Bedingungen und Zeitbezüge."
+    },
+    {
+      "vorne": "wieder",
+      "hinten": "Erneut oder zurück."
+    },
+    {
+      "vorne": "wider",
+      "hinten": "Gegen; zum Beispiel widersprechen."
+    },
+    {
+      "vorne": "Nominalisierung",
+      "hinten": "Ein anderes Wort wird als Nomen gebraucht: das Lesen."
+    },
+    {
+      "vorne": "Wortprobe",
+      "hinten": "Verlängern, ableiten, einsetzen oder im Wörterbuch prüfen."
+    }
+  ],
+  "uebungen": [
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze als oder wie.",
+      "text": "so gross {{0}} du; grösser {{1}} du",
+      "luecken": [
+        [
+          "wie"
+        ],
+        [
+          "als"
+        ]
+      ],
+      "id": "u1-1",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Gleichheit: so … wie. Ungleichheit nach einer Steigerung: … als. Folgt ein ganzer Nebensatz, trennst du ihn mit Komma ab."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Form ist richtig?",
+      "optionen": [
+        "älter als ich",
+        "älter wie ich",
+        "so alt als ich"
+      ],
+      "richtig": 0,
+      "id": "u1-2",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Gleichheit: so … wie. Ungleichheit nach einer Steigerung: … als. Folgt ein ganzer Nebensatz, trennst du ihn mit Komma ab."
+    },
+    {
+      "id": "u1-3",
+      "typ": "offen",
+      "lernziel": "1",
+      "frage": "Ergänze: so leise ___ eine Maus; lauter ___ ich.",
+      "musterloesung": "wie; als.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "1",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Achte darauf, ob du gleiche oder verschiedene Ausprägungen vergleichst."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Mehrzahl ist richtig?",
+      "optionen": [
+        "zwei Velos",
+        "zwei Velo’s",
+        "zwei Velo`s"
+      ],
+      "richtig": 0,
+      "id": "u2-1",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "Normalfall: Toms Buch. Endet ein Name auf einen s-Laut, folgt im Genitiv ohne Artikel ein Apostroph: Max’ Buch. Für normale Mehrzahlen steht kein Apostroph."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze die Besitzform ohne Artikel.",
+      "text": "Das Heft von Tom: {{0}} Heft. Das Heft von Max: {{1}} Heft.",
+      "luecken": [
+        [
+          "Toms"
+        ],
+        [
+          "Max’",
+          "Max'"
+        ]
+      ],
+      "id": "u2-2",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "Normalfall: Toms Buch. Endet ein Name auf einen s-Laut, folgt im Genitiv ohne Artikel ein Apostroph: Max’ Buch. Für normale Mehrzahlen steht kein Apostroph."
+    },
+    {
+      "id": "u2-3",
+      "typ": "offen",
+      "lernziel": "2",
+      "frage": "Schreibe als Besitzform: das Buch von Lea; der Ball von Max.",
+      "musterloesung": "Leas Buch; Max’ Ball (gerader Apostroph ebenfalls erlaubt).",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "2",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Ein Apostroph kann ausgelassene Buchstaben zeigen: Wie geht’s? Auch Wie gehts? ist möglich."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze das oder dass.",
+      "text": "Ich hoffe, {{0}} {{1}} Buch kommt.",
+      "luecken": [
+        [
+          "dass"
+        ],
+        [
+          "das"
+        ]
+      ],
+      "id": "u3-1",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Das ist Artikel oder Pronomen. Probiere ein, dieses oder welches. Dass ist ein Bindewort und lässt sich so nicht ersetzen."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Schreibung stimmt?",
+      "optionen": [
+        "Das Heft, das ich suche, ist blau.",
+        "Das Heft, dass ich suche, ist blau.",
+        "Dass Heft ist blau."
+      ],
+      "richtig": 0,
+      "id": "u3-2",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Das ist Artikel oder Pronomen. Probiere ein, dieses oder welches. Dass ist ein Bindewort und lässt sich so nicht ersetzen."
+    },
+    {
+      "id": "u3-3",
+      "typ": "offen",
+      "lernziel": "3",
+      "frage": "Ergänze und begründe: Das Buch, ___ ich lese, zeigt, ___ Lesen spannend ist.",
+      "musterloesung": "das (welches); dass (Bindewort).",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "3",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Nicht jedes das nach einem Komma wird zu dass."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze k/ck und z/tz.",
+      "text": "Ja{{0}}e; Ka{{1}}e",
+      "luecken": [
+        [
+          "ck"
+        ],
+        [
+          "tz"
+        ]
+      ],
+      "id": "u4-1",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Nach einem kurzen betonten Vokal steht bei vielen Grundwörtern ein Doppelkonsonant: rennen. Für k und z schreibt man oft ck und tz: Jacke, Katze."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welches Wort ist richtig?",
+      "optionen": [
+        "rennen",
+        "renen",
+        "rennnen"
+      ],
+      "richtig": 0,
+      "id": "u4-2",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Nach einem kurzen betonten Vokal steht bei vielen Grundwörtern ein Doppelkonsonant: rennen. Für k und z schreibt man oft ck und tz: Jacke, Katze."
+    },
+    {
+      "id": "u4-3",
+      "typ": "offen",
+      "lernziel": "4",
+      "frage": "Ergänze: re_nen (n/nn), Ja_e (k/ck), Ka_e (z/tz).",
+      "musterloesung": "rennen; Jacke; Katze.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "4",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Nicht nach jedem kurzen Vokal verdoppeln: In Kante folgen bereits verschiedene Konsonanten."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze i oder ie.",
+      "text": "Br{{0}}f; T{{1}}ger",
+      "luecken": [
+        [
+          "ie"
+        ],
+        [
+          "i"
+        ]
+      ],
+      "id": "u5-1",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Ein langes i wird oft ie geschrieben. Einige Wörter haben nur i: Tiger, Kino, Biber. Langes Sprechen bedeutet nicht automatisch Dehnungs-h."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Schreibweise ist richtig?",
+      "optionen": [
+        "Kino",
+        "Kieno",
+        "Kihno"
+      ],
+      "richtig": 0,
+      "id": "u5-2",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Ein langes i wird oft ie geschrieben. Einige Wörter haben nur i: Tiger, Kino, Biber. Langes Sprechen bedeutet nicht automatisch Dehnungs-h."
+    },
+    {
+      "id": "u5-3",
+      "typ": "offen",
+      "lernziel": "5",
+      "frage": "Ergänze: Br_f, T_ger, B_ber.",
+      "musterloesung": "Brief; Tiger; Biber.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "5",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Nutze ein verwandtes Wort oder schlage nach."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze die verlangten Verbindungen.",
+      "text": "Wir wollen {{0}} (spazieren + gehen). Sie möchte {{1}} (teil + nehmen).",
+      "luecken": [
+        [
+          "spazieren gehen"
+        ],
+        [
+          "teilnehmen"
+        ]
+      ],
+      "id": "u6-1",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Zwei Verben stehen meistens getrennt: spazieren gehen. Feste Verben wie teilnehmen stehen zusammen. Als Nomen schreibt man das Spazierengehen zusammen und gross."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Verbindung ist richtig?",
+      "optionen": [
+        "Angst haben",
+        "Angsthaben",
+        "angsthaben"
+      ],
+      "richtig": 0,
+      "id": "u6-2",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Zwei Verben stehen meistens getrennt: spazieren gehen. Feste Verben wie teilnehmen stehen zusammen. Als Nomen schreibt man das Spazierengehen zusammen und gross."
+    },
+    {
+      "id": "u6-3",
+      "typ": "offen",
+      "lernziel": "6",
+      "frage": "Schreibe richtig: spazieren + gehen; teil + nehmen; müde + sein.",
+      "musterloesung": "spazieren gehen; teilnehmen; müde sein.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "6",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Es gibt erlaubte Varianten. Im Zweifel hilft ein Wörterbuch."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze die richtigen Formen von lesen und neu.",
+      "text": "Das {{0}} macht Spass. Ich höre etwas {{1}}.",
+      "luecken": [
+        [
+          "Lesen"
+        ],
+        [
+          "Neues"
+        ]
+      ],
+      "id": "u7-1",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Werden Verben oder Adjektive wie Nomen gebraucht, schreibt man sie gross: das Lesen, etwas Neues. Artikel und Mengenwörter sind Hinweise."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Schreibung stimmt?",
+      "optionen": [
+        "beim Spielen",
+        "beim spielen",
+        "Beim spielen (mitten im Satz)"
+      ],
+      "richtig": 0,
+      "id": "u7-2",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Werden Verben oder Adjektive wie Nomen gebraucht, schreibt man sie gross: das Lesen, etwas Neues. Artikel und Mengenwörter sind Hinweise."
+    },
+    {
+      "id": "u7-3",
+      "typ": "offen",
+      "lernziel": "7",
+      "frage": "Schreibe richtig: das (LESEN); etwas (GUTES); ein (GUTES) Buch.",
+      "musterloesung": "das Lesen; etwas Gutes; ein gutes Buch.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "7",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Ein Artikel kann sich auch auf ein späteres Nomen beziehen: das spannende Buch."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze im oder ihm.",
+      "text": "Ich helfe {{0}} {{1}} Garten.",
+      "luecken": [
+        [
+          "ihm"
+        ],
+        [
+          "im"
+        ]
+      ],
+      "id": "u8-1",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Im bedeutet in dem. Ihm bezeichnet eine Person oder ein Tier im Dativ. In bezeichnet eine Lage oder Richtung. Ihn ersetzt eine Person, ein Tier oder ein Ding im Akkusativ."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze in oder ihn.",
+      "text": "Ich sehe {{0}} {{1}} der Schule.",
+      "luecken": [
+        [
+          "ihn"
+        ],
+        [
+          "in"
+        ]
+      ],
+      "id": "u8-2",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Im bedeutet in dem. Ihm bezeichnet eine Person oder ein Tier im Dativ. In bezeichnet eine Lage oder Richtung. Ihn ersetzt eine Person, ein Tier oder ein Ding im Akkusativ."
+    },
+    {
+      "id": "u8-3",
+      "typ": "offen",
+      "lernziel": "8",
+      "frage": "Ergänze: Ich gebe ___ ___ Haus ein Buch. Ich sehe ___ ___ der Küche.",
+      "musterloesung": "ihm im; ihn in.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "8",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Probiere bei im die Erweiterung in dem."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze seit oder seid.",
+      "text": "Ihr {{0}} {{1}} gestern hier.",
+      "luecken": [
+        [
+          "seid"
+        ],
+        [
+          "seit"
+        ]
+      ],
+      "id": "u9-1",
+      "lernziel": "9",
+      "punkte": 1,
+      "erklaerung": "Seit zeigt einen Zeitbezug. Seid ist die Verbform zu ihr: ihr seid."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Schreibung stimmt?",
+      "optionen": [
+        "Seit wann seid ihr hier?",
+        "Seid wann seit ihr hier?",
+        "Seit wann seit ihr hier?"
+      ],
+      "richtig": 0,
+      "id": "u9-2",
+      "lernziel": "9",
+      "punkte": 1,
+      "erklaerung": "Seit zeigt einen Zeitbezug. Seid ist die Verbform zu ihr: ihr seid."
+    },
+    {
+      "id": "u9-3",
+      "typ": "offen",
+      "lernziel": "9",
+      "frage": "Ergänze: ___ gestern ___ ihr wieder zu Hause.",
+      "musterloesung": "Seit gestern seid ihr wieder zu Hause.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "9",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Frage bei seit: Seit wann?"
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze Wen/wen oder Wenn/wenn.",
+      "text": "{{0}} du kommst, sag mir, {{1}} du mitbringst.",
+      "luecken": [
+        [
+          "Wenn"
+        ],
+        [
+          "wen"
+        ]
+      ],
+      "id": "u10-1",
+      "lernziel": "10",
+      "punkte": 1,
+      "erklaerung": "Wen fragt nach einer Person oder ersetzt sie im Akkusativ. Wenn leitet einen Bedingungs- oder Zeitsatz ein."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Frage ist richtig?",
+      "optionen": [
+        "Wen triffst du?",
+        "Wenn triffst du?",
+        "Wen du kommst, freue ich mich."
+      ],
+      "richtig": 0,
+      "id": "u10-2",
+      "lernziel": "10",
+      "punkte": 1,
+      "erklaerung": "Wen fragt nach einer Person oder ersetzt sie im Akkusativ. Wenn leitet einen Bedingungs- oder Zeitsatz ein."
+    },
+    {
+      "id": "u10-3",
+      "typ": "offen",
+      "lernziel": "10",
+      "frage": "Ergänze: ___ fragst du, ___ du Hilfe brauchst?",
+      "musterloesung": "Wen fragst du, wenn du Hilfe brauchst?",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "10",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Bei wenn hörst du einen kurzen Vokal."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze ie oder i.",
+      "text": "w{{0}}derkommen; w{{1}}dersprechen",
+      "luecken": [
+        [
+          "ie"
+        ],
+        [
+          "i"
+        ]
+      ],
+      "id": "u11-1",
+      "lernziel": "11",
+      "punkte": 1,
+      "erklaerung": "Wieder bedeutet erneut oder zurück. Wider bedeutet gegen. Bei festen Wörtern hilft ihre Bedeutung."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne die Bedeutung zu.",
+      "paare": [
+        [
+          "wiederholen",
+          "erneut tun"
+        ],
+        [
+          "widersprechen",
+          "dagegen sprechen"
+        ],
+        [
+          "wiedergeben",
+          "zurückgeben oder darstellen"
+        ]
+      ],
+      "id": "u11-2",
+      "lernziel": "11",
+      "punkte": 1,
+      "erklaerung": "Wieder bedeutet erneut oder zurück. Wider bedeutet gegen. Bei festen Wörtern hilft ihre Bedeutung."
+    },
+    {
+      "id": "u11-3",
+      "typ": "offen",
+      "lernziel": "11",
+      "frage": "Ergänze ie oder i: w_derholen, w_dersprechen, W_derstand.",
+      "musterloesung": "wiederholen; widersprechen; Widerstand.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "11",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Nicht nur nach dem Klang entscheiden."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze den Auslaut und die Ableitung.",
+      "text": "Hun{{0}} → Hunde; H{{1}}nde → Hand",
+      "luecken": [
+        [
+          "d"
+        ],
+        [
+          "ä"
+        ]
+      ],
+      "id": "u12-1",
+      "lernziel": "12",
+      "punkte": 1,
+      "erklaerung": "Verlängere: Hund → Hunde. Leite ab: Hände → Hand. Prüfe Wortarten und feste Schreibungen, zum Beispiel Gross und Klein, aber von nah und fern."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welches Wortpaar wird hier grossgeschrieben?",
+      "optionen": [
+        "Das Fest ist für Gross und Klein.",
+        "Wir gehen von Nah und Fern los.",
+        "Wir bleiben kurz und Bündig."
+      ],
+      "richtig": 0,
+      "id": "u12-2",
+      "lernziel": "12",
+      "punkte": 1,
+      "erklaerung": "Verlängere: Hund → Hunde. Leite ab: Hände → Hand. Prüfe Wortarten und feste Schreibungen, zum Beispiel Gross und Klein, aber von nah und fern."
+    },
+    {
+      "id": "u12-3",
+      "typ": "offen",
+      "lernziel": "12",
+      "frage": "Verbessere: «der hunt hat kalte hende.» Nenne zwei Wortproben.",
+      "musterloesung": "Der Hund hat kalte Hände. Hund → Hunde; Hände → Hand.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "12",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Schweizer Hochdeutsch schreibt ss statt ß. Bei offenen Aufgaben gelten passende Schweizer Schreibweisen."
+    }
+  ],
+  "pruefungen": [
+    {
+      "id": "eigener-test",
+      "titel": "Rechtschreibung - Lernkontrolle",
+      "richtzeit": 45,
+      "hinweis": "Gemeinsames Paket für Klasse 5 und 6. Schweizer Hochdeutsch mit ss. Bei Lückentexten zählen Gross-/Kleinschreibung und Umlaute. Die verwendeten Aufgaben haben eindeutige Lösungen oder erlaubte Varianten. Eigene Lernziele; schulische Vorgaben ergänzen. Offene Aufgaben anhand der Kriterien selbst bewerten. Bei Blitzlesen hört eine Begleitperson zu; die App misst kein Lesetempo.",
+      "aufgaben": [
+        {
+          "id": "test-1",
+          "typ": "offen",
+          "lernziel": "1",
+          "frage": "Ergänze: so gross ___ Leo; grösser ___ Leo. Begründe.",
+          "musterloesung": "wie bei Gleichheit.\nals bei Ungleichheit.\nso gross als Gleichheitsvergleich erkannt.\ngrösser als Steigerung erkannt.",
+          "kriterien": [
+            {
+              "text": "wie bei Gleichheit.",
+              "punkte": 1
+            },
+            {
+              "text": "als bei Ungleichheit.",
+              "punkte": 1
+            },
+            {
+              "text": "so gross als Gleichheitsvergleich erkannt.",
+              "punkte": 1
+            },
+            {
+              "text": "grösser als Steigerung erkannt.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "1",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Als und wie unterscheiden"
+        },
+        {
+          "id": "test-2",
+          "typ": "offen",
+          "lernziel": "2",
+          "frage": "Schreibe richtig: das Heft von Tom; der Ball von Max. Begründe den Unterschied.",
+          "musterloesung": "Toms Heft.\nMax’ Ball.\nBei Tom wird s angehängt.\nMax endet auf einen s-Laut; Apostroph statt zusätzlichem s.",
+          "kriterien": [
+            {
+              "text": "Toms Heft.",
+              "punkte": 1
+            },
+            {
+              "text": "Max’ Ball.",
+              "punkte": 1
+            },
+            {
+              "text": "Bei Tom wird s angehängt.",
+              "punkte": 1
+            },
+            {
+              "text": "Max endet auf einen s-Laut; Apostroph statt zusätzlichem s.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "2",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Apostrophe gezielt setzen"
+        },
+        {
+          "id": "test-3",
+          "typ": "offen",
+          "lernziel": "3",
+          "frage": "Ergänze: Ich hoffe, ___ du ___ Heft findest, ___ ich suche. Begründe die letzte Lücke.",
+          "musterloesung": "dass nach hoffe.\ndas vor Heft.\ndas vor ich suche.\nErsetzbar durch welches / Relativpronomen.",
+          "kriterien": [
+            {
+              "text": "dass nach hoffe.",
+              "punkte": 1
+            },
+            {
+              "text": "das vor Heft.",
+              "punkte": 1
+            },
+            {
+              "text": "das vor ich suche.",
+              "punkte": 1
+            },
+            {
+              "text": "Ersetzbar durch welches / Relativpronomen.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "3",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Das und dass mit einer Probe prüfen"
+        },
+        {
+          "id": "test-4",
+          "typ": "offen",
+          "lernziel": "4",
+          "frage": "Ergänze: re_nen, Ja_e, Ka_e. Erkläre, warum Kante kein nn braucht.",
+          "musterloesung": "rennen mit nn.\nJacke mit ck.\nKatze mit tz.\nNach dem kurzen a in Kante folgen n und t, also mehrere verschiedene Konsonanten.",
+          "kriterien": [
+            {
+              "text": "rennen mit nn.",
+              "punkte": 1
+            },
+            {
+              "text": "Jacke mit ck.",
+              "punkte": 1
+            },
+            {
+              "text": "Katze mit tz.",
+              "punkte": 1
+            },
+            {
+              "text": "Nach dem kurzen a in Kante folgen n und t, also mehrere verschiedene Konsonanten.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "4",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Doppelkonsonanten und ck oder tz prüfen"
+        },
+        {
+          "id": "test-5",
+          "typ": "offen",
+          "lernziel": "5",
+          "frage": "Ergänze: Br_f, T_ger, K_no. Formuliere die Regel mit «oft».",
+          "musterloesung": "Brief mit ie.\nTiger mit i.\nKino mit i.\nLanges i wird oft, aber nicht immer ie geschrieben.",
+          "kriterien": [
+            {
+              "text": "Brief mit ie.",
+              "punkte": 1
+            },
+            {
+              "text": "Tiger mit i.",
+              "punkte": 1
+            },
+            {
+              "text": "Kino mit i.",
+              "punkte": 1
+            },
+            {
+              "text": "Langes i wird oft, aber nicht immer ie geschrieben.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "5",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Lange Vokale und ie erkennen"
+        },
+        {
+          "id": "test-6",
+          "typ": "offen",
+          "lernziel": "6",
+          "frage": "Schreibe richtig: spazieren + gehen, teil + nehmen, müde + sein. Erkläre die Schreibung von das Spazierengehen.",
+          "musterloesung": "spazieren gehen.\nteilnehmen.\nmüde sein.\nNominalisierung: Spazierengehen als Nomen gross und zusammen.",
+          "kriterien": [
+            {
+              "text": "spazieren gehen.",
+              "punkte": 1
+            },
+            {
+              "text": "teilnehmen.",
+              "punkte": 1
+            },
+            {
+              "text": "müde sein.",
+              "punkte": 1
+            },
+            {
+              "text": "Nominalisierung: Spazierengehen als Nomen gross und zusammen.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "6",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Getrennt- und Zusammenschreibung prüfen"
+        },
+        {
+          "id": "test-7",
+          "typ": "offen",
+          "lernziel": "7",
+          "frage": "Schreibe richtig: das (LESEN); etwas (NEUES); ein (NEUES) Heft. Begründe die letzte Form.",
+          "musterloesung": "das Lesen.\netwas Neues.\nein neues Heft.\nneues beschreibt Heft und ist hier keine Nominalisierung.",
+          "kriterien": [
+            {
+              "text": "das Lesen.",
+              "punkte": 1
+            },
+            {
+              "text": "etwas Neues.",
+              "punkte": 1
+            },
+            {
+              "text": "ein neues Heft.",
+              "punkte": 1
+            },
+            {
+              "text": "neues beschreibt Heft und ist hier keine Nominalisierung.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "7",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Nominalisierungen grossschreiben"
+        },
+        {
+          "id": "test-8",
+          "typ": "offen",
+          "lernziel": "8",
+          "frage": "Ergänze: Ich helfe ___ ___ Garten. Ich sehe ___ ___ der Schule.",
+          "musterloesung": "ihm im ersten Satz.\nim im ersten Satz.\nihn im zweiten Satz.\nin im zweiten Satz.",
+          "kriterien": [
+            {
+              "text": "ihm im ersten Satz.",
+              "punkte": 1
+            },
+            {
+              "text": "im im ersten Satz.",
+              "punkte": 1
+            },
+            {
+              "text": "ihn im zweiten Satz.",
+              "punkte": 1
+            },
+            {
+              "text": "in im zweiten Satz.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "8",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Im und ihm sowie in und ihn unterscheiden"
+        },
+        {
+          "id": "test-9",
+          "typ": "offen",
+          "lernziel": "9",
+          "frage": "Ergänze: Ihr ___ ___ Montag hier. Nenne zu jeder Form die passende Probe.",
+          "musterloesung": "seid nach ihr.\nseit vor Montag.\nseid als Verbform von sein.\nseit als Zeitbezug / Seit wann?",
+          "kriterien": [
+            {
+              "text": "seid nach ihr.",
+              "punkte": 1
+            },
+            {
+              "text": "seit vor Montag.",
+              "punkte": 1
+            },
+            {
+              "text": "seid als Verbform von sein.",
+              "punkte": 1
+            },
+            {
+              "text": "seit als Zeitbezug / Seit wann?",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "9",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Seit und seid unterscheiden"
+        },
+        {
+          "id": "test-10",
+          "typ": "offen",
+          "lernziel": "10",
+          "frage": "Ergänze: ___ siehst du? ___ du ihn siehst, grüsse ihn. Erkläre die beiden Wörter.",
+          "musterloesung": "Wen in der ersten Frage.\nWenn am Anfang des zweiten Satzes.\nwen fragt nach einer Person.\nwenn leitet eine Bedingung ein.",
+          "kriterien": [
+            {
+              "text": "Wen in der ersten Frage.",
+              "punkte": 1
+            },
+            {
+              "text": "Wenn am Anfang des zweiten Satzes.",
+              "punkte": 1
+            },
+            {
+              "text": "wen fragt nach einer Person.",
+              "punkte": 1
+            },
+            {
+              "text": "wenn leitet eine Bedingung ein.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "10",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Wen und wenn unterscheiden"
+        },
+        {
+          "id": "test-11",
+          "typ": "offen",
+          "lernziel": "11",
+          "frage": "Schreibe richtig: w_derholen; w_dersprechen. Erkläre beide Bedeutungen.",
+          "musterloesung": "wiederholen mit ie.\nerneut tun.\nwidersprechen mit i.\ndagegen sprechen.",
+          "kriterien": [
+            {
+              "text": "wiederholen mit ie.",
+              "punkte": 1
+            },
+            {
+              "text": "erneut tun.",
+              "punkte": 1
+            },
+            {
+              "text": "widersprechen mit i.",
+              "punkte": 1
+            },
+            {
+              "text": "dagegen sprechen.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "11",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Wieder und wider unterscheiden"
+        },
+        {
+          "id": "test-12",
+          "typ": "offen",
+          "lernziel": "12",
+          "frage": "Verbessere: «der hunt hebt die hende.» Erkläre zwei Wortproben.",
+          "musterloesung": "Der Hund hebt die Hände.\nHund mit d wegen Hunde.\nHände mit ä wegen Hand.\nSatzanfang und Nomen grossgeschrieben.",
+          "kriterien": [
+            {
+              "text": "Der Hund hebt die Hände.",
+              "punkte": 1
+            },
+            {
+              "text": "Hund mit d wegen Hunde.",
+              "punkte": 1
+            },
+            {
+              "text": "Hände mit ä wegen Hand.",
+              "punkte": 1
+            },
+            {
+              "text": "Satzanfang und Nomen grossgeschrieben.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 4,
+          "nr": "12",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Mit Wortproben und Kontrolle verbessern"
+        }
+      ]
+    }
+  ],
+  "referenzen": [
+    {
+      "titel": "Amtliches Regelwerk und Wörterverzeichnis 2024",
+      "url": "https://www.rechtschreibrat.com/DOX/RfdR_Amtliches-Regelwerk_2024.pdf"
+    }
+  ]
+}

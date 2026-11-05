@@ -737,9 +737,13 @@ function grade(a, el) {
     case "luecke": {
       const gaps = $$("[data-gap]", el);
       let good = 0;
+      // Orthography tasks must preserve case, umlauts and punctuation.
+      const normalizeGap = a.exakt
+        ? (value) => String(value ?? "").normalize("NFC").trim()
+        : norm;
       gaps.forEach((g) => {
-        const acc = a.luecken[+g.dataset.gap].map(norm);
-        const ok = acc.includes(norm(g.value));
+        const acc = a.luecken[+g.dataset.gap].map(normalizeGap);
+        const ok = acc.includes(normalizeGap(g.value));
         g.classList.toggle("is-ok", ok); g.classList.toggle("is-bad", !ok);
         if (ok) good++;
       });
@@ -1150,4 +1154,5 @@ loadIndex().then(() => {
   const pre = p ? INDEX.themen.filter((t) => topicMatches(t, p.klasse, p.stufe)) : [];
   Promise.all(pre.map((t) => loadTopic(t.id))).finally(route);
 });
+
 

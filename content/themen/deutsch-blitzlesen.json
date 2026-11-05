@@ -1,0 +1,1029 @@
+{
+  "lernzielBasis": "selbst-formuliert",
+  "hinweis": "Eigene Lernziele und neue Aufgaben zu den hochgeladenen Unterlagen. Für Klasse 1: kurze Wortübungen und Aufgaben 1-4, anfangs mit Begleitung. Für Klasse 2: auch längere Sätze und alle Textaufgaben. Die Zeit ist nur eine Orientierung; Lesetempo wird nicht benotet.",
+  "quellen": [
+    {
+      "titel": "Blitzlesen - eigenes Lerndossier",
+      "art": "Erklärungen, Lernspick, Übungen, Test und Lösungen",
+      "seiten": 12,
+      "datei": "material/klasse-2/deutsch/blitzlesen/Deutsch_blitzlesen_Lerndossier.pdf"
+    }
+  ],
+  "herkunft": {
+    "dateien": [
+      "d_1-2_blitzlesen_pdf_02.pdf",
+      "d_1-2_blitzlesen_pdf_lsg_02.pdf"
+    ],
+    "hinweis": "Vom Nutzer bereitgestellte Unterlagen als Themenbasis. Neu formulierte Inhalte; Originaldateien werden hier nicht veröffentlicht."
+  },
+  "lernziele": [
+    {
+      "id": "1",
+      "nr": "1",
+      "gruppe": "Lesen und verstehen",
+      "kurz": "Kurze Wörter genau lesen",
+      "text": "Ich kann kurze Wörter genau lesen.",
+      "frage": "Kurze Wörter genau lesen - wie geht das?",
+      "antwort": "Schau auf alle Buchstaben. Lies zuerst richtig und dann flüssiger."
+    },
+    {
+      "id": "2",
+      "nr": "2",
+      "gruppe": "Lesen und verstehen",
+      "kurz": "Ähnliche Wörter unterscheiden",
+      "text": "Ich kann ähnliche Wörter unterscheiden.",
+      "frage": "Ähnliche Wörter unterscheiden - wie geht das?",
+      "antwort": "Vergleiche Anfang, Mitte und Ende. Ein Buchstabe kann die Bedeutung ändern."
+    },
+    {
+      "id": "3",
+      "nr": "3",
+      "gruppe": "Lesen und verstehen",
+      "kurz": "Wörter im Satz finden",
+      "text": "Ich kann ein gesuchtes Wort im Satz finden.",
+      "frage": "Wörter im Satz finden - wie geht das?",
+      "antwort": "Lies die Suchfrage. Suche das Wort und lies den ganzen Satz zur Kontrolle."
+    },
+    {
+      "id": "4",
+      "nr": "4",
+      "gruppe": "Lesen und verstehen",
+      "kurz": "Wortgrenzen erkennen",
+      "text": "Ich kann Wörter in einer Wortschlange trennen.",
+      "frage": "Wortgrenzen erkennen - wie geht das?",
+      "antwort": "Lies langsam. Setze zwischen zwei Wörtern einen Strich. Prüfe, ob ein sinnvoller Satz entsteht."
+    },
+    {
+      "id": "5",
+      "nr": "5",
+      "gruppe": "Lesen und verstehen",
+      "kurz": "Ein unpassendes Wort erkennen",
+      "text": "Ich kann ein unpassendes Wort in einer Reihe erkennen.",
+      "frage": "Ein unpassendes Wort erkennen - wie geht das?",
+      "antwort": "Überlege, was die meisten Wörter gemeinsam haben. Begründe, welches nicht passt."
+    },
+    {
+      "id": "6",
+      "nr": "6",
+      "gruppe": "Lesen und verstehen",
+      "kurz": "Passende Wörter einsetzen",
+      "text": "Ich kann ein passendes Wort in eine Satzlücke einsetzen.",
+      "frage": "Passende Wörter einsetzen - wie geht das?",
+      "antwort": "Lies den Satz bis zum Ende. Wähle ein Wort, das zur Bedeutung und zur Satzform passt."
+    },
+    {
+      "id": "7",
+      "nr": "7",
+      "gruppe": "Lesen und verstehen",
+      "kurz": "Kurze Texte verstehen",
+      "text": "Ich kann Fragen zu einem kurzen Text beantworten.",
+      "frage": "Kurze Texte verstehen - wie geht das?",
+      "antwort": "Frage dich: Wer macht was und wo? Suche die Antwort im Text."
+    },
+    {
+      "id": "8",
+      "nr": "8",
+      "gruppe": "Lesen und verstehen",
+      "kurz": "Nach einer Beschreibung zeichnen",
+      "text": "Ich kann eine kurze Beschreibung in ein Bild umsetzen.",
+      "frage": "Nach einer Beschreibung zeichnen - wie geht das?",
+      "antwort": "Lies Satz für Satz. Zeichne nur, was beschrieben wird. Prüfe am Schluss alle Angaben."
+    }
+  ],
+  "lernen": [
+    {
+      "id": "lz-1",
+      "titel": "Kurze Wörter genau lesen",
+      "lernziele": [
+        "1"
+      ],
+      "intro": "Ich kann kurze Wörter genau lesen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Schau auf alle Buchstaben. Lies zuerst richtig und dann flüssiger."
+        },
+        {
+          "t": "bild",
+          "src": "content/img/deutsch-primar/blitzlesen.svg",
+          "alt": "Lernbild Blitzlesen",
+          "caption": "Eigene Lernskizze."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "aus - auf; mir - mit. Am Ende steht jeweils ein anderer Buchstabe."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Lies schwierige Wörter noch einmal langsam."
+        }
+      ]
+    },
+    {
+      "id": "lz-2",
+      "titel": "Ähnliche Wörter unterscheiden",
+      "lernziele": [
+        "2"
+      ],
+      "intro": "Ich kann ähnliche Wörter unterscheiden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Vergleiche Anfang, Mitte und Ende. Ein Buchstabe kann die Bedeutung ändern."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Haus - Maus; Hose - Rose."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Zeige mit dem Finger auf die Stelle, die anders ist."
+        }
+      ]
+    },
+    {
+      "id": "lz-3",
+      "titel": "Wörter im Satz finden",
+      "lernziele": [
+        "3"
+      ],
+      "intro": "Ich kann ein gesuchtes Wort im Satz finden.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Lies die Suchfrage. Suche das Wort und lies den ganzen Satz zur Kontrolle."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Der Hund schläft im Korb. Gesuchter Schlafplatz: Korb."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Ähnliche Wörter sind nicht immer die gesuchte Antwort."
+        }
+      ]
+    },
+    {
+      "id": "lz-4",
+      "titel": "Wortgrenzen erkennen",
+      "lernziele": [
+        "4"
+      ],
+      "intro": "Ich kann Wörter in einer Wortschlange trennen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Lies langsam. Setze zwischen zwei Wörtern einen Strich. Prüfe, ob ein sinnvoller Satz entsteht."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Wirlesen. → Wir | lesen."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Schreibe den Satz danach mit Wortabständen."
+        }
+      ]
+    },
+    {
+      "id": "lz-5",
+      "titel": "Ein unpassendes Wort erkennen",
+      "lernziele": [
+        "5"
+      ],
+      "intro": "Ich kann ein unpassendes Wort in einer Reihe erkennen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Überlege, was die meisten Wörter gemeinsam haben. Begründe, welches nicht passt."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Löffel, Gabel, Teller, Wolke: Wolke passt nicht zum Essen am Tisch."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Es kann mehr als eine gute Begründung geben. Erkläre deine Idee."
+        }
+      ]
+    },
+    {
+      "id": "lz-6",
+      "titel": "Passende Wörter einsetzen",
+      "lernziele": [
+        "6"
+      ],
+      "intro": "Ich kann ein passendes Wort in eine Satzlücke einsetzen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Lies den Satz bis zum Ende. Wähle ein Wort, das zur Bedeutung und zur Satzform passt."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Am Himmel leuchtet die Sonne."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Lies nach dem Einsetzen den fertigen Satz noch einmal."
+        }
+      ]
+    },
+    {
+      "id": "lz-7",
+      "titel": "Kurze Texte verstehen",
+      "lernziele": [
+        "7"
+      ],
+      "intro": "Ich kann Fragen zu einem kurzen Text beantworten.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Frage dich: Wer macht was und wo? Suche die Antwort im Text."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Lio malt einen roten Drachen. Er sitzt am Tisch. Was malt Lio? Einen Drachen."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Du darfst nochmals nachlesen."
+        }
+      ]
+    },
+    {
+      "id": "lz-8",
+      "titel": "Nach einer Beschreibung zeichnen",
+      "lernziele": [
+        "8"
+      ],
+      "intro": "Ich kann eine kurze Beschreibung in ein Bild umsetzen.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Merke",
+          "text": "Lies Satz für Satz. Zeichne nur, was beschrieben wird. Prüfe am Schluss alle Angaben."
+        },
+        {
+          "t": "beispiel",
+          "titel": "Zum Beispiel",
+          "zeilen": [
+            "Ein gelber Ball liegt unter dem Tisch: Ball gelb und unter dem Tisch zeichnen."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tipp: Achte besonders auf Farben, Zahlen und Lagewörter."
+        }
+      ]
+    },
+    {
+      "id": "lernspick",
+      "titel": "Lernspick",
+      "lernziele": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "intro": "Das Wichtigste kurz zusammengefasst. Decke die Antworten ab.",
+      "bloecke": [
+        {
+          "t": "merke",
+          "titel": "Kurze Wörter genau lesen",
+          "text": "Schau auf alle Buchstaben. Lies zuerst richtig und dann flüssiger."
+        },
+        {
+          "t": "merke",
+          "titel": "Ähnliche Wörter unterscheiden",
+          "text": "Vergleiche Anfang, Mitte und Ende. Ein Buchstabe kann die Bedeutung ändern."
+        },
+        {
+          "t": "merke",
+          "titel": "Wörter im Satz finden",
+          "text": "Lies die Suchfrage. Suche das Wort und lies den ganzen Satz zur Kontrolle."
+        },
+        {
+          "t": "merke",
+          "titel": "Wortgrenzen erkennen",
+          "text": "Lies langsam. Setze zwischen zwei Wörtern einen Strich. Prüfe, ob ein sinnvoller Satz entsteht."
+        },
+        {
+          "t": "merke",
+          "titel": "Ein unpassendes Wort erkennen",
+          "text": "Überlege, was die meisten Wörter gemeinsam haben. Begründe, welches nicht passt."
+        },
+        {
+          "t": "merke",
+          "titel": "Passende Wörter einsetzen",
+          "text": "Lies den Satz bis zum Ende. Wähle ein Wort, das zur Bedeutung und zur Satzform passt."
+        },
+        {
+          "t": "merke",
+          "titel": "Kurze Texte verstehen",
+          "text": "Frage dich: Wer macht was und wo? Suche die Antwort im Text."
+        },
+        {
+          "t": "merke",
+          "titel": "Nach einer Beschreibung zeichnen",
+          "text": "Lies Satz für Satz. Zeichne nur, was beschrieben wird. Prüfe am Schluss alle Angaben."
+        }
+      ]
+    }
+  ],
+  "karten": [
+    {
+      "vorne": "Genau vor schnell",
+      "hinten": "Lies richtig. Das Tempo kommt mit dem Üben."
+    },
+    {
+      "vorne": "Lesefinger",
+      "hinten": "Er hilft dir, in der richtigen Zeile zu bleiben."
+    },
+    {
+      "vorne": "Blick zurück",
+      "hinten": "Du darfst im Text nach der Antwort suchen."
+    },
+    {
+      "vorne": "Wortlücke",
+      "hinten": "Lies den ganzen Satz und prüfe, welches Wort passt."
+    },
+    {
+      "vorne": "Wortabstand",
+      "hinten": "Er trennt ein Wort vom nächsten."
+    },
+    {
+      "vorne": "Satzende",
+      "hinten": "Punkt, Fragezeichen oder Ausrufezeichen zeigen das Satzende."
+    },
+    {
+      "vorne": "Wortgruppe",
+      "hinten": "Zum Beispiel: der kleine Hund."
+    },
+    {
+      "vorne": "Textbeleg",
+      "hinten": "Die Stelle im Text, die deine Antwort zeigt."
+    },
+    {
+      "vorne": "Wortfeld",
+      "hinten": "Wörter, die inhaltlich zusammenpassen."
+    },
+    {
+      "vorne": "Lesetraining",
+      "hinten": "Kurz und regelmässig üben, mit Pausen."
+    },
+    {
+      "vorne": "Fehler verbessern",
+      "hinten": "Stoppe kurz und lies das Wort nochmals richtig."
+    },
+    {
+      "vorne": "Lesefortschritt",
+      "hinten": "Vergleiche dich mit dir selbst. Richtig lesen ist wichtiger als eine Bestzeit."
+    }
+  ],
+  "uebungen": [
+    {
+      "typ": "mc",
+      "frage": "Welches Wort endet mit f?",
+      "optionen": [
+        "auf",
+        "aus",
+        "auch"
+      ],
+      "richtig": 0,
+      "id": "u1-1",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Schau auf alle Buchstaben. Lies zuerst richtig und dann flüssiger."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Ergänze den letzten Buchstaben von «mit».",
+      "text": "mi{{0}}",
+      "luecken": [
+        [
+          "t"
+        ]
+      ],
+      "id": "u1-2",
+      "lernziel": "1",
+      "punkte": 1,
+      "erklaerung": "Schau auf alle Buchstaben. Lies zuerst richtig und dann flüssiger."
+    },
+    {
+      "id": "u1-3",
+      "typ": "offen",
+      "lernziel": "1",
+      "frage": "Lies laut: im, am, an, auf, aus, mit, mir, wir. Lass dir zwei Wörter zeigen und lies sie nochmals.",
+      "musterloesung": "Alle acht Wörter vollständig und verständlich lesen. Die gezeigten Wörter erneut erkennen.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "1",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Lies schwierige Wörter noch einmal langsam."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welches Wort steht genau so da: Hase?",
+      "optionen": [
+        "Hase",
+        "Hose",
+        "Nase"
+      ],
+      "richtig": 0,
+      "id": "u2-1",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "Vergleiche Anfang, Mitte und Ende. Ein Buchstabe kann die Bedeutung ändern."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Was unterscheidet Maus und Haus? Schreibe beide Anfangsbuchstaben.",
+      "text": "Maus: {{0}}; Haus: {{1}}",
+      "luecken": [
+        [
+          "M"
+        ],
+        [
+          "H"
+        ]
+      ],
+      "id": "u2-2",
+      "lernziel": "2",
+      "punkte": 1,
+      "erklaerung": "Vergleiche Anfang, Mitte und Ende. Ein Buchstabe kann die Bedeutung ändern."
+    },
+    {
+      "id": "u2-3",
+      "typ": "offen",
+      "lernziel": "2",
+      "frage": "Schreibe die unterschiedlichen Anfangsbuchstaben auf: Rose/Hose, Maus/Haus.",
+      "musterloesung": "R und H; M und H.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "2",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Zeige mit dem Finger auf die Stelle, die anders ist."
+    },
+    {
+      "typ": "mc",
+      "frage": "«Die Katze liegt auf dem Sofa.» Wo liegt die Katze?",
+      "optionen": [
+        "Sofa",
+        "Tisch",
+        "Korb"
+      ],
+      "richtig": 0,
+      "id": "u3-1",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Lies die Suchfrage. Suche das Wort und lies den ganzen Satz zur Kontrolle."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Lies: «Lina legt den Ball in die Kiste.» Was legt sie hinein?",
+      "text": "Sie legt den {{0}} hinein.",
+      "luecken": [
+        [
+          "Ball"
+        ]
+      ],
+      "id": "u3-2",
+      "lernziel": "3",
+      "punkte": 1,
+      "erklaerung": "Lies die Suchfrage. Suche das Wort und lies den ganzen Satz zur Kontrolle."
+    },
+    {
+      "id": "u3-3",
+      "typ": "offen",
+      "lernziel": "3",
+      "frage": "Lies: «Noah trägt den Korb zum Baum.» Schreibe auf, was er trägt und wohin er geht.",
+      "musterloesung": "Er trägt den Korb. Er geht zum Baum.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "3",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Ähnliche Wörter sind nicht immer die gesuchte Antwort."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welche Trennung ist richtig?",
+      "optionen": [
+        "Der | Hund | rennt.",
+        "Derh | und | rennt.",
+        "De | rHund | rennt."
+      ],
+      "richtig": 0,
+      "id": "u4-1",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Lies langsam. Setze zwischen zwei Wörtern einen Strich. Prüfe, ob ein sinnvoller Satz entsteht."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Wie lautet das mittlere Wort? «DieKatzeschläft.»",
+      "text": "Die | {{0}} | schläft.",
+      "luecken": [
+        [
+          "Katze"
+        ]
+      ],
+      "id": "u4-2",
+      "lernziel": "4",
+      "punkte": 1,
+      "erklaerung": "Lies langsam. Setze zwischen zwei Wörtern einen Strich. Prüfe, ob ein sinnvoller Satz entsteht."
+    },
+    {
+      "id": "u4-3",
+      "typ": "offen",
+      "lernziel": "4",
+      "frage": "Trenne mit Strichen und schreibe mit Abständen: «WirspielenimGarten.»",
+      "musterloesung": "Wir | spielen | im | Garten. → Wir spielen im Garten.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "4",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Schreibe den Satz danach mit Wortabständen."
+    },
+    {
+      "typ": "mc",
+      "frage": "Welches Wort passt nicht zu den Tieren?",
+      "optionen": [
+        "Tasse",
+        "Ente",
+        "Schaf"
+      ],
+      "richtig": 0,
+      "id": "u5-1",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Überlege, was die meisten Wörter gemeinsam haben. Begründe, welches nicht passt."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne die Wörter zu.",
+      "paare": [
+        [
+          "Hund",
+          "Tier"
+        ],
+        [
+          "Apfel",
+          "Frucht"
+        ],
+        [
+          "Socken",
+          "Kleidung"
+        ]
+      ],
+      "id": "u5-2",
+      "lernziel": "5",
+      "punkte": 1,
+      "erklaerung": "Überlege, was die meisten Wörter gemeinsam haben. Begründe, welches nicht passt."
+    },
+    {
+      "id": "u5-3",
+      "typ": "offen",
+      "lernziel": "5",
+      "frage": "Welches Wort passt nicht? «Jacke, Hose, Schal, Baum». Begründe.",
+      "musterloesung": "Baum: Die anderen Wörter bezeichnen Kleidungsstücke.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "5",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Es kann mehr als eine gute Begründung geben. Erkläre deine Idee."
+    },
+    {
+      "typ": "mc",
+      "frage": "«Der Vogel baut ein ___.» Was passt?",
+      "optionen": [
+        "Nest",
+        "Buch",
+        "Schuh"
+      ],
+      "richtig": 0,
+      "id": "u6-1",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Lies den Satz bis zum Ende. Wähle ein Wort, das zur Bedeutung und zur Satzform passt."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "Setze ein: «Im Winter fällt oft weisser ___.»",
+      "text": "Im Winter fällt oft weisser {{0}}.",
+      "luecken": [
+        [
+          "Schnee"
+        ]
+      ],
+      "id": "u6-2",
+      "lernziel": "6",
+      "punkte": 1,
+      "erklaerung": "Lies den Satz bis zum Ende. Wähle ein Wort, das zur Bedeutung und zur Satzform passt."
+    },
+    {
+      "id": "u6-3",
+      "typ": "offen",
+      "lernziel": "6",
+      "frage": "Setze «Fahrrad» oder «Suppe» ein: Ich fahre mit dem ___. Ich esse warme ___.",
+      "musterloesung": "Fahrrad; Suppe.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "6",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Lies nach dem Einsetzen den fertigen Satz noch einmal."
+    },
+    {
+      "typ": "mc",
+      "frage": "«Nina nimmt ihren Schirm. Draussen regnet es.» Warum nimmt sie den Schirm?",
+      "optionen": [
+        "Weil es regnet.",
+        "Weil die Sonne scheint.",
+        "Weil sie Hunger hat."
+      ],
+      "richtig": 0,
+      "id": "u7-1",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Frage dich: Wer macht was und wo? Suche die Antwort im Text."
+    },
+    {
+      "typ": "luecke",
+      "exakt": true,
+      "frage": "«Emil sammelt drei Steine am Bach.» Wo sammelt er?",
+      "text": "Am {{0}}.",
+      "luecken": [
+        [
+          "Bach"
+        ]
+      ],
+      "id": "u7-2",
+      "lernziel": "7",
+      "punkte": 1,
+      "erklaerung": "Frage dich: Wer macht was und wo? Suche die Antwort im Text."
+    },
+    {
+      "id": "u7-3",
+      "typ": "offen",
+      "lernziel": "7",
+      "frage": "Lies: «Ella geht mit Opa zum Teich. Sie sehen zwei Enten. Ella hat Brot für sich dabei.» Wer geht mit? Was sehen sie?",
+      "musterloesung": "Opa geht mit. Sie sehen zwei Enten.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "7",
+      "zeilen": 5,
+      "skizze": false,
+      "hilfe": "Du darfst nochmals nachlesen."
+    },
+    {
+      "typ": "mc",
+      "frage": "«Der blaue Ball liegt links vom Haus.» Welche Farbe hat der Ball?",
+      "optionen": [
+        "blau",
+        "rot",
+        "grün"
+      ],
+      "richtig": 0,
+      "id": "u8-1",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Lies Satz für Satz. Zeichne nur, was beschrieben wird. Prüfe am Schluss alle Angaben."
+    },
+    {
+      "typ": "zuordnen",
+      "frage": "Ordne die Beschreibung zu.",
+      "paare": [
+        [
+          "über dem Haus",
+          "weiter oben als das Haus"
+        ],
+        [
+          "unter dem Tisch",
+          "weiter unten als die Tischplatte"
+        ],
+        [
+          "neben dem Baum",
+          "seitlich beim Baum"
+        ]
+      ],
+      "id": "u8-2",
+      "lernziel": "8",
+      "punkte": 1,
+      "erklaerung": "Lies Satz für Satz. Zeichne nur, was beschrieben wird. Prüfe am Schluss alle Angaben."
+    },
+    {
+      "id": "u8-3",
+      "typ": "offen",
+      "lernziel": "8",
+      "frage": "Zeichne ein Haus. Links davon steht ein Baum. Rechts liegt ein roter Ball.",
+      "musterloesung": "Haus, links ein Baum, rechts ein rot gefärbter Ball.",
+      "kriterien": [
+        {
+          "text": "Inhalt, Zuordnung oder Zeichnung passt zur Aufgabe.",
+          "punkte": 1
+        },
+        {
+          "text": "Alle gefragten Teile sind vollständig und verständlich.",
+          "punkte": 1
+        }
+      ],
+      "punkte": 2,
+      "nr": "8",
+      "zeilen": 5,
+      "skizze": true,
+      "hilfe": "Achte besonders auf Farben, Zahlen und Lagewörter."
+    }
+  ],
+  "pruefungen": [
+    {
+      "id": "eigener-test",
+      "titel": "Blitzlesen - Lernkontrolle",
+      "richtzeit": 25,
+      "hinweis": "Für Klasse 1: kurze Wortübungen und Aufgaben 1-4, anfangs mit Begleitung. Für Klasse 2: auch längere Sätze und alle Textaufgaben. Die Zeit ist nur eine Orientierung; Lesetempo wird nicht benotet. Offene Aufgaben anhand der Kriterien selbst bewerten. Bei Blitzlesen hört eine Begleitperson zu; die App misst kein Lesetempo.",
+      "aufgaben": [
+        {
+          "id": "test-1",
+          "typ": "offen",
+          "lernziel": "1",
+          "frage": "Lies laut: am, im, in, mit, mir, auf, aus, wir. Eine Begleitperson hört zu.",
+          "musterloesung": "Die acht Wörter werden richtig gelesen, höchstens ein Fehler wird selbst verbessert.\nDu überspringst kein Wort und liest die Endbuchstaben hörbar.",
+          "kriterien": [
+            {
+              "text": "Die acht Wörter werden richtig gelesen, höchstens ein Fehler wird selbst verbessert.",
+              "punkte": 1
+            },
+            {
+              "text": "Du überspringst kein Wort und liest die Endbuchstaben hörbar.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 2,
+          "nr": "1",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Kurze Wörter genau lesen"
+        },
+        {
+          "id": "test-2",
+          "typ": "offen",
+          "lernziel": "2",
+          "frage": "Markiere den jeweils anderen Buchstaben: Haus/Maus und Kanne/Tanne.",
+          "musterloesung": "H und M am Anfang von Haus/Maus markiert.\nK und T am Anfang von Kanne/Tanne markiert.",
+          "kriterien": [
+            {
+              "text": "H und M am Anfang von Haus/Maus markiert.",
+              "punkte": 1
+            },
+            {
+              "text": "K und T am Anfang von Kanne/Tanne markiert.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 2,
+          "nr": "2",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Ähnliche Wörter unterscheiden"
+        },
+        {
+          "id": "test-3",
+          "typ": "offen",
+          "lernziel": "3",
+          "frage": "«Mia stellt die Tasse auf den Tisch.» Was stellt sie hin? Wohin stellt sie es?",
+          "musterloesung": "Tasse genannt.\nAuf den Tisch genannt.",
+          "kriterien": [
+            {
+              "text": "Tasse genannt.",
+              "punkte": 1
+            },
+            {
+              "text": "Auf den Tisch genannt.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 2,
+          "nr": "3",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Wörter im Satz finden"
+        },
+        {
+          "id": "test-4",
+          "typ": "offen",
+          "lernziel": "4",
+          "frage": "Trenne: «DerFischschwimmtimTeich.» Schreibe den Satz mit Abständen.",
+          "musterloesung": "Wortgrenzen: Der | Fisch | schwimmt | im | Teich.\nSatz mit richtigen Abständen geschrieben.",
+          "kriterien": [
+            {
+              "text": "Wortgrenzen: Der | Fisch | schwimmt | im | Teich.",
+              "punkte": 1
+            },
+            {
+              "text": "Satz mit richtigen Abständen geschrieben.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 2,
+          "nr": "4",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Wortgrenzen erkennen"
+        },
+        {
+          "id": "test-5",
+          "typ": "offen",
+          "lernziel": "5",
+          "frage": "Welches Wort passt nicht? «Bus, Zug, Tram, Käse». Begründe.",
+          "musterloesung": "Käse als unpassend genannt.\nBegründung: Die übrigen sind Verkehrsmittel.",
+          "kriterien": [
+            {
+              "text": "Käse als unpassend genannt.",
+              "punkte": 1
+            },
+            {
+              "text": "Begründung: Die übrigen sind Verkehrsmittel.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 2,
+          "nr": "5",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Ein unpassendes Wort erkennen"
+        },
+        {
+          "id": "test-6",
+          "typ": "offen",
+          "lernziel": "6",
+          "frage": "Setze «Buch» und «Ball» passend ein: Ich lese ein ___. Ich werfe den ___.",
+          "musterloesung": "Buch in der ersten Lücke.\nBall in der zweiten Lücke.",
+          "kriterien": [
+            {
+              "text": "Buch in der ersten Lücke.",
+              "punkte": 1
+            },
+            {
+              "text": "Ball in der zweiten Lücke.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 2,
+          "nr": "6",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Passende Wörter einsetzen"
+        },
+        {
+          "id": "test-7",
+          "typ": "offen",
+          "lernziel": "7",
+          "frage": "«Ben geht mit Oma in den Park. Er nimmt einen roten Ball mit. Unter der Bank liegt eine Feder.» Wer begleitet Ben? Welche Farbe hat der Ball?",
+          "musterloesung": "Oma genannt.\nRot genannt.",
+          "kriterien": [
+            {
+              "text": "Oma genannt.",
+              "punkte": 1
+            },
+            {
+              "text": "Rot genannt.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 2,
+          "nr": "7",
+          "zeilen": 5,
+          "skizze": false,
+          "titel": "Kurze Texte verstehen"
+        },
+        {
+          "id": "test-8",
+          "typ": "offen",
+          "lernziel": "8",
+          "frage": "Zeichne ein Haus mit einer roten Tür. Links vom Haus steht ein Baum.",
+          "musterloesung": "Haus mit rot gefärbter Tür.\nBaum links vom Haus.",
+          "kriterien": [
+            {
+              "text": "Haus mit rot gefärbter Tür.",
+              "punkte": 1
+            },
+            {
+              "text": "Baum links vom Haus.",
+              "punkte": 1
+            }
+          ],
+          "punkte": 2,
+          "nr": "8",
+          "zeilen": 5,
+          "skizze": true,
+          "titel": "Nach einer Beschreibung zeichnen"
+        }
+      ]
+    }
+  ]
+}
